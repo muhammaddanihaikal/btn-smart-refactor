@@ -1,0 +1,20 @@
+NO TEST CASE : 36.7
+JUDUL        : Mencari data detail cabang dengan keyword valid
+MODUL        : Sales Tracking Activity
+SUB MENU     : Dashboard Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon panah pada card cabang.
+2. Input keyword valid pada field Search.
+3. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup detail cabang.
+2. Berhasil menginput keyword valid.
+3. Berhasil menampilkan data yang dicari.

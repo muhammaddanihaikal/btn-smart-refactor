@@ -1,0 +1,22 @@
+NO TEST CASE : 41.9
+JUDUL        : Menerapkan jadwal ke beberapa hari secara sekaligus (Terapkan ke Semua)
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add Work Pattern.
+2. Isi status, Clock In, dan Clock Out pada header Set Working Schedule.
+3. Centang beberapa checkbox hari.
+4. Klik button Terapkan ke Semua.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Work Pattern.
+2. Berhasil mengisi jadwal pada header.
+3. Berhasil memilih beberapa hari.
+4. Berhasil menerapkan jadwal yang diinput ke seluruh hari yang dicentang secara bersamaan.

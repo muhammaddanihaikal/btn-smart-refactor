@@ -1,0 +1,22 @@
+NO TEST CASE : 45.18
+JUDUL        : Menambahkan data pipeline ETB
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button +add pipeline NTB
+2. input cif dan monir rekening kemudian klik button check cif 
+3. kemudian input data dengan mengisi (Apakah nasabah ini nasabah lembaga?, produk, segment, potensi, tanggal komitmen masuk, profile nasabah,  sumber dana, dan sektor masuk)
+4. klik button submit pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan data pipeline NTB
+2. Berhasil get data cif dan no rekening
+3. Berhasil menginput data 
+4. Pipeline berhasil di submit

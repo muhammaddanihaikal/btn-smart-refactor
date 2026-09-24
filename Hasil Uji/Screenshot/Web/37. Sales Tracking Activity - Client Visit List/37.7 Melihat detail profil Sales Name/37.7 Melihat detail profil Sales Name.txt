@@ -1,0 +1,16 @@
+NO TEST CASE : 37.7
+JUDUL        : Melihat detail profil Sales Name
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik nama Sales pada kolom Sales Name.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman detail profil Sales.

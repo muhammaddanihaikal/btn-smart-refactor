@@ -1,0 +1,26 @@
+NO TEST CASE : 29.9
+JUDUL        : Melakukan aktifitas marketing open account
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Input Data NOA Open Account.
+2. Input nomor rekening.
+3. Pilih tanggal dana masuk.
+4. Pilih apakah nasabah sudah mengaktifkan Mbanking.
+5. Input remark.
+6. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman input data NOA Open Account.
+2. Berhasil menginput nomor rekening.
+3. Berhasil memilih tanggal dana masuk.
+4. Berhasil memilih apakah nasabah sudah mengaktifkan mbanking atau belum.
+5. Berhasil menginput remark.
+6. Berhasil menyimpan data NOA Open Account, menampilkan popup 'berhasil melakukan input data open account sukses' dan status prospek atau staging berubah menjadi Pembukaan.

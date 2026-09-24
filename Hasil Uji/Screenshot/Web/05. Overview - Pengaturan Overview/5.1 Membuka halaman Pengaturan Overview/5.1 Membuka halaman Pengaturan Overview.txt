@@ -1,0 +1,18 @@
+NO TEST CASE : 5.1
+JUDUL        : Membuka halaman Pengaturan Overview
+MODUL        : Overview
+SUB MENU     : Pengaturan Overview
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Overview.
+2. Klik sub menu Pengaturan Overview.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Overview.
+2. Berhasil menampilkan halaman Pengaturan Overview.

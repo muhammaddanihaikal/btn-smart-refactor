@@ -1,0 +1,13 @@
+NO TEST CASE : 11.17
+JUDUL        : Mengisi form Step 2 (Data Lembaga) tanpa field mandatory
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengosongkan field Nama Perusahaan dan Telepon Perusahaan - Klik button Next
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan validasi bahwa field Nama Perusahaan dan Telepon Perusahaan wajib diisi.

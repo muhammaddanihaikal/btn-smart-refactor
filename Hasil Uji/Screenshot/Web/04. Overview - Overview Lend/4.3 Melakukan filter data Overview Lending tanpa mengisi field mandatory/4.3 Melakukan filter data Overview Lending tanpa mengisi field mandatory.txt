@@ -1,0 +1,18 @@
+NO TEST CASE : 4.3
+JUDUL        : Melakukan filter data Overview Lending tanpa mengisi field mandatory
+MODUL        : Overview
+SUB MENU     : Overview Lend
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan field mandatory pada filter.
+2. Klik tombol Cari/Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field mandatory.
+2. Tampil pesan peringatan bahwa field mandatory wajib diisi.

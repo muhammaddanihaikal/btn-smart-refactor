@@ -1,0 +1,17 @@
+NO TEST CASE : 2.18
+JUDUL        : Mengaktifkan MFA menggunakan metode email OTP dengan mengirim ulang kode OTP
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik metode email OTP 
+2. Klik button kirim ulang kode OTP input kode yang terkirim ulang  verifikasi dan aktifkan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup setup email OTP
+2. berhasil mengaktifkan MFA menggunakan kode yang dikirim ulang

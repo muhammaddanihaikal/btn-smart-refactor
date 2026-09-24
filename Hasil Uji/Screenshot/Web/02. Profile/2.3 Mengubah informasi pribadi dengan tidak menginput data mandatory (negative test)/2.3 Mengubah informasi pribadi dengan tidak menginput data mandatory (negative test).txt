@@ -1,0 +1,17 @@
+NO TEST CASE : 2.3
+JUDUL        : Mengubah informasi pribadi dengan tidak menginput data mandatory (negative test)
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button edit 
+2. hapus data mandatory kemudian klik button simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Membuka field yang bisa di edit
+2. Menampilkan alert mandatory/wajib diisi

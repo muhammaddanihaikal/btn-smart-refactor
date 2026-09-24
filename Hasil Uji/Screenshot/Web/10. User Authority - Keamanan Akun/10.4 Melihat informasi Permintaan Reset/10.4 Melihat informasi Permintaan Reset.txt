@@ -1,0 +1,16 @@
+NO TEST CASE : 10.4
+JUDUL        : Melihat informasi Permintaan Reset
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lihat card Permintaan Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan jumlah permintaan reset MFA.

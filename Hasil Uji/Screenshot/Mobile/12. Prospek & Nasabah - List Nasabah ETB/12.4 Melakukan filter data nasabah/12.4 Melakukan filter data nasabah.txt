@@ -1,0 +1,13 @@
+NO TEST CASE : 12.4
+JUDUL        : Melakukan filter data nasabah
+MODUL        : Prospek & Nasabah - List Nasabah ETB
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Filter di halaman List Nasabah ETB - Pilih kriteria filter pada form Filter - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan daftar nasabah yang sesuai dengan kriteria filter.

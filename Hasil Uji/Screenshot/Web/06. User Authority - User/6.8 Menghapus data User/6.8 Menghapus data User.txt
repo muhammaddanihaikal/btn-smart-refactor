@@ -1,0 +1,20 @@
+NO TEST CASE : 6.8
+JUDUL        : Menghapus data User
+MODUL        : User Authority
+SUB MENU     : User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih salah satu data user.
+2. Klik button Hapus 1 data.
+3. Klik button Yes.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih data user.
+2. Berhasil menampilkan popup konfirmasi hapus data.
+3. Berhasil menghapus data user.

@@ -1,0 +1,18 @@
+NO TEST CASE : 39.5
+JUDUL        : Mereset filter Rekap Monthly Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Monthly Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Klik button Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka panel Filter.
+2. Berhasil mereset filter dan menampilkan seluruh data Rekap Monthly Visit.

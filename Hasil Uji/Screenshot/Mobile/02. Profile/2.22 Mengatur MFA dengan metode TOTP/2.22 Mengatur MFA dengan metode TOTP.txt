@@ -1,0 +1,13 @@
+NO TEST CASE : 2.22
+JUDUL        : Mengatur MFA dengan metode TOTP
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Atur MFA - Klik pilihan TOTP (Recommended) - Input password pada popup Masukkan Password - Klik button OK
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil memvalidasi password dan diarahkan ke halaman instruksi setup TOTP / scan QR.

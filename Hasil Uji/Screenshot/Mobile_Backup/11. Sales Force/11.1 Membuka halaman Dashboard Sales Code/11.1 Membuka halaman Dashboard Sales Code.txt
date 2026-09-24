@@ -1,0 +1,18 @@
+NO TEST CASE : 11.1
+JUDUL        : Membuka halaman Dashboard Sales Code
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka menu Lainnya.
+2. Klik menu Dashboard Sales Code.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Dashboard Sales Code.

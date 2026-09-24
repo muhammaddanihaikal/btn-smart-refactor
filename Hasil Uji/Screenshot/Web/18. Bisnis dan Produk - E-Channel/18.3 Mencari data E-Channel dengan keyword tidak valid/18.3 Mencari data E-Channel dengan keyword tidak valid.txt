@@ -1,0 +1,18 @@
+NO TEST CASE : 18.3
+JUDUL        : Mencari data E-Channel dengan keyword tidak valid
+MODUL        : Bisnis dan Produk
+SUB MENU     : E-Channel
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword tidak valid pada field Cari Data.
+2. Klik button Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Menampilkan data kosong.

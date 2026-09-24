@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Fitur Search Daftar Akun Hanya Berfungsi untuk Kolom Nama Pengguna
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Kolom pencarian pada tab Daftar Akun hanya membaca dan memfilter data berdasarkan kolom **Nama Pengguna**. Pencarian menggunakan nilai kolom lain (seperti Email, Kantor Wilayah, Kantor Cabang, Outlet, Job Title, dll) belum berfungsi.
+> * **Expected**: Field search dapat memfilter data secara fleksibel berdasarkan seluruh kolom yang tersedia pada tab Daftar Akun.
+> * **Actual**: Pencarian hanya merespons kata kunci dari kolom Nama Pengguna, sedangkan kolom lainnya diabaikan (*tidak terfilter*).
+> * **Evidence**:
+>   * [https://files.catbox.moe/plm47j.png](https://files.catbox.moe/plm47j.png)

@@ -1,0 +1,19 @@
+NO TEST CASE : 2.4
+JUDUL        : Mengubah data Informasi Pribadi
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Informasi Pribadi.
+2. Ubah data pada field yang dapat diedit (misal: No. Telepon, Alamat).
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Halaman Informasi Pribadi ditampilkan.
+2. Berhasil menginput perubahan data pada field.
+3. Berhasil menyimpan perubahan dan menampilkan notifikasi sukses.

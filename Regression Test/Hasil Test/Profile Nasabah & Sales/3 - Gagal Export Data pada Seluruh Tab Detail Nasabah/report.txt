@@ -1,0 +1,11 @@
+🐞 [BUG] | Profile Nasabah & Sales - Nasabah Perorangan: Gagal Export Data pada Seluruh Tab Detail Nasabah
+
+> * **Menu**: Profile Nasabah & Sales → Nasabah Perorangan
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Saat user membuka halaman Detail Nasabah lalu menekan tombol **Export Data** pada seluruh tab yang tersedia (**Produk**, **Aktivitas Sales**, dan **Daftar Rekening**), sistem gagal memproses request dan memunculkan pop-up / alert error *"Whoops, looks like something went wrong"* serta notifikasi *"Error Log Available"*. File hasil export tidak berhasil diunduh pada ketiga tab tersebut.
+> * **Expected**: Sistem berhasil memproses request export data nasabah pada masing-masing tab (Produk, Aktivitas Sales, dan Daftar Rekening) dan mengunduh file tanpa memunculkan error server (Error 500).
+> * **Actual**: Tombol Export Data pada ketiga tab (Produk, Aktivitas Sales, Daftar Rekening) seluruhnya memicu pop-up error *"Whoops, looks like something went wrong"* (Internal Server Error) dan file tidak ter-download.
+> * **Evidence**:
+>   * Tab Produk: [https://files.catbox.moe/kxqu6g.png](https://files.catbox.moe/kxqu6g.png)
+>   * Tab Aktivitas Sales: [https://files.catbox.moe/7rkzwh.png](https://files.catbox.moe/7rkzwh.png)
+>   * Tab Daftar Rekening: [https://files.catbox.moe/m5qru6.png](https://files.catbox.moe/m5qru6.png)

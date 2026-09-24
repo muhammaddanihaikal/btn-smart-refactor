@@ -1,0 +1,16 @@
+NO TEST CASE : 27.4
+JUDUL        : Menginput nomor telepon kurang dari 10 digit
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nomor telepon kurang dari 10 digit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi 'Panjang nomor telepon minimal 10 digit angka'

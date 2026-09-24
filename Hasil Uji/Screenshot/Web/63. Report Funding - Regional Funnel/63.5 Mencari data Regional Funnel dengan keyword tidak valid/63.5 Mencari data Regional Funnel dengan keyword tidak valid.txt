@@ -1,0 +1,18 @@
+NO TEST CASE : 63.5
+JUDUL        : Mencari data Regional Funnel dengan keyword tidak valid
+MODUL        : Report Funding
+SUB MENU     : Regional Funnel
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field Cari Data dengan keyword tidak valid.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Cari Data.
+2. Berhasil menampilkan informasi bahwa data tidak ditemukan.

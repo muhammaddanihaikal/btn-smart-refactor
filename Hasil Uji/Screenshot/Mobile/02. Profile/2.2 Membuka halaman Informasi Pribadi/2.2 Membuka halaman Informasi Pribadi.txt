@@ -1,0 +1,13 @@
+NO TEST CASE : 2.2
+JUDUL        : Membuka halaman Informasi Pribadi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Profile pada navigasi bawah - Klik sub menu Informasi Pribadi pada bagian Akun
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka sub menu Informasi Pribadi dan menampilkan form Informasi Pribadi.

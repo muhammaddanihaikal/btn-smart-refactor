@@ -1,0 +1,20 @@
+NO TEST CASE : 40.5
+JUDUL        : Menambahkan data Attendance Spot tanpa mengisi field mandatory
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add New Location.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Attendance Spot.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

@@ -1,0 +1,17 @@
+NO TEST CASE : 2.17
+JUDUL        : Mangaktifkan MFA menggunakan metode email OTP
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik metode email OTP 
+2. Masukan kode Verifikasi yang sudah dikirim ke email user yang terdaftar pada BTN Smart verifikasi dan aktifkan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup setup email OTP
+2. Berhasil mengaktifkan MFA menggunakan metode email OTP dan mendapatkan kode Cadangan

@@ -1,0 +1,16 @@
+NO TEST CASE : 71.7
+JUDUL        : Validasi data yang sudah dii pilih
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek pada halaman pindah kelolaan, data tabel nya berisi prospek yang di pilih
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data tabel prospek yang di pilih saja

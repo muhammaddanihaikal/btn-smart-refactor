@@ -1,0 +1,24 @@
+NO TEST CASE : 29.6
+JUDUL        : Mengubah data prospek
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga 
+2. Klik Aktifitas Marketing
+3. Klik salah satu data yang ada pada section registered (Input data nasabah, data pribadi,Pekerjaan dan produk)
+4. Ubah data 
+5. Klik button Simpan atau Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan action detail prospek dan aktifitas marketing
+2. Menampilkan halaman aktifitas marketing
+3. Berhasil menampilkan halaman data nasabah
+4. Dapat mengubah data nasabah
+5. Berhasil menyimpan perubahan data nasabah

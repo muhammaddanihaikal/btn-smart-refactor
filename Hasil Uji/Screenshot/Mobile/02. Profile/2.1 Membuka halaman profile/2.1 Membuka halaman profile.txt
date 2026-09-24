@@ -1,0 +1,13 @@
+NO TEST CASE : 2.1
+JUDUL        : Membuka halaman profile
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon profile pada pojok kanan bawah halaman
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan halaman profile

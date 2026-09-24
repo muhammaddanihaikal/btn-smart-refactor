@@ -1,0 +1,18 @@
+NO TEST CASE : 8.28
+JUDUL        : Mengisi form Step 2 (Data Pribadi) dengan data valid
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi seluruh field pada Step 2 Data Pribadi dengan data valid.
+2. Klik button Next.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi data pada Step 2 Data Pribadi.
+2. Berhasil menyimpan data Step 2 dan berpindah ke Step 3 Pekerjaan.

@@ -1,0 +1,16 @@
+NO TEST CASE : 24.46
+JUDUL        : Menginput email tanpa spesial karakter
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input password tanpa special character
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Indikator One special character tidak terpenuhi dan button Save Password tetap disabled

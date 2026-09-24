@@ -1,0 +1,21 @@
+NO TEST CASE : 2.15
+JUDUL        : Mengubah data Kata Sandi
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input Kata Sandi Lama dengan valid.
+2. Input Kata Sandi Baru yang memenuhi kriteria.
+3. Input Konfirmasi Kata Sandi Baru.
+4. Klik button Simpan Kata Sandi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kata sandi lama.
+2. Berhasil menginput kata sandi baru dan semua indikator kriteria terceklis hijau.
+3. Berhasil menginput konfirmasi kata sandi baru yang sesuai.
+4. Berhasil mengubah kata sandi dan menampilkan notifikasi sukses.

@@ -1,0 +1,13 @@
+NO TEST CASE : 2.4
+JUDUL        : Mengubah data Informasi Pribadi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Informasi Pribadi - Ubah data pada field yang dapat diedit (misal: No. Telepon, Alamat) - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan perubahan dan menampilkan notifikasi sukses.

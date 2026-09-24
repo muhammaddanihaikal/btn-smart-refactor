@@ -1,0 +1,16 @@
+NO TEST CASE : 43.13
+JUDUL        : Membuka tab sales people not assign
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab sales people not assign
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list data sales yang belum memiliki sales code

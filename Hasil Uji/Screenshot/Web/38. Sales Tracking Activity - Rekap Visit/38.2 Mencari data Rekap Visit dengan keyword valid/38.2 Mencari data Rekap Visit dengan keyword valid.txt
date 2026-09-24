@@ -1,0 +1,18 @@
+NO TEST CASE : 38.2
+JUDUL        : Mencari data Rekap Visit dengan keyword valid
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword valid pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword valid pada field Search.
+2. Berhasil menampilkan data Rekap Visit sesuai keyword.

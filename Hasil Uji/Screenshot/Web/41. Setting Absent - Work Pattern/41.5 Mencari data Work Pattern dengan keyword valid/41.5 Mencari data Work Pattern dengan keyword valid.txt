@@ -1,0 +1,18 @@
+NO TEST CASE : 41.5
+JUDUL        : Mencari data Work Pattern dengan keyword valid
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai keyword.

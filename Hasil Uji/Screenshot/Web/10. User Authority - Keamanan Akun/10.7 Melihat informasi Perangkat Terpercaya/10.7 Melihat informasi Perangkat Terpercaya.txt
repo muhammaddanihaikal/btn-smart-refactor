@@ -1,0 +1,16 @@
+NO TEST CASE : 10.7
+JUDUL        : Melihat informasi Perangkat Terpercaya
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lihat card Perangkat Terpercaya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan persentase perangkat terpercaya.

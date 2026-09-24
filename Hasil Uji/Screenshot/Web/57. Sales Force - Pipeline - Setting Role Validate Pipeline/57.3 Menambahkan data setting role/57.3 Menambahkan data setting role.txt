@@ -1,0 +1,20 @@
+NO TEST CASE : 57.3
+JUDUL        : Menambahkan data setting role
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Role Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button +tambah 
+2. Input data dengan memilih (Tipe organisasi, role dan paret role)
+3. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan tambah setting role validate pipeline
+2. Data berhasil diinput
+3. Berhasil menambahkan data setting role validate

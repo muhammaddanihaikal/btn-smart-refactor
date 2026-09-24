@@ -1,0 +1,16 @@
+NO TEST CASE : 44.37
+JUDUL        : Membuka detail Chart pipeline data kantor cabang
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (Tanda Panah)  pada Chart pipeline data kantor cabang
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail pipeline data kantor cabang

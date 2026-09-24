@@ -1,0 +1,28 @@
+NO TEST CASE : 71.11
+JUDUL        : Melakukan Re-assign prospek semua data
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reassign semua data 
+2. Klik button Yes 
+3. Pilih kantor wilayah
+4. Pilih kantor cabang 
+5. Pilih kantor cabang pembantu 
+6. Pilih sales
+7. Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi 
+2. Menampilkan halaman pindah kelolaan 
+3. Menampilkan dropdown list data kantor wilayah dan dapat di pilih 
+4. Menampilkan dropdown list data kantor cabang sesuai dengan kantor wilayah dan dapat di pilih 
+5. Menampilkan dropdown list data kantor cabang pembantu sesuai dengan kantor cabangnya dan dapat di pilih 
+6. Menampilkan dropdown list data sales sesuai dengan data kantor dan dapat di pilih 
+7. Berhasil melakukan re-assign prospek ke sales yang di pilih dan menampilkan popup 'Berhasil melakukan Re-assign Prospek' kemudian data tabel sudah kosong / tidak ada data re-assign prospek

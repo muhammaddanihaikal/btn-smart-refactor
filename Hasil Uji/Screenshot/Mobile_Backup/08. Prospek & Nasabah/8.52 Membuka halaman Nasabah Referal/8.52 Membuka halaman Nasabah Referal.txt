@@ -1,0 +1,18 @@
+NO TEST CASE : 8.52
+JUDUL        : Membuka halaman Nasabah Referal
+MODUL        : Prospek & Nasabah
+SUB MENU     : Nasabah Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka menu Lainnya.
+2. Klik menu Nasabah Referal.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Nasabah Referal.

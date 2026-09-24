@@ -1,0 +1,16 @@
+NO TEST CASE : 30.10
+JUDUL        : Melihat detail tab Prospek yang direferalkan ke saya
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Detail pada salah satu data.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan detail prospek.

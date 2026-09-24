@@ -1,0 +1,9 @@
+🐞 [BUG] | Login: Bypass Cooldown OTP Saat Melakukan Login Ulang
+
+> * **Menu**: Login
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: User bisa memicu kirim kode OTP baru dengan login ulang meski timer cooldown sebelumnya (2 menit) masih berjalan.
+> * **Expected**: Cooldown OTP tersimpan di sisi backend sehingga login ulang tidak bisa kirim OTP baru sebelum waktu cooldown habis.
+> * **Actual**: Login ulang langsung mengirimkan OTP baru dan me-reset timer cooldown.
+> * **Evidence**:
+>   * [https://files.catbox.moe/hawwr9.png](https://files.catbox.moe/hawwr9.png)

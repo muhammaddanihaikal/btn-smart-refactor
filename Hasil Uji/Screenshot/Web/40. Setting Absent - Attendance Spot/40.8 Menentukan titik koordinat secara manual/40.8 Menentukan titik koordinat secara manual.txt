@@ -1,0 +1,22 @@
+NO TEST CASE : 40.8
+JUDUL        : Menentukan titik koordinat secara manual
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add New Location.
+2. Klik icon pengaturan koordinat pada peta.
+3. Input titik koordinat Latitude dan Longitude.
+4. Klik button Set Location.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Attendance Spot.
+2. Berhasil menampilkan popup Set Coordinates.
+3. Berhasil menginput titik koordinat.
+4. Berhasil peta berhasil diposisikan sesuai titik koordinat yang diinput.

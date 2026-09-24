@@ -1,0 +1,20 @@
+NO TEST CASE : 13.9
+JUDUL        : Menghapus data Unit Bisnis
+MODUL        : Bisnis dan Produk
+SUB MENU     : Unit Bisnis
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik action menu titik tiga.
+2. Klik button Hapus.
+3. Klik button Ya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan action menu.
+2. Berhasil menampilkan popup konfirmasi.
+3. Berhasil menghapus unit bisnis.

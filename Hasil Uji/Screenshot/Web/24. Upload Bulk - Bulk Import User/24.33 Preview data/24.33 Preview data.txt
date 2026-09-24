@@ -1,0 +1,18 @@
+NO TEST CASE : 24.33
+JUDUL        : Preview data
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Action titik tiga 
+2. Klik button Preview Data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action 
+2. Menampilkan modal Preview data yang sesuai

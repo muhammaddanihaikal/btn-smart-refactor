@@ -1,0 +1,13 @@
+NO TEST CASE : 17.7
+JUDUL        : Melihat detail Eligible Upgrade to Prospera/Prioritas
+MODUL        : Sales Force - Dashboard Sales Code
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon expand pada card Eligible Upgrade to Prospera/Prioritas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan detail Eligible Upgrade to Prospera & Prioritas.

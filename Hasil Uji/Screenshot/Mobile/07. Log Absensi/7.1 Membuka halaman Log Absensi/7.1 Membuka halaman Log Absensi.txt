@@ -1,0 +1,13 @@
+NO TEST CASE : 7.1
+JUDUL        : Membuka halaman Log Absensi
+MODUL        : Log Absensi
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Lainnya pada navigation bar - Klik menu Log Absensi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Log Absensi.

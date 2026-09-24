@@ -1,0 +1,18 @@
+NO TEST CASE : 37.3
+JUDUL        : Mencari data Client Visit List dengan keyword valid
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword valid pada field Cari Data.
+2. Klik button Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai pencarian.

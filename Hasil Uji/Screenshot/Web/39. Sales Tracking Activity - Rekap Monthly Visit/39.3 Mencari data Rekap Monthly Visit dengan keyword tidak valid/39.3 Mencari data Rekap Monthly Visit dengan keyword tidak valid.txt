@@ -1,0 +1,18 @@
+NO TEST CASE : 39.3
+JUDUL        : Mencari data Rekap Monthly Visit dengan keyword tidak valid
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Monthly Visit
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword tidak valid pada field Cari Data.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword tidak valid pada field Cari Data.
+2. Menampilkan pesan bahwa data tidak ditemukan.

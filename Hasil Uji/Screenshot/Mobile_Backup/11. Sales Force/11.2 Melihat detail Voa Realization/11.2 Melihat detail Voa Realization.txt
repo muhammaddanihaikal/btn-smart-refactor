@@ -1,0 +1,16 @@
+NO TEST CASE : 11.2
+JUDUL        : Melihat detail Voa Realization
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon expand pada card Voa Realization.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan detail Voa Realization.

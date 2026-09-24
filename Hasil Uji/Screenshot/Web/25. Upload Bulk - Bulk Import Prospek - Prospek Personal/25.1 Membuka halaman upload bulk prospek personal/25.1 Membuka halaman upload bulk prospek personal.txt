@@ -1,0 +1,20 @@
+NO TEST CASE : 25.1
+JUDUL        : Membuka halaman upload bulk prospek personal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Upload Bulk 
+2. Klik submenu Bulk Import Prospek
+3. Klik Prospek Personal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown submenu upload bulk
+2. Menampilkan dropdown submenu Bulk import prospek (personal & lembaga)
+3. Menampilkan halaman bulk import prospek personal

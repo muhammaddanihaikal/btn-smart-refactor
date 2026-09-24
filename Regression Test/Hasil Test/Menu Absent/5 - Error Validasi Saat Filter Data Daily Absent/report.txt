@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Daily Absent: Error Validasi "role ids harus berupa array." Saat Melakukan Filter pada Daily Absent
+
+> * **Menu**: Menu Absent → Daily Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Saat user membuka drawer filter di halaman Daily Absent lalu menekan tombol **Filter** (dengan pilihan filter default seperti Job Role *"Semua Role"* dan Sales *"Semua"*), sistem gagal memuat data dan memunculkan dua pesan error notifikasi validasi: *"role ids harus berupa array."* dan *"Job role harus berupa array."*. Akibatnya, proses filter tidak dapat dijalankan dan tabel tidak menampilkan data absensi (*0 dari 0 data*).
+> * **Expected**: Sistem berhasil memproses request filter dan menampilkan data absensi sesuai parameter pencarian tanpa kendala validasi.
+> * **Actual**: Muncul dua notifikasi error validasi: - *"role ids harus berupa array."* - *"Job role harus berupa array."* Tabel absensi tidak menampilkan data (*0 dari 0 data / No data*).
+> * **Evidence**:
+>   * Pengaturan Filter pada Drawer Daily Absent: [https://files.catbox.moe/j16s94.png](https://files.catbox.moe/j16s94.png)
+>   * Pesan Error Validasi saat Klik Filter: [https://files.catbox.moe/xrko3x.png](https://files.catbox.moe/xrko3x.png)

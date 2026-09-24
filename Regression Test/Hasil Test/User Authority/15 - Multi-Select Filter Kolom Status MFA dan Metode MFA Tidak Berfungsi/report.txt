@@ -1,0 +1,10 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Multi-Select Filter Kolom Status MFA dan Metode MFA pada Daftar Akun Tidak Berfungsi
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Filter kolom **Status MFA** dan **Metode MFA** menyediakan opsi *multi-select* (*checkbox*). Namun saat memilih lebih dari satu opsi (contoh: mencentang *Aktif* & *Tidak Aktif*, atau *Email* & *TOTP*), sistem hanya menampilkan data opsi teratas (*Aktif* saja, atau *Email* saja), sedangkan opsi kedua diabaikan.
+> * **Expected**: Filter mendukung *multi-select*, sehingga seluruh opsi yang dicentang muncul bersamaan di tabel.
+> * **Actual**: Sistem hanya memfilter opsi teratas (*Aktif* pada Status MFA, *Email* pada Metode MFA), data dari opsi lainnya tidak muncul di tabel.
+> * **Evidence**:
+>   * Filter Status MFA: [https://files.catbox.moe/lrygri.png](https://files.catbox.moe/lrygri.png)
+>   * Filter Metode MFA: [https://files.catbox.moe/0wwndq.png](https://files.catbox.moe/0wwndq.png)

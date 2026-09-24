@@ -1,0 +1,22 @@
+NO TEST CASE : 37.2
+JUDUL        : Memvalidasi pembaruan data Total Visit setelah menerapkan filter
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Pilih salah satu parameter filter (misal: Sales).
+3. Klik button Filter (Terapkan).
+4. Periksa kesesuaian angka pada card Total Visit dengan jumlah data yang terfilter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan panel filter.
+2. Berhasil memilih parameter filter.
+3. Halaman menampilkan data hasil filter.
+4. Angka pada card Total Visit ter-update secara otomatis sesuai dengan jumlah baris data hasil filter.

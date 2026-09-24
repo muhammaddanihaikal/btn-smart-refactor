@@ -1,0 +1,9 @@
+🐞 [BUG] | Profile: Bypass Cooldown Kirim Ulang OTP Saat Modal Ditutup dan Dibuka Kembali
+
+> * **Menu**: Profile
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Timer cooldown kirim ulang OTP ter-reset jika modal pop-up ditutup (tombol X) lalu diklik/dibuka kembali.
+> * **Expected**: Cooldown tetap berjalan sesuai durasi waktu. User tidak bisa spam/kirim kode baru sebelum timer cooldown benar-benar habis, meskipun modal ditutup-buka.
+> * **Actual**: Menutup dan membuka kembali modal memicu pengiriman kode baru dan me-reset timer cooldown.
+> * **Evidence**:
+>   * [https://files.catbox.moe/x0odwz.png](https://files.catbox.moe/x0odwz.png)

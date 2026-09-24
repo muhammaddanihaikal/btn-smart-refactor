@@ -1,0 +1,20 @@
+NO TEST CASE : 44.30
+JUDUL        : Membukan menu dashboard validate pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales Force 
+2. Klik Submenu Pipeline
+3. Klik submenu Dashboard Validate Pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan submenu Sales Force
+2. Menampilkan submenu pipeline 
+3. Menampilkan halaman Dashboard Validate Pipeline

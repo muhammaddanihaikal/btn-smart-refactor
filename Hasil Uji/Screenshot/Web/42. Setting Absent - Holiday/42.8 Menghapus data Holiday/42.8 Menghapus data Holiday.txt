@@ -1,0 +1,18 @@
+NO TEST CASE : 42.8
+JUDUL        : Menghapus data Holiday
+MODUL        : Setting Absent
+SUB MENU     : Holiday
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Delete pada salah satu data Holiday.
+2. Klik button OK pada popup konfirmasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup konfirmasi hapus data.
+2. Berhasil menghapus data Holiday.

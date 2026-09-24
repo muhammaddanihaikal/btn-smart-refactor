@@ -1,0 +1,16 @@
+NO TEST CASE : 29.3
+JUDUL        : Validasi filter data mandatory
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button filter data tanpa memilih satu pun filter mandatory
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan alert pada setiap filter mandatory

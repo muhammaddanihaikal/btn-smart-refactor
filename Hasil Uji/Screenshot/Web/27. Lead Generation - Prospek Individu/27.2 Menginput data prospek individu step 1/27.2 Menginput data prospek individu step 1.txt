@@ -1,0 +1,24 @@
+NO TEST CASE : 27.2
+JUDUL        : Menginput data prospek individu step 1
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama nasabah
+2. Input nomor telepon
+3. Input kontak
+4. Input nomor KTP
+5. Klik button arrow kanan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput nama nasabah
+2. Berhasil menginput nomor telepon
+3. Berhasil menginput kontak
+4. Berhasil menginput nomor KTP
+5. Menampilkan form inputan prospek individu step 2

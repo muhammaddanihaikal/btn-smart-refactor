@@ -1,0 +1,13 @@
+NO TEST CASE : 4.4
+JUDUL        : Melakukan Visit out menggunakan sales Lending
+MODUL        : Sales Tracking Activity - Visit Out
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Visit in
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan halaman/ form inputan visit out

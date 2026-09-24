@@ -1,0 +1,16 @@
+NO TEST CASE : 24.23
+JUDUL        : Button Refresh
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Refresh
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Sistem menampilkan indikator proses (loading) selama pembaruan data berlangsung, kemudian menampilkan data terbaru setelah proses selesai tanpa mengubah atau menghilangkan filter yang sebelumnya sudah di pilih

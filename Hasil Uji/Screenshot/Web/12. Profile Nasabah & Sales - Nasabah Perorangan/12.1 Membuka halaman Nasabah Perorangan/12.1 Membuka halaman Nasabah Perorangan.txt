@@ -1,0 +1,18 @@
+NO TEST CASE : 12.1
+JUDUL        : Membuka halaman Nasabah Perorangan
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Profile Nasabah & Sales.
+2. Klik sub menu Nasabah Perorangan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Profile Nasabah & Sales.
+2. Berhasil menampilkan halaman Nasabah Perorangan.

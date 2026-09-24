@@ -1,0 +1,15 @@
+NO TEST CASE : 2.42
+JUDUL        : Menghapus perangkat terhubung
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon opsi pengkat, klik hapus
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menghapus perangkat yang terhubung

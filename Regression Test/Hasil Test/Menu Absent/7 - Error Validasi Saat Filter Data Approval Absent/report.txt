@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Approval Absent: Error Validasi "role ids harus berupa array." Saat Melakukan Filter pada Approval Absent
+
+> * **Menu**: Menu Absent → Approval Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Saat user membuka drawer filter di halaman Approval Absent lalu menekan tombol **Filter**, sistem memunculkan dua pesan error notifikasi validasi: *"role ids harus berupa array."*, sehingga proses filter gagal dan data tidak dapat dimuat.
+> * **Expected**: Sistem berhasil memproses filter data absensi approval sesuai parameter yang dipilih tanpa muncul error validasi.
+> * **Actual**: Muncul notifikasi error validasi *"role ids harus berupa array."* dan tabel tidak menampilkan data (*0 dari 0 data / No data*).
+> * **Evidence**:
+>   * Pengaturan Filter pada Drawer Approval Absent: [https://files.catbox.moe/gzfc59.png](https://files.catbox.moe/gzfc59.png)
+>   * Pesan Error Validasi saat Klik Filter: [https://files.catbox.moe/jjmn4h.png](https://files.catbox.moe/jjmn4h.png)

@@ -1,0 +1,18 @@
+NO TEST CASE : 72.6
+JUDUL        : Membuka halaman Re-Assign Management
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Re-Assign & Approval 
+2. Klik submenu Re-Assign Management
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list submenu Re-Assign & Approval 
+2. Menampilkan halaman Re-Assign Management

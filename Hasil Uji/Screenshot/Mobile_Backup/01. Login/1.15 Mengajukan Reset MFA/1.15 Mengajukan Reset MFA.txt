@@ -1,0 +1,21 @@
+NO TEST CASE : 1.15
+JUDUL        : Mengajukan Reset MFA
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman 2 Factor Authentication, klik Ajukan Reset MFA.
+2. Isi field mandatory Email.
+3. Isi field mandatory Alasan Anda.
+4. Klik button Kirim.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil diarahkan ke halaman Ajukan Reset MFA.
+2. Berhasil mengisi Email.
+3. Berhasil mengisi Alasan Anda.
+4. Berhasil mengajukan reset MFA.

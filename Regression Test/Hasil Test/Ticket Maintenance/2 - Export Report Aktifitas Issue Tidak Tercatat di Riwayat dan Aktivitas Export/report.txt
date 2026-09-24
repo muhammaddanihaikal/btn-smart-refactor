@@ -1,0 +1,11 @@
+🐞 [BUG] | Ticket Maintenance - Report: Export Report Aktifitas Issue Tidak Tercatat di Riwayat dan Aktivitas Export
+
+> * **Menu**: Ticket Maintenance → Report
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aktivitas export data dari menu Report Aktifitas Issue tidak masuk dan tidak tercatat di menu Riwayat Export maupun Aktivitas Export.
+> * **Expected**: Setiap kali user melakukan export data Report Aktifitas Issue, riwayatnya otomatis tercatat di Export Center → Riwayat Export dan Export Center → Aktivitas Export.
+> * **Actual**: Log export Report Aktifitas Issue tidak muncul di Riwayat Export maupun Aktivitas Export.
+> * **Evidence**:
+>   * Export Report Aktifitas Issue: [https://files.catbox.moe/en5wyo.png](https://files.catbox.moe/en5wyo.png)
+>   * Riwayat Export: [https://files.catbox.moe/tbg8zj.png](https://files.catbox.moe/tbg8zj.png)
+>   * Aktivitas Export: [https://files.catbox.moe/squkas.png](https://files.catbox.moe/squkas.png)

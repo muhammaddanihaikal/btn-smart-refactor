@@ -1,0 +1,20 @@
+NO TEST CASE : 47.1
+JUDUL        : Membuka menu approval sales code
+MODUL        : Sales Force
+SUB MENU     : Approval Sales Code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force 
+2. klik menu approval 
+3. Klik submenu Appoval sales code
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan list menu approval 
+3. Menampilkan halaman approval sales code

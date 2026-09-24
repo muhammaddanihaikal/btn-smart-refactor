@@ -1,0 +1,17 @@
+NO TEST CASE : 22.5
+JUDUL        : Set data target tanpa klik button Simpan
+MODUL        : Menu Target
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input data target 
+2. Klik button Set ke semua sales
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input data target 
+2. Berhasil set ke semua sales tetapi data nya tidak tersimpan

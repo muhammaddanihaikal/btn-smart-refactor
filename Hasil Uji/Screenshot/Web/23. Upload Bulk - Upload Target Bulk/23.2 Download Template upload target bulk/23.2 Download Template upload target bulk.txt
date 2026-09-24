@@ -1,0 +1,22 @@
+NO TEST CASE : 23.2
+JUDUL        : Download Template upload target bulk
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih Bisnis Unit 
+2. Klik button Download dan Upload File 
+3. Klik button Download file template 
+4. Buka file excel
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list bisnis unit dan berhasil memilih 
+2. Menampilkan modal upload target bulk 
+3. Berhasil mengunduh file template berupa excel 
+4. File excel dapat di buka

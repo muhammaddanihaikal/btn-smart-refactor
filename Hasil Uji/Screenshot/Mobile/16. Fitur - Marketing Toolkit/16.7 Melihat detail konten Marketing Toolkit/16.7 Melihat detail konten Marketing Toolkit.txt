@@ -1,0 +1,13 @@
+NO TEST CASE : 16.7
+JUDUL        : Melihat detail konten Marketing Toolkit
+MODUL        : Fitur - Marketing Toolkit
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik salah satu sub-folder pada daftar folder
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan detail konten Marketing Toolkit.

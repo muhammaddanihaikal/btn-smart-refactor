@@ -1,0 +1,13 @@
+NO TEST CASE : 9.8
+JUDUL        : Mengajukan cuti
+MODUL        : Cuti & Izin
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Ajukan Cuti - Mengisi semua field mandatory - Klik button Ajukan Cuti
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengajukan cuti.

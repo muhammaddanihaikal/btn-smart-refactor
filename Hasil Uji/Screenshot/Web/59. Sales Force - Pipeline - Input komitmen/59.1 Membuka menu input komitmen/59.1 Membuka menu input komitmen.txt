@@ -1,0 +1,20 @@
+NO TEST CASE : 59.1
+JUDUL        : Membuka menu input komitmen
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales Force 
+2. Klik Submenu Pipeline
+3. Klik submenu input komitmen
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan submenu Sales Force
+2. Menampilkan submenu pipeline 
+3. Menampilkan halaman Input komitmen

@@ -1,0 +1,20 @@
+NO TEST CASE : 26.1
+JUDUL        : Menginput email yang tidak valid
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input email yang tidak valid pada kolom email (ex. heri.com)
+2. Simpan file 
+3. Upload file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input email 
+2. Berhasil menyimpan file 
+3. Berhasil upload file dengan status 'Validasi Gagal' dan menampilkan informasi validation error 'Format email tidak valid' pada halaman preview data dan dokumen error. data prospek tidak tersimpan

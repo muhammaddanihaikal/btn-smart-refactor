@@ -1,0 +1,18 @@
+NO TEST CASE : 39.1
+JUDUL        : Membuka halaman Rekap Monthly Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Monthly Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Sales Tracking Activity.
+2. Klik sub menu Rekap Monthly Visit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Sales Tracking Activity.
+2. Berhasil membuka halaman Rekap Monthly Visit.

@@ -1,0 +1,18 @@
+NO TEST CASE : 6.1
+JUDUL        : Membuka halaman User
+MODUL        : User Authority
+SUB MENU     : User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority.
+2. Klik sub menu User.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman User.

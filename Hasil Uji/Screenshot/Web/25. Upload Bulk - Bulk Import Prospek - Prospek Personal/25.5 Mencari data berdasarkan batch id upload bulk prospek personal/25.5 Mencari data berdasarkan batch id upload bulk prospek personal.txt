@@ -1,0 +1,18 @@
+NO TEST CASE : 25.5
+JUDUL        : Mencari data berdasarkan batch id upload bulk prospek personal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id pada field search
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput batch id 
+2. Menampilkan data upload bulk prospek personal sesuai dengan batch id yang di cari

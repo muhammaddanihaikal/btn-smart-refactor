@@ -1,0 +1,17 @@
+NO TEST CASE : 31.4
+JUDUL        : Pagination
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik pagination (10/halaman).
+2. Pilih berapa data yang ingin ditampilkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik pagination.
+2. Berhasil menampilkan data sesuai jumlah data per halaman yang dipilih.

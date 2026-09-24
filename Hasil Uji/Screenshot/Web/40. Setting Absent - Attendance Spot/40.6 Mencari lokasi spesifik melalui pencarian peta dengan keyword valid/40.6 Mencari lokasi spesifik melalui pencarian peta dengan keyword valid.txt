@@ -1,0 +1,20 @@
+NO TEST CASE : 40.6
+JUDUL        : Mencari lokasi spesifik melalui pencarian peta dengan keyword valid
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add New Location.
+2. Input nama lokasi pada field pencarian peta.
+3. Pilih lokasi dari hasil pencarian.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Attendance Spot.
+2. Berhasil menginput nama lokasi.
+3. Berhasil peta berhasil menampilkan titik lokasi yang dipilih.

@@ -1,0 +1,18 @@
+NO TEST CASE : 40.12
+JUDUL        : Menghapus data Attendance Spot
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Delete pada salah satu data Attendance Spot.
+2. Klik button OK pada popup konfirmasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup konfirmasi hapus data.
+2. Berhasil menghapus data Attendance Spot.

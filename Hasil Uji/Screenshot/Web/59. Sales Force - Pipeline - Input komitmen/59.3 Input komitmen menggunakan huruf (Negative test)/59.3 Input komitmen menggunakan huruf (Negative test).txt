@@ -1,0 +1,18 @@
+NO TEST CASE : 59.3
+JUDUL        : Input komitmen menggunakan huruf (Negative test)
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button input komitmen
+2. input huruf pada kolom penginputan nominal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan komitmen
+2. Field tidak bisa di ketik

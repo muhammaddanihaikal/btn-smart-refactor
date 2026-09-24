@@ -1,0 +1,13 @@
+NO TEST CASE : 11.2
+JUDUL        : Membuka halaman Input Prospek melalui menu Lainnya
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Lainnya pada navigation bar bawah - Klik menu Input Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Input Prospek dan menampilkan pop up tipe prospek.

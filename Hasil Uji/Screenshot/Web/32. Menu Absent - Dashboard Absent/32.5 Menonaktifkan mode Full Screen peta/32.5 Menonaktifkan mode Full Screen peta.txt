@@ -1,0 +1,18 @@
+NO TEST CASE : 32.5
+JUDUL        : Menonaktifkan mode Full Screen peta
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Aktifkan Full Screen.
+2. Tekan Esc atau klik button keluar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengaktifkan Full Screen.
+2. Berhasil mengembalikan peta ke tampilan normal.

@@ -1,0 +1,13 @@
+NO TEST CASE : 1.3
+JUDUL        : Melakukan login Non Employee dengan email tidak terdaftar
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka aplikasi BTN Smart - Isi field Email dengan email yang tidak terdaftar - Isi field Password dengan password bebas - Pilih Type Non Employee - Klik button LOGIN
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan error email tidak terdaftar.

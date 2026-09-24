@@ -1,0 +1,22 @@
+NO TEST CASE : 14.7
+JUDUL        : Mengubah data Produk
+MODUL        : Bisnis dan Produk
+SUB MENU     : Produk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik action menu titik tiga.
+2. Klik button Ubah Data.
+3. Ubah data pada form.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan action menu.
+2. Berhasil menampilkan form Edit Produk.
+3. Berhasil mengubah data.
+4. Berhasil menyimpan perubahan.

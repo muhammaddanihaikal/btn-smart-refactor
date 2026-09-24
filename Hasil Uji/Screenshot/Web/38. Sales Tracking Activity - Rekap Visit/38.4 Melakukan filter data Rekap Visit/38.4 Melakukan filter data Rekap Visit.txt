@@ -1,0 +1,18 @@
+NO TEST CASE : 38.4
+JUDUL        : Melakukan filter data Rekap Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih opsi pada field Filter.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih opsi pada field Filter.
+2. Berhasil menampilkan data Rekap Visit sesuai filter.

@@ -1,0 +1,18 @@
+NO TEST CASE : 12.11
+JUDUL        : Melihat detail Aktivitas Sales pada kolom Action
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada tab Aktivitas Sales, klik icon '...' pada salah satu data aktivitas.
+2. Klik Detail.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu Action dropdown.
+2. Berhasil menampilkan detail data pribadi nasabah.

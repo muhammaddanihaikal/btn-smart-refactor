@@ -1,0 +1,20 @@
+NO TEST CASE : 11.4
+JUDUL        : Melakukan filter data Sales dengan mengisi field mandatory
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih Kategori pada dropdown.
+2. Pilih Role pada dropdown.
+3. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih Kategori pada dropdown.
+2. Berhasil memilih Role pada dropdown.
+3. Berhasil menampilkan data Sales yang difilter sesuai dengan Kategori dan Role yang dipilih.

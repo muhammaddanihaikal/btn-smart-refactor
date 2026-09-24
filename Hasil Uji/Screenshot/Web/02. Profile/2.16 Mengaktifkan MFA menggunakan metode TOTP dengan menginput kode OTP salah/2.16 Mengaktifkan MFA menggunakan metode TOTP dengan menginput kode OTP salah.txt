@@ -1,0 +1,15 @@
+NO TEST CASE : 2.16
+JUDUL        : Mengaktifkan MFA menggunakan metode TOTP dengan menginput kode OTP salah
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melaakukan setup, kemudian input kode OTP yang salah
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan validasi kode OTP tidak sesuai

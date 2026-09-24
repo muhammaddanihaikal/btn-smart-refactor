@@ -1,0 +1,16 @@
+NO TEST CASE : 45.15
+JUDUL        : Melakukan filter data dengan tidak menginput filter mandatory (Negative test)
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. kosong kan salah satu fllter mandatory kemudian klik button filter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan alert filter dibutuhkan

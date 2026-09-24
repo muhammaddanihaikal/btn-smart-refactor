@@ -1,0 +1,16 @@
+NO TEST CASE : 55.6
+JUDUL        : Tab Calculate
+MODUL        : Sales Force
+SUB MENU     : Report - Report Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab calculate
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan report data kalkulasi nilai produktifitas berdasarkan tipe kantor

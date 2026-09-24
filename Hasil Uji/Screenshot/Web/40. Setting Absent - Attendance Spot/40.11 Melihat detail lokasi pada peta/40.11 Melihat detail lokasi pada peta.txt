@@ -1,0 +1,16 @@
+NO TEST CASE : 40.11
+JUDUL        : Melihat detail lokasi pada peta
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon View Map pada salah satu data Attendance Spot.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup peta lokasi Attendance Spot.

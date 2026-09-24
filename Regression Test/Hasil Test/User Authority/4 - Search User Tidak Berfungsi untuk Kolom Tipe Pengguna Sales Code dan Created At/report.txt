@@ -1,0 +1,17 @@
+🐞 [BUG] | User Authority - User: Fitur Search User Tidak Berfungsi untuk Kolom Tipe Pengguna, Sales Code, dan Created At
+
+> * **Menu**: User Authority → User
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Pencarian data pada tabel Master User tidak dapat menemukan/memfilter data berdasarkan kolom **Tipe Pengguna**, **Sales Code**, dan **Created At** (hasil pencarian menampilkan "No data" padahal data ada).
+> * **Expected**: Field search dapat memfilter data secara akurat saat user memasukkan keyword Tipe Pengguna (misal: Non-AD / AD), Sales Code, maupun tanggal Created At.
+> * **Actual**: Pencarian menggunakan nilai dari ketiga kolom tersebut selalu menghasilkan "No data".
+> * **Evidence**:
+>   * **Kolom Tipe Pengguna (Non-AD)**:
+>     * Data Ada: [https://files.catbox.moe/o0285r.png](https://files.catbox.moe/o0285r.png)
+>     * Hasil Search (No data): [https://files.catbox.moe/h3li5e.png](https://files.catbox.moe/h3li5e.png)
+>   * **Kolom Sales Code (00015BFS15)**:
+>     * Data Ada: [https://files.catbox.moe/abzlds.png](https://files.catbox.moe/abzlds.png)
+>     * Hasil Search (No data): [https://files.catbox.moe/mp74ll.png](https://files.catbox.moe/mp74ll.png)
+>   * **Kolom Created At (11-02-2019)**:
+>     * Data Ada: [https://files.catbox.moe/8da0om.png](https://files.catbox.moe/8da0om.png)
+>     * Hasil Search (No data): [https://files.catbox.moe/siizar.png](https://files.catbox.moe/siizar.png)

@@ -1,0 +1,13 @@
+NO TEST CASE : 17.2
+JUDUL        : Melihat detail Voa Realization
+MODUL        : Sales Force - Dashboard Sales Code
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon expand pada card Voa Realization
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan detail Voa Realization.

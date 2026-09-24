@@ -1,0 +1,16 @@
+NO TEST CASE : 34.11
+JUDUL        : Melihat Lokasi
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Lokasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan lokasi pada peta.

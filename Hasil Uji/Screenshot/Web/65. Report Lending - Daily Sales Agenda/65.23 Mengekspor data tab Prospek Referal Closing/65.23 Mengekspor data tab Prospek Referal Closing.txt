@@ -1,0 +1,20 @@
+NO TEST CASE : 65.23
+JUDUL        : Mengekspor data tab Prospek Referal Closing
+MODUL        : Report Lending
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Referal Closing.
+2. Klik button Export.
+3. Klik icon download pada panel Download Export.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan tab Prospek Referal Closing.
+2. Berhasil menampilkan panel Download Export.
+3. Berhasil mendownload file export.

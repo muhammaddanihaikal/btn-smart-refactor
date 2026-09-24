@@ -1,0 +1,16 @@
+NO TEST CASE : 55.22
+JUDUL        : Tab Visit
+MODUL        : Sales Force
+SUB MENU     : Report - Report Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Visit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan report data visit

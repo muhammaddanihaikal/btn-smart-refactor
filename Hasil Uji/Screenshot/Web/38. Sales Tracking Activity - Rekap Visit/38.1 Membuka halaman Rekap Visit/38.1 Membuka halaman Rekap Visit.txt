@@ -1,0 +1,18 @@
+NO TEST CASE : 38.1
+JUDUL        : Membuka halaman Rekap Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Sales Tracking Activity.
+2. Klik sub menu Rekap Visit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Sales Tracking Activity.
+2. Berhasil membuka halaman Rekap Visit.

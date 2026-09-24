@@ -1,0 +1,18 @@
+NO TEST CASE : 34.16
+JUDUL        : Membatalkan approval yang sudah disetujui
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Cancel Approval.
+2. Klik Yes.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka konfirmasi.
+2. Berhasil status kembali menjadi Pending.

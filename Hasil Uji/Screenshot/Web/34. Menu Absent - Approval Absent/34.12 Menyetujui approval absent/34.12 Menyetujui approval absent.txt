@@ -1,0 +1,20 @@
+NO TEST CASE : 34.12
+JUDUL        : Menyetujui approval absent
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Approve.
+2. Isi Comments.
+3. Klik button Approve.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Approve.
+2. Berhasil mengisi Comments.
+3. Berhasil mengubah status menjadi Approved.

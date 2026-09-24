@@ -1,0 +1,20 @@
+NO TEST CASE : 36.4
+JUDUL        : Melakukan filter data Dashboard Visit dengan data yang tidak ada
+MODUL        : Sales Tracking Activity
+SUB MENU     : Dashboard Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Input data yang tidak ada pada field filter.
+3. Klik button Filter pada popup.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka popup filter.
+2. Berhasil menginput data filter.
+3. Data tidak ditemukan.

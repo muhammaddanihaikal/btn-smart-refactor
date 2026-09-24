@@ -1,0 +1,19 @@
+NO TEST CASE : 31.20
+JUDUL        : Menampilkan informasi rekening
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga pada Aksi 
+2. Klik Informasi rekening 
+3. Klik button Tutup
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa aksi (Detail prospek, prospek ulang, dan informasi rekening)
+2. Menampilkan modal informasi rekening 
+3. Modal informasi rekening tertutup dan tetap di halaman list prospek ETB

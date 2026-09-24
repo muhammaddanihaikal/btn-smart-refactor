@@ -1,0 +1,16 @@
+NO TEST CASE : 11.8
+JUDUL        : Mengubah periode filter (Bulan/Tahun) pada grafik Staging Prospek
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada bagian Staging Prospek, ubah pilihan dropdown periode (misal: 'Mei 2026').
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengubah dropdown periode dan data pada container Staging Prospek berhasil difilter menyesuaikan periode yang dipilih.

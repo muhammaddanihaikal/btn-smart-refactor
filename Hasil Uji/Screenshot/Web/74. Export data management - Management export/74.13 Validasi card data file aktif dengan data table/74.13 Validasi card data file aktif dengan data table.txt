@@ -1,0 +1,16 @@
+NO TEST CASE : 74.13
+JUDUL        : Validasi card data file aktif dengan data table
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data dengan memilih status approvalnya “Approved” dan status exportnya “Generate” dengan tanggal sebelum hari berjalan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Jumlah data pada card dan table sesuai

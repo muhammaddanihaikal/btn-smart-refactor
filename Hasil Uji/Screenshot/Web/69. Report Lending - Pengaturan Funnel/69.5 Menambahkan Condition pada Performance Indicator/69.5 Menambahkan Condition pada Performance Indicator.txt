@@ -1,0 +1,20 @@
+NO TEST CASE : 69.5
+JUDUL        : Menambahkan Condition pada Performance Indicator
+MODUL        : Report Lending
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add Condition pada bagian Performance Indicator.
+2. Mengisi semua field mandatory pada condition baru.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form condition baru pada Performance Indicator.
+2. Berhasil mengisi field mandatory condition.
+3. Berhasil menyimpan condition baru pada Performance Indicator.

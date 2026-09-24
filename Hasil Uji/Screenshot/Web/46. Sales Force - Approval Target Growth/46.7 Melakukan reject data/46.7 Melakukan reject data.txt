@@ -1,0 +1,20 @@
+NO TEST CASE : 46.7
+JUDUL        : Melakukan reject data
+MODUL        : Sales Force
+SUB MENU     : Approval Target Growth
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon silang pada table dengan status data pending request 
+2. input remark 
+3. KLik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup reject request
+2. remark berhasil ter input
+3. Berhasil melakukan reject data Target growth

@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - User: User AD Gagal Login Setelah Aktivasi Password via Link Email
+
+> * **Menu**: User Authority → User
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: User baru bertipe **AD** yang sudah berhasil membuat password melalui link email tetap tidak bisa login pada tab Employee (*"Username atau password AD tidak valid!"*).
+> * **Expected**: Setelah user AD selesai membuat password via email aktivasi, user dapat langsung login di tab Employee dengan kredensial tersebut.
+> * **Actual**: Muncul pesan error *"Username atau password AD tidak valid!"* meskipun password baru saja dibuat.
+> * **Evidence**:
+>   * [https://files.catbox.moe/emn91y.png](https://files.catbox.moe/emn91y.png)

@@ -1,0 +1,11 @@
+🐞 [BUG] | Menu Absent - Rekap Absent: Export Rekap Absent Tidak Tercatat di Riwayat dan Aktivitas Export
+
+> * **Menu**: Menu Absent → Rekap Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aktivitas export data dari menu Rekap Absent tidak masuk dan tidak tercatat di menu Riwayat Export maupun Aktivitas Export.
+> * **Expected**: Setiap kali user melakukan export data Rekap Absent, riwayatnya otomatis tercatat di Export Center → Riwayat Export dan Export Center → Aktivitas Export.
+> * **Actual**: Log export Rekap Absent tidak muncul di Riwayat Export maupun Aktivitas Export.
+> * **Evidence**:
+>   * Export Rekap Absent: [https://files.catbox.moe/h1ys4k.png](https://files.catbox.moe/h1ys4k.png)
+>   * Riwayat Export: [https://files.catbox.moe/tbg8zj.png](https://files.catbox.moe/tbg8zj.png)
+>   * Aktivitas Export: [https://files.catbox.moe/squkas.png](https://files.catbox.moe/squkas.png)

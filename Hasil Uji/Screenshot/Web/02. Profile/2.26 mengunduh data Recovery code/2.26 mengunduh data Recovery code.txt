@@ -1,0 +1,15 @@
+NO TEST CASE : 2.26
+JUDUL        : mengunduh data Recovery code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button recovery code – input password yang digunakan saat login BTN Smart, klik button download
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data recovery code

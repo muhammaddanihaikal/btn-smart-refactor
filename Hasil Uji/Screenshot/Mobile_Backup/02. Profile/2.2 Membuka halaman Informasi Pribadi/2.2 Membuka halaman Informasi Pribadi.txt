@@ -1,0 +1,17 @@
+NO TEST CASE : 2.2
+JUDUL        : Membuka halaman Informasi Pribadi
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Profile pada navigasi bawah.
+2. Klik sub menu Informasi Pribadi pada bagian Akun.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Profile.
+2. Berhasil membuka sub menu Informasi Pribadi dan menampilkan form Informasi Pribadi.

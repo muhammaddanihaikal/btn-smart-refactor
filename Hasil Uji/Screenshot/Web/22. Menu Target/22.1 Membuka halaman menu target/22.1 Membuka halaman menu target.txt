@@ -1,0 +1,15 @@
+NO TEST CASE : 22.1
+JUDUL        : Membuka halaman menu target
+MODUL        : Menu Target
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu 'Menu Target'
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman menu target

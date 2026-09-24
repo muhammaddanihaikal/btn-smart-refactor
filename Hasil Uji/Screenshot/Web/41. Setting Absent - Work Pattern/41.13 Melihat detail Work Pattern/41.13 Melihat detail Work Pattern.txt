@@ -1,0 +1,16 @@
+NO TEST CASE : 41.13
+JUDUL        : Melihat detail Work Pattern
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Detail (i) pada salah satu data Work Pattern.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup Work Pattern Details yang berisi jadwal kerja.

@@ -1,0 +1,18 @@
+NO TEST CASE : 32.13
+JUDUL        : Mencari data pada detail Kantor Wilayah dengan keyword tidak valid
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword pencarian yang tidak valid pada tabel detail Kantor Wilayah.
+2. Klik Enter/Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword yang tidak valid.
+2. Berhasil menampilkan tabel kosong atau pesan data tidak ditemukan.

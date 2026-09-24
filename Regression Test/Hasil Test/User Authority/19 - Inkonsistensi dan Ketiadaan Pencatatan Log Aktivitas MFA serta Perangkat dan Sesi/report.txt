@@ -1,0 +1,23 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Inkonsistensi dan Ketiadaan Pencatatan Log Audit pada Kategori MFA serta Perangkat & Sesi
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Terdapat inkonsistensi pencatatan dan ketiadaan log audit pada tab Log Aktivitas untuk kategori keamanan akun (MFA serta Perangkat & Sesi):
+>   * **[MFA] Verifikasi Berhasil (OTP)**: *Actual* malah tercatat *"Login berhasil tanpa verifikasi MFA"*.
+>   * **[MFA] Verifikasi dengan Kode Cadangan**: *Actual* malah tercatat *"Login berhasil tanpa verifikasi MFA"*.
+>   * **[MFA] Verifikasi Gagal**: *Actual* tidak memicu log verifikasi MFA gagal, melainkan tercatat *"Percobaan login gagal"*.
+>   * **[MFA] Permintaan Reset Disetujui**: *Actual* tidak masuk ke log saat admin menyetujui.
+>   * **[MFA] Permintaan Reset Ditolak**: *Actual* tidak masuk ke log sama sekali saat admin menolak.
+>   * **[MFA] Reset MFA**: *Actual* tidak tercatat di log saat MFA di-reset.
+>   * **[MFA] Mengubah Metode**: *Actual* prematur, sudah tercatat sukses saat baru input password padahal metode baru belum dipilih/disimpan.
+>   * **[MFA] Diaktifkan**: *Actual* tidak tercatat di log saat user pertama kali mengaktifkan MFA (Email OTP maupun TOTP).
+>   * **[MFA] Dinonaktifkan**: *Actual* tidak tercatat di log saat proses Reset MFA dilakukan.
+>   * **[Sesi] Mempercayai Perangkat**: Tidak masuk ke log setelah login dengan opsi percaya perangkat.
+>   * **[Sesi] Menghapus Perangkat Terpercaya**: Tidak masuk ke log saat perangkat dihapus.
+>   * **[Sesi] Memberi Label Perangkat**: Tidak masuk ke log saat mengubah nama/label perangkat.
+>   * **[Sesi] Mencabut Sesi Tertentu**: Tidak masuk ke log saat melakukan logout paksa pada sesi tertentu.
+>   * **[Sesi] Mencabut Semua Sesi**: Tidak masuk ke log saat tombol cabut semua sesi ditekan.
+> * **Expected**: Seluruh aktivitas MFA dan manajemen Perangkat & Sesi otomatis tercatat secara akurat, lengkap, dan sesuai dengan aksi nyata yang dilakukan user/admin.
+> * **Actual**: Sebagian aktivitas MFA salah label/prematur/hilang, dan seluruh aktivitas Perangkat & Sesi sama sekali tidak tercatat di Log Aktivitas.
+> * **Evidence**:
+>   * [https://files.catbox.moe/5xeegv.png](https://files.catbox.moe/5xeegv.png)

@@ -1,0 +1,13 @@
+NO TEST CASE : 2.14
+JUDUL        : Membuka halaman Ganti Kata Sandi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Profile pada navigasi bawah - Klik sub menu Ganti Kata Sandi pada bagian Keamanan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka sub menu Ganti Kata Sandi dan menampilkan form ganti kata sandi beserta persyaratannya.

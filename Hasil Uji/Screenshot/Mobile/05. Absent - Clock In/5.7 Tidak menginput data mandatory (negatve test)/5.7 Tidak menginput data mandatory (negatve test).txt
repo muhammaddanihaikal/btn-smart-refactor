@@ -1,0 +1,13 @@
+NO TEST CASE : 5.7
+JUDUL        : Tidak menginput data mandatory (negatve test)
+MODUL        : Absent - Clock In
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Tidak menginput data mandatory
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan alert bahwa data mandatory dan wajib diisi

@@ -1,0 +1,17 @@
+NO TEST CASE : 6.4
+JUDUL        : Menampilkan grafik Prospek
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Melihat grafik Prospek.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil menampilkan grafik batang Prospek dengan data Target dan Actual.

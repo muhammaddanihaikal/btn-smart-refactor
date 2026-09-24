@@ -1,0 +1,16 @@
+NO TEST CASE : 12.12
+JUDUL        : Membuka tab Daftar Rekening
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Nasabah, klik tab 'Daftar Rekening'.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka tab Daftar Rekening dan menampilkan tabel Daftar Rekening nasabah.

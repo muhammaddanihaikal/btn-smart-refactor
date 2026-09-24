@@ -1,0 +1,18 @@
+NO TEST CASE : 71.8
+JUDUL        : Mengosongkan field inputan mandatory pada reassign prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan salah satu atau semua field mandatory 
+2. Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil tidak mengisi/mengosongkan field 
+2. Menampilkan alert pada setiap field mandatory bahwa field tersebut dibutuhkan / wajib diisi

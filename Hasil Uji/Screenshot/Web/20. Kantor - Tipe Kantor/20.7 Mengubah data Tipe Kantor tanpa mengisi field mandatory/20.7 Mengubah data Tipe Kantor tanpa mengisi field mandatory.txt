@@ -1,0 +1,22 @@
+NO TEST CASE : 20.7
+JUDUL        : Mengubah data Tipe Kantor tanpa mengisi field mandatory
+MODUL        : Kantor
+SUB MENU     : Tipe Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Action pada salah satu data.
+2. Klik button Ubah data
+3. Kosongkan field mandatory.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Action.
+2. Berhasil membuka halaman Edit Tipe Kantor.
+3. Berhasil mengosongkan field mandatory.
+4. Menampilkan pesan error validasi mandatory.

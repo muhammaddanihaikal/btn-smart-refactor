@@ -1,0 +1,18 @@
+NO TEST CASE : 5.2
+JUDUL        : Mengubah Role pada Pengaturan Overview
+MODUL        : Overview
+SUB MENU     : Pengaturan Overview
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field Role dengan satu atau lebih role yang tersedia.
+2. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Role.
+2. Berhasil menyimpan perubahan Role pada Pengaturan Overview.

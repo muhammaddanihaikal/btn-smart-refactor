@@ -1,0 +1,16 @@
+NO TEST CASE : 8.53
+JUDUL        : Mencari nasabah referal menggunakan Search Bar
+MODUL        : Prospek & Nasabah
+SUB MENU     : Nasabah Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan kata kunci pencarian pada Search Bar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data nasabah referal yang sesuai dengan kata kunci pencarian.

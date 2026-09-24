@@ -1,0 +1,13 @@
+NO TEST CASE : 6.3
+JUDUL        : Melakukan Clock Out
+MODUL        : Absent - Clock Out
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button clock out
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil melakukan clock out dan button berubah otomatis menjadi button clock in

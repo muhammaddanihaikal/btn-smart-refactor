@@ -1,0 +1,13 @@
+NO TEST CASE : 11.14
+JUDUL        : Memilih tipe Prospek Lembaga
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Input Prospek - Klik pilihan Lembaga
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan form Step 1 Informasi Lembaga.

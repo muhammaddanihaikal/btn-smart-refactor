@@ -1,0 +1,18 @@
+NO TEST CASE : 48.4
+JUDUL        : Assign cif kelolaan - Download souce file
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga 
+2. Klik  download sourch file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan opsi action 
+2. Berhasil mengunduh data source file

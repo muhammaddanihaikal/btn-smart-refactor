@@ -1,0 +1,15 @@
+NO TEST CASE : 2.24
+JUDUL        : Generate ulang recovery code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button recovery code – input password yang digunakan saat login BTN Smart, klik button generate code
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mendapatkan kode recovery baru

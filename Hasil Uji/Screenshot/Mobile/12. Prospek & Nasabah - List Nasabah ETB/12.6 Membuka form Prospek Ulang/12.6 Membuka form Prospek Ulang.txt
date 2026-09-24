@@ -1,0 +1,13 @@
+NO TEST CASE : 12.6
+JUDUL        : Membuka form Prospek Ulang
+MODUL        : Prospek & Nasabah - List Nasabah ETB
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu titik tiga pada salah satu card nasabah - Pilih Prospek Ulang
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka form Prospek Ulang.

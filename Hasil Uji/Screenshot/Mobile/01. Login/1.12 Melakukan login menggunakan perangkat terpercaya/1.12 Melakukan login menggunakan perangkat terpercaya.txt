@@ -1,0 +1,13 @@
+NO TEST CASE : 1.12
+JUDUL        : Melakukan login menggunakan perangkat terpercaya
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input kode OTP atau TOTP yang valid pada halaman 2 Factor Authentication - Centang checkbox Ingat perangkat ini selama 30 hari - Klik button Submit - Logout dan lakukan login kembali dengan akun yang sama
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil login kembali dan langsung diarahkan ke halaman utama tanpa melalui 2 Factor Authentication.

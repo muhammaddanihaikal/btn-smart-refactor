@@ -1,0 +1,13 @@
+NO TEST CASE : 10.4
+JUDUL        : Melakukan filter data prospek
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Filter di halaman Aktifitas Prospek - Pilih kriteria filter pada form Filter - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan daftar prospek yang sesuai dengan kriteria filter.

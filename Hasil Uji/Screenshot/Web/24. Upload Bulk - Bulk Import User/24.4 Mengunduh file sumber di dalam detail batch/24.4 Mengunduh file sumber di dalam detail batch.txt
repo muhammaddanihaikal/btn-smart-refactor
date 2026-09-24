@@ -1,0 +1,18 @@
+NO TEST CASE : 24.4
+JUDUL        : Mengunduh file sumber di dalam detail batch
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon download pada section Berkas di halaman detail batch 
+2. Buka file excel yang sudah di download
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh file sumber 
+2. Berhasil membuka file excel dan menampilkan data yang sesuai

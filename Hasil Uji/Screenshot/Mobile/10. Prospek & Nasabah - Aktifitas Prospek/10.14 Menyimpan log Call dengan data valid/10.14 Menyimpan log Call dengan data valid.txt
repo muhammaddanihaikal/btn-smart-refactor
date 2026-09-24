@@ -1,0 +1,13 @@
+NO TEST CASE : 10.14
+JUDUL        : Menyimpan log Call dengan data valid
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Isi field Status Call dan Keterangan dengan data valid - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan aktifitas Call dan menambahkannya ke Log Staging Call.

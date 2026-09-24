@@ -1,0 +1,18 @@
+NO TEST CASE : 10.28
+JUDUL        : Mencari perangkat dengan keyword tidak valid
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword yang tidak terdaftar pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

@@ -1,0 +1,20 @@
+NO TEST CASE : 41.10
+JUDUL        : Mereset jadwal pada beberapa hari secara sekaligus (Reset)
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add Work Pattern.
+2. Centang beberapa checkbox hari pada Set Working Schedule.
+3. Klik button Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Work Pattern.
+2. Berhasil memilih beberapa hari.
+3. Berhasil mengosongkan kembali (reset) jadwal pada seluruh hari yang dicentang secara bersamaan.

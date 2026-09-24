@@ -1,0 +1,13 @@
+NO TEST CASE : 1.10
+JUDUL        : Melakukan verifikasi TOTP
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka aplikasi autentikator dan salin kode TOTP - Input 6 digit kode TOTP pada kolom yang disediakan - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil melakukan verifikasi dan diarahkan ke halaman utama.

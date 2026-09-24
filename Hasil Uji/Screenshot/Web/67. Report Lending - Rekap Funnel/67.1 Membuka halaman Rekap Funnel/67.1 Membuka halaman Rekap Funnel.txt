@@ -1,0 +1,18 @@
+NO TEST CASE : 67.1
+JUDUL        : Membuka halaman Rekap Funnel
+MODUL        : Report Lending
+SUB MENU     : Rekap Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Report Lending.
+2. Klik sub menu Rekap Funnel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Report Lending.
+2. Berhasil menampilkan halaman Rekap Funnel.

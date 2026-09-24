@@ -1,0 +1,18 @@
+NO TEST CASE : 36.2
+JUDUL        : Menampilkan data Dashboard Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Dashboard Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Sales Tracking Activity.
+2. Klik sub menu Dashboard Visit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Sales Tracking Activity.
+2. Berhasil menampilkan data Dashboard Visit.

@@ -1,0 +1,18 @@
+NO TEST CASE : 45.21
+JUDUL        : Melihat detail pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga 
+2. klik action detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan Opsi action 
+2. Menampilkan detail pipeline

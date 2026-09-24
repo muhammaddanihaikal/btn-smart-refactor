@@ -1,0 +1,19 @@
+NO TEST CASE : 7.9
+JUDUL        : Mengajukan cuti tanpa mengisi field mandatory
+MODUL        : Cuti & Izin
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Ajukan Cuti.
+2. Mengosongkan field mandatory.
+3. Klik button Ajukan Cuti.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Ajukan Cuti.
+2. Berhasil mengosongkan field mandatory.
+3. Menampilkan pesan validasi field mandatory.

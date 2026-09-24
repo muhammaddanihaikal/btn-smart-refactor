@@ -1,0 +1,22 @@
+NO TEST CASE : 26.3
+JUDUL        : Validasi input Potensi dan Jumlah Dana Masuk
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input selain nominal angka di kolom Potensi dan Jumlah Dana Masuk (Top Up)
+2. Simpan file 
+3. Upload file 
+4. Cek data pada halaman preview data dan dokumen error
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input 
+2. Berhasil menyimpan file 
+3. Berhasil upload file dengan status 'Validasi Gagal' dan data tidak tersimpan
+4. Menampilkan informasi 'Jumlah dana masuk (Top Up) harus angka'

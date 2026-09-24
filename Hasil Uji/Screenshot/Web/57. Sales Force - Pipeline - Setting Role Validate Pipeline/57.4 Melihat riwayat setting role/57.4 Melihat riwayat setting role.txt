@@ -1,0 +1,18 @@
+NO TEST CASE : 57.4
+JUDUL        : Melihat riwayat setting role
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Role Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button riwayat 
+2. Pilih tipe organisasi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup riwayat
+2. Menampilkan data riwayat setting role validate pipeline

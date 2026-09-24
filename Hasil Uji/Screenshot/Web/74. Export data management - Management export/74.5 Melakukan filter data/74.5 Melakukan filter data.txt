@@ -1,0 +1,16 @@
+NO TEST CASE : 74.5
+JUDUL        : Melakukan filter data
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih kantor wilayah, kantor cabang, cabang pembantu, job role, info user, status approval, status export, modul dan tanggal, klik button filter data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data sesuai filter yang dipilih

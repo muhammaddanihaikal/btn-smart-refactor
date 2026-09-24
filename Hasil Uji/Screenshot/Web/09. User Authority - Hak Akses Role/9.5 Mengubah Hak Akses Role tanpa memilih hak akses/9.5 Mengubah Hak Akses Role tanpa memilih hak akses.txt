@@ -1,0 +1,22 @@
+NO TEST CASE : 9.5
+JUDUL        : Mengubah Hak Akses Role tanpa memilih hak akses
+MODUL        : User Authority
+SUB MENU     : Hak Akses Role
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Ubah Akses.
+3. Hapus seluruh checklist hak akses.
+4. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan halaman Hak Akses Role.
+3. Berhasil menghapus seluruh hak akses.
+4. Berhasil menampilkan validasi hak akses wajib dipilih.

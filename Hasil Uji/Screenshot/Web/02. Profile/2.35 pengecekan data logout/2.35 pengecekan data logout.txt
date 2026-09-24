@@ -1,0 +1,15 @@
+NO TEST CASE : 2.35
+JUDUL        : pengecekan data logout
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan logout lakun
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data logout pada riwayat login

@@ -1,0 +1,17 @@
+NO TEST CASE : 2.41
+JUDUL        : Putuskan perangkat terhubung
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon opsi perangkat pada perangkat terhubung yang status nya aktif.
+2. Klik button Putuskan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu opsi.
+2. Berhasil memutuskan perangkat terhubung dan auto logout.

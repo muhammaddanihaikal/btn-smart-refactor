@@ -1,0 +1,18 @@
+NO TEST CASE : 34.1
+JUDUL        : Mencari data dengan keyword valid
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai keyword.

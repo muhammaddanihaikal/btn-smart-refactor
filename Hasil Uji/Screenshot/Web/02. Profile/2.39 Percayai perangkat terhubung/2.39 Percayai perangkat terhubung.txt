@@ -1,0 +1,15 @@
+NO TEST CASE : 2.39
+JUDUL        : Percayai perangkat terhubung
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon opsi perangkat,  klik percayai perangkat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Perangkat yang di percayai tidak perlu melakukan verifikasi MFA jika login

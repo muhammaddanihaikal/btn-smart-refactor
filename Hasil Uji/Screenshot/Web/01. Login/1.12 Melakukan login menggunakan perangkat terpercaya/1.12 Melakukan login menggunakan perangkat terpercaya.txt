@@ -1,0 +1,17 @@
+NO TEST CASE : 1.12
+JUDUL        : Melakukan login menggunakan perangkat terpercaya
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input email dan password valid pada perangkat terpercaya.
+2. Klik button Masuk.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kredensial.
+2. Berhasil login tanpa verifikasi OTP.

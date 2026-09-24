@@ -1,0 +1,16 @@
+NO TEST CASE : 32.9
+JUDUL        : Menampilkan Ringkasan Kehadiran
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Dashboard Absent.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan Widget Ringkasan Kehadiran.

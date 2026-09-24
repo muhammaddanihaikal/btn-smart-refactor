@@ -1,0 +1,16 @@
+NO TEST CASE : 45.12
+JUDUL        : Mencari data kata kunci yang tidak sesuai (Negative test)
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input data yang tidak sesuai
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Data tidak ditemukan

@@ -1,0 +1,31 @@
+NO TEST CASE : 22.2
+JUDUL        : Filter data
+MODUL        : Menu Target
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih kantor wilayah
+2. Pilih kantor cabang
+3. Pilih kantor cabang pembantu (jika ada)
+4. Pilih Bisnis Unit 
+5. Pilih Produk
+6. Pilih sales
+7. Pilih bulan
+8. Pilih tahun 
+9. Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown data kantor wilayah dan berhasil di pilih 
+2. Menampilkan dropdown data kantor cabang sesuai dengan kantor wilayah dan berhasil di pilih 
+3. Menampilkan dropdown data kantor cabang pembantu sesuai dengan kantor cabang dan berhasil di pilih
+4. Menampilkan dropdown data bisnis unit dan berhasil di pilih 
+5. Menampilkan dropdown data produk sesuai dengan bisnis unit dan berhasil di pilih 
+6. Menampilkan dropdown data sales sesuai dengan kantor, bisnis unit, produk dan berhasil di pilih 
+7. Menampilkan dropdown data bulan dan berhasil di pilih 
+8. Menampilkan dropdown data tahun dan berhasil di pilih 
+9. Berhasil menampilkan data target sesuai dengan filter yang di pilih

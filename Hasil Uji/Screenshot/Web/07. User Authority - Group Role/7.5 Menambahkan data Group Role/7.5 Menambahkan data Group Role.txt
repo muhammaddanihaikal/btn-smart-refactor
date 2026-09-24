@@ -1,0 +1,22 @@
+NO TEST CASE : 7.5
+JUDUL        : Menambahkan data Group Role
+MODUL        : User Authority
+SUB MENU     : Group Role
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah Role.
+2. Input seluruh field mandatory.
+3. Pilih hak akses menu.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah Role.
+2. Berhasil menginput data.
+3. Berhasil memilih hak akses menu.
+4. Berhasil menyimpan data group role.

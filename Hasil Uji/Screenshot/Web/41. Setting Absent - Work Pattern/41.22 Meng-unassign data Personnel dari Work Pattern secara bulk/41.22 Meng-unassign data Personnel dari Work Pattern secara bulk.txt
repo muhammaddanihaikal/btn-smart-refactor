@@ -1,0 +1,18 @@
+NO TEST CASE : 41.22
+JUDUL        : Meng-unassign data Personnel dari Work Pattern secara bulk
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik beberapa checkbox data Personnel yang sudah ter-assign.
+2. Klik icon Unassign (merah).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mencentang beberapa checkbox data Personnel.
+2. Berhasil menghapus (unassign) seluruh personnel yang dipilih secara bulk dari Work Pattern.

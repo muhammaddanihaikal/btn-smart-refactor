@@ -1,0 +1,24 @@
+NO TEST CASE : 28.2
+JUDUL        : Menginput data prospek lembaga step 1
+MODUL        : Lead Generation
+SUB MENU     : Prospek Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama lembaga
+2. Input nomor telepon
+3. Input kontak
+4. Input nomor NPWP 
+5. Klik right arrow button
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input nama lembaga
+2. Berhasil input nomor telepon 
+3. Berhasil input kontak
+4. Berhasil input nomor NPWP
+5. Menampilkan halaman input data step 2

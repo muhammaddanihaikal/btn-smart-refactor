@@ -1,0 +1,15 @@
+NO TEST CASE : 31.1
+JUDUL        : Membuka halaman List Prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu List Prospek ETB
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman list prospek ETB

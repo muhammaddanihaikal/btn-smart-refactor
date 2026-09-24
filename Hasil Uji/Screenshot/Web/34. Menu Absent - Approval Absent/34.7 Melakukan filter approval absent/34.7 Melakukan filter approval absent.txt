@@ -1,0 +1,18 @@
+NO TEST CASE : 34.7
+JUDUL        : Melakukan filter approval absent
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih filter.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih filter.
+2. Berhasil menampilkan data sesuai filter.

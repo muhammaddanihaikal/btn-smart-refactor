@@ -1,0 +1,16 @@
+NO TEST CASE : 56.13
+JUDUL        : Melihat detail skor Produktivitas
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon mata
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail skor Produktivitas

@@ -1,0 +1,13 @@
+NO TEST CASE : 5.1
+JUDUL        : Melakukan Clock In
+MODUL        : Absent - Clock In
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button clock in
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan halaman/ form inputan clock in

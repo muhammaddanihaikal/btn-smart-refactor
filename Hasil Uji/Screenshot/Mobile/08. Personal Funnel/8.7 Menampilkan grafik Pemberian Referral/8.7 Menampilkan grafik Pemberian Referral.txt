@@ -1,0 +1,13 @@
+NO TEST CASE : 8.7
+JUDUL        : Menampilkan grafik Pemberian Referral
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik Pemberian Referral
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang Pemberian Referral dengan data Target dan Actual.

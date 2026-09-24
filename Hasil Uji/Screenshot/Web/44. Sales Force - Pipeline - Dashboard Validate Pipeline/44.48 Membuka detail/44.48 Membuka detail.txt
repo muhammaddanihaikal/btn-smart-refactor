@@ -1,0 +1,16 @@
+NO TEST CASE : 44.48
+JUDUL        : Membuka detail
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail Validate pipeline

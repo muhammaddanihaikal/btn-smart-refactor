@@ -1,0 +1,18 @@
+NO TEST CASE : 70.1
+JUDUL        : Membuka halaman Approval non Banking
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Re-Assign & Approval 
+2. Klik submenu Approval non banking
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan submenu Re-Assign & Approval 
+2. Menampilkan halaman Approval non banking

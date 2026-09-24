@@ -1,0 +1,18 @@
+NO TEST CASE : 29.5
+JUDUL        : Melihat detail prospek
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga 
+2. Klik Detail Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan action detail prospek dan aktifitas marketing
+2. Menampilkan halaman detail prospek

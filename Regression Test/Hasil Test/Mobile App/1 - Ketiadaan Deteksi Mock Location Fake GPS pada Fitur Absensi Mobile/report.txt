@@ -1,0 +1,11 @@
+🐞 [BUG] | Mobile App - Absensi: Ketiadaan Deteksi Mock Location (Fake GPS) pada Fitur Absensi Mobile
+
+> * **Menu**: Mobile App → Absensi
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aplikasi mobile BTN Smart tidak memvalidasi atau mendeteksi penggunaan lokasi tiruan (Mock Location / Fake GPS). Sistem membaca koordinat palsu dari aplikasi pihak ketiga dan tetap mengizinkan user melakukan absensi (Clock In / Clock Out) hingga lokasi palsu tersebut tersimpan di Web Admin (Daily Absent). Hal ini membuka celah kecurangan (fraud) kehadiran bagi karyawan.
+> * **Expected**: Aplikasi wajib mendeteksi jika perangkat menggunakan Mock Location / Fake GPS, memunculkan pesan peringatan ("Lokasi tiruan/palsu terdeteksi"), dan memblokir proses absensi.
+> * **Actual**: Aplikasi menerima koordinat dari Fake GPS tanpa proteksi apapun dan proses absensi berhasil dilakukan.
+> * **Evidence**:
+>   * Set Lokasi di Aplikasi Fake GPS: [https://files.catbox.moe/j7kor4.jpg](https://files.catbox.moe/j7kor4.jpg)
+>   * Titik Palsu Terbaca di BTN Smart Mobile: [https://files.catbox.moe/adpqxe.jpg](https://files.catbox.moe/adpqxe.jpg)
+>   * Absensi Lokasi Palsu Tersimpan di Web Admin: [https://files.catbox.moe/qq70mx.png](https://files.catbox.moe/qq70mx.png)

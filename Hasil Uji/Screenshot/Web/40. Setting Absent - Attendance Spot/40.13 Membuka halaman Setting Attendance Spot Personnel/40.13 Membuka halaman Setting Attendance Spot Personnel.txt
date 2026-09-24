@@ -1,0 +1,16 @@
+NO TEST CASE : 40.13
+JUDUL        : Membuka halaman Setting Attendance Spot Personnel
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Setting Attendance Spot Personnel pada salah satu data Attendance Spot.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman Setting Attendance Spot Personnel.

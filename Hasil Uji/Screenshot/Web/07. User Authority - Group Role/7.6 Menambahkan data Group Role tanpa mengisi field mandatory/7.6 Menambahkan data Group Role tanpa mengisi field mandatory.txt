@@ -1,0 +1,20 @@
+NO TEST CASE : 7.6
+JUDUL        : Menambahkan data Group Role tanpa mengisi field mandatory
+MODUL        : User Authority
+SUB MENU     : Group Role
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah Role.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah Role.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

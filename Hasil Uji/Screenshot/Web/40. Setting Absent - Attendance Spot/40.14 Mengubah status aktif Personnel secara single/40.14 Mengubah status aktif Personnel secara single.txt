@@ -1,0 +1,18 @@
+NO TEST CASE : 40.14
+JUDUL        : Mengubah status aktif Personnel secara single
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik checkbox pada salah satu data Personnel.
+2. Klik toggle Status pada data Personnel tersebut.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mencentang checkbox data Personnel.
+2. Berhasil mengubah status aktif/nonaktif personnel secara single.

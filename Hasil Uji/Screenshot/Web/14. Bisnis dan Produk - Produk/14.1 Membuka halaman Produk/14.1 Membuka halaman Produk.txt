@@ -1,0 +1,18 @@
+NO TEST CASE : 14.1
+JUDUL        : Membuka halaman Produk
+MODUL        : Bisnis dan Produk
+SUB MENU     : Produk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Bisnis & Produk.
+2. Klik sub menu Produk.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Bisnis & Produk.
+2. Berhasil membuka sub menu Produk.

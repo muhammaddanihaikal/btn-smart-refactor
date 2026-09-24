@@ -1,0 +1,13 @@
+NO TEST CASE : 7.2
+JUDUL        : Melakukan filter data log absensi
+MODUL        : Log Absensi
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Pilih Tahun pada field Tahun - Pilih Bulan pada field Bulan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan daftar log absensi sesuai Bulan dan Tahun yang dipilih.

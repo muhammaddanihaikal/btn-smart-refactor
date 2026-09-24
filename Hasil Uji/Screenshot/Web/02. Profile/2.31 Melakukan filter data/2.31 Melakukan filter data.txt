@@ -1,0 +1,15 @@
+NO TEST CASE : 2.31
+JUDUL        : Melakukan filter data
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih tipe atau status
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data sesuai filter yang dipilih

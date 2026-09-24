@@ -1,0 +1,23 @@
+NO TEST CASE : 31.18
+JUDUL        : Melakukan Prospek Ulang
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga pada Aksi 
+2. Klik Prospek Ulang 
+3. Input data Informasi Produk 
+4. Klik button Simpan 
+5. Klik button Ya
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa aksi (Detail prospek, prospek ulang, dan informasi rekening)
+2. Menampilkan modal Prospek Ulang 
+3. Berhasil menginput data informasi produk 
+4. Menampilkan popup konfirmasi 
+5. Berhasil melakukan prospek ulang dengan popup 'Prospek Ulang Berhasil' dan data prospek tersebut akan masuk ke halaman aktifitas

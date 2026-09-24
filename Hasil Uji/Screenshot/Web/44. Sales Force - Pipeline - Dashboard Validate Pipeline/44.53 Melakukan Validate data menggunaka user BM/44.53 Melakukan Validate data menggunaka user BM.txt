@@ -1,0 +1,24 @@
+NO TEST CASE : 44.53
+JUDUL        : Melakukan Validate data menggunaka user BM
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login menggunakan user BM
+2. Masuk ke menu dashboard valiadate pipeline halaman detail validate 
+3. Pilih data dengan klik checkbox pada table 
+4. klik button validate 
+5. klik ok
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. berhasil login menggunakan user bm 
+2. Menampilkan halaman detail validate pipeline 
+3. Button validate aktif
+4. Menampilkan popup konfirmasi
+5. Berhasil melakukan validate pipeline dan data akan tampil pada user RO Head

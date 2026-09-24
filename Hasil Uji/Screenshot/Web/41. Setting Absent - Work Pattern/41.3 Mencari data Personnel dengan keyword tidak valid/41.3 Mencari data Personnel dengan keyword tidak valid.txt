@@ -1,0 +1,18 @@
+NO TEST CASE : 41.3
+JUDUL        : Mencari data Personnel dengan keyword tidak valid
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword yang tidak terdaftar pada field Search di halaman Personnel.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

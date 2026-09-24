@@ -1,0 +1,13 @@
+NO TEST CASE : 11.9
+JUDUL        : Mengisi form Step 4 (Prospek) NTB dengan data valid
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengisi seluruh field pada Step 4 Prospek dengan data valid - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan data prospek Individu NTB dan menampilkan layar konfirmasi Prospek Berhasil Dibuat.

@@ -1,0 +1,16 @@
+NO TEST CASE : 3.5
+JUDUL        : Me-refresh data pada halaman Overview Funding
+MODUL        : Overview
+SUB MENU     : Overview Fund
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tombol Refresh pada halaman Overview Funding.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memuat ulang (refresh) data terbaru pada seluruh widget.

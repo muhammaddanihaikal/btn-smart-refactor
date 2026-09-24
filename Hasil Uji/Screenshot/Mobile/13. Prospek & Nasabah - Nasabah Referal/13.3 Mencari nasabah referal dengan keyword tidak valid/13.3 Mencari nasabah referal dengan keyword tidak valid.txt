@@ -1,0 +1,13 @@
+NO TEST CASE : 13.3
+JUDUL        : Mencari nasabah referal dengan keyword tidak valid
+MODUL        : Prospek & Nasabah - Nasabah Referal
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan keyword tidak valid pada Search Bar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan informasi data tidak ditemukan.

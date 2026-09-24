@@ -1,0 +1,15 @@
+NO TEST CASE : 2.40
+JUDUL        : Ganti nama perangkat
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon opsi perangkat, klik Ganti nama – ubah nama perangkat klik “ok”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengubah nama label perangkat pada perangkat terhubung dan Riwayat login

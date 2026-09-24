@@ -1,0 +1,18 @@
+NO TEST CASE : 4.1
+JUDUL        : Membuka halaman Overview Lending
+MODUL        : Overview
+SUB MENU     : Overview Lend
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka menu Overview.
+2. Klik sub menu Overview Lending.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Overview.
+2. Berhasil menampilkan halaman Overview Lending.

@@ -1,0 +1,22 @@
+NO TEST CASE : 3.4
+JUDUL        : Melakukan Visit Out
+MODUL        : Sales Tracking Activity
+SUB MENU     : Visit Out
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Visit Out
+2. Input data pada field Catatan Kunjungan.
+3. Klik button Ambil Foto Kunjungan dan ambil foto.
+4. Klik button Selesai Kunjungan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman Selesai Kunjungan (Visit Out)
+2. Berhasil menginput data pada field Catatan Kunjungan.
+3. Berhasil mengambil foto kunjungan.
+4. Berhasil melakukan Visit Out.

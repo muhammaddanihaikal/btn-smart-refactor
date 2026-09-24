@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Group Role: Export Group Role Tidak Tercatat di Riwayat dan Aktivitas Export
+
+> * **Menu**: User Authority → Group Role
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aktivitas export data dari daftar Group Role tidak masuk dan tidak tercatat di menu Riwayat Export maupun Aktivitas Export.
+> * **Expected**: Setiap kali user melakukan export data Group Role, riwayatnya otomatis tercatat di `Export Center → Riwayat Export` dan `Export Center → Aktivitas Export`.
+> * **Actual**: Log export Group Role tidak muncul di kedua menu Export Center tersebut.
+> * **Evidence**:
+>   * [https://files.catbox.moe/4yb9kj.png](https://files.catbox.moe/4yb9kj.png)

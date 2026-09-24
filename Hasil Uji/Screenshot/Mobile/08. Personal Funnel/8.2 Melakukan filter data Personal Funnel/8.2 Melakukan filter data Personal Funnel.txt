@@ -1,0 +1,13 @@
+NO TEST CASE : 8.2
+JUDUL        : Melakukan filter data Personal Funnel
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Filter - Pilih Business Unit pada field Business Unit - Pilih Product pada field Product - Pilih Bulan pada field Bulan - Pilih Tahun pada field Tahun - Klik button Filter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan data grafik Personal Funnel sesuai filter yang dipilih.

@@ -1,0 +1,16 @@
+NO TEST CASE : 37.11
+JUDUL        : Melihat detail aktivitas Visit Out
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Show Detail pada kolom Detail Visit di bagian Visit Out.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup Activity Visit Detail yang berisi foto, Visit Out Date & Time, Visit Out Location, dan Visit Out Description.

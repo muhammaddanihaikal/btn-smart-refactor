@@ -1,0 +1,20 @@
+NO TEST CASE : 24.61
+JUDUL        : Hapus data
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Action titik tiga 
+2. Klik button Hapus Batch
+3. Klik Hapus
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action
+2. Menampilkan popup konfirmasi hapus 
+3. Berhasil menghapus data upload bulk user

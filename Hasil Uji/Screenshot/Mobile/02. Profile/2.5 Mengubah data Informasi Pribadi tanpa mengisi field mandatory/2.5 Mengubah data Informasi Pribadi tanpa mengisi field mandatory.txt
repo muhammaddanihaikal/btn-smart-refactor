@@ -1,0 +1,13 @@
+NO TEST CASE : 2.5
+JUDUL        : Mengubah data Informasi Pribadi tanpa mengisi field mandatory
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Informasi Pribadi - Hapus isi field yang mandatory (misal: Nama Lengkap) - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Gagal menyimpan data dan menampilkan pesan validasi field mandatory.

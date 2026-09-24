@@ -1,0 +1,30 @@
+NO TEST CASE : 27.8
+JUDUL        : Menginput data prospek step 3
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama perusahaan
+2. Input alamat perusahaan
+3. Input kota perusahaan
+4. Input kontak perusahaan 
+5. Input gaji
+6. Input posisi
+7. Input departemen
+8. Klik button Selanjutnya
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput nama perusahaan
+2. Berhasil menginput alamat perusahaan
+3. Berhasil menginput kota perusahaan
+4. Berhasil menginput kontak perusahaan
+5. Berhasil menginput gaji 
+6. Berhasil menginput posisi
+7. Berhasil menginput departemen 
+8. Berhasil menyimpan data pekerjaan dan menampilkan form input data step 4

@@ -1,0 +1,13 @@
+NO TEST CASE : 17.3
+JUDUL        : Melihat Daftar Pipeline pada Voa Realization
+MODUL        : Sales Force - Dashboard Sales Code
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon expand pada card Voa Realization - Klik Lihat Daftar Pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan Daftar Pipeline.

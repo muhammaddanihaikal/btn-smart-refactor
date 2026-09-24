@@ -1,0 +1,20 @@
+NO TEST CASE : 8.4
+JUDUL        : Melakukan filter data prospek
+MODUL        : Prospek & Nasabah
+SUB MENU     : Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter di halaman Aktifitas Prospek.
+2. Pilih kriteria filter pada form Filter.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Filter.
+2. Berhasil memilih kriteria filter.
+3. Berhasil menampilkan daftar prospek yang sesuai dengan kriteria filter.

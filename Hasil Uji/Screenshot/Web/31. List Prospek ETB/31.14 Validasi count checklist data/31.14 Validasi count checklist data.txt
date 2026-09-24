@@ -1,0 +1,15 @@
+NO TEST CASE : 31.14
+JUDUL        : Validasi count checklist data
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek informasi yang ada pada popup konfirmasi hapus
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan count angka yang sesuai dengan data yang di checklist

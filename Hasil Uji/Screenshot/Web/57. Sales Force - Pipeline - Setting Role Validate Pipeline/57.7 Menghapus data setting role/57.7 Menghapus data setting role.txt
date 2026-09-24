@@ -1,0 +1,20 @@
+NO TEST CASE : 57.7
+JUDUL        : Menghapus data setting role
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Role Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga(opsi)
+2. klik hapus
+3. klik "ya"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. menampilkan opsi aksi 
+2. menampilkan popup konfirmasi
+3. Berhasil menghapus data

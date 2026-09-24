@@ -1,0 +1,20 @@
+NO TEST CASE : 43.7
+JUDUL        : Menghapus sales people
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga (opsi) pada data yang terdapat nip pada tabel
+2. klik remove sales people
+3. Klik button ok
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan opsi action 
+2. Menampilkan popup konfirmasi 
+3. berhasil menghapus/ melepaskan nip dari sales code

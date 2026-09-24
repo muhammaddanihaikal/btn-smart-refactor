@@ -1,0 +1,20 @@
+NO TEST CASE : 41.8
+JUDUL        : Menambahkan data Work Pattern tanpa mengisi field mandatory
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add Work Pattern.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Add New Work Pattern.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

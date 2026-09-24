@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Fitur Search Perangkat & Sesi Hanya Berfungsi untuk Kolom Tertentu
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Kolom pencarian pada tab Perangkat & Sesi hanya membaca dan memfilter data berdasarkan kolom **Pengguna**, **Perangkat**, **IP Address**, dan **Lokasi**. Pencarian kata kunci dari kolom lain (seperti Kantor Wilayah, Kantor Cabang, Outlet, Kode Outlet, dan Job Title) belum berfungsi.
+> * **Expected**: Field search dapat memfilter data secara fleksibel berdasarkan seluruh kolom yang tersedia pada tabel Perangkat & Sesi.
+> * **Actual**: Pencarian hanya merespons kata kunci dari 4 kolom tersebut, sedangkan kolom kantor dan job title diabaikan (*tidak terfilter*).
+> * **Evidence**:
+>   * [https://files.catbox.moe/c66vyp.png](https://files.catbox.moe/c66vyp.png)

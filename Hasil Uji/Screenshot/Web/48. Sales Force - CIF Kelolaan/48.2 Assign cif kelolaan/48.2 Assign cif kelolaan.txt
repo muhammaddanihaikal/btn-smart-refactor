@@ -1,0 +1,22 @@
+NO TEST CASE : 48.2
+JUDUL        : Assign cif kelolaan
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button assign cif kelolaan 
+2. Klik button upload file 
+3. Download file template dengan klik download file template 
+4. Input data file template kemudian upload file template
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman assign cif kelolaan 
+2. Menampiilkan popup download dan upload template assign cif kelolaan 
+3. Berhasil mengunduh data file templeate 
+4. Berhasil mengupload data  Cif Kelolaan

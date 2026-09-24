@@ -1,0 +1,15 @@
+NO TEST CASE : 31.11
+JUDUL        : Membatalkan hapus data
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batal pada popup konfirmasi Hapus
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. popup tertutup dan tetap di halaman list prospek ETB

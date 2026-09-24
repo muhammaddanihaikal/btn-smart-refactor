@@ -1,0 +1,16 @@
+NO TEST CASE : 15.10
+JUDUL        : Mengekspor data Group Produk
+MODUL        : Bisnis dan Produk
+SUB MENU     : Group Produk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mendownload file export.

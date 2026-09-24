@@ -1,0 +1,18 @@
+NO TEST CASE : 21.1
+JUDUL        : Membuka halaman Data Kantor
+MODUL        : Kantor
+SUB MENU     : Data Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Kantor.
+2. Klik sub menu Data Kantor.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Kantor.
+2. Berhasil membuka sub menu Data Kantor.

@@ -1,0 +1,23 @@
+NO TEST CASE : 31.2
+JUDUL        : Filter data list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih produk 
+2. Pilih jenis nasabah 
+3. Pilih bulan
+4. Pilih tahun 
+5. Klik button Filter Data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list filter data produk dan berhasil memilih 
+2. Menampilkan dropdown list filter data jenis nasabah dan berhasil memilih 
+3. Menampilkan dropdown list filter bulan dan berhasil memilih 
+4. Menampilkan dropdown list filter tahun dan berhasil memilih 
+5. Berhasil menampilkan data list prospek ETB sesuai dengan filter yang di pilih

@@ -1,0 +1,10 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Selisih Total Pengguna pada Daftar Akun dengan Master User
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Total pengguna pada kartu metrik "Total Pengguna" dan tabel "Daftar Akun" di halaman Keamanan Akun hanya menampilkan 12.060 data, berbeda dengan data user yang berjumlah 12.088 data (selisih 28 user tidak tampil).
+> * **Expected**: Total pengguna pada kartu metrik dan tabel Daftar Akun sinkron dan sesuai dengan data user (12.088 data).
+> * **Actual**: Hanya menampilkan 12.060 data (selisih 28 user tidak terdata di Keamanan Akun).
+> * **Evidence**:
+>   * Master User (12.088 data): [https://files.catbox.moe/zuukfu.png](https://files.catbox.moe/zuukfu.png)
+>   * Keamanan Akun - Card & Tabel (12.060 data): [https://files.catbox.moe/q166bt.png](https://files.catbox.moe/q166bt.png)

@@ -1,0 +1,16 @@
+NO TEST CASE : 17.10
+JUDUL        : Mengekspor data Program IFD
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program IFD
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mendownload file export.

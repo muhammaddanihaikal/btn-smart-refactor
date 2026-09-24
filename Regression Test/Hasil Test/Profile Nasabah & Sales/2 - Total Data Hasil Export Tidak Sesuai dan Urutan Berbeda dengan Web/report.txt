@@ -1,0 +1,10 @@
+🐞 [BUG] | Profile Nasabah & Sales - Sales: Total Data Hasil Export Tidak Sesuai dan Urutan Berbeda dengan Web
+
+> * **Menu**: Profile Nasabah & Sales → Sales
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: File Excel hasil export data Sales hanya berisi 867 baris data (terpotong jauh dari total 10.392 data yang ada di web), dan urutan datanya tidak sesuai dengan urutan tampilan tabel web.
+> * **Expected**: Total data pada file Excel hasil export lengkap sesuai jumlah di web (10.392 data) dan urutan datanya konsisten mengikuti tabel web.
+> * **Actual**: File Excel hanya memuat 867 data (hilang 9.525 data) serta urutan datanya berbeda dengan web.
+> * **Evidence**:
+>   * Total Data Web (10.392 data): [https://files.catbox.moe/8nvhow.png](https://files.catbox.moe/8nvhow.png)
+>   * Hasil Export Excel (867 data & urutan beda): [https://files.catbox.moe/rws6v6.png](https://files.catbox.moe/rws6v6.png)

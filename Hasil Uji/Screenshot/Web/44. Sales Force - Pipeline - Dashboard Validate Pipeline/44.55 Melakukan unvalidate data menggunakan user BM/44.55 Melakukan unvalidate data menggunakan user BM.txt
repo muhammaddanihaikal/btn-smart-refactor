@@ -1,0 +1,20 @@
+NO TEST CASE : 44.55
+JUDUL        : Melakukan unvalidate data menggunakan user BM
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Manage pada data yang sudah di validate
+2. Klik button unalidate
+3. input reason kemudian klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan button unvalidate
+2. menampilkan popup konfirmasi
+3. Berhasil unvalidate pipeline

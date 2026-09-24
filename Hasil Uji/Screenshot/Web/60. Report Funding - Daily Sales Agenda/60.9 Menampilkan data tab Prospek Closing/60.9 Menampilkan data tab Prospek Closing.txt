@@ -1,0 +1,16 @@
+NO TEST CASE : 60.9
+JUDUL        : Menampilkan data tab Prospek Closing
+MODUL        : Report Funding
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Closing.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data pada tab Prospek Closing.

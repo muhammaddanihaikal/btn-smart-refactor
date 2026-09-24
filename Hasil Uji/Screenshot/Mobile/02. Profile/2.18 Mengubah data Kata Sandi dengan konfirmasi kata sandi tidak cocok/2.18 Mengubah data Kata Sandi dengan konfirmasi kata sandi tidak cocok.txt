@@ -1,0 +1,13 @@
+NO TEST CASE : 2.18
+JUDUL        : Mengubah data Kata Sandi dengan konfirmasi kata sandi tidak cocok
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input Kata Sandi Lama dengan valid - Input Kata Sandi Baru yang memenuhi kriteria - Input Konfirmasi Kata Sandi Baru yang berbeda dengan kata sandi baru - Klik button Simpan Kata Sandi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Gagal mengubah kata sandi dan menampilkan notifikasi pesan error konfirmasi kata sandi tidak cocok.

@@ -1,0 +1,18 @@
+NO TEST CASE : 9.1
+JUDUL        : Membuka halaman Pengingat
+MODUL        : Agenda
+SUB MENU     : Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka menu Lainnya.
+2. Klik menu Pengingat.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Pengingat.

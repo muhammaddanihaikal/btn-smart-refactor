@@ -1,0 +1,22 @@
+NO TEST CASE : 37.5
+JUDUL        : Melakukan filter data Client Visit List
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Pilih parameter filter pada dropdown Kantor Wilayah, Kantor Cabang, Kantor Cabang Pembantu, Job Role, dan/atau Sales.
+3. Tentukan Date Range.
+4. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan panel filter.
+2. Berhasil memilih parameter filter.
+3. Berhasil menentukan Date Range.
+4. Berhasil menampilkan data sesuai filter yang dipilih.

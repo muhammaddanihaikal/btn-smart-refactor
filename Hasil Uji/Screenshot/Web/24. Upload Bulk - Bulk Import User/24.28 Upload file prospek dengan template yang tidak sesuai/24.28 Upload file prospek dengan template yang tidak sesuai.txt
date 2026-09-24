@@ -1,0 +1,16 @@
+NO TEST CASE : 24.28
+JUDUL        : Upload file prospek dengan template yang tidak sesuai
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Upload data prospek lembaga dengan template yang tidak sesuai
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan status Template Tidak Valid dan gagal upload bulk data tidak tersimpan

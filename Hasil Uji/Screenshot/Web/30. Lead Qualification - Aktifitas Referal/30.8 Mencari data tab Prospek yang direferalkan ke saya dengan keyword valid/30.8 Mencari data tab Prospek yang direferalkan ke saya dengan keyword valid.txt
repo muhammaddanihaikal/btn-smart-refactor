@@ -1,0 +1,18 @@
+NO TEST CASE : 30.8
+JUDUL        : Mencari data tab Prospek yang direferalkan ke saya dengan keyword valid
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field Search dengan keyword valid.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Search.
+2. Berhasil menampilkan data yang dicari.

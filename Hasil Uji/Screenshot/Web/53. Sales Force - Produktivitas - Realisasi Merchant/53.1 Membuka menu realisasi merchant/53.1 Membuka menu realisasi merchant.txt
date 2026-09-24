@@ -1,0 +1,20 @@
+NO TEST CASE : 53.1
+JUDUL        : Membuka menu realisasi merchant
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Realisasi Merchant
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force
+2. Klik submenu Produktivitas
+3. Klik submenu Realisasi Merchant
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan list submenu produktivitas
+3. Menampilkan halaman Realisasi Merchant

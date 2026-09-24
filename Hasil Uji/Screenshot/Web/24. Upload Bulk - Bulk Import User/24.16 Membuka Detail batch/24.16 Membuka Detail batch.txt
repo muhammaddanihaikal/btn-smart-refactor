@@ -1,0 +1,18 @@
+NO TEST CASE : 24.16
+JUDUL        : Membuka Detail batch
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Action titik tiga 
+2. Klik button Detail batch
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action 
+2. Menampilkan drawer detail batch

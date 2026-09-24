@@ -1,0 +1,13 @@
+NO TEST CASE : 8.1
+JUDUL        : Membuka halaman Personal Funnel
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Laporan pada navigation bar - Klik menu Personal Funnel
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Personal Funnel.

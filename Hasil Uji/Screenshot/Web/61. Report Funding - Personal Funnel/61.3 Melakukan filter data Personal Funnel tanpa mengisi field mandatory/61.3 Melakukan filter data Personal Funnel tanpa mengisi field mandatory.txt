@@ -1,0 +1,18 @@
+NO TEST CASE : 61.3
+JUDUL        : Melakukan filter data Personal Funnel tanpa mengisi field mandatory
+MODUL        : Report Funding
+SUB MENU     : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengosongkan field filter mandatory.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field filter mandatory.
+2. Berhasil menampilkan pesan validasi bahwa field filter mandatory wajib diisi.

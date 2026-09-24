@@ -1,0 +1,13 @@
+NO TEST CASE : 8.5
+JUDUL        : Menampilkan grafik Call
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik Call
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang Call dengan data Target dan Actual.

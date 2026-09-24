@@ -1,0 +1,16 @@
+NO TEST CASE : 32.11
+JUDUL        : Melihat detail Kantor Wilayah
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik ikon detail pada kartu Kantor Wilayah.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan Popup detail Kantor Wilayah.

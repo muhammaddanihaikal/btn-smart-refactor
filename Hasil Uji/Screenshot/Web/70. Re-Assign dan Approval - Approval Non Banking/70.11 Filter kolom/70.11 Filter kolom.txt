@@ -1,0 +1,18 @@
+NO TEST CASE : 70.11
+JUDUL        : Filter kolom
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon filter kolom 
+2. Checklist/unchecklist kolom
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list kolom tabel 
+2. Menampilkan data tabel sesuai dengan kolom yang di ceklis

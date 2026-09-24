@@ -1,0 +1,13 @@
+NO TEST CASE : 2.15
+JUDUL        : Mengubah data Kata Sandi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input Kata Sandi Lama dengan valid - Input Kata Sandi Baru yang memenuhi kriteria - Input Konfirmasi Kata Sandi Baru - Klik button Simpan Kata Sandi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengubah kata sandi dan menampilkan notifikasi sukses.

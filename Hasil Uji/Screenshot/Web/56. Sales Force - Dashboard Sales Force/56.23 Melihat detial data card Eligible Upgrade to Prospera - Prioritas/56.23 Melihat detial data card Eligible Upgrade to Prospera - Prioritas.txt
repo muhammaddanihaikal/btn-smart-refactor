@@ -1,0 +1,16 @@
+NO TEST CASE : 56.23
+JUDUL        : Melihat detial data card Eligible Upgrade to Prospera / Prioritas
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (tanda panah) pada card Eligible Upgrade to Prospera / Prioritas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail Eligible Upgrade to Prospera / Prioritas

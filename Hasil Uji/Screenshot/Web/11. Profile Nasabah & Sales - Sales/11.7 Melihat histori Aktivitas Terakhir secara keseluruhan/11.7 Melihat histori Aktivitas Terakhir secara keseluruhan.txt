@@ -1,0 +1,16 @@
+NO TEST CASE : 11.7
+JUDUL        : Melihat histori Aktivitas Terakhir secara keseluruhan
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Sales, klik link 'Lihat semua ->' di bagian Aktivitas Terakhir.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil pengguna diarahkan ke halaman 'Lead Qualification - Aktivitas'.

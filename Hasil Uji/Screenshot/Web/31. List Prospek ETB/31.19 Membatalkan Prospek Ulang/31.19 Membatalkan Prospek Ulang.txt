@@ -1,0 +1,15 @@
+NO TEST CASE : 31.19
+JUDUL        : Membatalkan Prospek Ulang
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tidak pada popup konfirmasi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. popup konfirmasi tertutup dan tetap di halaman list prospek ETB dengan posisi terakhir modal masih terbuka

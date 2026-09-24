@@ -1,0 +1,13 @@
+NO TEST CASE : 8.8
+JUDUL        : Menampilkan grafik Posisi
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik Posisi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang Posisi dengan data Target dan Actual.

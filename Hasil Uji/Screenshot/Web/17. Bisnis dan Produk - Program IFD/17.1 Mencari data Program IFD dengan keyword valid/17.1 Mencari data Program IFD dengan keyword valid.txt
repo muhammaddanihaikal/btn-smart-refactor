@@ -1,0 +1,18 @@
+NO TEST CASE : 17.1
+JUDUL        : Mencari data Program IFD dengan keyword valid
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program IFD
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword valid pada field Cari Data.
+2. Klik button Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai pencarian.

@@ -1,0 +1,20 @@
+NO TEST CASE : 17.8
+JUDUL        : Menghapus data Program IFD secara single
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program IFD
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih data yang ingin dihapus dengan mencentang checkbox pada baris data.
+2. Klik button Hapus 1 data.
+3. Klik button Ya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih data.
+2. Berhasil menampilkan button Hapus 1 data dan popup konfirmasi.
+3. Berhasil menghapus data Program IFD.

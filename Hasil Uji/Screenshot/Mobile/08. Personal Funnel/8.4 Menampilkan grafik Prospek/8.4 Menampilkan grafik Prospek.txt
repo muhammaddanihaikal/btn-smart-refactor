@@ -1,0 +1,13 @@
+NO TEST CASE : 8.4
+JUDUL        : Menampilkan grafik Prospek
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang Prospek dengan data Target dan Actual.

@@ -1,0 +1,22 @@
+NO TEST CASE : 26.2
+JUDUL        : Validasi Format tanggal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input tanggal dengan format yang tidak sesuai 
+2. Simpan file 
+3. Upload file 
+4. Cek data pada halaman preview data dan dokumen error
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input tanggal
+2. Berhasil menyimpan file
+3. Berhasil upload file dengan status 'Validasi Gagal' dan data tidak tersimpan
+4. Menampilkan informasi 'Format tanggal harus DD-MM-YYYY'

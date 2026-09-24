@@ -1,0 +1,20 @@
+NO TEST CASE : 34.15
+JUDUL        : Menolak approval absent tanpa mengisi Comments
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reject.
+2. Kosongkan Comments.
+3. Klik button Reject.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Reject.
+2. Comments tetap kosong.
+3. Muncul validasi Comments wajib diisi.

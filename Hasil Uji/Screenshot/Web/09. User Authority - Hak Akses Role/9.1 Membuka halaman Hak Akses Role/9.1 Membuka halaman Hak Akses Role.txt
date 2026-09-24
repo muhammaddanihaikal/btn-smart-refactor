@@ -1,0 +1,18 @@
+NO TEST CASE : 9.1
+JUDUL        : Membuka halaman Hak Akses Role
+MODUL        : User Authority
+SUB MENU     : Hak Akses Role
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority.
+2. Klik sub menu Hak Akses Role.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman Hak Akses Role beserta daftar data role.

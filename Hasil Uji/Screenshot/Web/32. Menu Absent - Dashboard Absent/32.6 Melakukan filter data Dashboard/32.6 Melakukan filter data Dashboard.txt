@@ -1,0 +1,20 @@
+NO TEST CASE : 32.6
+JUDUL        : Melakukan filter data Dashboard
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Isi filter.
+3. Klik Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan Panel Filter.
+2. Berhasil mengisi filter.
+3. Berhasil data dashboard ditampilkan sesuai filter.

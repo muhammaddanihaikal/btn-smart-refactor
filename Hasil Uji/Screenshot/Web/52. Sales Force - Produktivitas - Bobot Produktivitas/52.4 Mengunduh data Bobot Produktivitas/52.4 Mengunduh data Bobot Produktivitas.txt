@@ -1,0 +1,16 @@
+NO TEST CASE : 52.4
+JUDUL        : Mengunduh data Bobot Produktivitas
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Bobot Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button export data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data Bobot Produktivitas

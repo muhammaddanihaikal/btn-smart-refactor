@@ -1,0 +1,13 @@
+NO TEST CASE : 14.4
+JUDUL        : Menambahkan pengingat baru dengan data valid
+MODUL        : Agenda - Pengingat
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button + Baru - Mengisi seluruh field mandatory pada form Tambah Pengingat dengan data valid - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan pengingat dan menampilkan pengingat baru pada daftar.

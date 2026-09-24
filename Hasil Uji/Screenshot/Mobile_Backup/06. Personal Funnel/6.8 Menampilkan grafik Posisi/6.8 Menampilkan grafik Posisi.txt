@@ -1,0 +1,17 @@
+NO TEST CASE : 6.8
+JUDUL        : Menampilkan grafik Posisi
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Melihat grafik Posisi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil menampilkan grafik batang Posisi dengan data Target dan Actual.

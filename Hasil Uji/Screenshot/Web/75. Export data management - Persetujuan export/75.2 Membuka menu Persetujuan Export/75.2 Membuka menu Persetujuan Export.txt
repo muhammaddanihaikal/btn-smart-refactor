@@ -1,0 +1,16 @@
+NO TEST CASE : 75.2
+JUDUL        : Membuka menu Persetujuan Export
+MODUL        : Export data management
+SUB MENU     : Persetujuan export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu exported data management, klik submenu persetujuan export
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman persetujuan export

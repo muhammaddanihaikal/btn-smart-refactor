@@ -1,0 +1,19 @@
+NO TEST CASE : 1.16
+JUDUL        : Mengajukan Reset MFA tanpa mengisi alasan reset
+MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Ajukan Reset MFA.
+2. Kosongkan alasan reset.
+3. Klik button Ajukan Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Reset MFA.
+2. Alasan reset kosong.
+3. Berhasil menampilkan validasi alasan reset wajib diisi.

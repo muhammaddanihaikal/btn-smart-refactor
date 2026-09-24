@@ -1,0 +1,20 @@
+NO TEST CASE : 8.25
+JUDUL        : Mengisi form Step 1 (Informasi) dengan data valid
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka form Input Prospek Individu (Step 1 Informasi).
+2. Mengisi seluruh field pada Step 1 Informasi dengan data valid.
+3. Klik button Next.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Step 1 Informasi.
+2. Berhasil mengisi data pada Step 1 Informasi.
+3. Berhasil menyimpan data Step 1 dan berpindah ke Step 2 Data Pribadi.

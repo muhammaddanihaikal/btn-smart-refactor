@@ -1,0 +1,18 @@
+NO TEST CASE : 48.6
+JUDUL        : Assign cif kelolaan - download error file
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada data yang berstatus failed  
+2. klik download error file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan opsi action 
+2. Berhasil mengunduh data error untuk mengetahui informasi letak error saat upload file template

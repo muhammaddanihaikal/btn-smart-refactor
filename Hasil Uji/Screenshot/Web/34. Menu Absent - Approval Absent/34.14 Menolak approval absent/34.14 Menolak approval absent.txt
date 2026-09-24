@@ -1,0 +1,20 @@
+NO TEST CASE : 34.14
+JUDUL        : Menolak approval absent
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reject.
+2. Isi Comments.
+3. Klik button Reject.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Reject.
+2. Berhasil mengisi Comments.
+3. Berhasil mengubah status menjadi Rejected.

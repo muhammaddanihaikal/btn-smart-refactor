@@ -1,0 +1,16 @@
+NO TEST CASE : 27.3
+JUDUL        : Menginput huruf di field nomor telepon
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input huruf pada field nomor telepon
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi 'Nomor telepon tidak valid'

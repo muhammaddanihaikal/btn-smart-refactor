@@ -1,0 +1,18 @@
+NO TEST CASE : 24.64
+JUDUL        : Filter status upload bulk User
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Filter Status
+2. Pilih dan klik salah satu status
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list data semua status 
+2. Menampilkan data upload bulk user sesuai dengan status yang di pilih

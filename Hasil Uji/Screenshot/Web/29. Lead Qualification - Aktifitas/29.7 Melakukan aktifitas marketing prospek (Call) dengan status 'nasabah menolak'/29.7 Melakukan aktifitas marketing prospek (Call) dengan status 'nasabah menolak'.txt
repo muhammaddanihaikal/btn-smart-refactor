@@ -1,0 +1,18 @@
+NO TEST CASE : 29.7
+JUDUL        : Melakukan aktifitas marketing prospek (Call) dengan status 'nasabah menolak'
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lakukan aktifitas marketing call dengan status call 'Menolak'.
+2. Lakukan aktifitas marketing call kembali dengan status lain.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil melakukan call dengan status menolak.
+2. Menampilkan popup alert 'Anda tidak dapat memindahkan dari stage Ditolak ke Call'.

@@ -1,0 +1,19 @@
+NO TEST CASE : 7.8
+JUDUL        : Mengajukan cuti
+MODUL        : Cuti & Izin
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Ajukan Cuti.
+2. Mengisi semua field mandatory.
+3. Klik button Ajukan Cuti.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Ajukan Cuti.
+2. Berhasil mengisi semua field mandatory.
+3. Berhasil mengajukan cuti.

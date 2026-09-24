@@ -1,0 +1,18 @@
+NO TEST CASE : 29.13
+JUDUL        : Membatalkan prospek
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batalkan Prospek 
+2. Klik 'Iya'
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi batal prospek 
+2. Berhasil membatalkan prospek, muncul popup 'Prospek telah dibatalkan' dan staging berubah menjadi Batal

@@ -1,0 +1,13 @@
+NO TEST CASE : 8.15
+JUDUL        : Melihat detail tabel Posisi
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Klik icon tabel pada grafik Posisi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman detail tabel Posisi yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

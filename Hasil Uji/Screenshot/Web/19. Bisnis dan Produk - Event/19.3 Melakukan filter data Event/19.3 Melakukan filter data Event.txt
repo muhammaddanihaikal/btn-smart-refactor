@@ -1,0 +1,18 @@
+NO TEST CASE : 19.3
+JUDUL        : Melakukan filter data Event
+MODUL        : Bisnis dan Produk
+SUB MENU     : Event
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih parameter filter pada dropdown Status, Tipe, atau Tanggal.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih parameter filter.
+2. Berhasil menampilkan data terfilter.

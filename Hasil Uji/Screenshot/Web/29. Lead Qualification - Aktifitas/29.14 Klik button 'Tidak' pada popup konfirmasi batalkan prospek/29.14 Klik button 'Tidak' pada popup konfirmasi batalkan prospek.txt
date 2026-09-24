@@ -1,0 +1,18 @@
+NO TEST CASE : 29.14
+JUDUL        : Klik button 'Tidak' pada popup konfirmasi batalkan prospek
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batalkan Prospek 
+2. Klik 'Tidak'
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi batal prospek 
+2. popup konfirmasi tertutup dan tetap berada di halaman aktifitas marketing kemudian staging tidak berubah

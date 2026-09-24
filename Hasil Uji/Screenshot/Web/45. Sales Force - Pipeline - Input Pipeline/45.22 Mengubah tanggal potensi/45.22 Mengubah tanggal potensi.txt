@@ -1,0 +1,20 @@
+NO TEST CASE : 45.22
+JUDUL        : Mengubah tanggal potensi
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga 
+2. klik action edit tanggal 
+3. ubah tanggal kemudian klik button simpan perubahan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan Opsi action 
+2. Menampilkan popup edit tanggal potensi
+3. Berhasil mengubah tanggal potensi

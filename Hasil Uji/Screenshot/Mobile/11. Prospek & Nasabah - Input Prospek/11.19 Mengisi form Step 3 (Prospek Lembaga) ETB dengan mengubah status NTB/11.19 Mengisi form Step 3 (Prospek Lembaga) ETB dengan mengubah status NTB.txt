@@ -1,0 +1,13 @@
+NO TEST CASE : 11.19
+JUDUL        : Mengisi form Step 3 (Prospek Lembaga) ETB dengan mengubah status NTB
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Aktifkan toggle Ubah NTB ke ETB - Isi field No CIF - Mengisi seluruh field pada Step 3 Prospek Lembaga dengan data valid - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan data prospek Lembaga ETB dan menampilkan layar konfirmasi Prospek Berhasil Dibuat.

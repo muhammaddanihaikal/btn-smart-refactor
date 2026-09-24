@@ -1,0 +1,20 @@
+NO TEST CASE : 58.2
+JUDUL        : input setting validate pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button +input setting validate pipeline
+2. input data dengan mengisi (group produk role, segment, produk dan apakah lembaga)
+3. klik button save
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup input setting validate pipeline
+2. Berhasil menginput data
+3. Berhasil menambahkan data dan data dan data akan tampil pada menu dahsboard  tabel validate pipeline

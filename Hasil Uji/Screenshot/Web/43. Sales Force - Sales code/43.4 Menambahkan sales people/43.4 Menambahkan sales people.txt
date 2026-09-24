@@ -1,0 +1,22 @@
+NO TEST CASE : 43.4
+JUDUL        : Menambahkan sales people
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button create kemudian klik input sales poeple
+2. input nip kemudian klik button cari nip
+3. Pilih sales code sesuai dengan jobrole dan kantor cabang nip yang diinput 
+4. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman input sales people
+2. berhasil get data nip sales
+3. menampilkan sales code yang dipilih 
+4. Berhasil menginput sales people

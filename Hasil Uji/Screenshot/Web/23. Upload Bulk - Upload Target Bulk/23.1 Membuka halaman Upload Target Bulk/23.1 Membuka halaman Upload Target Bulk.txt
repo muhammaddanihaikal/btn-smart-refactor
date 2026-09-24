@@ -1,0 +1,18 @@
+NO TEST CASE : 23.1
+JUDUL        : Membuka halaman Upload Target Bulk
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Upload Bulk
+2. Klik submenu Upload Target Bulk
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown submenu upload bulk
+2. Menampilkan halaman Upload target bulk

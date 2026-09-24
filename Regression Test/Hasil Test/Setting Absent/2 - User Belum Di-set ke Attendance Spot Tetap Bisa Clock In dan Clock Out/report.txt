@@ -1,0 +1,11 @@
+🐞 [BUG] | Setting Absent - Attendance Spot: User Belum Di-set ke Attendance Spot Tetap Bisa Melakukan Clock In dan Clock Out
+
+> * **Menu**: Setting Absent → Attendance Spot
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: User dengan status penugasan titik absensi "Tidak Aktif" (Setting Attendance Spot Personnel) tetap dapat melakukan Clock In dan Clock Out secara bebas melalui aplikasi mobile. Sesuai aturan bisnis (business logic) dari BA, syarat mutlak agar karyawan dapat melakukan absensi adalah akun wajib sudah terikat aktif pada Work Pattern dan Attendance Spot.
+> * **Expected**: Tombol Clock In pada aplikasi mobile dinonaktifkan (disable) atau memunculkan pesan peringatan bahwa user belum memiliki titik absensi aktif.
+> * **Actual**: Tombol Clock In dan Clock Out tetap aktif normal dan absensi berhasil dilakukan meskipun status user pada titik absensi masih "Tidak Aktif".
+> * **Evidence**:
+>   * Status User Tidak Aktif di Web Admin: [https://files.catbox.moe/y1vk4t.png](https://files.catbox.moe/y1vk4t.png)
+>   * Tombol Clock In Tetap Aktif di Mobile: [https://files.catbox.moe/3lyqj1.jpg](https://files.catbox.moe/3lyqj1.jpg)
+>   * Berhasil Absen & Tombol Clock Out Muncul: [https://files.catbox.moe/h67vka.jpg](https://files.catbox.moe/h67vka.jpg)

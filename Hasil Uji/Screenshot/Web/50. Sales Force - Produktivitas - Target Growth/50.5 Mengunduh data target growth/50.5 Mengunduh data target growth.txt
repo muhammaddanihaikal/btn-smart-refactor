@@ -1,0 +1,16 @@
+NO TEST CASE : 50.5
+JUDUL        : Mengunduh data target growth
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Target Growth
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button export data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data target growth

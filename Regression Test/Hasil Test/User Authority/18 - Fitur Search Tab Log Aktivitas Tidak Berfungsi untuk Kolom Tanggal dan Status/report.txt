@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Fitur Search Log Aktivitas Tidak Berfungsi untuk Kolom Tanggal/Waktu dan Status
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Fitur pencarian pada tab Log Aktivitas sudah dapat memfilter sebagian besar kolom (Pengguna, Kantor, Job Title, Aktivitas, IP). Namun pencarian menggunakan kata kunci dari kolom **Tanggal/Waktu** dan **Status** belum berfungsi (*data tidak terfilter*).
+> * **Expected**: Field search dapat memfilter data secara menyeluruh termasuk berdasarkan tanggal/waktu (misal: *"12 September 2026"*) dan status (misal: *"Sukses"* atau *"Gagal"*).
+> * **Actual**: Pencarian dengan kata kunci dari kolom Tanggal/Waktu dan Status diabaikan sehingga data tidak terfilter.
+> * **Evidence**:
+>   * [https://files.catbox.moe/rycqzj.png](https://files.catbox.moe/rycqzj.png)

@@ -1,0 +1,17 @@
+NO TEST CASE : 31.15
+JUDUL        : Mengunduh data list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export Data 
+2. Klik icon unduh data pada download history drawer
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan download history drawer
+2. Berhasil mengunduh data list prospek ETB dalam bentuk file Excel

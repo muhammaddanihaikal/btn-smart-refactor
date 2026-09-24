@@ -1,0 +1,17 @@
+NO TEST CASE : 2.8
+JUDUL        : Melihat opsi Perangkat Tertaut
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Perangkat Tertaut.
+2. Klik icon titik tiga pada salah satu perangkat di daftar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Halaman Perangkat Tertaut ditampilkan.
+2. Menampilkan menu opsi opsi perangkat (Detail, Jangan Percayai Perangkat, Ganti Nama, Hapus).

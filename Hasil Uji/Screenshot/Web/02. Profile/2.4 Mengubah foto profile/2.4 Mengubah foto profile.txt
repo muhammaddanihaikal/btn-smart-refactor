@@ -1,0 +1,21 @@
+NO TEST CASE : 2.4
+JUDUL        : Mengubah foto profile
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Edit.
+2. Pilih foto dari folder.
+3. Pilih foto yang ingin digunakan.
+4. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik button Edit.
+2. Berhasil menampilkan folder foto.
+3. Berhasil memilih foto profile.
+4. Berhasil mengubah foto profile.

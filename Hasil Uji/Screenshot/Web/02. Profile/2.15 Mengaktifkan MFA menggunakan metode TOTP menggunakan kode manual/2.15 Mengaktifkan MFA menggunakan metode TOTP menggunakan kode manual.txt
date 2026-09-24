@@ -1,0 +1,21 @@
+NO TEST CASE : 2.15
+JUDUL        : Mengaktifkan MFA menggunakan metode TOTP menggunakan kode manual
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik metode TOTP 
+2. Salin kode manual, paste pada aplikasi google authenticator
+3. Mendapatkan kode kemudian input kode pada btn smart kolom kode verifikasi 
+4. Klik button continue
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup Setup autentikasi dua faktor (2FA)
+2. Berhasil menampilkan kode verifikasi
+3. Berhasil Menginput kode verifikasi
+4. Berhasil mengaktifkan MFA menggunakan metode TOTP

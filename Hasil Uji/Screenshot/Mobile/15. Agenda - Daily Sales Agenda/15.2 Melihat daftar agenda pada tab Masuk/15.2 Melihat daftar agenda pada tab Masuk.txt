@@ -1,0 +1,13 @@
+NO TEST CASE : 15.2
+JUDUL        : Melihat daftar agenda pada tab Masuk
+MODUL        : Agenda - Daily Sales Agenda
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik tab Masuk
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan daftar nasabah yang masuk pada Daily Sales Agenda.

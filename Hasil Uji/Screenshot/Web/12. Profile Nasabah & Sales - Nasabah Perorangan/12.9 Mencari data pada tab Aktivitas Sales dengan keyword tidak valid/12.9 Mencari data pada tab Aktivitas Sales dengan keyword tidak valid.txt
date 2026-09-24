@@ -1,0 +1,18 @@
+NO TEST CASE : 12.9
+JUDUL        : Mencari data pada tab Aktivitas Sales dengan keyword tidak valid
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada tab Aktivitas Sales, input kata kunci yang tidak valid pada field pencarian.
+2. Klik icon pencarian.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kata kunci yang tidak valid.
+2. Sistem menampilkan pesan bahwa data tidak ditemukan / tabel kosong.

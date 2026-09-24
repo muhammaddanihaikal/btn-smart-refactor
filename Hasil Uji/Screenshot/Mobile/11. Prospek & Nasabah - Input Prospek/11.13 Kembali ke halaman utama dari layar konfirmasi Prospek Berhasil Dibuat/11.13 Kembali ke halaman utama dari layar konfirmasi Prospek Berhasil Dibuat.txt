@@ -1,0 +1,13 @@
+NO TEST CASE : 11.13
+JUDUL        : Kembali ke halaman utama dari layar konfirmasi Prospek Berhasil Dibuat
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Kembali
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengarahkan pengguna kembali ke halaman utama / form input.

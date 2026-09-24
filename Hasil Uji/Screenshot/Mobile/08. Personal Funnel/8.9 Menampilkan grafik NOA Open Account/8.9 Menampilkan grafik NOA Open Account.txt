@@ -1,0 +1,13 @@
+NO TEST CASE : 8.9
+JUDUL        : Menampilkan grafik NOA Open Account
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik NOA Open Account
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang NOA Open Account dengan data Target dan Actual.

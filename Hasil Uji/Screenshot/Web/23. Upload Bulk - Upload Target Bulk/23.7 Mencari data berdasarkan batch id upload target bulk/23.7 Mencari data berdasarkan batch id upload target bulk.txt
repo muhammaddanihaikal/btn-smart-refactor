@@ -1,0 +1,18 @@
+NO TEST CASE : 23.7
+JUDUL        : Mencari data berdasarkan batch id upload target bulk
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id pada field search
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput batch id 
+2. Menampilkan data upload target bulk sesuai dengan batch id yang di cari

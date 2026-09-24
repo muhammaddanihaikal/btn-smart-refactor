@@ -1,0 +1,13 @@
+NO TEST CASE : 17.6
+JUDUL        : Melihat detail Realisasi Akuisisi Merchant
+MODUL        : Sales Force - Dashboard Sales Code
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon expand pada card Realisasi Akuisisi Merchant
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan detail Realisasi Akuisisi Merchant.

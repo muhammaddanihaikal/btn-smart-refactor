@@ -1,0 +1,15 @@
+NO TEST CASE : 2.44
+JUDUL        : Pengecekan masa berlaku percayai perangkat
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Percayai perangkat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Perangkat yang dipercayai hanya berlaku 30 hari

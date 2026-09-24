@@ -1,0 +1,13 @@
+NO TEST CASE : 11.20
+JUDUL        : Mengisi form Step 3 (Prospek Lembaga) tanpa field mandatory
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengosongkan seluruh field mandatory pada Step 3 Prospek Lembaga - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan validasi bahwa field mandatory wajib diisi.

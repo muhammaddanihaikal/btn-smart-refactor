@@ -1,0 +1,16 @@
+NO TEST CASE : 8.9
+JUDUL        : Membuka form Input Aktifitas
+MODUL        : Prospek & Nasabah
+SUB MENU     : Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aktifitas pada prospek yang berstatus aktif (belum closing).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Aktifitas Marketing dan menampilkan tab Prospek, Call, Visit, dan NOA Open Account.

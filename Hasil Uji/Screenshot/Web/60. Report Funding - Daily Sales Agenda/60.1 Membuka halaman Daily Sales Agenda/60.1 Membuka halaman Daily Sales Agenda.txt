@@ -1,0 +1,18 @@
+NO TEST CASE : 60.1
+JUDUL        : Membuka halaman Daily Sales Agenda
+MODUL        : Report Funding
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Report Funding.
+2. Klik sub menu Daily Sales Agenda.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Report Funding.
+2. Berhasil menampilkan halaman Daily Sales Agenda.

@@ -1,0 +1,17 @@
+NO TEST CASE : 6.14
+JUDUL        : Melihat detail tabel Pemberian Referral
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Klik icon tabel pada grafik Pemberian Referral.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil membuka halaman detail tabel Pemberian Referral yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

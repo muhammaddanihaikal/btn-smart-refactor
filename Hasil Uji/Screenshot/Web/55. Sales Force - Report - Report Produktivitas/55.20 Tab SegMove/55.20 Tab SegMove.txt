@@ -1,0 +1,16 @@
+NO TEST CASE : 55.20
+JUDUL        : Tab SegMove
+MODUL        : Sales Force
+SUB MENU     : Report - Report Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab SegMove
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi data voa pada bulan berjalan dan perbandingan nilai voa pada akhir tahun lalu

@@ -1,0 +1,13 @@
+NO TEST CASE : 10.6
+JUDUL        : Melihat Riwayat Prospek
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu titik tiga pada salah satu card prospek - Pilih Riwayat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Riwayat dan menampilkan daftar log riwayat.

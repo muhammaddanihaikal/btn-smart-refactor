@@ -1,0 +1,13 @@
+NO TEST CASE : 16.3
+JUDUL        : Mengubah tampilan folder menjadi Grid View
+MODUL        : Fitur - Marketing Toolkit
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon tampilan Grid pada halaman Marketing Toolkit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengubah tampilan folder menjadi Grid View.

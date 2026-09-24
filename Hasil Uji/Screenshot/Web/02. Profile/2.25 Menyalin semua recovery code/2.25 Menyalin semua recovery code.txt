@@ -1,0 +1,15 @@
+NO TEST CASE : 2.25
+JUDUL        : Menyalin semua recovery code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button recovery code – input password yang digunakan saat login BTN Smart – klik button salin semua
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menyalin kode di halaman lain seperti note/word

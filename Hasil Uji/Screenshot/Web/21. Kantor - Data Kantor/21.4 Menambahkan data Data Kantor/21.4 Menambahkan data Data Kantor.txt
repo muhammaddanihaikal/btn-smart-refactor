@@ -1,0 +1,20 @@
+NO TEST CASE : 21.4
+JUDUL        : Menambahkan data Data Kantor
+MODUL        : Kantor
+SUB MENU     : Data Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah Data Kantor.
+2. Isi field mandatory Nama, Kode Kantor, Tipe Kantor, No Telepon, dan Parent.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah Data Kantor Baru.
+2. Berhasil mengisi field mandatory.
+3. Berhasil menyimpan data kantor baru.

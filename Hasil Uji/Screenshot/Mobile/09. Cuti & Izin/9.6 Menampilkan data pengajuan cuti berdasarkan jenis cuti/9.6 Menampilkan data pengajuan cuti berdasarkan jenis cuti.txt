@@ -1,0 +1,13 @@
+NO TEST CASE : 9.6
+JUDUL        : Menampilkan data pengajuan cuti berdasarkan jenis cuti
+MODUL        : Cuti & Izin
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik salah satu card jenis cuti (Semua, Cuti Melahirkan, atau Cuti Menikah)
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan data pengajuan cuti sesuai jenis cuti yang dipilih.

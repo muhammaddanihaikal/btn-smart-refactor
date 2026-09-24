@@ -1,0 +1,20 @@
+NO TEST CASE : 24.55
+JUDUL        : Membatalkan upload data User
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Upload file data user yang valid 
+2. Klik Action titik tiga 
+3. Klik button Batalkan selagi status upload masih dalam antrian
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengupload file data user 
+2. Menampilkan beberapa action 
+3. Berhasil membatalkan upload bulk data user, status nya menjadi 'Dibatalkan'

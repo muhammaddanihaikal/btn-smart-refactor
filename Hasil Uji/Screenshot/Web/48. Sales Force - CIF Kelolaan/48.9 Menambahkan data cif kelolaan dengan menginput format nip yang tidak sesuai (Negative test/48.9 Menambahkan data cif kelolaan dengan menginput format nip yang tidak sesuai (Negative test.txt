@@ -1,0 +1,20 @@
+NO TEST CASE : 48.9
+JUDUL        : Menambahkan data cif kelolaan dengan menginput format nip yang tidak sesuai (Negative test)
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button input CIF 
+2. pilih scode, input cif yang tidak sesuai format 
+3. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan add cif kelolaan 
+2. Menampilkan alert Format cif tidak valid 
+3. Gagal menambahkan data cif kelolaan

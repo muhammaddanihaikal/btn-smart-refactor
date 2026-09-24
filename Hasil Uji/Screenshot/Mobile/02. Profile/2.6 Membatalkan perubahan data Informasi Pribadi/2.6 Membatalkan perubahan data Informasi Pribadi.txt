@@ -1,0 +1,13 @@
+NO TEST CASE : 2.6
+JUDUL        : Membatalkan perubahan data Informasi Pribadi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Informasi Pribadi - Ubah data pada field - Klik button Batal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Perubahan dibatalkan dan kembali ke halaman Profile utama tanpa menyimpan data.

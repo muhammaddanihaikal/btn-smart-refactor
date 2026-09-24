@@ -1,0 +1,18 @@
+NO TEST CASE : 3.2
+JUDUL        : Melakukan filter data Overview Funding
+MODUL        : Overview
+SUB MENU     : Overview Fund
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih opsi filter yang diinginkan.
+2. Klik tombol Cari/Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih opsi filter.
+2. Berhasil menampilkan data Overview Funding yang sesuai dengan filter.

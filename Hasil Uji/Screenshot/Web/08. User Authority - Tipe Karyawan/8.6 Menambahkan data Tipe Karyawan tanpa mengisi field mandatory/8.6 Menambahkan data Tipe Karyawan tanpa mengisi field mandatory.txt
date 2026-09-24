@@ -1,0 +1,20 @@
+NO TEST CASE : 8.6
+JUDUL        : Menambahkan data Tipe Karyawan tanpa mengisi field mandatory
+MODUL        : User Authority
+SUB MENU     : Tipe Karyawan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah Tipe Karyawan.
+2. Kosongkan field Name dan Selling Role.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah Tipe Karyawan.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

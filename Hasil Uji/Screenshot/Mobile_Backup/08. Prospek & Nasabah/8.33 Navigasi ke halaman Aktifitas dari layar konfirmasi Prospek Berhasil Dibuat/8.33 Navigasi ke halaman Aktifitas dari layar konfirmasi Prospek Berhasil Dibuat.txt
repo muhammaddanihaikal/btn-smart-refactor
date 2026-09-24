@@ -1,0 +1,16 @@
+NO TEST CASE : 8.33
+JUDUL        : Navigasi ke halaman Aktifitas dari layar konfirmasi Prospek Berhasil Dibuat
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Lihat Aktifitas.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengarahkan pengguna ke halaman Lead Qualification Aktifitas.

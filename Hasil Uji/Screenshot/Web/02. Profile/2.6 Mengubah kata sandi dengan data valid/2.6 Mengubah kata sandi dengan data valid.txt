@@ -1,0 +1,21 @@
+NO TEST CASE : 2.6
+JUDUL        : Mengubah kata sandi dengan data valid
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik submenu Ganti kata sandi
+2. Input kata sandi saat ini
+3. Input kata sandi baru dan konfirmasi kata sandi
+4. Klik button simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman Ganti kata sandi
+2. Berhasil menginput kata sandi saat ini
+3. Berhasil menginput kata sandi baru
+4. Berhasil mengubah kata sand

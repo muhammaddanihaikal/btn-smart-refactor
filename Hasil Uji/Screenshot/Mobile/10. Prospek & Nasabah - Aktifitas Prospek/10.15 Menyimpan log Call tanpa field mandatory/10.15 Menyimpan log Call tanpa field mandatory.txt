@@ -1,0 +1,13 @@
+NO TEST CASE : 10.15
+JUDUL        : Menyimpan log Call tanpa field mandatory
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengosongkan field Status Call dan Keterangan - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan validasi bahwa field Status Call dan Keterangan wajib diisi.

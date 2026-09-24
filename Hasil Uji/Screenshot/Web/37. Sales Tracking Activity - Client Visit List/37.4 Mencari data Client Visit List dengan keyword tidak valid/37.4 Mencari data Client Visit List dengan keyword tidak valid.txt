@@ -1,0 +1,18 @@
+NO TEST CASE : 37.4
+JUDUL        : Mencari data Client Visit List dengan keyword tidak valid
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword tidak valid pada field Cari Data.
+2. Klik button Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Menampilkan data kosong.

@@ -1,0 +1,18 @@
+NO TEST CASE : 18.2
+JUDUL        : Mencari data E-Channel dengan keyword valid
+MODUL        : Bisnis dan Produk
+SUB MENU     : E-Channel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword valid pada field Cari Data.
+2. Klik button Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai pencarian.

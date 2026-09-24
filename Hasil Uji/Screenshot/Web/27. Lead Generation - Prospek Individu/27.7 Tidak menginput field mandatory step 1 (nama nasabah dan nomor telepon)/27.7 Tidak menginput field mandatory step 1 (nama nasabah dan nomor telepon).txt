@@ -1,0 +1,24 @@
+NO TEST CASE : 27.7
+JUDUL        : Tidak menginput field mandatory step 1 (nama nasabah dan nomor telepon)
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan field inputan nama nasabah dan nomor telepon 
+2. Input Step 2
+3. Input Step 3
+4. Input Step 4
+5. Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field nama nasabah dan nomor telepon
+2. Berhasil menginput data pada step 2
+3. Berhasil menginput data pada step 3
+4. Berhasil mebginput data step 4
+5. Menampilkan alert 'nama nasabah / lembaga belum di masukkan' dan 'Nomor telepon belum dimasukkan'

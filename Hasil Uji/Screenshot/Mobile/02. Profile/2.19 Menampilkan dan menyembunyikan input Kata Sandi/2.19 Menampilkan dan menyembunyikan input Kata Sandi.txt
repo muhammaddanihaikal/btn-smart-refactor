@@ -1,0 +1,13 @@
+NO TEST CASE : 2.19
+JUDUL        : Menampilkan dan menyembunyikan input Kata Sandi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input teks pada field kata sandi - Klik icon toggle (mata) pada ujung field - Klik kembali icon toggle (mata) tersebut
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyembunyikan kembali teks kata sandi tersebut.

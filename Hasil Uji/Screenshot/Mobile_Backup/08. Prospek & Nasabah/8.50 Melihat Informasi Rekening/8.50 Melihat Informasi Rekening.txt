@@ -1,0 +1,18 @@
+NO TEST CASE : 8.50
+JUDUL        : Melihat Informasi Rekening
+MODUL        : Prospek & Nasabah
+SUB MENU     : List Nasabah ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu titik tiga pada salah satu card nasabah.
+2. Pilih Informasi Rekening.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu Lainnya.
+2. Berhasil menampilkan detail rekening nasabah (nomor rekening dan saldo).

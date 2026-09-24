@@ -1,0 +1,21 @@
+NO TEST CASE : 7.5
+JUDUL        : Melakukan filter data pengajuan cuti
+MODUL        : Cuti & Izin
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon filter.
+2. Pilih rentang tanggal pada field Pilih Rentang Tanggal.
+3. Pilih urutan ASC atau DESC pada Urutkan Berdasarkan.
+4. Klik button Apply.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka panel filter.
+2. Berhasil memilih rentang tanggal.
+3. Berhasil memilih urutan.
+4. Berhasil menampilkan data pengajuan cuti sesuai filter yang dipilih.

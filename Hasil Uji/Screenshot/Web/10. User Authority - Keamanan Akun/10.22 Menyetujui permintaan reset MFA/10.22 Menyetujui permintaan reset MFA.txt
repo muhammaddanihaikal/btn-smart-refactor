@@ -1,0 +1,22 @@
+NO TEST CASE : 10.22
+JUDUL        : Menyetujui permintaan reset MFA
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Setujui.
+3. Input field Remark.
+4. Klik button Setujui Permintaan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan popup persetujuan.
+3. Berhasil menginput remark.
+4. Berhasil menyetujui permintaan reset MFA.

@@ -1,0 +1,24 @@
+NO TEST CASE : 24.2
+JUDUL        : Validasi data mandatory
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input data pada template excel yang telah di download, tetapi kosongkan kolom yang wajib diisi 
+2. Simpan file 
+3. Klik 'Pilih atau seret file template (.xlsx) ke area ini'
+4. Pilih file yang tadi di simpan
+5. Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input data 
+2. Berhasil menyimpan file 
+3. Membuka file manager device 
+4. Berhasil memilih file 
+5. Menampilkan status 'Validasi gagal' dan data tersebut tidak tersimpan atau terupdate

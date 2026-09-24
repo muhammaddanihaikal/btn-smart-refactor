@@ -1,0 +1,21 @@
+NO TEST CASE : 22.4
+JUDUL        : Set data target untuk semua sales dalam satu kantor cabang
+MODUL        : Menu Target
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Ketika filter data sales, pilih semua sales 
+2. Input data target di tabel 'Set Target Cabang (nama kc)'
+3. Klik button Set ke semua sales
+4. Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih filter semua sales 
+2. Berhasil input data target untuk kc 
+3. Berhasil mengatur data target untuk semua sales, di setiap tabel sales dibawah kc tersebut mendapatkan nilai target yang sama 
+4. Berhasil menyimpan dan mengatur data target semua sales di kc tersebut sesuai dengan bisnis unit dan produk yang di pilih, menampilkan popup 'Sukses menyimpan data target'

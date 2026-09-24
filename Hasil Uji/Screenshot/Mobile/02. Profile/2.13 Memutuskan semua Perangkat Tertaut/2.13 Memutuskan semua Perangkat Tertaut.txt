@@ -1,0 +1,13 @@
+NO TEST CASE : 2.13
+JUDUL        : Memutuskan semua Perangkat Tertaut
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Perangkat Tertaut - Klik button Putuskan Semua Perangkat - Klik konfirmasi pemutusan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil memutuskan semua perangkat yang terhubung (kecuali perangkat saat ini).

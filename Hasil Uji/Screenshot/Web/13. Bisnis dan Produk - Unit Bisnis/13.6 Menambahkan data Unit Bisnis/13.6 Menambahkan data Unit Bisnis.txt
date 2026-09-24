@@ -1,0 +1,20 @@
+NO TEST CASE : 13.6
+JUDUL        : Menambahkan data Unit Bisnis
+MODUL        : Bisnis dan Produk
+SUB MENU     : Unit Bisnis
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah Unit Bisnis.
+2. Isi field mandatory Name, Kode Unit Bisnis, dan Jenis Bisnis.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah Bisnis Unit Baru.
+2. Berhasil mengisi field mandatory.
+3. Berhasil menyimpan unit bisnis baru.

@@ -1,0 +1,16 @@
+NO TEST CASE : 67.5
+JUDUL        : Mengunduh data Rekap Funnel
+MODUL        : Report Lending
+SUB MENU     : Rekap Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Download Excel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mendownload file Excel data Rekap Funnel.

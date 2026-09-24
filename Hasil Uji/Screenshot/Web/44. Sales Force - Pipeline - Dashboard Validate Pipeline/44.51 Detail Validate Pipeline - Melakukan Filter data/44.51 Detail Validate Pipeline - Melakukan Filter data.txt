@@ -1,0 +1,16 @@
+NO TEST CASE : 44.51
+JUDUL        : Detail Validate Pipeline - Melakukan Filter data
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih kontor wilayah, kantor cabang, cabang pembantu, sales, job role, jenis Lembaga kemudian klik button filter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data sesuai filter yang dipilih

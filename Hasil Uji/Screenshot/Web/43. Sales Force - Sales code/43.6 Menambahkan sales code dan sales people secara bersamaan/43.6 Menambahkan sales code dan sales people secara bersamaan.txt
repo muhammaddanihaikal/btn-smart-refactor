@@ -1,0 +1,22 @@
+NO TEST CASE : 43.6
+JUDUL        : Menambahkan sales code dan sales people secara bersamaan
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button create kemudian klik create sales code and input sales people
+2. Pilih jobrole dan kantor cabang 
+3. Pilih nip 
+4. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman create sales code and input sales people
+2. Sales code otomatis tergenerate sesuai dengan jobrole dan kantor cabang yang dipilih 
+3. nip tampil 
+4. Berhasil create salescode dan input nip

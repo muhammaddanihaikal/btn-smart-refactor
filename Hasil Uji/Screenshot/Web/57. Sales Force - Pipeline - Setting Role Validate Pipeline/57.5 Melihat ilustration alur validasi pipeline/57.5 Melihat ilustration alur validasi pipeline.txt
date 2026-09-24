@@ -1,0 +1,16 @@
+NO TEST CASE : 57.5
+JUDUL        : Melihat ilustration alur validasi pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Role Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. klik button ilustration
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data role validate pipeline berdasarkan bagan hirarki

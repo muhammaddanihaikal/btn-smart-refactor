@@ -1,0 +1,37 @@
+🐞 [BUG] | Setting Absent - Attendance Spot: Saran Lokasi Google Maps Tidak Muncul Saat Mode Layar Penuh pada Form Tambah & Edit
+
+> * **Status Huly**: ✅ Reported
+
+**Priority:** Normal 🟡
+
+**Label:** bug triage-needed Setting Absent - Attendance Spot
+
+**Linked Issue/PR:** # (If applicable)
+
+### 📖 Overview
+
+Fitur pencarian lokasi pada peta Google Maps tidak memunculkan *dropdown* rekomendasi/autocomplete lokasi ketika peta dibuka dalam mode layar penuh (*fullscreen map*), baik pada form Tambah (*Add New Attendance Spot*) maupun form Edit (*Edit Attendance Spot*), setelah sebelumnya melakukan pengubahan nilai radius.
+
+### 🛠 Steps to Reproduce
+
+1. Masuk ke menu Setting Absent → Attendance Spot, lalu buka form **Add New Location** atau **Edit Location**.
+2. Ubah nilai pada kolom **Radius** (contoh: ubah ke 70 meter).
+3. Klik icon **Layar Penuh (Fullscreen)** di pojok kanan atas peta untuk memperbesar peta.
+4. Ketik kata kunci lokasi pada kolom pencarian Google Maps di dalam mode layar penuh.
+
+### 🔍 Technical Context
+
+| Field | Detail |
+|---|---|
+| Expected | *Dropdown* saran lokasi / autocomplete Google Maps tetap muncul dan dapat dipilih saat peta dalam mode layar penuh (*fullscreen*). |
+| Actual | *Dropdown* saran lokasi tidak muncul sama sekali (*terhalang z-index mode fullscreen*), sehingga user tidak bisa memilih lokasi yang dicari. |
+| Environment | [e.g., Production / Staging / Local] |
+| Device/OS | [e.g., macOS Sonoma / Chrome 122] |
+| User Role | [e.g., Admin / Guest / Member] |
+
+### 🪵 Logs & Media
+
+Screenshots: (Drag and drop images here)
+  * Form Tambah & Edit Attendance Spot: [https://files.catbox.moe/u4l66y.png](https://files.catbox.moe/u4l66y.png)
+  * Tahapan Ubah Radius & Klik Layar Penuh: [https://files.catbox.moe/0i3fpy.png](https://files.catbox.moe/0i3fpy.png)
+  * Saran Lokasi Tidak Muncul Saat Layar Penuh: [https://files.catbox.moe/p5ti6b.png](https://files.catbox.moe/p5ti6b.png)

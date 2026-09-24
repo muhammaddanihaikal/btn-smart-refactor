@@ -1,0 +1,20 @@
+NO TEST CASE : 46.2
+JUDUL        : Melakukan approval data
+MODUL        : Sales Force
+SUB MENU     : Approval Target Growth
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon ceklis pada table dengan status data pending request 
+2. input remark 
+3. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup approval request
+2. remark berhasil ter input
+3. Berhasil melakukan approval data Target growth

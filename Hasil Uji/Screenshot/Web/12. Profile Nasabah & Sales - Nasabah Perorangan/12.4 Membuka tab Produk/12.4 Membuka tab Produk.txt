@@ -1,0 +1,16 @@
+NO TEST CASE : 12.4
+JUDUL        : Membuka tab Produk
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Nasabah, klik tab 'Produk'.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka tab Produk dan menampilkan tabel data Produk nasabah tersebut.

@@ -1,0 +1,13 @@
+NO TEST CASE : 10.9
+JUDUL        : Membuka form Input Aktifitas
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Aktifitas pada prospek yang berstatus aktif (belum closing)
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Aktifitas Marketing dan menampilkan tab Prospek, Call, Visit, dan NOA Open Account.

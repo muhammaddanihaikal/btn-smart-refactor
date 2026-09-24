@@ -1,0 +1,16 @@
+NO TEST CASE : 73.4
+JUDUL        : Validasi card kadaluwarsa dengan data table
+MODUL        : Export data management
+SUB MENU     : Riwayat export saya
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data status approval dengan memilih status “Expired”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Jumlah data pada card dan table sesuai

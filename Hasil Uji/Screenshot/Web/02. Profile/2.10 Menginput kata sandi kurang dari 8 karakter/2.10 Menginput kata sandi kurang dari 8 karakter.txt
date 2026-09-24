@@ -1,0 +1,15 @@
+NO TEST CASE : 2.10
+JUDUL        : Menginput kata sandi kurang dari 8 karakter
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input kata sandi kurang dari 8 karakter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan validasi persyaratan kata sandi

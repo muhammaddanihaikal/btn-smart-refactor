@@ -1,0 +1,18 @@
+NO TEST CASE : 20.2
+JUDUL        : Mencari data Tipe Kantor dengan keyword valid
+MODUL        : Kantor
+SUB MENU     : Tipe Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword valid pada field Cari Data.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword valid pada field Cari Data.
+2. Berhasil menampilkan data Tipe Kantor sesuai keyword.

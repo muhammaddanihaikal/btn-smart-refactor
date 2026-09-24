@@ -1,0 +1,22 @@
+NO TEST CASE : 51.3
+JUDUL        : Import data target produktivitas dengan mengisi data template yang tidak sesuai (Negative Test)
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Target Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button import data 
+2. Klik button upload file 
+3. Klik button download file template 
+4. Input template dengan format yang salah kemudian upload data template
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman import Target produktivitas  
+2. Menampilkan popup import target produktivitas 
+3. Berhasil mengunduh data template 
+4. Berhasil mengupload data target produktivitas

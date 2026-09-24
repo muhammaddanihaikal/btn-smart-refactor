@@ -1,0 +1,13 @@
+NO TEST CASE : 11.12
+JUDUL        : Navigasi ke halaman Aktifitas dari layar konfirmasi Prospek Berhasil Dibuat
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button Lihat Aktifitas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengarahkan pengguna ke halaman Lead Qualification Aktifitas.

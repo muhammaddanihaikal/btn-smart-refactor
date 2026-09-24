@@ -1,0 +1,15 @@
+NO TEST CASE : 2.22
+JUDUL        : Melakukan recovery code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button recovery code, input password yang digunakan pada saat login btn smart
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data revovery doe

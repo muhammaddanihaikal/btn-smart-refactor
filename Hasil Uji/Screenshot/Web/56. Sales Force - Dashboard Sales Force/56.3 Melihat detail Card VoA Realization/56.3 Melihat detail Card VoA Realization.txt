@@ -1,0 +1,16 @@
+NO TEST CASE : 56.3
+JUDUL        : Melihat detail Card VoA Realization
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (tanda panah) pada Card VoA Realization
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail Card VoA Realization

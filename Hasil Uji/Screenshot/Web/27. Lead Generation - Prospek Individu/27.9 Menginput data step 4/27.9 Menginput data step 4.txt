@@ -1,0 +1,36 @@
+NO TEST CASE : 27.9
+JUDUL        : Menginput data step 4
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih apakah prospek berupa referal
+2. Pilih produk
+3. Pilih program
+4. Pilih sumber prospek
+5. Input potensi kredit/dana
+6. Pilih tanggal potensi dana masuk/realisasi kredit
+7. Input catatan tambahan mengenai prospek
+8. Pilih apakah nasabah ini termasuk ekosistem?
+9. Klik button Simpan
+10. Klik button Selesai
+11. Klik button Lihat aktifitas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih Referal
+2. Berhasil memilih produk 
+3. Berhasil memilih program 
+4. Berhasil memilih sumber prospek
+5. Berhasil menginput potensi dana/kredit 
+6. Berhasil memilih tanggal potensi dana masuk
+7. Berhasil input catatan tambahan mengenai prospek
+8. Berhasil memilih apakah nasabah ekosistem 
+9. Menampilkan popup konfirmasi 
+10. Berhasil menyimpan data prospek dan menampilkan popup 'prospek telah sukses ditambahkan'
+11. Menampilkan halaman Lead Qualification - Aktifitas

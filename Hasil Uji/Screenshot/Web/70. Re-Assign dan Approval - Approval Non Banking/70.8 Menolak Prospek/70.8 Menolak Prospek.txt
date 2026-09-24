@@ -1,0 +1,22 @@
+NO TEST CASE : 70.8
+JUDUL        : Menolak Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga 
+2. Klik Tolak 
+3. Input Remark
+4. Klik button Tolak
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action (detail, setujui, tolak)
+2. Menampilkan modal tolak prospek
+3. Berhasil menginput remark
+4. Berhasil menolak prospek, menampilkan popup 'Sukses menolak prospek'

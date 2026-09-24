@@ -1,0 +1,15 @@
+NO TEST CASE : 2.8
+JUDUL        : Menginput kata sandi dengan huruf kecil saja
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input kata sandi dengan huruf kecil saja
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan validasi persyaratan kata sandi

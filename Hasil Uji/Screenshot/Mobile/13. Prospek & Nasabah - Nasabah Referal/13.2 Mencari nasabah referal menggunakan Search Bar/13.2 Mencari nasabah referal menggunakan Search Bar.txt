@@ -1,0 +1,13 @@
+NO TEST CASE : 13.2
+JUDUL        : Mencari nasabah referal menggunakan Search Bar
+MODUL        : Prospek & Nasabah - Nasabah Referal
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan kata kunci pencarian pada Search Bar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan data nasabah referal yang sesuai dengan kata kunci pencarian.

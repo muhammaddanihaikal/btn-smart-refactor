@@ -1,0 +1,9 @@
+🐞 [BUG] | Login: Beberapa Menu Masih Bisa Diakses Tanpa Setup 2FA
+
+> * **Menu**: Login
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: User yang belum setup 2FA masih bisa mengakses beberapa menu tertentu.
+> * **Expected**: Semua menu — termasuk tab di Pengaturan Profile (Biodata Diri, Ganti Kata Sandi, Notifikasi) — tidak bisa dibuka dan wajib mental/redirect ke halaman Pengaturan Profile → Keamanan sebelum 2FA aktif.
+> * **Actual**: Hanya sebagian menu yang redirect, sisanya masih bisa dibuka bebas.
+> * **Evidence**:
+>   * [https://files.catbox.moe/plcjix.png](https://files.catbox.moe/plcjix.png)

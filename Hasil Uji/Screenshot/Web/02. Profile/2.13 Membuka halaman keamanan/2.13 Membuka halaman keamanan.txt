@@ -1,0 +1,15 @@
+NO TEST CASE : 2.13
+JUDUL        : Membuka halaman keamanan
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik submenu Keamanan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman Keamanan

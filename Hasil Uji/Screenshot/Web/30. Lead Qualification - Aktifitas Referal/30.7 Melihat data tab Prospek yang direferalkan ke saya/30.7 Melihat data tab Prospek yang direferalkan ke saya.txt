@@ -1,0 +1,16 @@
+NO TEST CASE : 30.7
+JUDUL        : Melihat data tab Prospek yang direferalkan ke saya
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek yang direferalkan ke saya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data pada tab Prospek yang direferalkan ke saya.

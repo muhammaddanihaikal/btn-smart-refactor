@@ -1,0 +1,18 @@
+NO TEST CASE : 8.35
+JUDUL        : Memilih tipe Prospek Lembaga
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Input Prospek.
+2. Klik pilihan Lembaga.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Input Prospek.
+2. Berhasil menampilkan form Step 1 Informasi Lembaga.

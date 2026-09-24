@@ -1,0 +1,18 @@
+NO TEST CASE : 62.2
+JUDUL        : Menampilkan data Rekap Funnel
+MODUL        : Report Funding
+SUB MENU     : Rekap Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field filter mandatory (Kantor Wilayah, Unit Bisnis, Produk, Info Bulan, Info Tahun).
+2. Klik button Filter Data.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field filter mandatory.
+2. Berhasil menampilkan daftar data Rekap Funnel di dalam tabel.

@@ -1,0 +1,13 @@
+NO TEST CASE : 6.5
+JUDUL        : Melakukan Clock out diluar kantor
+MODUL        : Absent - Clock Out
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Update location – klik use my location/ pilih Lokasi lain – ambil gambar – input description
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengubah Lokasi dan menginput data clock out

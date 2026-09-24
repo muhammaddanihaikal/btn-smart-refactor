@@ -1,0 +1,20 @@
+NO TEST CASE : 18.4
+JUDUL        : Melakukan filter data E-Channel
+MODUL        : Bisnis dan Produk
+SUB MENU     : E-Channel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Pilih parameter filter.
+3. Klik button Terapkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup filter.
+2. Berhasil memilih parameter.
+3. Berhasil menampilkan data terfilter.

@@ -1,0 +1,13 @@
+NO TEST CASE : 6.2
+JUDUL        : Melakukan Clock Out
+MODUL        : Absent - Clock Out
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input data dengan mengisi : ambil gambar - input description ( Optional)
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengambil gambar dan menginput desckripsi

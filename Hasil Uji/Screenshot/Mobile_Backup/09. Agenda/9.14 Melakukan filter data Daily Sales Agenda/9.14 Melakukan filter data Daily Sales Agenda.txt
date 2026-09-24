@@ -1,0 +1,20 @@
+NO TEST CASE : 9.14
+JUDUL        : Melakukan filter data Daily Sales Agenda
+MODUL        : Agenda
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Pilih kriteria filter pada form Filter (Product, Bulan, Tahun).
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Filter.
+2. Berhasil memilih kriteria filter.
+3. Berhasil menampilkan data Daily Sales Agenda sesuai filter yang dipilih.

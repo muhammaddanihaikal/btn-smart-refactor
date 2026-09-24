@@ -1,0 +1,20 @@
+NO TEST CASE : 75.3
+JUDUL        : Melakukan approval data pengajuan export
+MODUL        : Export data management
+SUB MENU     : Persetujuan export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada data pengajuan.
+2. Klik menu Setuju.
+3. Klik button YA pada popup konfirmasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu opsi.
+2. Berhasil menampilkan popup konfirmasi.
+3. Berhasil menyetujui data pengajuan export.

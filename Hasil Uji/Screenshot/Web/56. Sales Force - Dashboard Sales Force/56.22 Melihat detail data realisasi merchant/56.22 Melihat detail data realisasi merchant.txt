@@ -1,0 +1,16 @@
+NO TEST CASE : 56.22
+JUDUL        : Melihat detail data realisasi merchant
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon mata
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail realisasi akuisisi merchat

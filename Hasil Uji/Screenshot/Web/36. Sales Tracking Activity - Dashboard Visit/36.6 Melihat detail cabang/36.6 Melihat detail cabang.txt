@@ -1,0 +1,16 @@
+NO TEST CASE : 36.6
+JUDUL        : Melihat detail cabang
+MODUL        : Sales Tracking Activity
+SUB MENU     : Dashboard Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon panah pada card cabang.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup detail cabang.

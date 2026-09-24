@@ -1,0 +1,13 @@
+NO TEST CASE : 4.5
+JUDUL        : Melakukan Visit out menggunakan sales Lending
+MODUL        : Sales Tracking Activity - Visit Out
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Menginput data visit Out dengan mengisi: Pilih type visit (jika memilih lead ID) - input description - ambil gambar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menginput data visit out

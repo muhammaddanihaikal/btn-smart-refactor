@@ -1,0 +1,15 @@
+NO TEST CASE : 31.7
+JUDUL        : Reset ke Default pada filter kolom
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Reset ke Default
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data tabel dengan kolom default

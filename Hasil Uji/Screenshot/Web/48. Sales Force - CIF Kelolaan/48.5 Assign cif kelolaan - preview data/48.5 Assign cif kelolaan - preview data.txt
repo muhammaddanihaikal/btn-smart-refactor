@@ -1,0 +1,18 @@
+NO TEST CASE : 48.5
+JUDUL        : Assign cif kelolaan - preview data
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga 
+2. klik  preview  data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan opsi action 
+2. Menampilkan preview data hasil upload

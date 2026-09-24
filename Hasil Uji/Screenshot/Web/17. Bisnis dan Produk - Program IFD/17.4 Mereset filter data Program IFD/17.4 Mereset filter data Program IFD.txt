@@ -1,0 +1,18 @@
+NO TEST CASE : 17.4
+JUDUL        : Mereset filter data Program IFD
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program IFD
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Klik button Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup filter.
+2. Berhasil mereset filter dan menampilkan seluruh data.

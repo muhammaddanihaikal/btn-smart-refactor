@@ -1,0 +1,12 @@
+🐞 [BUG] | User Authority - User: Bulk Delete User Menyisakan Ghost Record di Tabel
+
+> * **Menu**: User Authority → User
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Setelah user dihapus melalui fitur *bulk delete*, data profil sebenarnya sudah terhapus (terbukti saat klik Edit, seluruh form kosong/blank). Namun, baris user tersebut masih tertinggal dan tetap muncul di tabel Master User (*ghost record*).
+> * **Expected**: Data yang berhasil dihapus wajib langsung hilang sepenuhnya dari daftar tabel Master User, dan URL Edit tidak menampilkan form kosong.
+> * **Actual**: Baris data user masih muncul di tabel list, dan jika dibuka menu Edit, semua field form kosong melompong.
+> * **Evidence**:
+>   * Konfirmasi Hapus: [https://files.catbox.moe/chl9g0.png](https://files.catbox.moe/chl9g0.png)
+>   * Alert Sukses tapi Data Masih di List: [https://files.catbox.moe/et9jb9.png](https://files.catbox.moe/et9jb9.png)
+>   * Form Edit Blank/Kosong: [https://files.catbox.moe/vwszeh.png](https://files.catbox.moe/vwszeh.png)
+>   * User Masih Muncul di Pencarian Tabel: [https://files.catbox.moe/i26rzg.png](https://files.catbox.moe/i26rzg.png)

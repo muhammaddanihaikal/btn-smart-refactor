@@ -1,0 +1,18 @@
+NO TEST CASE : 28.1
+JUDUL        : Melakukan reset data prospek yang sudah di input
+MODUL        : Lead Generation
+SUB MENU     : Prospek Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reset Form 
+2. Klik OK
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi reset form
+2. Berhasil mengosongkan semua field yang sudah di input dari step 1 sampai 4

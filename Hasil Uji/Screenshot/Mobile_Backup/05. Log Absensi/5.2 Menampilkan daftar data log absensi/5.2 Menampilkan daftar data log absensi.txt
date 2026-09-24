@@ -1,0 +1,17 @@
+NO TEST CASE : 5.2
+JUDUL        : Menampilkan daftar data log absensi
+MODUL        : Log Absensi
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Lainnya pada navigation bar.
+2. Klik menu Log Absensi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan daftar data log absensi beserta ringkasan Jam Kerja, Hadir, dan Terlambat.

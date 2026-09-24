@@ -1,0 +1,13 @@
+NO TEST CASE : 11.16
+JUDUL        : Mengisi form Step 2 (Data Lembaga) dengan data valid
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengisi seluruh field pada Step 2 Data Lembaga dengan data valid - Klik button Next
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan data Step 2 dan berpindah ke Step 3 Prospek.

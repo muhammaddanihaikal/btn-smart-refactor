@@ -1,0 +1,18 @@
+NO TEST CASE : 61.1
+JUDUL        : Membuka halaman Personal Funnel
+MODUL        : Report Funding
+SUB MENU     : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Report Funding.
+2. Klik sub menu Personal Funnel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Report Funding.
+2. Berhasil menampilkan halaman Personal Funnel.

@@ -1,0 +1,16 @@
+NO TEST CASE : 29.8
+JUDUL        : Validasi data visit in prospek
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek detail status dan deskripsi visit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail data yang sesuai dengan status dan deskripsi visit yang di input sales

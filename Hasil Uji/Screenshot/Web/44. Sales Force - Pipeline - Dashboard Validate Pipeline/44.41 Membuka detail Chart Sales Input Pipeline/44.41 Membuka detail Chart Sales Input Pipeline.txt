@@ -1,0 +1,16 @@
+NO TEST CASE : 44.41
+JUDUL        : Membuka detail Chart Sales Input Pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (Tanda Panah) pada chart Sales Input Pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail Sales Input Pipeline

@@ -1,0 +1,18 @@
+NO TEST CASE : 41.16
+JUDUL        : Melakukan filter data Personnel
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih data pada salah satu dropdown filter (Kantor Wilayah, Kantor Cabang, dll).
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih data filter.
+2. Berhasil menampilkan data Personnel sesuai filter yang dipilih.

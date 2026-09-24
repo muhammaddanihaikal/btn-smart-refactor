@@ -1,0 +1,18 @@
+NO TEST CASE : 20.1
+JUDUL        : Membuka halaman Tipe Kantor
+MODUL        : Kantor
+SUB MENU     : Tipe Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Kantor.
+2. Klik sub menu Tipe Kantor.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Kantor.
+2. Berhasil membuka halaman Tipe Kantor.

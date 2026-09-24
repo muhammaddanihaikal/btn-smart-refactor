@@ -1,0 +1,16 @@
+NO TEST CASE : 56.19
+JUDUL        : Melihat detail data card realisasi akuisisi merchat
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (tanda panah) pada card realisasi akuisisi merchat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail realisasi akuisisi merchat

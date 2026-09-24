@@ -1,0 +1,13 @@
+NO TEST CASE : 1.15
+JUDUL        : Mengajukan Reset MFA
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Pada halaman 2 Factor Authentication, klik Ajukan Reset MFA - Isi field mandatory Email - Isi field mandatory Alasan Anda - Klik button Kirim
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengajukan reset MFA.

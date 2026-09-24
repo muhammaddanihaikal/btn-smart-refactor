@@ -1,0 +1,17 @@
+NO TEST CASE : 31.3
+JUDUL        : Mencari data list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword pada field search 
+2. Klik icon search yang ada di sebelah field search
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword 
+2. Berhasil menampilkan data list prospek ETB sesuai dengan keyword yang dai cari

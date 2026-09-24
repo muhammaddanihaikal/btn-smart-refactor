@@ -1,0 +1,10 @@
+🐞 [BUG] | User Authority - User: Urutan Sorting Hasil Export Excel Tidak Sesuai Web
+
+> * **Menu**: User Authority → User
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Urutan data pada file Excel hasil export berbeda dengan urutan yang tampil di tabel web (data di Excel tersortir alfabet A-Z).
+> * **Expected**: Urutan data pada file Excel hasil export konsisten mengikuti urutan sorting tampilan web.
+> * **Actual**: Data pada file Excel diurutkan berdasarkan abjad A-Z nama user, tidak sesuai dengan urutan web.
+> * **Evidence**:
+>   * Tampilan Web: [https://files.catbox.moe/2ltipm.png](https://files.catbox.moe/2ltipm.png)
+>   * Hasil Export Excel (A-Z): [https://files.catbox.moe/g6pou7.png](https://files.catbox.moe/g6pou7.png)

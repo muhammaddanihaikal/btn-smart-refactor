@@ -1,0 +1,16 @@
+NO TEST CASE : 29.10
+JUDUL        : Menginput huruf pada field nomor rekening di form Input data NOA Open Account
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input huruf pada field nomor rekening
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Karakter huruf tidak dapat diinput ke field Nomor Rekening. Field tetap kosong atau hanya menerima karakter numerik.

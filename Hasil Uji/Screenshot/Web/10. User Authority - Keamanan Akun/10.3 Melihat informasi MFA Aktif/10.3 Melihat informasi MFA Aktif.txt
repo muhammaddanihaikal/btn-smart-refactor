@@ -1,0 +1,16 @@
+NO TEST CASE : 10.3
+JUDUL        : Melihat informasi MFA Aktif
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lihat card MFA Aktif.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan jumlah dan persentase MFA aktif.

@@ -1,0 +1,21 @@
+NO TEST CASE : 1.5
+JUDUL        : Melakukan login tanpa mengisi username/email
+MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih tab login (Employee / Non-Employee / iLoan).
+2. Kosongkan username / email.
+3. Input password.
+4. Klik button Masuk.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih tab login.
+2. Username / email kosong.
+3. Berhasil menginput password.
+4. Berhasil menampilkan validasi field wajib diisi.

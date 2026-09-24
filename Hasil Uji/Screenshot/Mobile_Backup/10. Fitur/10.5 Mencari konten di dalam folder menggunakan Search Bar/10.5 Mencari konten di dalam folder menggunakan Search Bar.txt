@@ -1,0 +1,16 @@
+NO TEST CASE : 10.5
+JUDUL        : Mencari konten di dalam folder menggunakan Search Bar
+MODUL        : Fitur
+SUB MENU     : Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan kata kunci pencarian pada Search Bar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data yang sesuai dengan kata kunci pencarian.

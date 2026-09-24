@@ -1,0 +1,20 @@
+NO TEST CASE : 59.4
+JUDUL        : Mengubah nilai komitmen
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button edit pada table 
+2. ubah data 
+3. klik button save
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. menampilkan popup input komitmen
+2. Berhasil mengubah data
+3. Berhasil menyimpan perubahan

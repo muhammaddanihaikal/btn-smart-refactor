@@ -1,0 +1,18 @@
+NO TEST CASE : 32.12
+JUDUL        : Mencari data pada detail Kantor Wilayah dengan keyword valid
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka popup detail.
+2. Masukkan kata kunci pada field pencarian.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil popup detail berhasil dibuka.
+2. Berhasil data ditampilkan sesuai kata kunci.

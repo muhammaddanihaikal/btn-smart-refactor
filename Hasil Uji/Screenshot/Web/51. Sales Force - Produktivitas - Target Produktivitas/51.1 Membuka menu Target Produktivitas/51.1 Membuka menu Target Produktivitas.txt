@@ -1,0 +1,20 @@
+NO TEST CASE : 51.1
+JUDUL        : Membuka menu Target Produktivitas
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Target Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force
+2. Klik submenu Produktivitas
+3. Klik submenu Target Produktivitas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan list submenu produktivitas
+3. Menampilkan halaman target produktivitas

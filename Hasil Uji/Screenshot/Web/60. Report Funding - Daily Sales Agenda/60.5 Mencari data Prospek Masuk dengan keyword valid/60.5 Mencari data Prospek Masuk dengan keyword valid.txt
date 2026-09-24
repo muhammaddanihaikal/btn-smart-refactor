@@ -1,0 +1,20 @@
+NO TEST CASE : 60.5
+JUDUL        : Mencari data Prospek Masuk dengan keyword valid
+MODUL        : Report Funding
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Masuk.
+2. Mengisi field Cari Data dengan keyword valid.
+3. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan tab Prospek Masuk.
+2. Berhasil mengisi field Cari Data.
+3. Berhasil menampilkan data yang dicari.

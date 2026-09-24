@@ -1,0 +1,11 @@
+🐞 [BUG] | Profile Nasabah & Sales - Sales: Export Sales Tidak Tercatat di Riwayat dan Aktivitas Export
+
+> * **Menu**: Profile Nasabah & Sales → Sales
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aktivitas export data dari menu Profile Sales tidak masuk dan tidak tercatat di menu Riwayat Export maupun Aktivitas Export (belum menggunakan *Report Extraction*).
+> * **Expected**: Setiap kali user melakukan export data Sales, riwayatnya otomatis tercatat di Export Center → Riwayat Export dan Export Center → Aktivitas Export.
+> * **Actual**: Log export Sales tidak muncul di Riwayat Export maupun Aktivitas Export.
+> * **Evidence**:
+>   * Export Sales: [https://files.catbox.moe/oa4060.png](https://files.catbox.moe/oa4060.png)
+>   * Riwayat Export: [https://files.catbox.moe/tbg8zj.png](https://files.catbox.moe/tbg8zj.png)
+>   * Aktivitas Export: [https://files.catbox.moe/squkas.png](https://files.catbox.moe/squkas.png)

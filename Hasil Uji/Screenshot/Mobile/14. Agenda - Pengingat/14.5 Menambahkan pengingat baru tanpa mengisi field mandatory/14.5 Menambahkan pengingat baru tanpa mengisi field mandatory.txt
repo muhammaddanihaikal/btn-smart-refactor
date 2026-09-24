@@ -1,0 +1,13 @@
+NO TEST CASE : 14.5
+JUDUL        : Menambahkan pengingat baru tanpa mengisi field mandatory
+MODUL        : Agenda - Pengingat
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik button + Baru - Mengosongkan seluruh field mandatory pada form Tambah Pengingat - Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan pesan validasi bahwa field mandatory harus diisi.

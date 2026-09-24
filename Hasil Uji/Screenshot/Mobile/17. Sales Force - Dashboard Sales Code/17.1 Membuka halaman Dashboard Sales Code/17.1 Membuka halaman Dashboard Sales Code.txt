@@ -1,0 +1,13 @@
+NO TEST CASE : 17.1
+JUDUL        : Membuka halaman Dashboard Sales Code
+MODUL        : Sales Force - Dashboard Sales Code
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka menu Lainnya - Klik menu Dashboard Sales Code
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan halaman Dashboard Sales Code.

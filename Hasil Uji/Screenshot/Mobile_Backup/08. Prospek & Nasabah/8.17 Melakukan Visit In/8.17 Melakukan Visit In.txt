@@ -1,0 +1,16 @@
+NO TEST CASE : 8.17
+JUDUL        : Melakukan Visit In
+MODUL        : Prospek & Nasabah
+SUB MENU     : Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Visit In.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengarahkan ke halaman Kunjungan dan menampilkan pop up pilihan tipe Visit.

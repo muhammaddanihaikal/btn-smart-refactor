@@ -1,0 +1,16 @@
+NO TEST CASE : 72.10
+JUDUL        : Validasi jumlah data yang di pilih untuk reassign
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. cek jumlah data yang muncul pada button Reassign () data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Angka yang muncul pada button sesuai dengan jumlah data yang di pilih

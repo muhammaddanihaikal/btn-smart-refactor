@@ -1,0 +1,15 @@
+NO TEST CASE : 2.45
+JUDUL        : Pengecekan perangkat terhubung sebelum mengaktifkan MFA
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan login menggunakan user yang belum mengaktifkan MFA kemudian cek Perangkat terhubung
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data perangkat terhubung non aktif MFA

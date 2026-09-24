@@ -1,0 +1,19 @@
+NO TEST CASE : 2.5
+JUDUL        : Mengubah profile dengan format yang tidak sesuai (Negative test)
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button edit  
+2. Klik button ubah foto profile kemudian pilih file menggunakan format selain(jpg/png/jpeg) 
+3. klik button simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Mengubah foto profile
+2. Menampilkan folder foto
+3..Menampilkan alert format tidak sesuai

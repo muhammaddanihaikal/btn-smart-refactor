@@ -1,0 +1,16 @@
+NO TEST CASE : 73.5
+JUDUL        : Mengunduh data yang sudah di approve
+MODUL        : Export data management
+SUB MENU     : Riwayat export saya
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button download
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data

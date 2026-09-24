@@ -1,0 +1,18 @@
+NO TEST CASE : 34.4
+JUDUL        : Membuka halaman Approval Absent
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Menu Absent.
+2. Klik sub menu Approval Absent.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Menu Absent.
+2. Berhasil menampilkan halaman Approval Absent.

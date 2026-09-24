@@ -1,0 +1,13 @@
+NO TEST CASE : 10.3
+JUDUL        : Mencari prospek dengan keyword tidak valid
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan keyword tidak valid pada Search Bar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan informasi data tidak ditemukan.

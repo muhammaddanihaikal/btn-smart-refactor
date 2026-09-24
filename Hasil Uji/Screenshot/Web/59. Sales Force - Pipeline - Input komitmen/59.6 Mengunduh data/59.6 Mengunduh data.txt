@@ -1,0 +1,16 @@
+NO TEST CASE : 59.6
+JUDUL        : Mengunduh data
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button export data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data komitmen

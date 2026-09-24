@@ -1,0 +1,20 @@
+NO TEST CASE : 8.27
+JUDUL        : Melakukan Check CIF pada form Step 1
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka form Input Prospek Individu (Step 1 Informasi).
+2. Isi field No KTP dengan nomor KTP valid.
+3. Klik button Check CIF.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Step 1 Informasi.
+2. Berhasil mengisi field No KTP.
+3. Berhasil menampilkan hasil Check CIF berdasarkan No KTP.

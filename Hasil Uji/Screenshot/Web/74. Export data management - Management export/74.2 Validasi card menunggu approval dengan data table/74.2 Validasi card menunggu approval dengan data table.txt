@@ -1,0 +1,16 @@
+NO TEST CASE : 74.2
+JUDUL        : Validasi card menunggu approval dengan data table
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data dengan memilih status approvalnya “pending” dan status exportnya “Generate”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Jumlah data pada card dan table sesuai

@@ -1,0 +1,13 @@
+NO TEST CASE : 11.4
+JUDUL        : Mengisi form Step 1 (Informasi) dengan data valid
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka form Input Prospek Individu (Step 1 Informasi) - Mengisi seluruh field pada Step 1 Informasi dengan data valid - Klik button Next
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan data Step 1 dan berpindah ke Step 2 Data Pribadi.

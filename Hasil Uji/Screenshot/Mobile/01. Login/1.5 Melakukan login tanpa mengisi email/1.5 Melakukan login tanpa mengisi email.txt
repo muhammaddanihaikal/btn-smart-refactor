@@ -1,0 +1,13 @@
+NO TEST CASE : 1.5
+JUDUL        : Melakukan login tanpa mengisi email
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Kosongkan field Email - Isi field Password dengan password yang valid - Pilih Type Non Employee - Klik button LOGIN
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan error field mandatory.

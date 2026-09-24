@@ -1,0 +1,13 @@
+NO TEST CASE : 14.1
+JUDUL        : Membuka halaman Pengingat
+MODUL        : Agenda - Pengingat
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka menu Lainnya - Klik menu Pengingat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan halaman Pengingat.

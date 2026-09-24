@@ -1,0 +1,16 @@
+NO TEST CASE : 70.7
+JUDUL        : Menginput huruf pada field realisasi
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input huruf pada field realisasi kemudian pindah ke filed lain
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Sistem menghapus input non-numerik secara otomatis saat field kehilangan fokus. Field Realiasi menjadi kosong

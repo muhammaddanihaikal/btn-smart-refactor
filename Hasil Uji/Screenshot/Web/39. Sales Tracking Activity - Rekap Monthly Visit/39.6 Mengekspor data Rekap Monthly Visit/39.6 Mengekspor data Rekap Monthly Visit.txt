@@ -1,0 +1,20 @@
+NO TEST CASE : 39.6
+JUDUL        : Mengekspor data Rekap Monthly Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Monthly Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export Data.
+2. Klik icon Download Export pada navigasi atas.
+3. Klik icon Download pada file export yang sesuai.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil men-generate file export.
+2. Berhasil membuka panel Download Export.
+3. Berhasil mendownload file export.

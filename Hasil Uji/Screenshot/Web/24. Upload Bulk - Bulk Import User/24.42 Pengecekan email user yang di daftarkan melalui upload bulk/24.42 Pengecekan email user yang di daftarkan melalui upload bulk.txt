@@ -1,0 +1,16 @@
+NO TEST CASE : 24.42
+JUDUL        : Pengecekan email user yang di daftarkan melalui upload bulk
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek email
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Mendapatkan email kredensial untuk set kata sandi

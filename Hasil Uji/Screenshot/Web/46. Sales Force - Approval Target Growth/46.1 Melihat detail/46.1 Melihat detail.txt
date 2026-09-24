@@ -1,0 +1,16 @@
+NO TEST CASE : 46.1
+JUDUL        : Melihat detail
+MODUL        : Sales Force
+SUB MENU     : Approval Target Growth
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon mata pada data yang sudah di approve/reject
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail data

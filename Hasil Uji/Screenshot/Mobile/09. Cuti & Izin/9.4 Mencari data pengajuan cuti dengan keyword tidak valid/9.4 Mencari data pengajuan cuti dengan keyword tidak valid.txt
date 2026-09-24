@@ -1,0 +1,13 @@
+NO TEST CASE : 9.4
+JUDUL        : Mencari data pengajuan cuti dengan keyword tidak valid
+MODUL        : Cuti & Izin
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan keyword tidak valid pada field Search - Klik button Search
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan data tidak ditemukan.

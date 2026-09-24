@@ -1,0 +1,22 @@
+NO TEST CASE : 24.52
+JUDUL        : Login Akun
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih jenis user (Employee, Non-Employee, iLoan)
+2. Input Email
+3. Input Password
+4. Klik button Masuk
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih jenis user
+2. Berhasil input email 
+3. Berhasil input password yang valid 
+4. Berhasil login dan menampilkan halaman Pengaturan Profile

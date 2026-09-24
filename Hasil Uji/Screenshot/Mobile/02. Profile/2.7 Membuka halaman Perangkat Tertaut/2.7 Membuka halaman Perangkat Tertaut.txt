@@ -1,0 +1,13 @@
+NO TEST CASE : 2.7
+JUDUL        : Membuka halaman Perangkat Tertaut
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Profile pada navigasi bawah - Klik sub menu Perangkat Tertaut pada bagian Akun
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka sub menu Perangkat Tertaut dan menampilkan daftar data perangkat.

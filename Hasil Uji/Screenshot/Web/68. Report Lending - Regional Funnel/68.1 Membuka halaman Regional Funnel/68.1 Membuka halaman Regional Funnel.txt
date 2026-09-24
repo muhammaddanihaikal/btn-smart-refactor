@@ -1,0 +1,18 @@
+NO TEST CASE : 68.1
+JUDUL        : Membuka halaman Regional Funnel
+MODUL        : Report Lending
+SUB MENU     : Regional Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Report Lending.
+2. Klik sub menu Regional Funnel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Report Lending.
+2. Berhasil menampilkan halaman Regional Funnel.

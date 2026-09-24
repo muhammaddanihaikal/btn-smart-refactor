@@ -1,0 +1,13 @@
+NO TEST CASE : 7.3
+JUDUL        : Melihat detail log absensi Clock In
+MODUL        : Log Absensi
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik salah satu item pada daftar log absensi - Klik tab Clock In
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan informasi Clock In yang mencakup peta lokasi, tanggal, waktu Clock In, deskripsi, lokasi, dan akurasi.

@@ -1,0 +1,9 @@
+🐞 [BUG] | Menu Absent - Rekap Absent: Status Kehadiran di Rekap Absent Prematur Menjadi Alpha Padahal Hari Masih Berjalan
+
+> * **Menu**: Menu Absent → Rekap Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Status absensi karyawan pada tabel Rekap Absent sudah otomatis terisi "A" (Alpha / Tidak Hadir) pada tanggal hari ini yang masih berjalan, padahal karyawan belum tentu absen dan hari kerja belum selesai (status Alpha seharusnya baru di-update otomatis oleh sistem pada jam 24:00 malam jika karyawan benar-benar tidak Clock In hingga akhir hari).
+> * **Expected**: Kolom tanggal yang sedang berjalan tetap kosong (blank) selama jam kerja berlangsung, dan baru ter-update otomatis menjadi "A" pada pergantian hari (pukul 24:00 / 00:00) jika tidak ada aktivitas absensi.
+> * **Actual**: Kolom tanggal hari ini (16 September 2026) sudah langsung terisi status "A" (Alpha) di siang hari meskipun jam kerja masih berjalan.
+> * **Evidence**:
+>   * [https://files.catbox.moe/tkw0mk.png](https://files.catbox.moe/tkw0mk.png)

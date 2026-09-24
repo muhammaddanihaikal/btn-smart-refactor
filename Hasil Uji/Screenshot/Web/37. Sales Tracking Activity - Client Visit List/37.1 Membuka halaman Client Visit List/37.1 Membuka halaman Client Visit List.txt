@@ -1,0 +1,18 @@
+NO TEST CASE : 37.1
+JUDUL        : Membuka halaman Client Visit List
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Sales Tracking Activity.
+2. Klik sub menu Client Visit List.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Sales Tracking Activity.
+2. Berhasil membuka sub menu Client Visit List.

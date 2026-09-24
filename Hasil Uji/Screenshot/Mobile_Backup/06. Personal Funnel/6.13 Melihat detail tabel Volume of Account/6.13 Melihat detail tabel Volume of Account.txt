@@ -1,0 +1,17 @@
+NO TEST CASE : 6.13
+JUDUL        : Melihat detail tabel Volume of Account
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Klik icon tabel pada grafik Volume of Account.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil membuka halaman detail tabel Volume of Account yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

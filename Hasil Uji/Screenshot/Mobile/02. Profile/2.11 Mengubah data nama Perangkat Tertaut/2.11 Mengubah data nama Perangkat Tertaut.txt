@@ -1,0 +1,13 @@
+NO TEST CASE : 2.11
+JUDUL        : Mengubah data nama Perangkat Tertaut
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon titik tiga pada salah satu perangkat - Klik opsi Ganti Nama - Input nama baru dan klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengubah nama perangkat tertaut.

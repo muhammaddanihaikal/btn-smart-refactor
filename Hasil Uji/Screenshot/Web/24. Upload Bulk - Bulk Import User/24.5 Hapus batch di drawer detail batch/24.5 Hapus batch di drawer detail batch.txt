@@ -1,0 +1,18 @@
+NO TEST CASE : 24.5
+JUDUL        : Hapus batch di drawer detail batch
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Hapus batch yang ada pada drawer detail batch
+2. Klik button Hapus
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi hapus 
+2. Berhasil menghapus data upload bulk user dan menampilkan popup 'Bulk import batch deleted sucsessfully'

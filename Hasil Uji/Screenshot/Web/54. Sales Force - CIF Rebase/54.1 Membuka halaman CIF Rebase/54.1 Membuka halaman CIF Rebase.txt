@@ -1,0 +1,18 @@
+NO TEST CASE : 54.1
+JUDUL        : Membuka halaman CIF Rebase
+MODUL        : Sales Force
+SUB MENU     : CIF Rebase
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force
+2. Klik submenu CIF Reabase
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan halaman cif rebase

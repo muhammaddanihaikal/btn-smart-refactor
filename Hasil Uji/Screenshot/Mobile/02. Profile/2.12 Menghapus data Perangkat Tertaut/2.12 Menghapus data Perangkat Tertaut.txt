@@ -1,0 +1,13 @@
+NO TEST CASE : 2.12
+JUDUL        : Menghapus data Perangkat Tertaut
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon titik tiga pada salah satu perangkat selain perangkat saat ini - Klik opsi Hapus - Klik konfirmasi penghapusan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menghapus perangkat dari daftar perangkat tertaut.

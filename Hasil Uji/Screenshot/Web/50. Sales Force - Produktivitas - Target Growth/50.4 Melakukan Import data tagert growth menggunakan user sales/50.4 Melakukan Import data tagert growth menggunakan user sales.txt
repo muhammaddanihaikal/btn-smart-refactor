@@ -1,0 +1,20 @@
+NO TEST CASE : 50.4
+JUDUL        : Melakukan Import data tagert growth menggunakan user sales
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Target Growth
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login menggunakan user sales  
+2. masuk ke halaman target growth
+3. lakukan import data target growth
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil login menggunkan user sales 
+2. Menampilkan halaman target growth
+3. Berhasil mengupload data target growth dan data akan tampil pada menu approval target growth untuk di tindak lanjuti

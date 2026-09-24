@@ -1,0 +1,20 @@
+NO TEST CASE : 3.5
+JUDUL        : Melakukan Visit Out tanpa mengisi field mandatory
+MODUL        : Sales Tracking Activity
+SUB MENU     : Visit Out
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Visit Out
+2. Biarkan kosong pada field Catatan Kunjungan.
+3. Klik button Selesai Kunjungan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman Selesai Kunjungan (Visit Out)
+2. Field Catatan Kunjungan tidak terisi.
+3. Sistem menampilkan pesan error validasi mandatory.

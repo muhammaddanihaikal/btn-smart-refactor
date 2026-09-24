@@ -1,0 +1,13 @@
+NO TEST CASE : 10.5
+JUDUL        : Melihat Detail Prospek
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu titik tiga pada salah satu card prospek - Pilih Detail Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan detail data prospek.

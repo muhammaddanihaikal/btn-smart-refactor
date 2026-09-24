@@ -1,0 +1,15 @@
+NO TEST CASE : 2.30
+JUDUL        : Lihat semua riwayat aktifitas
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button lihat semua riawayat aktifitaas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan seluruh riwayat login

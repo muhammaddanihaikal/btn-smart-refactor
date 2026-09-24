@@ -1,0 +1,15 @@
+NO TEST CASE : 2.38
+JUDUL        : Melihat detail perangkat terhubung
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon opsi perangkat, klik lihat detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail peraangkat terhubung

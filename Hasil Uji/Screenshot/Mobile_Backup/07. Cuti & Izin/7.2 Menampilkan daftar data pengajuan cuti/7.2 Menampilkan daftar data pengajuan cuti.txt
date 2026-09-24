@@ -1,0 +1,17 @@
+NO TEST CASE : 7.2
+JUDUL        : Menampilkan daftar data pengajuan cuti
+MODUL        : Cuti & Izin
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Lainnya pada navigation bar.
+2. Klik menu Cuti & Izin.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan daftar data pengajuan cuti.

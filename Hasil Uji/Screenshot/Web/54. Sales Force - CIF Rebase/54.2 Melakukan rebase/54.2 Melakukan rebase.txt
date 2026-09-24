@@ -1,0 +1,20 @@
+NO TEST CASE : 54.2
+JUDUL        : Melakukan rebase
+MODUL        : Sales Force
+SUB MENU     : CIF Rebase
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (Rebase cif)
+2. input alasan 
+3. klik “OK”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi
+2. alasan berhasil diinput
+3. Berhasil melakukan rebase cif

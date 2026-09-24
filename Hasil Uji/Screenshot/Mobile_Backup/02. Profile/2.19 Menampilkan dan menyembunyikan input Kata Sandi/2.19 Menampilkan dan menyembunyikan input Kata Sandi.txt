@@ -1,0 +1,19 @@
+NO TEST CASE : 2.19
+JUDUL        : Menampilkan dan menyembunyikan input Kata Sandi
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input teks pada field kata sandi.
+2. Klik icon toggle (mata) pada ujung field.
+3. Klik kembali icon toggle (mata) tersebut.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput teks kata sandi (karakter disensor secara default).
+2. Berhasil mengubah karakter kata sandi menjadi teks biasa (plain text).
+3. Berhasil menyembunyikan kembali teks kata sandi tersebut.

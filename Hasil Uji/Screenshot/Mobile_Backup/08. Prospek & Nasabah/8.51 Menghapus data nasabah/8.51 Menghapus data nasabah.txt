@@ -1,0 +1,20 @@
+NO TEST CASE : 8.51
+JUDUL        : Menghapus data nasabah
+MODUL        : Prospek & Nasabah
+SUB MENU     : List Nasabah ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu titik tiga pada salah satu card nasabah.
+2. Pilih Hapus.
+3. Klik button Ya pada pop-up konfirmasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu Lainnya.
+2. Berhasil menampilkan pop-up konfirmasi hapus data.
+3. Berhasil menghapus data nasabah dari daftar List Nasabah ETB.

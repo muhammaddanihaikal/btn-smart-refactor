@@ -1,0 +1,15 @@
+NO TEST CASE : 2.28
+JUDUL        : Data login berhasil
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan login menggunakan username dan password yang sesuai
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data di riwayat login sebagai login berhasil

@@ -1,0 +1,18 @@
+NO TEST CASE : 33.7
+JUDUL        : Mencari data Settings dengan keyword tidak valid
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword tidak valid.
+2. Klik Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

@@ -1,0 +1,16 @@
+NO TEST CASE : 71.6
+JUDUL        : Validasi count checklist data
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek informasi yang ada pada button Reassign () data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan count angka yang sesuai dengan data yang di checklist

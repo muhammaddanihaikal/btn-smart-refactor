@@ -1,0 +1,16 @@
+NO TEST CASE : 56.7
+JUDUL        : Melihat detail card CIF Kelolaan
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (tanda panah) pada  card CIF Kelolaan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail  CIF Kelolaan

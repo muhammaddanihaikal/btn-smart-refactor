@@ -1,0 +1,16 @@
+NO TEST CASE : 56.27
+JUDUL        : Melihat detail data card Referral to Prospera / Prioritas
+MODUL        : Sales Force
+SUB MENU     : Dashboard Sales Force
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (tanda panah) card Referral to Prospera / Prioritas
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman detail Referral to Prospera / Prioritas

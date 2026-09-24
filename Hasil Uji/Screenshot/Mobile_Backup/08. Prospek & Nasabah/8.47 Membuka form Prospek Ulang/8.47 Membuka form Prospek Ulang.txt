@@ -1,0 +1,18 @@
+NO TEST CASE : 8.47
+JUDUL        : Membuka form Prospek Ulang
+MODUL        : Prospek & Nasabah
+SUB MENU     : List Nasabah ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu titik tiga pada salah satu card nasabah.
+2. Pilih Prospek Ulang.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu Lainnya.
+2. Berhasil membuka form Prospek Ulang.

@@ -1,0 +1,18 @@
+NO TEST CASE : 30.1
+JUDUL        : Membuka halaman Aktifitas Referal
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Lead Qualification.
+2. Klik sub menu Aktifitas Referal.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Lead Qualification.
+2. Berhasil membuka halaman Aktifitas Referal.

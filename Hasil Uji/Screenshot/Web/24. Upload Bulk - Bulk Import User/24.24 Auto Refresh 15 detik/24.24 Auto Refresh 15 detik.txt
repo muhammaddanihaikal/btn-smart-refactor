@@ -1,0 +1,16 @@
+NO TEST CASE : 24.24
+JUDUL        : Auto Refresh 15 detik
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Tunggu selama 15 detik tanpa melakukan action apapun di halaman Prospek Personal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1.Sistem secara otomatis memperbarui data setiap 15 detik dan menampilkan data terbaru tanpa mengubah atau  menghilangkan filter yang sudah di pilih

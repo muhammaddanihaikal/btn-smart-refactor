@@ -1,0 +1,16 @@
+NO TEST CASE : 3.4
+JUDUL        : Mengubah ukuran (perbesar/perkecil) tampilan widget pada Overview Funding
+MODUL        : Overview
+SUB MENU     : Overview Fund
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon perbesar/perkecil pada salah satu widget.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memperbesar atau memperkecil ukuran tampilan widget.

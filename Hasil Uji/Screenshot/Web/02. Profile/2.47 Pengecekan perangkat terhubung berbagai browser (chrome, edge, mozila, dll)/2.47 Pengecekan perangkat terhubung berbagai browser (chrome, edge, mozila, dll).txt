@@ -1,0 +1,15 @@
+NO TEST CASE : 2.47
+JUDUL        : Pengecekan perangkat terhubung berbagai browser (chrome, edge, mozila, dll)
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan login di berbagai browser, kemudian cek Perangkat terhubung
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data perangkat terhubung berbagai browser

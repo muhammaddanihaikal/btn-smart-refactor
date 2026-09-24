@@ -1,0 +1,14 @@
+🐞 [BUG] | User Authority - Group Role: Fitur Search Group Role Tidak Berfungsi untuk Kolom Kantor dan Keterangan
+
+> * **Menu**: User Authority → Group Role
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Fitur pencarian pada tabel Group Role tidak memfilter data berdasarkan kolom **Kantor** dan **Keterangan**.
+> * **Expected**: Field search dapat memfilter data secara akurat saat user memasukkan keyword Kantor maupun Keterangan.
+> * **Actual**: * Pencarian keyword kolom Kantor (misal: *"Kantor Cabang"*) tidak menyaring data di kolom Kantor. * Pencarian keyword kolom Keterangan (misal: *"Pimpinan Kantor Cabang"*) menghasilkan *"No data"*.
+> * **Evidence**:
+>   * **Kolom Kantor (Kantor Cabang)**:
+>     * Data Ada: [https://files.catbox.moe/mmj7x6.png](https://files.catbox.moe/mmj7x6.png)
+>     * Hasil Search (Kolom Kantor tidak terfilter): [https://files.catbox.moe/xtuyo2.png](https://files.catbox.moe/xtuyo2.png)
+>   * **Kolom Keterangan (Pimpinan Kantor Cabang)**:
+>     * Data Ada: [https://files.catbox.moe/0iz476.png](https://files.catbox.moe/0iz476.png)
+>     * Hasil Search (No data): [https://files.catbox.moe/b6ihis.png](https://files.catbox.moe/b6ihis.png)

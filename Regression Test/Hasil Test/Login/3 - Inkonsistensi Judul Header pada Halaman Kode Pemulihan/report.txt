@@ -1,0 +1,9 @@
+🐞 [BUG] | Login: Inkonsistensi Judul Header pada Halaman Kode Pemulihan
+
+> * **Menu**: Login
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Judul header halaman masih menampilkan teks "Verifikasi OTP" saat user berada di form input kode pemulihan.
+> * **Expected**: Judul header disesuaikan dengan konteks halaman menjadi **"Verifikasi Kode Pemulihan"**.
+> * **Actual**: Judul header masih tertulis "Verifikasi OTP".
+> * **Evidence**:
+>   * [https://files.catbox.moe/q976oa.png](https://files.catbox.moe/q976oa.png)

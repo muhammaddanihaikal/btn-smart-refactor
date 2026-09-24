@@ -1,0 +1,16 @@
+NO TEST CASE : 55.25
+JUDUL        : Mengunduh data Merchant
+MODUL        : Sales Force
+SUB MENU     : Report - Report Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button export Merchant
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data merchant

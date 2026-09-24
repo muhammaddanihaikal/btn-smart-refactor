@@ -1,0 +1,13 @@
+NO TEST CASE : 9.1
+JUDUL        : Membuka halaman Cuti & Izin
+MODUL        : Cuti & Izin
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Lainnya pada navigation bar - Klik menu Cuti & Izin
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka halaman Cuti & Izin.

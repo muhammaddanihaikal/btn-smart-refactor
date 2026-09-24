@@ -1,0 +1,17 @@
+NO TEST CASE : 31.16
+JUDUL        : Validasi data hasil unduhan list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka file hasil unduhan dat alist prospek ETB
+2. Cek data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka file excel 
+2. Data yang ada pada excel dan tabel list prospek ETB sesuai

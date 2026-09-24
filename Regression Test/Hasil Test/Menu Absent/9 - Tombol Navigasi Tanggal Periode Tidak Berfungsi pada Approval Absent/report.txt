@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Approval Absent: Tombol Navigasi Tanggal "<<" dan ">>" Tidak Berfungsi pada Approval Absent
+
+> * **Menu**: Menu Absent → Approval Absent
+> * **Status**: ✅ Done (Resolved)
+> * **Status Huly**: ✅ Done
+> * **Deskripsi**: Tombol navigasi tanggal fast-backward/forward (`<<` dan `>>`) di atas tabel Approval Absent tidak berfungsi/tidak merespons saat diklik, sehingga user tidak dapat berpindah rentang periode tanggal secara cepat.
+> * **Expected**: Tombol `<<` dan `>>` berfungsi menggeser rentang tanggal tab absensi ke periode sebelumnya atau berikutnya.
+> * **Actual**: Tombol `<<` dan `>>` tidak memberikan respons apapun dan rentang tanggal tidak bergeser.
+> * **Evidence**:
+>   * [https://files.catbox.moe/39cp3e.png](https://files.catbox.moe/39cp3e.png)

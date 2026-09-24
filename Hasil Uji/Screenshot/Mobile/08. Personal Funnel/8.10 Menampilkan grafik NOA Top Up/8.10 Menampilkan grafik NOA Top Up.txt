@@ -1,0 +1,13 @@
+NO TEST CASE : 8.10
+JUDUL        : Menampilkan grafik NOA Top Up
+MODUL        : Personal Funnel
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Melakukan filter data Personal Funnel - Melihat grafik NOA Top Up
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan grafik batang NOA Top Up dengan data Target dan Actual.

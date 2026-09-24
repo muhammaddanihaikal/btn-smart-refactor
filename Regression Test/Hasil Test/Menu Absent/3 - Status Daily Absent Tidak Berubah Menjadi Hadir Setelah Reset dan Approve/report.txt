@@ -1,0 +1,36 @@
+🐞 [BUG] | Menu Absent - Approval Absent: Status Absensi di Daily Absent Tidak Berubah Menjadi Hadir Setelah Dilakukan Reset dan Approve
+
+**Priority:** Normal 🟡
+
+**Label:** bug triage-needed Menu Absent - Approval Absent
+
+**Linked Issue/PR:** # (If applicable)
+
+### 📖 Overview
+
+Status absensi di Daily Absent tetap tersangkut "Tidak Hadir" setelah pengajuan absensi yang sempat ditolak di-reset lalu disetujui (Approved) kembali.
+
+### 🛠 Steps to Reproduce
+
+1. Lakukan Clock In di luar radius pada aplikasi mobile (data absensi otomatis masuk ke menu Approval Absent).
+2. Buka menu Approval Absent, lalu tolak (Reject) pengajuan absensi tersebut (status di Daily Absent berubah menjadi "Tidak Hadir").
+3. Klik icon Reset pada baris absensi tersebut sehingga opsi pilihan tombol Approve dan Reject muncul kembali.
+4. Klik tombol Approve (status pada Approval Absent berubah menjadi "Approved").
+5. Buka menu Daily Absent dan cek status kehadiran user tersebut.
+
+### 🔍 Technical Context
+
+| Field | Detail |
+|---|---|
+| Expected | Status kehadiran user di menu Daily Absent otomatis tersinkronisasi dan berubah kembali menjadi Hadir. |
+| Actual | Status di Daily Absent tidak berubah dan tetap tersangkut sebagai Tidak Hadir. |
+| Environment | [e.g., Production / Staging / Local] |
+| Device/OS | [e.g., macOS Sonoma / Chrome 122] |
+| User Role | [e.g., Admin / Guest / Member] |
+
+### 🪵 Logs & Media
+
+Screenshots: (Drag and drop images here)
+  * Aksi Approval Absent: [https://files.catbox.moe/jfzf7j.png](https://files.catbox.moe/jfzf7j.png)
+  * Status Approved pada Approval Absent: [https://files.catbox.moe/9rx1tj.png](https://files.catbox.moe/9rx1tj.png)
+  * Status di Daily Absent Tetap "Tidak Hadir": [https://files.catbox.moe/sllrfx.png](https://files.catbox.moe/sllrfx.png)

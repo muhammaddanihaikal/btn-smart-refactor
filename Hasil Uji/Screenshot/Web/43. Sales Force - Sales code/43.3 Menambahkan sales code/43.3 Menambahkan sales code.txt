@@ -1,0 +1,22 @@
+NO TEST CASE : 43.3
+JUDUL        : Menambahkan sales code
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button create kemudian kllik create sales code
+2. Pilih jobrole dan kantor  cabang 
+3. klik add sales code 
+4. Klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman sales code
+2. sales code otomatis tergenerate sesuai dengan jobrole dan kantor cabang yang dipilih 
+3. Menampilkan field inputan baru 
+4. berhasil menambahkan sales code

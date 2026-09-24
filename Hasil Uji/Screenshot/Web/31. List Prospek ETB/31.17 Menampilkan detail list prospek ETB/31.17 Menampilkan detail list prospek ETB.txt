@@ -1,0 +1,17 @@
+NO TEST CASE : 31.17
+JUDUL        : Menampilkan detail list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga pada Aksi 
+2. Klik Detail Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa aksi (Detail prospek, prospek ulang, dan informasi rekening)
+2. Menampilkan halaman detail prospek ETB

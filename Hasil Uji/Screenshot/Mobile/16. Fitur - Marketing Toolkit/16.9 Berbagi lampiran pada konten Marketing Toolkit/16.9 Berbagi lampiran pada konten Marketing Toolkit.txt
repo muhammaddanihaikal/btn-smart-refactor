@@ -1,0 +1,13 @@
+NO TEST CASE : 16.9
+JUDUL        : Berbagi lampiran pada konten Marketing Toolkit
+MODUL        : Fitur - Marketing Toolkit
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon titik tiga pada salah satu lampiran - Pilih Share
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan pilihan aplikasi berbagi.

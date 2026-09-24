@@ -1,0 +1,18 @@
+NO TEST CASE : 12.5
+JUDUL        : Mencari data pada tab Produk dengan keyword valid
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada tab Produk di halaman Detail Nasabah, input keyword pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data Produk sesuai keyword pencarian.

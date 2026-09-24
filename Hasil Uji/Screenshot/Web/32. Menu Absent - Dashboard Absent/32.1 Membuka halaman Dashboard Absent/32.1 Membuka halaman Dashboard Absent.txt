@@ -1,0 +1,18 @@
+NO TEST CASE : 32.1
+JUDUL        : Membuka halaman Dashboard Absent
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Menu Absent.
+2. Klik sub menu Dashboard Absent.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Menu Absent.
+2. Berhasil menampilkan halaman Dashboard Absent.

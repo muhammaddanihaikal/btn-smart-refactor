@@ -1,0 +1,16 @@
+NO TEST CASE : 8.34
+JUDUL        : Kembali ke halaman utama dari layar konfirmasi Prospek Berhasil Dibuat
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Kembali.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengarahkan pengguna kembali ke halaman utama / form input.

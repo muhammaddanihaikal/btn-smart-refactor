@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Fitur Search Permintaan Reset MFA Hanya Berfungsi untuk Kolom Pengguna dan Alasan
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Kolom pencarian pada tab Permintaan Reset MFA hanya membaca dan memfilter data berdasarkan kolom **Pengguna** dan **Alasan**. Pencarian kata kunci dari kolom lain (seperti Kantor Wilayah, Kantor Cabang, Outlet, Kode Outlet, Job Title, dll) belum berfungsi.
+> * **Expected**: Field search dapat memfilter data secara fleksibel berdasarkan seluruh kolom yang tersedia pada tabel Permintaan Reset MFA.
+> * **Actual**: Pencarian hanya merespons kata kunci dari kolom Pengguna dan Alasan, sedangkan kolom lainnya diabaikan (*tidak terfilter*).
+> * **Evidence**:
+>   * [https://files.catbox.moe/50rv0y.png](https://files.catbox.moe/50rv0y.png)

@@ -1,0 +1,13 @@
+NO TEST CASE : 5.2
+JUDUL        : Melakukan Clock In
+MODUL        : Absent - Clock In
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input data dengan mengisi : ambil gambar - input description ( Optional)
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengambil gambar dan menginput desckripsi

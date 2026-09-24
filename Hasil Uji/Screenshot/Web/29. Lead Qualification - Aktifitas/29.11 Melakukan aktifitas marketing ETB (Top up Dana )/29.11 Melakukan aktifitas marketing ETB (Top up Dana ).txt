@@ -1,0 +1,26 @@
+NO TEST CASE : 29.11
+JUDUL        : Melakukan aktifitas marketing ETB (Top up Dana )
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Input Data Top Up pada halaman aktifitas prospek ETB 
+2. Input nomor rekening 
+3. Pilih tanggal masuk 
+4. Input dana top up 
+5. Pilih apakah nasabah sudah mengaktifkan Mbanking?
+6. Input Remark
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman Input Top Up Dana untuk prospek ETB 
+2. Berhasil menginput nomor rekening 
+3. Berhasil memilih tanggal masuk 
+4. Berhasil menginput dana top up
+5. Berhasil memilih apakah nasabah sudah mengaktifkan mbanking atau belum
+6. Berhasil menginput remark

@@ -1,0 +1,13 @@
+NO TEST CASE : 2.31
+JUDUL        : Logout dari aplikasi
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Profile pada navigasi bawah - Scroll ke bagian paling bawah dan klik button Logout - Klik konfirmasi pada dialog box logout
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil memproses logout dan kembali ke halaman Login awal aplikasi.

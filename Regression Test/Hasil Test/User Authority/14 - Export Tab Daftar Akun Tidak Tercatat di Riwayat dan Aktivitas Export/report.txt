@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Export Daftar Akun Tidak Tercatat di Riwayat dan Aktivitas Export
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Aktivitas export data pada tab Daftar Akun tidak masuk dan tidak tercatat di menu Riwayat Export maupun Aktivitas Export.
+> * **Expected**: Setiap kali user melakukan export data tab Daftar Akun, riwayatnya otomatis tercatat di `Export Center → Riwayat Export` dan `Export Center → Aktivitas Export`.
+> * **Actual**: Log export tab Daftar Akun tidak muncul di kedua menu Export Center tersebut.
+> * **Evidence**:
+>   * [https://files.catbox.moe/qrvkpx.png](https://files.catbox.moe/qrvkpx.png)

@@ -1,0 +1,18 @@
+NO TEST CASE : 24.35
+JUDUL        : Mencari data dengan batch id yang tidak valid
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id yang tidak valid atau yang datanya tidak ada
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput batch id 
+2. Menampilkan data tabel kosong dengan informasi No data

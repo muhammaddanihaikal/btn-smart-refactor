@@ -1,0 +1,15 @@
+NO TEST CASE : 2.29
+JUDUL        : Data gagal login
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan login menggunakan username dan password yang tidak sesuai
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data di riwayat login sebagai login gagal

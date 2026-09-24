@@ -1,0 +1,20 @@
+NO TEST CASE : 49.1
+JUDUL        : Membuka menu approval cif kelolaan
+MODUL        : Sales Force
+SUB MENU     : Approval Cif Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force 
+2. klik menu approval 
+3. Klik submenu Appoval cif kelolaan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan list menu approval 
+3. Menampilkan halaman approval cif kelolaan

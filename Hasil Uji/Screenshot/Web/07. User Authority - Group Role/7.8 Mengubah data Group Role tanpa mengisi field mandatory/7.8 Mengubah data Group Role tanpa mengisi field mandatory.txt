@@ -1,0 +1,22 @@
+NO TEST CASE : 7.8
+JUDUL        : Mengubah data Group Role tanpa mengisi field mandatory
+MODUL        : User Authority
+SUB MENU     : Group Role
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Ubah Data.
+3. Kosongkan field mandatory.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan halaman Ubah Data Group Role.
+3. Berhasil mengosongkan field mandatory.
+4. Berhasil menampilkan validasi field mandatory wajib diisi.

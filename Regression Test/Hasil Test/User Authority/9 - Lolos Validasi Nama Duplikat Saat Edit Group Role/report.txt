@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Group Role: Lolos Validasi Nama Duplikat Saat Edit Group Role
+
+> * **Menu**: User Authority → Group Role
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Validasi nama unik hanya aktif saat tambah role baru. Ketika melakukan ubah data (*edit*), sistem tidak mengecek duplikasi sehingga nama role bisa disimpan sama persis dengan role lain yang sudah ada.
+> * **Expected**: Sistem tetap memvalidasi keunikan nama saat edit data, dan menolak simpan jika nama role sudah digunakan oleh role lain.
+> * **Actual**: Sistem berhasil menyimpan perubahan, sehingga muncul data role ganda dengan nama yang identik di tabel.
+> * **Evidence**:
+>   * [https://files.catbox.moe/z6e6hl.png](https://files.catbox.moe/z6e6hl.png)

@@ -1,0 +1,16 @@
+NO TEST CASE : 8.4
+JUDUL        : Memilih data Tipe Karyawan
+MODUL        : User Authority
+SUB MENU     : Tipe Karyawan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik checkbox salah satu data tipe karyawan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih data tipe karyawan.

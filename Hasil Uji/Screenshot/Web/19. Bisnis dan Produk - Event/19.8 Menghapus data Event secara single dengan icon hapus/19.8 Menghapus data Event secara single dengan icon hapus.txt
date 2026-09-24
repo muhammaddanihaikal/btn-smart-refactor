@@ -1,0 +1,18 @@
+NO TEST CASE : 19.8
+JUDUL        : Menghapus data Event secara single dengan icon hapus
+MODUL        : Bisnis dan Produk
+SUB MENU     : Event
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon trash (Hapus) pada kolom Aksi.
+2. Klik button Ya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup konfirmasi hapus.
+2. Berhasil menghapus data event.

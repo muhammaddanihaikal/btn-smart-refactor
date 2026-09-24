@@ -1,0 +1,16 @@
+NO TEST CASE : 75.1
+JUDUL        : Lakukan login menggunakan user monitoring
+MODUL        : Export data management
+SUB MENU     : Persetujuan export
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login menggunakan user monitoring
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil melakukan login

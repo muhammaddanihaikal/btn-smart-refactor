@@ -1,0 +1,20 @@
+NO TEST CASE : 8.21
+JUDUL        : Membatalkan prospek melalui menu titik tiga
+MODUL        : Prospek & Nasabah
+SUB MENU     : Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu titik tiga pada pojok kanan atas.
+2. Pilih Batalkan Prospek.
+3. Klik button Batalkan pada pop-up konfirmasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu dropdown.
+2. Berhasil menampilkan pop-up konfirmasi pembatalan.
+3. Berhasil membatalkan prospek dan prospek tidak dapat dilanjutkan kembali.

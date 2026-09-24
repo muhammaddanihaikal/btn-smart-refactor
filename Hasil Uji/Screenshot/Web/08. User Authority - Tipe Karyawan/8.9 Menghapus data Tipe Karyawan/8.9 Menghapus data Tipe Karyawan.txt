@@ -1,0 +1,20 @@
+NO TEST CASE : 8.9
+JUDUL        : Menghapus data Tipe Karyawan
+MODUL        : User Authority
+SUB MENU     : Tipe Karyawan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih salah satu data tipe karyawan.
+2. Klik button Hapus 1 data.
+3. Klik button Yes.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih data tipe karyawan.
+2. Berhasil menampilkan popup konfirmasi hapus data.
+3. Berhasil menghapus data tipe karyawan.

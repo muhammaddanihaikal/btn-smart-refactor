@@ -1,0 +1,20 @@
+NO TEST CASE : 34.13
+JUDUL        : Menyetujui approval absent tanpa mengisi Comments
+MODUL        : Menu Absent
+SUB MENU     : Approval Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Approve.
+2. Kosongkan Comments.
+3. Klik button Approve.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Approve.
+2. Comments tetap kosong.
+3. Muncul validasi Comments wajib diisi.

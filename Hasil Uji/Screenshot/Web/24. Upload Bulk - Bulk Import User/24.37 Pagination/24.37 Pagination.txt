@@ -1,0 +1,18 @@
+NO TEST CASE : 24.37
+JUDUL        : Pagination
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik pagination (10/halaman).
+2. Pilih berapa data yang ingin ditampilkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik pagination.
+2. Berhasil menampilkan data sesuai jumlah data per halaman yang dipilih.

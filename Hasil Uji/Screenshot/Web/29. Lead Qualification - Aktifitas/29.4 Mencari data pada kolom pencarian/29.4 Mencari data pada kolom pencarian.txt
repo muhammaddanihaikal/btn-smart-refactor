@@ -1,0 +1,16 @@
+NO TEST CASE : 29.4
+JUDUL        : Mencari data pada kolom pencarian
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama prospek pada kolom pencarian.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data sesuai kata kunci yang diinput.

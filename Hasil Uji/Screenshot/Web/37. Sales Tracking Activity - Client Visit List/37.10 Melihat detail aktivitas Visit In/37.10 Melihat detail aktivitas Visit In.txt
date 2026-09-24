@@ -1,0 +1,16 @@
+NO TEST CASE : 37.10
+JUDUL        : Melihat detail aktivitas Visit In
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Show Detail pada kolom Detail Visit di bagian Visit In.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup Activity Visit Detail yang berisi foto, Visit In Date & Time, Visit In Location, dan Visit In Description.

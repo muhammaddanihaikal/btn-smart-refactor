@@ -1,0 +1,9 @@
+🐞 [BUG] | Ticket Maintenance - Aktivitas: Field Dropdown Filter Tidak Memiliki Label "* Tipe"
+
+> * **Menu**: Ticket Maintenance → Aktivitas
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Pada komponen filter di halaman Aktivitas Pelaporan Issue (tab Filter 1), field dropdown filter pertama tidak memiliki label penunjuk di atasnya (area label kosong/blank), yang mana seharusnya memiliki label "* Tipe".
+> * **Expected**: Muncul label teks penunjuk yang jelas di atas komponen dropdown, yaitu "* Tipe", agar user memahami konteks filter yang dipilih.
+> * **Actual**: Area label di atas field dropdown kosong/hilang sama sekali (blank label).
+> * **Evidence**:
+>   * [https://files.catbox.moe/yzme6j.png](https://files.catbox.moe/yzme6j.png)

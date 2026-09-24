@@ -1,0 +1,18 @@
+NO TEST CASE : 10.8
+JUDUL        : Mengunduh lampiran pada konten Marketing Toolkit
+MODUL        : Fitur
+SUB MENU     : Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada salah satu lampiran.
+2. Pilih Download.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan opsi aksi pada lampiran.
+2. Berhasil mengunduh lampiran ke perangkat.

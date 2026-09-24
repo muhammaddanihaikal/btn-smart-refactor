@@ -1,0 +1,20 @@
+NO TEST CASE : 57.1
+JUDUL        : Membuka menu setting Role validate Pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Role Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales Force 
+2. Klik Submenu Pipeline
+3. Klik submenu Setting Role Validate Pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan submenu Sales Force
+2. Menampilkan submenu pipeline 
+3. Menampilkan halaman Setting role validate pipeline

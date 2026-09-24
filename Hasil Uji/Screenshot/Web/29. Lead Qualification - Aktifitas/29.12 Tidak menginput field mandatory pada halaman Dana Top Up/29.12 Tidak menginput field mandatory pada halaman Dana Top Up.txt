@@ -1,0 +1,18 @@
+NO TEST CASE : 29.12
+JUDUL        : Tidak menginput field mandatory pada halaman Dana Top Up
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan salah satu atau semua inputan field mandatory 
+2. Klik button Simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil tidak menginput field mandatory 
+2. Menampilkan alert pada setiap filed mandatory bahwa field field tersebut di butuhkan untuk diisi

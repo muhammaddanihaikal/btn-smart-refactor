@@ -1,0 +1,22 @@
+NO TEST CASE : 18.8
+JUDUL        : Mengubah data E-Channel tanpa mengisi field mandatory
+MODUL        : Bisnis dan Produk
+SUB MENU     : E-Channel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik action menu titik tiga.
+2. Klik button Ubah Data.
+3. Kosongkan salah satu field mandatory.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan action menu.
+2. Berhasil menampilkan form Edit E-Channel.
+3. Berhasil mengosongkan field mandatory.
+4. Menampilkan pesan validasi wajib diisi dan data tidak disimpan.

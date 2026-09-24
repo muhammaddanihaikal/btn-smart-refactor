@@ -1,0 +1,20 @@
+NO TEST CASE : 25.3
+JUDUL        : Menginput no CIF yang tidak valid untuk nasabah ETB
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Personal
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input no CIF yang tidak valid 
+2. Simpan file 
+3. Upload file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput no CIF 
+2. Berhasil menyimpan file 
+3. Berhasil upload file dengan status 'Validasi gagal', menampilkan informasi validation error 'no CIF tidak ditemukan' pada halaman preview data dan dokumen error. data prospek tidak tersimpan

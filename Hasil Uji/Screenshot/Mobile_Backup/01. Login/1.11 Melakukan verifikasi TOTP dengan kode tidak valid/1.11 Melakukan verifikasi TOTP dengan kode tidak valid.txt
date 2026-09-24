@@ -1,0 +1,17 @@
+NO TEST CASE : 1.11
+JUDUL        : Melakukan verifikasi TOTP dengan kode tidak valid
+MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input 6 digit kode TOTP yang salah pada kolom yang disediakan.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kode TOTP.
+2. Menampilkan pesan error TOTP tidak valid.

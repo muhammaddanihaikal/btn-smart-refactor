@@ -1,0 +1,18 @@
+NO TEST CASE : 45.23
+JUDUL        : Melihat potensi perubahan tanggal
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga 
+2. klik action history perubahan tanggal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan Opsi action 
+2. Menampilkan list data perubahan tanggal potensi

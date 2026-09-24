@@ -1,0 +1,20 @@
+NO TEST CASE : 19.7
+JUDUL        : Mengubah data Event
+MODUL        : Bisnis dan Produk
+SUB MENU     : Event
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon pen (Ubah) pada kolom Aksi.
+2. Ubah data pada form.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Edit Event.
+2. Berhasil mengubah data.
+3. Berhasil menyimpan perubahan.

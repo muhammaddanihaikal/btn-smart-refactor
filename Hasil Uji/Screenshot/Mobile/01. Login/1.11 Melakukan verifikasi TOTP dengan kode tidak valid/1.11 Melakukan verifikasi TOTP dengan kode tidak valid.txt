@@ -1,0 +1,13 @@
+NO TEST CASE : 1.11
+JUDUL        : Melakukan verifikasi TOTP dengan kode tidak valid
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input 6 digit kode TOTP yang salah pada kolom yang disediakan - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan error TOTP tidak valid.

@@ -1,0 +1,16 @@
+NO TEST CASE : 27.6
+JUDUL        : Menginput angka di field nomor KTP kurang dari 16 digit
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input angka nomor ktp kurang dari 16 digit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi ' Panjang nomor KTP minimal 16'

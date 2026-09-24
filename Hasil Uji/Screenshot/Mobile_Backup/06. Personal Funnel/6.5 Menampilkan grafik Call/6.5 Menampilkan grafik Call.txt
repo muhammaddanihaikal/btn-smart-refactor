@@ -1,0 +1,17 @@
+NO TEST CASE : 6.5
+JUDUL        : Menampilkan grafik Call
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Melihat grafik Call.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil menampilkan grafik batang Call dengan data Target dan Actual.

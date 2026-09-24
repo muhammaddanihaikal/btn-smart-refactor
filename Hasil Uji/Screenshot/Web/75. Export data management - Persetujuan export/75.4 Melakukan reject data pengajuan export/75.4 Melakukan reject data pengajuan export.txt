@@ -1,0 +1,16 @@
+NO TEST CASE : 75.4
+JUDUL        : Melakukan reject data pengajuan export
+MODUL        : Export data management
+SUB MENU     : Persetujuan export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon (titik tiga) klik tolak, input alasan, klik submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil melakukan reject data

@@ -1,0 +1,28 @@
+NO TEST CASE : 23.4
+JUDUL        : Upload Target bulk dengan data yang valid
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka file excel 
+2. Input data upload target bulk
+3. Simpan file excel 
+4. Pilih Bisnis Unit yang sesuai 
+5. Klik 'Pilih atau seret file Template (.xlsx) ke area ini' 
+6. Pilih file yang sudah di input
+7. Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. File excel berhasil di buka
+2. Berhasil menginput data upload target bulk 
+3. Berhasil menyimpan file excel 
+4. Berhasil memilih bisnis unit 
+5. Membuka file manager device 
+6. Berhasil memilih file 
+7. Berhasil mengupload data target secara bulk, dan status nya Selesai

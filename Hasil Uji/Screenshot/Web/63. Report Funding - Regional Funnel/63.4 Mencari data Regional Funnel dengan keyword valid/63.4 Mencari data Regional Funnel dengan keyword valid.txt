@@ -1,0 +1,18 @@
+NO TEST CASE : 63.4
+JUDUL        : Mencari data Regional Funnel dengan keyword valid
+MODUL        : Report Funding
+SUB MENU     : Regional Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field Cari Data dengan keyword valid.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Cari Data.
+2. Berhasil menampilkan data yang dicari.

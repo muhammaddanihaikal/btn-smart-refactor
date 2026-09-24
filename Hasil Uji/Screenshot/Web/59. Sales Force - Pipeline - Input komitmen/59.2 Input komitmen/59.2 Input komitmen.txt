@@ -1,0 +1,20 @@
+NO TEST CASE : 59.2
+JUDUL        : Input komitmen
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button input komitmen 
+2. input data dengan mengisi (bulan, tahun,Tabungan ritel,deposito ritel, giro ritel, Tabungan Lembaga, deposito Lembaga, dan giro Lembaga) 
+3. kemudian klik button save untuk menyimpan data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan komitmen
+2. Berhasil menginput data 
+3. Berhasil menambahkan komitmen baru

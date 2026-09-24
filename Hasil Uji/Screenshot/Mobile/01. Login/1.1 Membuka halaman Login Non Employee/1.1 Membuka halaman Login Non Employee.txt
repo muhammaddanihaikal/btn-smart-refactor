@@ -1,0 +1,13 @@
+NO TEST CASE : 1.1
+JUDUL        : Membuka halaman Login Non Employee
+MODUL        : Login
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka aplikasi BTN Smart
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka aplikasi dan menampilkan halaman login.

@@ -1,0 +1,20 @@
+NO TEST CASE : 18.5
+JUDUL        : Menambahkan data E-Channel
+MODUL        : Bisnis dan Produk
+SUB MENU     : E-Channel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah E-Channel.
+2. Isi field mandatory seluruh field mandatory.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah E-Channel Baru.
+2. Berhasil mengisi field mandatory.
+3. Berhasil menyimpan data E-Channel baru.

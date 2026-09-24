@@ -1,0 +1,20 @@
+NO TEST CASE : 39.4
+JUDUL        : Melakukan filter data Rekap Monthly Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Monthly Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Pilih opsi pada field filter yang tersedia.
+3. Klik button Filter pada panel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka panel Filter.
+2. Berhasil memilih opsi filter.
+3. Berhasil menampilkan data Rekap Monthly Visit sesuai filter.

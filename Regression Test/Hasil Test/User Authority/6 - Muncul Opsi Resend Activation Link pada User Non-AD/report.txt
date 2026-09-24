@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - User: Muncul Opsi "Resend Activation Link" pada User Non-AD
+
+> * **Menu**: User Authority → User
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Pada menu aksi user bertipe **Non-AD** (data ghost record sisa delete), muncul opsi *"Resend Activation Link"* dan saat diklik sistem tetap mengirimkan email untuk buat password.
+> * **Expected**: Fitur *"Resend Activation Link"* hanya tersedia khusus untuk user bertipe **AD**. User Non-AD tidak boleh memiliki aksi ini karena password dibuat langsung saat input user baru.
+> * **Actual**: Tombol *"Resend Activation Link"* muncul pada user Non-AD dan dapat mentrigger pengiriman email aktivasi.
+> * **Evidence**:
+>   * [https://files.catbox.moe/lyl9gn.png](https://files.catbox.moe/lyl9gn.png)

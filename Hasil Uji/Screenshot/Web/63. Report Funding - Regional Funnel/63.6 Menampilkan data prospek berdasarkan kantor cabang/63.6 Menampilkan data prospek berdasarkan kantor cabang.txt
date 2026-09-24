@@ -1,0 +1,16 @@
+NO TEST CASE : 63.6
+JUDUL        : Menampilkan data prospek berdasarkan kantor cabang
+MODUL        : Report Funding
+SUB MENU     : Regional Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu daftar kantor cabang pada tabel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data prospek pada kantor cabang yang dipilih.

@@ -1,0 +1,18 @@
+NO TEST CASE : 36.9
+JUDUL        : Mengekspor data detail cabang
+MODUL        : Sales Tracking Activity
+SUB MENU     : Dashboard Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon panah pada card cabang.
+2. Klik button Export Data.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup detail cabang.
+2. Berhasil mendownload file export.

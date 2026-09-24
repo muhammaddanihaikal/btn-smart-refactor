@@ -1,0 +1,24 @@
+NO TEST CASE : 72.3
+JUDUL        : Melakukan Re-Assign Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih prospek dengan klik checkbox yang ada di samping setiap data prospek 
+2. Klik button Reassign () data 
+3. Klik button Yes
+4. Pilih Sales
+5. Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Checkbox menjadi ceklis dan data berhasil di pilih 
+2. Menampilkan popup konfirmasi 
+3. Menampilkan modal reassign 
+4. Menampilkan dropdown data sales dan berhasil di pilih
+5. Berhasil melakukan reassign prospek dari management ke sales

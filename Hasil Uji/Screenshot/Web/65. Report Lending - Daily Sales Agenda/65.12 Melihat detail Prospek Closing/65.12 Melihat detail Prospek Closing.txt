@@ -1,0 +1,18 @@
+NO TEST CASE : 65.12
+JUDUL        : Melihat detail Prospek Closing
+MODUL        : Report Lending
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Closing.
+2. Klik salah satu nama prospek pada tabel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan tab Prospek Closing.
+2. Berhasil menampilkan halaman detail prospek.

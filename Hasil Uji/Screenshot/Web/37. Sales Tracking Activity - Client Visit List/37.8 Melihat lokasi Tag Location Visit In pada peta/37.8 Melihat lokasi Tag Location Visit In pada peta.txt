@@ -1,0 +1,16 @@
+NO TEST CASE : 37.8
+JUDUL        : Melihat lokasi Tag Location Visit In pada peta
+MODUL        : Sales Tracking Activity
+SUB MENU     : Client Visit List
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik link Tag Location pada kolom Tag Location di bagian Visit In.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan popup peta Visit In Location beserta informasi Visit Activity dan Client Name.

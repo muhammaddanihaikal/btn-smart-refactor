@@ -1,0 +1,13 @@
+NO TEST CASE : 15.7
+JUDUL        : Mencari agenda dengan keyword tidak valid
+MODUL        : Agenda - Daily Sales Agenda
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan keyword tidak valid pada Search Bar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan informasi data tidak ditemukan.

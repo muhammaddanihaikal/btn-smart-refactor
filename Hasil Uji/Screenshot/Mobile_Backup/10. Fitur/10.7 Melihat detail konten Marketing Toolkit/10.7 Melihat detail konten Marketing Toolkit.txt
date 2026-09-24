@@ -1,0 +1,16 @@
+NO TEST CASE : 10.7
+JUDUL        : Melihat detail konten Marketing Toolkit
+MODUL        : Fitur
+SUB MENU     : Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu sub-folder pada daftar folder.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan detail konten Marketing Toolkit.

@@ -1,0 +1,17 @@
+NO TEST CASE : 5.5
+JUDUL        : Melihat detail log absensi Clock Out
+MODUL        : Log Absensi
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu item pada daftar log absensi.
+2. Klik tab Clock Out.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Log Absent Detail.
+2. Berhasil menampilkan detail log absensi Clock Out.

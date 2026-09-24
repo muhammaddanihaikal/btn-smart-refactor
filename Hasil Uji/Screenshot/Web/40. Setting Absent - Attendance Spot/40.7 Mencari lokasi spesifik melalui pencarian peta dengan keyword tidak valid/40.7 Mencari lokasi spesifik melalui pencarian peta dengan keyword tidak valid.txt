@@ -1,0 +1,18 @@
+NO TEST CASE : 40.7
+JUDUL        : Mencari lokasi spesifik melalui pencarian peta dengan keyword tidak valid
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama lokasi/keyword yang tidak valid pada pencarian peta.
+2. Klik Enter/Cari.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Peta tidak menemukan lokasi yang dimaksud (menampilkan pesan tidak ditemukan).

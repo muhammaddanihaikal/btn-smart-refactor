@@ -1,0 +1,18 @@
+NO TEST CASE : 67.3
+JUDUL        : Melakukan filter data Rekap Funnel
+MODUL        : Report Lending
+SUB MENU     : Rekap Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field filter mandatory beserta kriteria filter spesifik (seperti Kantor Cabang/Role).
+2. Klik button Filter Data.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi kriteria filter.
+2. Berhasil menampilkan data Rekap Funnel yang sesuai dengan kriteria filter yang dipilih.

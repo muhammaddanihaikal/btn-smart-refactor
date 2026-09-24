@@ -1,0 +1,17 @@
+NO TEST CASE : 22.3
+JUDUL        : Mengosongkan semua filter mandatory
+MODUL        : Menu Target
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan semua filter 
+2. Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil tidak memilih filter 
+2. Menampilkan alert pada setiap filter mandatory dengan informasi 'dibutuhkan'

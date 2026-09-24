@@ -1,0 +1,13 @@
+NO TEST CASE : 13.1
+JUDUL        : Membuka halaman Nasabah Referal
+MODUL        : Prospek & Nasabah - Nasabah Referal
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka menu Lainnya - Klik menu Nasabah Referal
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan halaman Nasabah Referal.

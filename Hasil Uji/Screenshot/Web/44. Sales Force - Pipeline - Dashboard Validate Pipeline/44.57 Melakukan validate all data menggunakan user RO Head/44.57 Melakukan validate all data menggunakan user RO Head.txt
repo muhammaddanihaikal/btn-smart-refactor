@@ -1,0 +1,18 @@
+NO TEST CASE : 44.57
+JUDUL        : Melakukan validate all data menggunakan user RO Head
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Dashboard Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button validate all data 
+2. Klik ok
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi 
+2. Berhasil melakukan validate data secara bersamaan

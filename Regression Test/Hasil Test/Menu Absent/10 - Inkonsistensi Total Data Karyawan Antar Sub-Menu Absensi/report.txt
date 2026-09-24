@@ -1,0 +1,11 @@
+🐞 [BUG] | Menu Absent: Inkonsistensi Total Data Karyawan Antar Sub-Menu Absensi (Dashboard vs Daily vs Rekap Absent)
+
+> * **Menu**: Menu Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Total data karyawan pada sub-menu di bawah modul Menu Absent saling berbeda dan tidak konsisten satu sama lain (Dashboard Absent: 353 sales, Daily Absent: 383 sales, dan Rekap Absent: 11.203 data).
+> * **Expected**: Total data karyawan antar sub-menu di Menu Absent sinkron dan konsisten antar halaman.
+> * **Actual**: Ketiga menu menampilkan jumlah total data yang berbeda jauh (Dashboard: 353 sales, Daily: 383 sales, Rekap: 11.203 data).
+> * **Evidence**:
+>   * Dashboard Absent (353 Sales): [https://files.catbox.moe/bz0t0y.png](https://files.catbox.moe/bz0t0y.png)
+>   * Daily Absent (383 Sales): [https://files.catbox.moe/2gzx5s.png](https://files.catbox.moe/2gzx5s.png)
+>   * Rekap Absent (11.203 data): [https://files.catbox.moe/jsr3g0.png](https://files.catbox.moe/jsr3g0.png)

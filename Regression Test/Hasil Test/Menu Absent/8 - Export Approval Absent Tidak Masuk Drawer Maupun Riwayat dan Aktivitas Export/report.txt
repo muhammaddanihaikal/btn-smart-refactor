@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Approval Absent: Export Approval Absent Tidak Masuk Drawer Maupun Riwayat dan Aktivitas Export
+
+> * **Menu**: Menu Absent → Approval Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Setelah user melakukan export data pada halaman Approval Absent, file hasil export tidak muncul di drawer samping (*Download Export*) serta tidak tercatat di menu *Riwayat Export* maupun *Aktivitas Export*.
+> * **Expected**: File export Approval Absent otomatis muncul di drawer samping (*Download Export*) dan riwayatnya tercatat di *Export Center* (*Riwayat Export* & *Aktivitas Export*).
+> * **Actual**: File export Approval Absent tidak muncul di drawer *Download Export* serta tidak tercatat di *Riwayat Export* maupun *Aktivitas Export*.
+> * **Evidence**:
+>   * Tombol Export Data pada Approval Absent: [https://files.catbox.moe/r620vg.png](https://files.catbox.moe/r620vg.png)
+>   * Drawer Download Export (Tidak Muncul): [https://files.catbox.moe/ix3l29.png](https://files.catbox.moe/ix3l29.png)

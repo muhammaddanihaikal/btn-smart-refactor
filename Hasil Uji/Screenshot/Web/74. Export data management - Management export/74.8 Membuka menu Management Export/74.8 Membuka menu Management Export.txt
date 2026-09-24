@@ -1,0 +1,16 @@
+NO TEST CASE : 74.8
+JUDUL        : Membuka menu Management Export
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu exported data management, klik submenu management export
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman management export

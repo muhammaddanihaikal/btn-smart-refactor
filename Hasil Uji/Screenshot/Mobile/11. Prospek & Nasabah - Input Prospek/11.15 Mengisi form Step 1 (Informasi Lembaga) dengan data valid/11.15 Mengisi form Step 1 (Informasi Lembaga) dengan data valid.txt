@@ -1,0 +1,13 @@
+NO TEST CASE : 11.15
+JUDUL        : Mengisi form Step 1 (Informasi Lembaga) dengan data valid
+MODUL        : Prospek & Nasabah - Input Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka form Input Prospek Lembaga (Step 1 Informasi Lembaga) - Mengisi field NPWP dengan NPWP valid - Klik button Next
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menyimpan data Step 1 dan berpindah ke Step 2 Data Lembaga.

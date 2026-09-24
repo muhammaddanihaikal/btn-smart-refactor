@@ -1,0 +1,32 @@
+NO TEST CASE : 3.1
+JUDUL        : Melakukan Visit In untuk Sales Lending
+MODUL        : Sales Tracking Activity
+SUB MENU     : Visit In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Visit In 
+2. Pilih type Visit Lending pada popup.
+3. Pilih data pada field Tipe Kunjungan.
+4. Pilih data pada field Nasabah / Prospek (Opsional)
+5. Input data pada field Nama Nasabah.
+6. Input data pada field Alamat Nasabah.
+7. Input data pada field Catatan Kunjungan.
+8. Klik button Ambil Foto Kunjungan dan ambil foto.
+9. Klik button Mulai Kunjungan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Kunjungan (Visit In)
+2. Berhasil memilih type Visit Lending.
+3. Berhasil memilih data pada field Tipe Kunjungan.
+4. Berhasil memilih data pada field Nasabah / Prospek (Opsional)
+5. Berhasil menginput data pada field Nama Nasabah.
+6. Berhasil menginput data pada field Alamat Nasabah.
+7. Berhasil menginput data pada field Catatan Kunjungan.
+8. Berhasil mengambil foto kunjungan.
+9. Berhasil melakukan Visit In.

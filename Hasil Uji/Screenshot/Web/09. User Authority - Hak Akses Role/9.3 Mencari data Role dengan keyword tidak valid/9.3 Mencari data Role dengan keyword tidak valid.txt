@@ -1,0 +1,18 @@
+NO TEST CASE : 9.3
+JUDUL        : Mencari data Role dengan keyword tidak valid
+MODUL        : User Authority
+SUB MENU     : Hak Akses Role
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword yang tidak terdaftar pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

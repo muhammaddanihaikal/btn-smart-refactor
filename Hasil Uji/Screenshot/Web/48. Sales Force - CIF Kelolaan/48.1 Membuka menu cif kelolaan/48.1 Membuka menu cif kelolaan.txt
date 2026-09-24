@@ -1,0 +1,18 @@
+NO TEST CASE : 48.1
+JUDUL        : Membuka menu cif kelolaan
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu sales force
+2. Klik submenu CIf Kelolaan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan list submenu sales force
+2. Menampilkan halaman Cif Kelolaan

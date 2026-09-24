@@ -1,0 +1,19 @@
+NO TEST CASE : 2.2
+JUDUL        : Mengubah informasi pribadi
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button edit 
+2. Ubah data 
+3. Klik button simpan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Membuka field yang bisa di edit
+2. Berhasil menginput data yang ingin diubah
+3. Berhasil mengubah data informasi pribadi

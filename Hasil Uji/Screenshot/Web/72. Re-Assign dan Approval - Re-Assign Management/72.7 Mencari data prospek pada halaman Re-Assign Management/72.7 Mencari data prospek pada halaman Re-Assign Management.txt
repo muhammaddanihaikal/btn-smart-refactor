@@ -1,0 +1,18 @@
+NO TEST CASE : 72.7
+JUDUL        : Mencari data prospek pada halaman Re-Assign Management
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama nasabah pada field search 
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput nama nasabah
+2. Menampilkan data prospek Re-Assign Management sesuai dengan nama yang di cari

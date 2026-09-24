@@ -1,0 +1,20 @@
+NO TEST CASE : 19.10
+JUDUL        : Menghapus data Event secara massal (Bulk Delete)
+MODUL        : Bisnis dan Produk
+SUB MENU     : Event
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih beberapa data yang ingin dihapus dengan mencentang checkbox pada baris data.
+2. Klik button Hapus X data.
+3. Klik button Ya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih beberapa data.
+2. Berhasil menampilkan button Hapus X data dan popup konfirmasi.
+3. Berhasil menghapus data Event yang dipilih.

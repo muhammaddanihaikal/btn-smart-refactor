@@ -1,0 +1,20 @@
+NO TEST CASE : 48.8
+JUDUL        : Menambahkan data cif kelolaan
+MODUL        : Sales Force
+SUB MENU     : CIF Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button input CIF 
+2. input data dengan mengisi (pilih scode, input cif dan remark) 
+3. klik button submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan add cif kelolaan 
+2. Berhasil menginput data
+3. Berhasil menambahkan data cif kelolaan

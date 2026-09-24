@@ -1,0 +1,10 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Export Perangkat & Sesi Tidak Masuk Drawer Maupun Riwayat & Aktivitas Export
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Setelah menekan tombol **Export Data** pada tab Perangkat & Sesi, file export tidak muncul di dalam drawer *Download Export* serta tidak tercatat di menu `Export Center → Riwayat Export` maupun `Aktivitas Export`.
+> * **Expected**: Saat klik Export Data, antrean/file download langsung masuk ke drawer *Download Export* dan tercatat pada menu *Export Center*.
+> * **Actual**: File export tidak muncul di drawer *Download Export* dan aktivitas export tidak tercatat sama sekali di Export Center.
+> * **Evidence**:
+>   * Tombol Export di Tab Perangkat & Sesi: [https://files.catbox.moe/8t8d5v.png](https://files.catbox.moe/8t8d5v.png)
+>   * Drawer Download Export Tidak Mencatat File: [https://files.catbox.moe/viut76.png](https://files.catbox.moe/viut76.png)

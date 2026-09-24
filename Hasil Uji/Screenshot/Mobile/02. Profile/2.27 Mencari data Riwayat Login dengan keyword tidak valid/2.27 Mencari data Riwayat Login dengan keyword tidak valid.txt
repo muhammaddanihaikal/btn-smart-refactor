@@ -1,0 +1,13 @@
+NO TEST CASE : 2.27
+JUDUL        : Mencari data Riwayat Login dengan keyword tidak valid
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka halaman Riwayat Login - Input keyword tidak valid pada field Search
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mencari namun tidak menampilkan data apapun (state data tidak ditemukan).

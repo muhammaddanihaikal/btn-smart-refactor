@@ -1,0 +1,18 @@
+NO TEST CASE : 71.5
+JUDUL        : Mencari data
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword pada field search 
+2. Klik icon search yang ada di sebelah field
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword 
+2. Menampilkan data Re-Assign Prospek sesuai dengan keyword yang di cari

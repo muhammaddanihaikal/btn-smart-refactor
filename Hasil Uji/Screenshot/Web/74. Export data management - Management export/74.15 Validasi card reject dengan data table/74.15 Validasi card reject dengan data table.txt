@@ -1,0 +1,16 @@
+NO TEST CASE : 74.15
+JUDUL        : Validasi card reject dengan data table
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data dengan memilih status approvalnya “reject” dan status exportnya “generate”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Jumlah data pada card dan table sesuai

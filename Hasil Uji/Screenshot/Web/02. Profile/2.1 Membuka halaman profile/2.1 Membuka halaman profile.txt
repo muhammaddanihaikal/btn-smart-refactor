@@ -1,0 +1,17 @@
+NO TEST CASE : 2.1
+JUDUL        : Membuka halaman profile
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik nama/ profile pada kanan atas halaman
+2. Klik pengaturan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan pengaturan dan logout
+2. Menampilkan halaman profile

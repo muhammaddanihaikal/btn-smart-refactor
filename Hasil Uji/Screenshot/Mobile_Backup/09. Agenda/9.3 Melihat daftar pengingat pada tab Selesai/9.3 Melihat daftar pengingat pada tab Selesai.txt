@@ -1,0 +1,16 @@
+NO TEST CASE : 9.3
+JUDUL        : Melihat daftar pengingat pada tab Selesai
+MODUL        : Agenda
+SUB MENU     : Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Selesai.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan daftar pengingat yang sudah selesai.

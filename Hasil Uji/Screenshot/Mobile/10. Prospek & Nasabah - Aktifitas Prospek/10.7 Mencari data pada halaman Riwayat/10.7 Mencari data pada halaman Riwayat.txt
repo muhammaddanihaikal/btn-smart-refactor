@@ -1,0 +1,13 @@
+NO TEST CASE : 10.7
+JUDUL        : Mencari data pada halaman Riwayat
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan kata kunci pada Search Bar global
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil memfilter data riwayat sesuai kata kunci pencarian.

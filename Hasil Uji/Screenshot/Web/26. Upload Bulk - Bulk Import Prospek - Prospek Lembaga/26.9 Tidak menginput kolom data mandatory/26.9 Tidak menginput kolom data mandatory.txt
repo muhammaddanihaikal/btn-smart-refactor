@@ -1,0 +1,24 @@
+NO TEST CASE : 26.9
+JUDUL        : Tidak menginput kolom data mandatory
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input data pada template excel yang telah di download, tetapi kosongkan kolom yang wajib diisi (email dan produk)
+2. Simpan file 
+3. Klik 'Pilih atau seret file template (.xlsx) ke area ini'
+4. Pilih file yang tadi di simpan
+5. Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input data 
+2. Berhasil menyimpan file 
+3. Membuka file manager device 
+4. Berhasil memilih file 
+5. Berhasil upload file dengan status 'Validasi gagal', menampilkan informasi validation error 'Wajid diisi' pada halaman preview data dan dokumen error. data prospek tidak tersimpan

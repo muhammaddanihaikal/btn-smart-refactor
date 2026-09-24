@@ -1,0 +1,16 @@
+NO TEST CASE : 9.12
+JUDUL        : Mencari agenda menggunakan Search Bar
+MODUL        : Agenda
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan kata kunci pencarian pada Search Bar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data agenda yang sesuai dengan kata kunci pencarian.

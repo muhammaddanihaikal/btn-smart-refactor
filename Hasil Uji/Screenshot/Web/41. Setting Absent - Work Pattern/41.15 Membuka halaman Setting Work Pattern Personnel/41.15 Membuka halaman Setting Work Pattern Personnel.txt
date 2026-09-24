@@ -1,0 +1,16 @@
+NO TEST CASE : 41.15
+JUDUL        : Membuka halaman Setting Work Pattern Personnel
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Setting Work Pattern Personnel pada salah satu data Work Pattern.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman Setting Work Pattern Personnel.

@@ -1,0 +1,15 @@
+NO TEST CASE : 2.7
+JUDUL        : Menginput konfirmasi kata sandi berbeda dengan kata sandi baru (Negative test)
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input konfirmasi kata sandi yang berbeda dengan kata sandi baru
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan validasi kata sandi tidak cocok

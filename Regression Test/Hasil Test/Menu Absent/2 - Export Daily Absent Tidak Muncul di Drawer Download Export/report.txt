@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Daily Absent: Export Daily Absent Tidak Muncul di Drawer Download Export
+
+> * **Menu**: Menu Absent → Daily Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Setelah user melakukan export data pada halaman Daily Absent, file hasil export sudah masuk ke menu Riwayat Export & Aktivitas Export, namun tidak muncul pada panel/drawer samping kanan (Download Export).
+> * **Expected**: File export Daily Absent otomatis muncul di drawer samping kanan (Download Export) agar user bisa langsung mengunduh file tanpa harus berpindah ke menu Export Center.
+> * **Actual**: File export Daily Absent tidak muncul di dalam drawer Download Export (drawer hanya menampilkan file dari menu lain seperti Rekap Absent).
+> * **Evidence**:
+>   * Tombol Export Daily Absent: [https://files.catbox.moe/04x3md.png](https://files.catbox.moe/04x3md.png)
+>   * Drawer Download Export (Tidak Muncul): [https://files.catbox.moe/cea0us.png](https://files.catbox.moe/cea0us.png)

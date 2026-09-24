@@ -1,0 +1,13 @@
+NO TEST CASE : 15.1
+JUDUL        : Membuka halaman Daily Sales Agenda
+MODUL        : Agenda - Daily Sales Agenda
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka menu Lainnya - Klik menu Daily Sales Agenda
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan halaman Daily Sales Agenda.

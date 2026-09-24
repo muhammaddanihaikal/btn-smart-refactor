@@ -1,0 +1,18 @@
+NO TEST CASE : 59.5
+JUDUL        : Mengembalikan nilai komitment menjadi 0
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input komitmen
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button reset 
+2. klik “ya,reset”
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi
+2. Berhasil mengembalikan nilai  komitmen menjadi 0

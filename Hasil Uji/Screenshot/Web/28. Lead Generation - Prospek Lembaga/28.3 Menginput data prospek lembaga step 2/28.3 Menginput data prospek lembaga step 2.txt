@@ -1,0 +1,26 @@
+NO TEST CASE : 28.3
+JUDUL        : Menginput data prospek lembaga step 2
+MODUL        : Lead Generation
+SUB MENU     : Prospek Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input email perusahaan
+2. Pilih tanggal berdiri
+3. Input alamat perusahaan 
+4. Input kode pos
+5. Input pemegang saham, bidang usaha, nama direktur utama, wakil direktur utama, direktur keuangan, direktur perencanaan, direktur pengembangan bisnis, direktur pemasaran, direktur SDM, website perusahaan, penunjangan bisnis, Nomor SIUP, dan kode developer
+6. Klik button Selanjutnya
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil input email perusahaan
+2. Berhasil memilih tanggal berdiri
+3. Berhasil input alamat perusahaan
+4. Berhasil input kode pos
+5. Berhasil input informasi perusahaan
+6. Menampilkan halaman input data prospek lembaga step 3

@@ -1,0 +1,16 @@
+NO TEST CASE : 8.10
+JUDUL        : Membuka tab Prospek pada halaman Aktifitas Marketing
+MODUL        : Prospek & Nasabah
+SUB MENU     : Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tab Prospek dan menampilkan form informasi prospek.

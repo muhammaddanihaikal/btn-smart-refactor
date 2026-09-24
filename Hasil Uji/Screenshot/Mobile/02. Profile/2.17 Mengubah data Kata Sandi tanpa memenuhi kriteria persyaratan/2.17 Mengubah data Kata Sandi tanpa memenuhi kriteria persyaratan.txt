@@ -1,0 +1,13 @@
+NO TEST CASE : 2.17
+JUDUL        : Mengubah data Kata Sandi tanpa memenuhi kriteria persyaratan
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Input Kata Sandi Lama dengan valid - Input Kata Sandi Baru yang tidak memenuhi kriteria - Input Konfirmasi Kata Sandi Baru - Klik button Simpan Kata Sandi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Gagal mengubah kata sandi dan menampilkan pesan validasi tidak memenuhi kriteria.

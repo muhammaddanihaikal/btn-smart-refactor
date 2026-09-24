@@ -1,0 +1,16 @@
+NO TEST CASE : 55.26
+JUDUL        : Tab Tier
+MODUL        : Sales Force
+SUB MENU     : Report - Report Produktivitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Tier
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan report data tier

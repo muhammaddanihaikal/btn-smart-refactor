@@ -1,0 +1,30 @@
+NO TEST CASE : 29.2
+JUDUL        : Filter data
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih Produk
+2. Pilih Staging
+3. Pilih Bulan
+4. Pilih Tahun
+5. Pilih source debitur
+6. Pilih status prospek
+7. Pilih apakah nasabah lembaga
+8. Klik button Filter Data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Dropdown data filter produk muncul dan berhasil di pilih
+2. Dropdown data filter staging muncul dan berhasil memilih staging
+3. Dropdown data filter bulan muncul dan berhasil memilih bulan
+4. Dropdown data filter tahun muncul dan berhasil memilih tahun 
+5. Dropdown data filter source debitur muncul dan berhasil memilih source debitur
+6. Dropdown data filter status porspek muncul dan berhasil memilih status prospek
+7. Dropdown data filter apakah nasabah lembaga muncul dan berhasil di pilih
+8. Menampilkan data aktifitas prospek sesuai dengan filter yang telah di pilih

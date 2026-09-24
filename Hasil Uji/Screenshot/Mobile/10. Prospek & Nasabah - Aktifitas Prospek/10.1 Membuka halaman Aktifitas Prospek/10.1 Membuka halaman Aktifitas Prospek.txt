@@ -1,0 +1,13 @@
+NO TEST CASE : 10.1
+JUDUL        : Membuka halaman Aktifitas Prospek
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Buka menu Lainnya - Klik menu Aktifitas Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan halaman Aktifitas Prospek.

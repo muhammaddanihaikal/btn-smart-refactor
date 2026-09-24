@@ -1,0 +1,22 @@
+NO TEST CASE : 21.6
+JUDUL        : Mengubah data Data Kantor
+MODUL        : Kantor
+SUB MENU     : Data Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik action menu titik tiga.
+2. Klik button Ubah Data.
+3. Ubah data pada form.
+4. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan action menu.
+2. Berhasil menampilkan form Edit Data Kantor.
+3. Berhasil mengubah data.
+4. Berhasil menyimpan perubahan.

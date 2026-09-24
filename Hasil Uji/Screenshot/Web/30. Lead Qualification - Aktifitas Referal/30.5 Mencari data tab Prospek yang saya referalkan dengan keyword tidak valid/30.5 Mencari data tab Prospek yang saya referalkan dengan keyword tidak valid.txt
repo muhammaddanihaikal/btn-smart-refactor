@@ -1,0 +1,18 @@
+NO TEST CASE : 30.5
+JUDUL        : Mencari data tab Prospek yang saya referalkan dengan keyword tidak valid
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas Referal
+DESKRIPSI    : Negative Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi field Search dengan keyword tidak valid.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Search.
+2. Menampilkan pesan data tidak ditemukan.

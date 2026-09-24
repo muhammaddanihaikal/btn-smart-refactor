@@ -1,0 +1,20 @@
+NO TEST CASE : 25.2
+JUDUL        : Download Template upload bulk prospek personal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Download dan Upload File 
+2. Klik button Download file template 
+3. Buka file excel
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan modal upload prospek personal
+2. Berhasil mengunduh file template berupa excel 
+3. File excel dapat di buka

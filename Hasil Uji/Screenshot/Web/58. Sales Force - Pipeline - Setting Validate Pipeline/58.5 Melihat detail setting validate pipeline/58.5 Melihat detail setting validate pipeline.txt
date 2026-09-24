@@ -1,0 +1,16 @@
+NO TEST CASE : 58.5
+JUDUL        : Melihat detail setting validate pipeline
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Setting Validate Pipeline
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail data

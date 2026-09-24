@@ -1,0 +1,18 @@
+NO TEST CASE : 26.16
+JUDUL        : Mencari data berdasarkan batch id upload bulk Prospek Lembaga
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id pada field search
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput batch id 
+2. Menampilkan data upload bulk prospek lembaga sesuai dengan batch id yang di cari

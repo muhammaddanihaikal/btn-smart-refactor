@@ -1,0 +1,18 @@
+NO TEST CASE : 8.23
+JUDUL        : Membuka halaman Input Prospek melalui menu Lainnya
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Lainnya pada navigation bar bawah.
+2. Klik menu Input Prospek.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Lainnya.
+2. Berhasil membuka halaman Input Prospek dan menampilkan pop up tipe prospek.

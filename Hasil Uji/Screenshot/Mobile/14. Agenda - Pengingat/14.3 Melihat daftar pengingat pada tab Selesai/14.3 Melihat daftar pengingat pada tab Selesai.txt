@@ -1,0 +1,13 @@
+NO TEST CASE : 14.3
+JUDUL        : Melihat daftar pengingat pada tab Selesai
+MODUL        : Agenda - Pengingat
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik tab Selesai
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan daftar pengingat yang sudah selesai.

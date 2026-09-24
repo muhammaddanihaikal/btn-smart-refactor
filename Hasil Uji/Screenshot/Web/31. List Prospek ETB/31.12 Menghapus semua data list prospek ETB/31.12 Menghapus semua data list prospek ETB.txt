@@ -1,0 +1,17 @@
+NO TEST CASE : 31.12
+JUDUL        : Menghapus semua data list prospek ETB
+MODUL        : List Prospek ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Hapus semua data ()
+2. Klik button Ya, Hapus semua
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup konfirmasi hapus 
+2. Berhasil menghapus semua data list prospek ETB dan data tabel menjadi kosong

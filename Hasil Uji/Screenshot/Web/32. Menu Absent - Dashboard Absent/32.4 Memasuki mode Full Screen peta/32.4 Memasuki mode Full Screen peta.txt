@@ -1,0 +1,16 @@
+NO TEST CASE : 32.4
+JUDUL        : Memasuki mode Full Screen peta
+MODUL        : Menu Absent
+SUB MENU     : Dashboard Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Full Screen pada peta.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan Peta dalam mode Full Screen.

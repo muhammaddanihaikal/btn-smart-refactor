@@ -1,0 +1,18 @@
+NO TEST CASE : 27.1
+JUDUL        : Membuka halaman prospek individu
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Lead Generation
+2. Klik submenu Prospek Individu
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list submenu prospek individu dan lembaga
+2. Menampilkan halaman input prospek individu Step 1

@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Keamanan Akun: Multi-Select Filter Kolom Status pada Permintaan Reset MFA Tidak Berfungsi
+
+> * **Menu**: User Authority → Keamanan Akun
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Filter kolom Status menyediakan pilihan *multi-select* (*checkbox*). Namun saat memilih lebih dari satu status (contoh: mencentang **Ditolak** dan **Pending**), sistem hanya menampilkan data status teratas yang dipilih (**Ditolak**), sedangkan data **Pending** tidak ikut ditampilkan.
+> * **Expected**: Filter mendukung *multi-select*, sehingga saat mencentang *Ditolak* dan *Pending*, data dengan kedua status tersebut muncul bersamaan di tabel.
+> * **Actual**: Sistem hanya memfilter salah satu status (*Ditolak*), data dengan status *Pending* diabaikan.
+> * **Evidence**:
+>   * [https://files.catbox.moe/iky99j.png](https://files.catbox.moe/iky99j.png)

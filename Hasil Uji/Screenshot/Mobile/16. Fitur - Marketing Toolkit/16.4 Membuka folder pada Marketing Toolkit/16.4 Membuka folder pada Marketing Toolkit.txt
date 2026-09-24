@@ -1,0 +1,13 @@
+NO TEST CASE : 16.4
+JUDUL        : Membuka folder pada Marketing Toolkit
+MODUL        : Fitur - Marketing Toolkit
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik salah satu folder pada daftar Folder
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka folder Marketing Toolkit.

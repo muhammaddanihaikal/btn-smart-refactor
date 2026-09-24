@@ -1,0 +1,20 @@
+NO TEST CASE : 8.26
+JUDUL        : Mengisi form Step 1 (Informasi) tanpa field mandatory
+MODUL        : Prospek & Nasabah
+SUB MENU     : Input Prospek
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka form Input Prospek Individu (Step 1 Informasi).
+2. Mengosongkan field Nama Lengkap dan No. Telepon.
+3. Klik button Next.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Step 1 Informasi.
+2. Berhasil mengosongkan field mandatory.
+3. Menampilkan pesan validasi bahwa field Nama Lengkap dan No. Telepon wajib diisi.

@@ -1,0 +1,13 @@
+NO TEST CASE : 10.2
+JUDUL        : Mencari prospek menggunakan Search Bar
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Masukkan kata kunci pencarian pada Search Bar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan data prospek yang sesuai dengan kata kunci pencarian.

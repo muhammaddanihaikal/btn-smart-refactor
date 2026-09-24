@@ -1,0 +1,18 @@
+NO TEST CASE : 45.17
+JUDUL        : Menambahkan data pipeline NB tidak menginput data mandatory (Negative test)
+MODUL        : Sales Force
+SUB MENU     : Pipeline - Input Pipeline
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button +add pipeline NTB
+2. kosong kan salah satu filed mandatory kemudian klik button submit pipeline
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan popup inputan data pipeline NTB
+2. Menampilkan alert data dibutuhkan

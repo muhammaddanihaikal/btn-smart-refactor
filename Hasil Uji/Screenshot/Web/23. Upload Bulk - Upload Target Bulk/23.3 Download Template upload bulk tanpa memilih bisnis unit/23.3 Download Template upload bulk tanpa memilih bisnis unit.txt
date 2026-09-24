@@ -1,0 +1,20 @@
+NO TEST CASE : 23.3
+JUDUL        : Download Template upload bulk tanpa memilih bisnis unit
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan bisnis unit
+2. Klik button Download dan Upload File
+3. Klik button Download file template
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil tidak memilih bisnis unit
+2. Menampilkan modal upload target bulk 
+3. Tidak bisa mengunduh dan menampilkan alert 'Bisnis Unit wajib dipilih sebelum download template'

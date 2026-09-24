@@ -1,0 +1,10 @@
+🐞 [BUG] | Setting Absent - Work Pattern: Selisih Total Data Personnel pada Work Pattern dengan Master User
+
+> * **Menu**: Setting Absent → Work Pattern
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Total data pada halaman Setting Work Pattern Personnel hanya menampilkan 11.179 data, berbeda dengan Master User yang berjumlah 12.088 data (selisih 909 user tidak terdata di Work Pattern).
+> * **Expected**: Total data personnel pada Work Pattern sinkron dan sesuai dengan data Master User (12.088 data).
+> * **Actual**: Hanya menampilkan 11.179 data (selisih 909 user tidak muncul di Work Pattern).
+> * **Evidence**:
+>   * Work Pattern Personnel (11.179 data): [https://files.catbox.moe/3qdwmc.png](https://files.catbox.moe/3qdwmc.png)
+>   * Master User (12.088 data): [https://files.catbox.moe/76ic6h.png](https://files.catbox.moe/76ic6h.png)

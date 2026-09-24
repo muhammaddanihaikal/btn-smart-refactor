@@ -1,0 +1,22 @@
+NO TEST CASE : 53.3
+JUDUL        : Import data realisasi merchant dengan ngisi data template yang tidak sesuai (Negative Test)
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Realisasi Merchant
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button import data 
+2. Klik button upload file 
+3. Klik button download file template 
+4. Input template dengan format yang salah kemudian upload data template
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman import Realisasi Merchant  
+2. Menampilkan popup import Realisasi Merchant
+3. Berhasil mengunduh data template 
+4. Data terupload dengan status failed

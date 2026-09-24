@@ -1,0 +1,15 @@
+NO TEST CASE : 2.36
+JUDUL        : pengecekan data logout karena sesi habis
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek data login karena sesi habis
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data Riwayat login dengan label “sesi tidak aktif selama 15 menit”

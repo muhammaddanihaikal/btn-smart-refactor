@@ -1,0 +1,20 @@
+NO TEST CASE : 24.59
+JUDUL        : Download File Source
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Action titik tiga 
+2. Klik button Download file source 
+3. Buka file excel yang sudah di download
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action 
+2. Berhasil mengunduh file source berupa file excel 
+3. Berhasil membuka file excel dan menampilkan data yang sesuai

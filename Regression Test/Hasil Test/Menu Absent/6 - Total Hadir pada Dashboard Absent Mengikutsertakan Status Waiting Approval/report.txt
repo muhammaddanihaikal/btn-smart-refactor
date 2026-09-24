@@ -1,0 +1,10 @@
+🐞 [BUG] | Menu Absent - Dashboard Absent: Total Hadir pada Dashboard Absent Mengikutsertakan Status Waiting Approval
+
+> * **Menu**: Menu Absent → Dashboard Absent
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Kalkulasi "Total Hadir" pada kartu wilayah di Dashboard Absent masih menghitung user berstatus "Waiting Approval" sebagai hadir, sehingga data tidak akurat (misal: Kanwil Jakarta I menampilkan Total Hadir 8, padahal terdiri dari 5 Present dan 3 Waiting Approval).
+> * **Expected**: "Total Hadir" hanya menghitung user yang sudah valid berstatus Hadir (*Present*), tidak mengikutsertakan user yang masih *Waiting Approval*.
+> * **Actual**: Status "Waiting Approval" ikut terhitung ke dalam "Total Hadir" (tercatat 8 hadir dari 5 Present + 3 Waiting Approval).
+> * **Evidence**:
+>   * Total Hadir pada Kartu Kantor Wilayah Jakarta I: [https://files.catbox.moe/ft9bb2.png](https://files.catbox.moe/ft9bb2.png)
+>   * Rincian Status pada Modal Detail (5 Present & 3 Waiting Approval): [https://files.catbox.moe/iigyo6.png](https://files.catbox.moe/iigyo6.png)

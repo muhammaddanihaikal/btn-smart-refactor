@@ -1,0 +1,18 @@
+NO TEST CASE : 26.4
+JUDUL        : Pagination di Preview Data
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik pagination (10/halaman)
+2. Pilih berapa data yang ingin di tampilkan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown pilihan tampilan data 
+2. Berhasil menampilkan data sesuai dengan pagination yang di pilih

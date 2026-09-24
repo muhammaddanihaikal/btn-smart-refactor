@@ -1,0 +1,20 @@
+NO TEST CASE : 4.2
+JUDUL        : Melakukan Clock In di luar jangkauan Attendance Spot
+MODUL        : Absent
+SUB MENU     : Clock In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Clock In.
+2. Mengupload foto dan mengisi field Keterangan.
+3. Klik button Rekam Kehadiran.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik button Clock In.
+2. Berhasil mengupload foto dan mengisi Keterangan.
+3. Berhasil melakukan Clock In dan menunggu approval dari user Monitoring.

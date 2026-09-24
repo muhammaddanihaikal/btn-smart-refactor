@@ -1,0 +1,18 @@
+NO TEST CASE : 13.1
+JUDUL        : Membuka halaman Unit Bisnis
+MODUL        : Bisnis dan Produk
+SUB MENU     : Unit Bisnis
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Bisnis & Produk.
+2. Klik sub menu Unit Bisnis.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengklik menu Bisnis & Produk.
+2. Berhasil membuka sub menu Unit Bisnis.

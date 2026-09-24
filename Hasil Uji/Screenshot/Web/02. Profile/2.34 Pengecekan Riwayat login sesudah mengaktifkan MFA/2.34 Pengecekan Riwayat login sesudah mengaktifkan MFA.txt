@@ -1,0 +1,15 @@
+NO TEST CASE : 2.34
+JUDUL        : Pengecekan Riwayat login sesudah mengaktifkan MFA
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan login menggunakan user yang sudah mengaktifkan MFA kemudian cek Riwayat login
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data riwayat login  MFA

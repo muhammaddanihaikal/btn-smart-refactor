@@ -1,0 +1,18 @@
+NO TEST CASE : 41.4
+JUDUL        : Membuka halaman Work Pattern
+MODUL        : Setting Absent
+SUB MENU     : Work Pattern
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Setting Absent.
+2. Klik sub menu Work Pattern.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Setting Absent.
+2. Berhasil menampilkan halaman Work Pattern.

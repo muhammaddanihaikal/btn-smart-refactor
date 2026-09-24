@@ -1,0 +1,18 @@
+NO TEST CASE : 69.7
+JUDUL        : Menghapus Condition pada Performance Indicator
+MODUL        : Report Lending
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Remove pada salah satu condition di Performance Indicator.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menghapus condition dari Performance Indicator.
+2. Berhasil menyimpan perubahan data Pengaturan Funnel Lending.

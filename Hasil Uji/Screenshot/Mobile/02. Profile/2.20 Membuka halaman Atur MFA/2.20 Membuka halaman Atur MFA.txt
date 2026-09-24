@@ -1,0 +1,13 @@
+NO TEST CASE : 2.20
+JUDUL        : Membuka halaman Atur MFA
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik menu Profile pada navigasi bawah - Klik sub menu Atur MFA pada bagian Keamanan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil membuka sub menu Atur MFA dan menampilkan Setup Autentikasi Dua Faktor (2FA).

@@ -1,0 +1,18 @@
+NO TEST CASE : 66.4
+JUDUL        : Mengekspor data Personal Funnel
+MODUL        : Report Lending
+SUB MENU     : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export.
+2. Klik icon download pada panel Download Export.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan panel Download Export.
+2. Berhasil mendownload file export.

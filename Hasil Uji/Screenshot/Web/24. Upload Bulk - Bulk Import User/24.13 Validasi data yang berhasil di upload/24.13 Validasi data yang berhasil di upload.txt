@@ -1,0 +1,22 @@
+NO TEST CASE : 24.13
+JUDUL        : Validasi data yang berhasil di upload
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority
+2. Klik submenu User
+3. Cek data user yang ada di tabel
+4. Cek detail data user
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown submenu User Authority
+2. Menampilkan halaman User 
+3. Berhasil menampilkan list data user yang di upload di menu Bulk Import User
+4. Menampilkan semua informasi data user yang sesuai dengan yang di upload di menu Bulk Import User

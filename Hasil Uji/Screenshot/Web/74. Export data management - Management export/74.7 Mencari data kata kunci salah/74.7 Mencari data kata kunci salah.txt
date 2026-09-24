@@ -1,0 +1,16 @@
+NO TEST CASE : 74.7
+JUDUL        : Mencari data kata kunci salah
+MODUL        : Export data management
+SUB MENU     : Management export
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input data yang belum terdaftar
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Data tidak ditemukan

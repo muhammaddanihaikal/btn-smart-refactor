@@ -1,0 +1,13 @@
+NO TEST CASE : 12.8
+JUDUL        : Melakukan Prospek Ulang tanpa field mandatory
+MODUL        : Prospek & Nasabah - List Nasabah ETB
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Mengosongkan seluruh field mandatory pada form Prospek Ulang - Klik button Submit
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan pesan validasi bahwa field mandatory wajib diisi.

@@ -1,0 +1,16 @@
+NO TEST CASE : 24.17
+JUDUL        : Validasi data di dalam detail batch
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek informasi data yang ada di dalam detail batch, mulai dari batch id, module, status, file, ringkasan baris, dan riwayat
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi detail batch upload bulk prospek lembaga dengan data yang benar dan sesuai

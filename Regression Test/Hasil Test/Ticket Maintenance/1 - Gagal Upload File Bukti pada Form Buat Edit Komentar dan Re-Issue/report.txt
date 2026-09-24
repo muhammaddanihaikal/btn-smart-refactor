@@ -1,0 +1,12 @@
+🐞 [BUG] | Ticket Maintenance - Aktivitas: Gagal Upload File Bukti pada Form Buat, Edit, Komentar, dan Re-Issue
+
+> * **Menu**: Ticket Maintenance → Aktivitas
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Fitur upload file bukti screenshot / lampiran selalu mengalami kegagalan (indikator bar merah "Gagal") pada seluruh fitur pelaporan issue (Buat Issue, Edit Issue, Komentar Issue, dan Re-Issue).
+> * **Expected**: File gambar / lampiran berhasil terunggah (progress bar sukses) dan tersimpan bersama tiket issue.
+> * **Actual**: Upload file selalu gagal (*status bar merah "Gagal"*) di seluruh form (Buat Issue, Edit Issue, Komentar Issue, dan Re-Issue).
+> * **Evidence**:
+>   * Form Buat Issue (+ Registrasi Issue): [https://files.catbox.moe/8r97dx.png](https://files.catbox.moe/8r97dx.png)
+>   * Form Edit Issue: [https://files.catbox.moe/9zsjae.png](https://files.catbox.moe/9zsjae.png)
+>   * Fitur Komentar Issue: [https://files.catbox.moe/gb0701.png](https://files.catbox.moe/gb0701.png)
+>   * Form Buat Re-Issue: [https://files.catbox.moe/hmsi9i.png](https://files.catbox.moe/hmsi9i.png)

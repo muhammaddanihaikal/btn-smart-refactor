@@ -1,0 +1,18 @@
+NO TEST CASE : 24.62
+JUDUL        : Mencari data berdasarkan batch id upload bulk User
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id pada field search
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput batch id 
+2. Menampilkan data upload bulk user sesuai dengan batch id yang di cari

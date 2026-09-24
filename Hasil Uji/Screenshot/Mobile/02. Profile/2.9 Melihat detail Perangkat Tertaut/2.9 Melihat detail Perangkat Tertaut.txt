@@ -1,0 +1,13 @@
+NO TEST CASE : 2.9
+JUDUL        : Melihat detail Perangkat Tertaut
+MODUL        : Profile
+
+==================================================
+SCENARIO / STEPS:
+==================================================
+Klik icon titik tiga pada salah satu perangkat - Klik opsi Detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menampilkan informasi detail dari perangkat tersebut.

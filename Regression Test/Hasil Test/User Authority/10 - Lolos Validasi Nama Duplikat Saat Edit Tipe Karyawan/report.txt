@@ -1,0 +1,9 @@
+🐞 [BUG] | User Authority - Tipe Karyawan: Lolos Validasi Nama Duplikat Saat Edit Tipe Karyawan
+
+> * **Menu**: User Authority → Tipe Karyawan
+> * **Status Huly**: ✅ Reported
+> * **Deskripsi**: Validasi nama unik hanya aktif saat tambah tipe karyawan baru. Ketika melakukan ubah data (*edit*), sistem tidak mengecek duplikasi sehingga nama tipe karyawan bisa disimpan sama persis dengan yang sudah ada.
+> * **Expected**: Sistem tetap memvalidasi keunikan nama saat edit data, dan menolak simpan jika nama tipe karyawan sudah digunakan.
+> * **Actual**: Sistem berhasil menyimpan perubahan, sehingga muncul data tipe karyawan ganda dengan nama yang identik di tabel.
+> * **Evidence**:
+>   * [https://files.catbox.moe/edw9td.png](https://files.catbox.moe/edw9td.png)

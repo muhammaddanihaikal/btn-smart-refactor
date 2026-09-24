@@ -1,0 +1,18 @@
+NO TEST CASE : 60.2
+JUDUL        : Melakukan filter data Daily Sales Agenda
+MODUL        : Report Funding
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi semua field filter mandatory.
+2. Klik button Filter Data.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field filter mandatory.
+2. Berhasil menampilkan data sesuai dengan filter yang dipilih.

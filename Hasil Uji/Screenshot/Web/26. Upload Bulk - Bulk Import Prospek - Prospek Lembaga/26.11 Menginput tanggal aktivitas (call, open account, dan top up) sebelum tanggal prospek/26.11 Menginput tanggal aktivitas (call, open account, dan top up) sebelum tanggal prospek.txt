@@ -1,0 +1,22 @@
+NO TEST CASE : 26.11
+JUDUL        : Menginput tanggal aktivitas (call, open account, dan top up) sebelum tanggal prospek
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Prospek Lembaga
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input tanggal Call, Open Account, Top up sebelum tanggal prospek 
+2. Simpan file 
+3. Upload file 
+4. Cek data pada halaman preview data dan dokumen error
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput tanggal 
+2. Berhasil menyimpan file 
+3. Berhasil upload file dengan status 'Validasi Gagal' dan data tidak tersimpan
+4. Menampilkan informasi 'Tanggal call tidak boleh sebelum tanggal prospek', 'Tanggal Open Account tidak boleh sebelum tanggal prospek' , 'Tanggal Top up tidak boleh sebelum tanggal prospek' pada masing masing kolom
