@@ -1,13 +1,21 @@
 NO TEST CASE : 2.21
 JUDUL        : Melihat detail Kode Pemulihan
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka halaman Atur MFA - Klik button Kode Pemulihan - Input password pada popup Masukkan Password - Klik button OK
+1. Buka halaman Atur MFA.
+2. Klik button Kode Pemulihan.
+3. Input password pada popup Masukkan Password.
+4. Klik button OK.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil memvalidasi password dan menampilkan daftar/halaman Kode Pemulihan.
+1. Halaman Atur MFA ditampilkan.
+2. Menampilkan popup Masukkan Password.
+3. Password berhasil terinput dengan format karakter disensor.
+4. Berhasil memvalidasi password dan menampilkan daftar/halaman Kode Pemulihan.

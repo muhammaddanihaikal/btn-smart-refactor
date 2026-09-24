@@ -1,13 +1,17 @@
 NO TEST CASE : 2.25
 JUDUL        : Membuka halaman Riwayat Login
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu Profile pada navigasi bawah - Klik sub menu Riwayat Login pada bagian Keamanan
+1. Klik menu Profile pada navigasi bawah.
+2. Klik sub menu Riwayat Login pada bagian Keamanan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka sub menu Riwayat Login dan menampilkan daftar data riwayat login (berisi IP, perangkat, lokasi).
+1. Berhasil mengklik menu Profile.
+2. Berhasil membuka sub menu Riwayat Login dan menampilkan daftar data riwayat login (berisi IP, perangkat, lokasi).

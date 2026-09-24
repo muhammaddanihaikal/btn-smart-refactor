@@ -1,13 +1,17 @@
 NO TEST CASE : 2.29
 JUDUL        : Membersihkan cache aplikasi
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu Profile pada navigasi bawah - Klik menu Bersihkan Cache pada bagian Sistem
+1. Klik menu Profile pada navigasi bawah.
+2. Klik menu Bersihkan Cache pada bagian Sistem.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membersihkan cache aplikasi dan menampilkan notifikasi sukses.
+1. Berhasil mengklik menu Profile.
+2. Berhasil membersihkan cache aplikasi dan menampilkan notifikasi sukses.

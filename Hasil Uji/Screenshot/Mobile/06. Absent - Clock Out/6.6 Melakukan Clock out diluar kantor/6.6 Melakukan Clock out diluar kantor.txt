@@ -1,13 +1,15 @@
 NO TEST CASE : 6.6
 JUDUL        : Melakukan Clock out diluar kantor
 MODUL        : Absent - Clock Out
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button clock out
+1. Klik button clock out.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil melakukan clock out dan button berubah otomatis menjadi button clock in
+1. Berhasil melakukan clock out dan button berubah otomatis menjadi button clock in.

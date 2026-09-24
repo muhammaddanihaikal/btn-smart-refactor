@@ -1,13 +1,15 @@
 NO TEST CASE : 10.8
 JUDUL        : Mencari data dengan keyword tidak valid pada halaman Riwayat
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Masukkan keyword tidak valid pada Search Bar
+1. Masukkan keyword tidak valid pada Search Bar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan informasi data tidak ditemukan.
+1. Berhasil menampilkan informasi data tidak ditemukan.

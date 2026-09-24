@@ -1,13 +1,17 @@
 NO TEST CASE : 16.9
 JUDUL        : Berbagi lampiran pada konten Marketing Toolkit
 MODUL        : Fitur - Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon titik tiga pada salah satu lampiran - Pilih Share
+1. Klik icon titik tiga pada salah satu lampiran.
+2. Pilih Share.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan pilihan aplikasi berbagi.
+1. Berhasil menampilkan opsi aksi pada lampiran.
+2. Berhasil menampilkan pilihan aplikasi berbagi.

@@ -1,13 +1,19 @@
 NO TEST CASE : 10.11
 JUDUL        : Mengedit data pada tab Prospek
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Ubah data pada form informasi prospek - Klik button Edit - Klik button Next
+1. Ubah data pada form informasi prospek.
+2. Klik button Edit.
+3. Klik button Next.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menyimpan perubahan dan melanjutkan ke tahap berikutnya.
+1. Berhasil mengubah data pada form.
+2. Berhasil mengaktifkan mode edit form.
+3. Berhasil menyimpan perubahan dan melanjutkan ke tahap berikutnya.

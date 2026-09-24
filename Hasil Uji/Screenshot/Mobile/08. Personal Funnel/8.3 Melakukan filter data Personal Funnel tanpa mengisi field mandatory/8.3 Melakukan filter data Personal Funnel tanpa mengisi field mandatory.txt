@@ -1,13 +1,19 @@
 NO TEST CASE : 8.3
 JUDUL        : Melakukan filter data Personal Funnel tanpa mengisi field mandatory
 MODUL        : Personal Funnel
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button Filter - Mengosongkan field mandatory - Klik button Filter
+1. Klik button Filter.
+2. Mengosongkan field mandatory.
+3. Klik button Filter.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan pesan validasi field mandatory.
+1. Berhasil membuka panel Filter.
+2. Berhasil mengosongkan field mandatory.
+3. Menampilkan pesan validasi field mandatory.

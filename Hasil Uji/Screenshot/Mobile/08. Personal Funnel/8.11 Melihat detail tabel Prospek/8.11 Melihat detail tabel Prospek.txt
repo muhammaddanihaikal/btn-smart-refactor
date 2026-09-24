@@ -1,13 +1,17 @@
 NO TEST CASE : 8.11
 JUDUL        : Melihat detail tabel Prospek
 MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Melakukan filter data Personal Funnel - Klik icon tabel pada grafik Prospek
+1. Melakukan filter data Personal Funnel.
+2. Klik icon tabel pada grafik Prospek.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman detail tabel Prospek yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).
+1. Berhasil menerapkan filter.
+2. Berhasil membuka halaman detail tabel Prospek yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

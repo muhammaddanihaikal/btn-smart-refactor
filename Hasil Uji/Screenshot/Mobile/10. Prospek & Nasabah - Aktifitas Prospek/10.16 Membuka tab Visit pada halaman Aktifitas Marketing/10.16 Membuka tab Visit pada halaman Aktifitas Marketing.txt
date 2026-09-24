@@ -1,13 +1,15 @@
 NO TEST CASE : 10.16
 JUDUL        : Membuka tab Visit pada halaman Aktifitas Marketing
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab Visit
+1. Klik tab Visit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil berpindah ke tab Visit dan menampilkan button Visit In serta Log Staging Visit.
+1. Berhasil berpindah ke tab Visit dan menampilkan button Visit In serta Log Staging Visit.

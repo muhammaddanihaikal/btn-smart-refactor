@@ -1,13 +1,17 @@
 NO TEST CASE : 2.30
 JUDUL        : Melihat detail Versi Aplikasi
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu Profile pada navigasi bawah - Lihat detail teks informasi Versi Aplikasi pada bagian Sistem
+1. Klik menu Profile pada navigasi bawah.
+2. Lihat detail teks informasi Versi Aplikasi pada bagian Sistem.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan informasi nomor/versi aplikasi yang digunakan saat ini secara jelas.
+1. Berhasil mengklik menu Profile.
+2. Berhasil menampilkan informasi nomor/versi aplikasi yang digunakan saat ini secara jelas.

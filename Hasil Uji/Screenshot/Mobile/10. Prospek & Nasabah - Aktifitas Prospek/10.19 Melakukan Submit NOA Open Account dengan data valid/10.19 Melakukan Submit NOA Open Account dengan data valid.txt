@@ -1,13 +1,17 @@
 NO TEST CASE : 10.19
 JUDUL        : Melakukan Submit NOA Open Account dengan data valid
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Mengisi seluruh field pada form NOA Open Account dengan data valid - Klik button Submit
+1. Mengisi seluruh field pada form NOA Open Account dengan data valid.
+2. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil men-submit form dan menyimpan data Open Account.
+1. Berhasil mengisi data pada form NOA Open Account.
+2. Berhasil men-submit form dan menyimpan data Open Account.

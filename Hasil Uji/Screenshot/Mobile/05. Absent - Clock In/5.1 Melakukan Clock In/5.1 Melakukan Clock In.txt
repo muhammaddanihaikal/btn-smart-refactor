@@ -1,13 +1,15 @@
 NO TEST CASE : 5.1
 JUDUL        : Melakukan Clock In
 MODUL        : Absent - Clock In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button clock in
+1. Klik button clock in.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan halaman/ form inputan clock in
+1. Menampilkan halaman/ form inputan clock in.

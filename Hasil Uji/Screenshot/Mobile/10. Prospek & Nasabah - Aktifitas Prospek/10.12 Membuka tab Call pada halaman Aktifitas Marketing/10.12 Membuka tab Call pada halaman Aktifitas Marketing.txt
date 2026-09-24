@@ -1,13 +1,15 @@
 NO TEST CASE : 10.12
 JUDUL        : Membuka tab Call pada halaman Aktifitas Marketing
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab Call
+1. Klik tab Call.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil berpindah ke tab Call dan menampilkan form input Call serta Log Staging Call.
+1. Berhasil berpindah ke tab Call dan menampilkan form input Call serta Log Staging Call.

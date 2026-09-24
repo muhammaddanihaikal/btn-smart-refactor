@@ -1,13 +1,15 @@
 NO TEST CASE : 10.18
 JUDUL        : Membuka tab NOA Open Account pada halaman Aktifitas Marketing
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab NOA Open Account
+1. Klik tab NOA Open Account.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil berpindah ke tab NOA Open Account dan menampilkan form NOA Open Account.
+1. Berhasil berpindah ke tab NOA Open Account dan menampilkan form NOA Open Account.

@@ -1,13 +1,17 @@
 NO TEST CASE : 12.7
 JUDUL        : Melakukan Prospek Ulang dengan data valid
 MODUL        : Prospek & Nasabah - List Nasabah ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Mengisi seluruh field pada form Prospek Ulang dengan data valid - Klik button Submit
+1. Mengisi seluruh field pada form Prospek Ulang dengan data valid.
+2. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil men-submit form dan memperbarui data prospek.
+1. Berhasil mengisi data pada form Prospek Ulang.
+2. Berhasil men-submit form dan memperbarui data prospek.

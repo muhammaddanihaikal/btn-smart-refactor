@@ -1,13 +1,17 @@
 NO TEST CASE : 8.17
 JUDUL        : Melihat detail tabel NOA Top Up
 MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Melakukan filter data Personal Funnel - Klik icon tabel pada grafik NOA Top Up
+1. Melakukan filter data Personal Funnel.
+2. Klik icon tabel pada grafik NOA Top Up.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman detail tabel NOA Top Up yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).
+1. Berhasil menerapkan filter.
+2. Berhasil membuka halaman detail tabel NOA Top Up yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

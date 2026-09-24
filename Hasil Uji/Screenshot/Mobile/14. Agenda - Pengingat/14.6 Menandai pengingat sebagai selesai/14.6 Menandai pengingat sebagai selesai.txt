@@ -1,13 +1,17 @@
 NO TEST CASE : 14.6
 JUDUL        : Menandai pengingat sebagai selesai
 MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Centang checkbox pada salah satu card pengingat aktif - Klik button Ya pada pop-up konfirmasi
+1. Centang checkbox pada salah satu card pengingat aktif.
+2. Klik button Ya pada pop-up konfirmasi.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menandai pengingat sebagai selesai dan memindahkan pengingat ke tab Selesai.
+1. Berhasil menampilkan pop-up konfirmasi selesai.
+2. Berhasil menandai pengingat sebagai selesai dan memindahkan pengingat ke tab Selesai.

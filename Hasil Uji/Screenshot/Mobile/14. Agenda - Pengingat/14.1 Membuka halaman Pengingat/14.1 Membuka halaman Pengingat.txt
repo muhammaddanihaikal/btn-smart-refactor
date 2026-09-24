@@ -1,13 +1,17 @@
 NO TEST CASE : 14.1
 JUDUL        : Membuka halaman Pengingat
 MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka menu Lainnya - Klik menu Pengingat
+1. Buka menu Lainnya.
+2. Klik menu Pengingat.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan halaman Pengingat.
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Pengingat.

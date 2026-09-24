@@ -1,13 +1,15 @@
 NO TEST CASE : 10.2
 JUDUL        : Mencari prospek menggunakan Search Bar
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Masukkan kata kunci pencarian pada Search Bar
+1. Masukkan kata kunci pencarian pada Search Bar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan data prospek yang sesuai dengan kata kunci pencarian.
+1. Berhasil menampilkan data prospek yang sesuai dengan kata kunci pencarian.

@@ -1,13 +1,15 @@
 NO TEST CASE : 10.17
 JUDUL        : Melakukan Visit In
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button Visit In
+1. Klik button Visit In.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengarahkan ke halaman Kunjungan dan menampilkan pop up pilihan tipe Visit.
+1. Berhasil mengarahkan ke halaman Kunjungan dan menampilkan pop up pilihan tipe Visit.

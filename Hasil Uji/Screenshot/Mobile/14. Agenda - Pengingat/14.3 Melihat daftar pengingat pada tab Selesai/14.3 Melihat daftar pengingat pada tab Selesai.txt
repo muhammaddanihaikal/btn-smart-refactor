@@ -1,13 +1,15 @@
 NO TEST CASE : 14.3
 JUDUL        : Melihat daftar pengingat pada tab Selesai
 MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab Selesai
+1. Klik tab Selesai.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan daftar pengingat yang sudah selesai.
+1. Berhasil menampilkan daftar pengingat yang sudah selesai.

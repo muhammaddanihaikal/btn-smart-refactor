@@ -1,13 +1,17 @@
 NO TEST CASE : 2.9
 JUDUL        : Melihat detail Perangkat Tertaut
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon titik tiga pada salah satu perangkat - Klik opsi Detail
+1. Klik icon titik tiga pada salah satu perangkat.
+2. Klik opsi Detail.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan informasi detail dari perangkat tersebut.
+1. Menampilkan menu opsi opsi perangkat.
+2. Berhasil menampilkan informasi detail dari perangkat tersebut.

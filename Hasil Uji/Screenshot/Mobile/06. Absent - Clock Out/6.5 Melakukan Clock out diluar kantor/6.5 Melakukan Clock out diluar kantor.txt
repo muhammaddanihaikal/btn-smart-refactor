@@ -1,13 +1,15 @@
 NO TEST CASE : 6.5
 JUDUL        : Melakukan Clock out diluar kantor
 MODUL        : Absent - Clock Out
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Update location – klik use my location/ pilih Lokasi lain – ambil gambar – input description
+1. Update location – klik use my location/ pilih Lokasi lain – ambil gambar – input description.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengubah Lokasi dan menginput data clock out
+1. Berhasil mengubah Lokasi dan menginput data clock out.

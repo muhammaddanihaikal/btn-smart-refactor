@@ -1,13 +1,17 @@
 NO TEST CASE : 16.1
 JUDUL        : Membuka halaman Marketing Toolkit
 MODUL        : Fitur - Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka menu Lainnya - Klik menu Marketing Toolkit
+1. Buka menu Lainnya.
+2. Klik menu Marketing Toolkit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan halaman Marketing Toolkit.
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Marketing Toolkit.

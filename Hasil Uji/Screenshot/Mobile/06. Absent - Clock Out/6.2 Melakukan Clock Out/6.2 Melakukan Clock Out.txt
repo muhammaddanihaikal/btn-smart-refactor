@@ -1,13 +1,16 @@
 NO TEST CASE : 6.2
 JUDUL        : Melakukan Clock Out
 MODUL        : Absent - Clock Out
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Input data dengan mengisi : ambil gambar - input description ( Optional)
+1. Input data dengan mengisi : ambil gambar.
+2. input description ( Optional).
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengambil gambar dan menginput desckripsi
+1. Berhasil mengambil gambar dan menginput desckripsi.

@@ -1,13 +1,17 @@
 NO TEST CASE : 15.1
 JUDUL        : Membuka halaman Daily Sales Agenda
 MODUL        : Agenda - Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka menu Lainnya - Klik menu Daily Sales Agenda
+1. Buka menu Lainnya.
+2. Klik menu Daily Sales Agenda.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan halaman Daily Sales Agenda.
+1. Berhasil membuka menu Lainnya.
+2. Berhasil menampilkan halaman Daily Sales Agenda.

@@ -1,13 +1,15 @@
 NO TEST CASE : 2.1
 JUDUL        : Membuka halaman profile
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon profile pada pojok kanan bawah halaman
+1. Klik icon profile pada pojok kanan bawah halaman
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan halaman profile
+1. Menampilkan halaman profile

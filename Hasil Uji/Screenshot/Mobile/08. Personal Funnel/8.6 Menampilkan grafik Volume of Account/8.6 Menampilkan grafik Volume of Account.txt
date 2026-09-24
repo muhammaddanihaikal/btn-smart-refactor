@@ -1,13 +1,17 @@
 NO TEST CASE : 8.6
 JUDUL        : Menampilkan grafik Volume of Account
 MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Melakukan filter data Personal Funnel - Melihat grafik Volume of Account
+1. Melakukan filter data Personal Funnel.
+2. Melihat grafik Volume of Account.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan grafik batang Volume of Account dengan data Target dan Actual.
+1. Berhasil menerapkan filter.
+2. Berhasil menampilkan grafik batang Volume of Account dengan data Target dan Actual.

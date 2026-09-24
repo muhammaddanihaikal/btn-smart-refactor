@@ -1,13 +1,15 @@
 NO TEST CASE : 10.13
 JUDUL        : Melakukan panggilan langsung melalui tombol Call
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button Call di samping nomor handphone
+1. Klik button Call di samping nomor handphone.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengarahkan ke aplikasi telepon bawaan perangkat (dialer).
+1. Berhasil mengarahkan ke aplikasi telepon bawaan perangkat (dialer).

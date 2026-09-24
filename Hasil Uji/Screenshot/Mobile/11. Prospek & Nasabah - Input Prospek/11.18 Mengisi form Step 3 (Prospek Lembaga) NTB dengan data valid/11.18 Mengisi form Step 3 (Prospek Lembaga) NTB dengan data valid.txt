@@ -1,13 +1,17 @@
 NO TEST CASE : 11.18
 JUDUL        : Mengisi form Step 3 (Prospek Lembaga) NTB dengan data valid
 MODUL        : Prospek & Nasabah - Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Mengisi seluruh field pada Step 3 Prospek Lembaga dengan data valid - Klik button Submit
+1. Mengisi seluruh field pada Step 3 Prospek Lembaga dengan data valid.
+2. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menyimpan data prospek Lembaga NTB dan menampilkan layar konfirmasi Prospek Berhasil Dibuat.
+1. Berhasil mengisi data pada Step 3 Prospek Lembaga.
+2. Berhasil menyimpan data prospek Lembaga NTB dan menampilkan layar konfirmasi Prospek Berhasil Dibuat.

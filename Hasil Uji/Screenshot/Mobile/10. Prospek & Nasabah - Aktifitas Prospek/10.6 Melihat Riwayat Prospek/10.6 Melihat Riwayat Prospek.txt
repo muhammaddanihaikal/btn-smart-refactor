@@ -1,13 +1,17 @@
 NO TEST CASE : 10.6
 JUDUL        : Melihat Riwayat Prospek
 MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu titik tiga pada salah satu card prospek - Pilih Riwayat
+1. Klik menu titik tiga pada salah satu card prospek.
+2. Pilih Riwayat.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman Riwayat dan menampilkan daftar log riwayat.
+1. Berhasil menampilkan menu pilihan.
+2. Berhasil membuka halaman Riwayat dan menampilkan daftar log riwayat.

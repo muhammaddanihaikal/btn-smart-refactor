@@ -1,13 +1,15 @@
 NO TEST CASE : 15.4
 JUDUL        : Melihat daftar agenda pada tab Referral
 MODUL        : Agenda - Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab Referral
+1. Klik tab Referral.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan daftar nasabah referral pada Daily Sales Agenda.
+1. Berhasil menampilkan daftar nasabah referral pada Daily Sales Agenda.

@@ -1,13 +1,19 @@
 NO TEST CASE : 2.10
 JUDUL        : Mengubah status perangkat menjadi tidak dipercayai
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon titik tiga pada salah satu perangkat - Klik opsi Jangan Percayai Perangkat - Lakukan konfirmasi pada popup dialog
+1. Klik icon titik tiga pada salah satu perangkat.
+2. Klik opsi Jangan Percayai Perangkat.
+3. Lakukan konfirmasi pada popup dialog.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengubah status perangkat menjadi tidak dipercayai.
+1. Menampilkan menu opsi opsi perangkat.
+2. Menampilkan popup dialog konfirmasi.
+3. Berhasil mengubah status perangkat menjadi tidak dipercayai.

@@ -1,13 +1,21 @@
 NO TEST CASE : 1.5
 JUDUL        : Melakukan login tanpa mengisi email
 MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Kosongkan field Email - Isi field Password dengan password yang valid - Pilih Type Non Employee - Klik button LOGIN
+1. Kosongkan field Email.
+2. Isi field Password dengan password yang valid.
+3. Pilih Type Non Employee.
+4. Klik button LOGIN.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan pesan error field mandatory.
+1. Berhasil mengosongkan Email.
+2. Berhasil mengisi Password.
+3. Berhasil memilih Type.
+4. Menampilkan pesan error field mandatory.

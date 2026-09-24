@@ -1,13 +1,19 @@
 NO TEST CASE : 2.3
 JUDUL        : Mengubah foto profil
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka halaman Informasi Pribadi - Klik icon pensil pada foto profil - Pilih foto dari galeri atau kamera dan klik Simpan
+1. Buka halaman Informasi Pribadi.
+2. Klik icon pensil pada foto profil.
+3. Pilih foto dari galeri atau kamera dan klik Simpan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengubah foto profil dan memperbaruinya di halaman Informasi Pribadi.
+1. Halaman Informasi Pribadi ditampilkan.
+2. Menampilkan popup/pilihan sumber foto.
+3. Berhasil mengubah foto profil dan memperbaruinya di halaman Informasi Pribadi.

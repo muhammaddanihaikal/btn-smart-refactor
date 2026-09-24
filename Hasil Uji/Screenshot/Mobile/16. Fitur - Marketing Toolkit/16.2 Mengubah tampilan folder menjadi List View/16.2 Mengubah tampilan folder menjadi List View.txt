@@ -1,13 +1,15 @@
 NO TEST CASE : 16.2
 JUDUL        : Mengubah tampilan folder menjadi List View
 MODUL        : Fitur - Marketing Toolkit
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon tampilan List pada halaman Marketing Toolkit
+1. Klik icon tampilan List pada halaman Marketing Toolkit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengubah tampilan folder menjadi List View.
+1. Berhasil mengubah tampilan folder menjadi List View.

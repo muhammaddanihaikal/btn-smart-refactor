@@ -1,13 +1,15 @@
 NO TEST CASE : 9.7
 JUDUL        : Menampilkan data pengajuan cuti berdasarkan status
 MODUL        : Cuti & Izin
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik salah satu tab status (Semua, Ditolak, Pending, atau Disetujui)
+1. Klik salah satu tab status (Semua, Ditolak, Pending, atau Disetujui).
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan data pengajuan cuti sesuai status yang dipilih.
+1. Berhasil menampilkan data pengajuan cuti sesuai status yang dipilih.

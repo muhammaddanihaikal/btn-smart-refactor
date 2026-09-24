@@ -1,13 +1,15 @@
 NO TEST CASE : 3.4
 JUDUL        : Melakukan Visit in menggunakan sales Lending
 MODUL        : Sales Tracking Activity - Visit In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button Visit in
+1. Klik button Visit in.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan halaman/ form inputan visit in
+1. Menampilkan halaman/ form inputan visit in.

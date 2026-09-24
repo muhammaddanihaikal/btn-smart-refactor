@@ -1,13 +1,15 @@
 NO TEST CASE : 13.4
 JUDUL        : Melihat Detail Prospek nasabah referal
 MODUL        : Prospek & Nasabah - Nasabah Referal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik salah satu card nasabah referal
+1. Klik salah satu card nasabah referal.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan detail nasabah referal.
+1. Berhasil menampilkan detail nasabah referal.

@@ -1,13 +1,21 @@
 NO TEST CASE : 1.12
 JUDUL        : Melakukan login menggunakan perangkat terpercaya
 MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Input kode OTP atau TOTP yang valid pada halaman 2 Factor Authentication - Centang checkbox Ingat perangkat ini selama 30 hari - Klik button Submit - Logout dan lakukan login kembali dengan akun yang sama
+1. Input kode OTP atau TOTP yang valid pada halaman 2 Factor Authentication.
+2. Centang checkbox Ingat perangkat ini selama 30 hari.
+3. Klik button Submit.
+4. Logout dan lakukan login kembali dengan akun yang sama.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil login kembali dan langsung diarahkan ke halaman utama tanpa melalui 2 Factor Authentication.
+1. Berhasil menginput kode OTP/TOTP.
+2. Berhasil mencentang checkbox.
+3. Berhasil melakukan login dan diarahkan ke halaman utama.
+4. Berhasil login kembali dan langsung diarahkan ke halaman utama tanpa melalui 2 Factor Authentication.

@@ -1,13 +1,20 @@
 NO TEST CASE : 3.2
 JUDUL        : Melakukan Visit in menggunakan sales Funding
 MODUL        : Sales Tracking Activity - Visit In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Menginput data visit in dengan mengisi : Pilih type visit - pilih lead id - Field name auto field -  Field location visit auto field - input description - ambil gambar
+1. Menginput data visit in dengan mengisi : Pilih type visit.
+2. pilih lead id.
+3. Field name auto field.
+4. Field location visit auto field.
+5. input description.
+6. ambil gambar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menginput data visit in
+1. Berhasil menginput data visit in.

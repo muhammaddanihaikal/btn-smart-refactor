@@ -1,13 +1,17 @@
 NO TEST CASE : 12.5
 JUDUL        : Melihat Detail Prospek Nasabah ETB
 MODUL        : Prospek & Nasabah - List Nasabah ETB
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu titik tiga pada salah satu card nasabah - Pilih Detail Prospek
+1. Klik menu titik tiga pada salah satu card nasabah.
+2. Pilih Detail Prospek.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman Detail Prospek dan menampilkan informasi nasabah secara lengkap.
+1. Berhasil menampilkan menu Lainnya.
+2. Berhasil membuka halaman Detail Prospek dan menampilkan informasi nasabah secara lengkap.

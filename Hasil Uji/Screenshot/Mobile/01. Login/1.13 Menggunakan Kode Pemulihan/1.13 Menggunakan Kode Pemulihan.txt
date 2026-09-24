@@ -1,13 +1,19 @@
 NO TEST CASE : 1.13
 JUDUL        : Menggunakan Kode Pemulihan
 MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Pada halaman 2 Factor Authentication, klik Gunakan Kode Pemulihan - Input kode pemulihan yang valid pada field Recovery Code - Klik button Submit
+1. Pada halaman 2 Factor Authentication, klik Gunakan Kode Pemulihan.
+2. Input kode pemulihan yang valid pada field Recovery Code.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menggunakan kode pemulihan dan diarahkan ke halaman utama.
+1. Berhasil diarahkan ke halaman Recovery Code.
+2. Berhasil menginput kode pemulihan.
+3. Berhasil menggunakan kode pemulihan dan diarahkan ke halaman utama.

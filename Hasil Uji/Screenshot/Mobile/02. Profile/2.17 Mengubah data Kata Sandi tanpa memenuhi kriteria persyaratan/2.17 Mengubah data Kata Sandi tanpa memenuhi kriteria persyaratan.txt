@@ -1,13 +1,21 @@
 NO TEST CASE : 2.17
 JUDUL        : Mengubah data Kata Sandi tanpa memenuhi kriteria persyaratan
 MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Input Kata Sandi Lama dengan valid - Input Kata Sandi Baru yang tidak memenuhi kriteria - Input Konfirmasi Kata Sandi Baru - Klik button Simpan Kata Sandi
+1. Input Kata Sandi Lama dengan valid.
+2. Input Kata Sandi Baru yang tidak memenuhi kriteria.
+3. Input Konfirmasi Kata Sandi Baru.
+4. Klik button Simpan Kata Sandi.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Gagal mengubah kata sandi dan menampilkan pesan validasi tidak memenuhi kriteria.
+1. Berhasil menginput kata sandi lama.
+2. Kata sandi baru terinput namun indikator kriteria tidak terpenuhi (bertanda silang merah).
+3. Berhasil menginput konfirmasi kata sandi baru.
+4. Gagal mengubah kata sandi dan menampilkan pesan validasi tidak memenuhi kriteria.

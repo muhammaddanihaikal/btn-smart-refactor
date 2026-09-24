@@ -1,13 +1,19 @@
 NO TEST CASE : 1.8
 JUDUL        : Melakukan verifikasi Email OTP
 MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka email dan salin kode verifikasi - Input 6 digit kode OTP pada kolom yang disediakan - Klik button Submit
+1. Buka email dan salin kode verifikasi.
+2. Input 6 digit kode OTP pada kolom yang disediakan.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil melakukan verifikasi dan diarahkan ke halaman utama.
+1. Berhasil menyalin kode verifikasi.
+2. Berhasil menginput kode OTP.
+3. Berhasil melakukan verifikasi dan diarahkan ke halaman utama.

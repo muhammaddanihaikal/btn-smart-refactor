@@ -1,13 +1,17 @@
 NO TEST CASE : 7.2
 JUDUL        : Melakukan filter data log absensi
 MODUL        : Log Absensi
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Pilih Tahun pada field Tahun - Pilih Bulan pada field Bulan
+1. Pilih Tahun pada field Tahun.
+2. Pilih Bulan pada field Bulan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan daftar log absensi sesuai Bulan dan Tahun yang dipilih.
+1. Berhasil memilih Tahun.
+2. Berhasil menampilkan daftar log absensi sesuai Bulan dan Tahun yang dipilih.

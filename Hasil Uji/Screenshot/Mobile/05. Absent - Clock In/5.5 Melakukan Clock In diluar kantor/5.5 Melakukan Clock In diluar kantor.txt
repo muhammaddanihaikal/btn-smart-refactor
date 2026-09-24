@@ -1,13 +1,15 @@
 NO TEST CASE : 5.5
 JUDUL        : Melakukan Clock In diluar kantor
 MODUL        : Absent - Clock In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Update location – klik use my location/ pilih Lokasi lain – ambil gambar – input description
+1. Update location – klik use my location/ pilih Lokasi lain – ambil gambar – input description.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mengubah Lokasi dan menginput data clock in
+1. Berhasil mengubah Lokasi dan menginput data clock in.

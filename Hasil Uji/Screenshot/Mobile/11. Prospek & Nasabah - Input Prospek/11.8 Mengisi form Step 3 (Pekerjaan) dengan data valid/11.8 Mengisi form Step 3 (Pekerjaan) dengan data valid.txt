@@ -1,13 +1,17 @@
 NO TEST CASE : 11.8
 JUDUL        : Mengisi form Step 3 (Pekerjaan) dengan data valid
 MODUL        : Prospek & Nasabah - Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Mengisi seluruh field pada Step 3 Pekerjaan dengan data valid - Klik button Next
+1. Mengisi seluruh field pada Step 3 Pekerjaan dengan data valid.
+2. Klik button Next.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menyimpan data Step 3 dan berpindah ke Step 4 Prospek.
+1. Berhasil mengisi data pada Step 3 Pekerjaan.
+2. Berhasil menyimpan data Step 3 dan berpindah ke Step 4 Prospek.

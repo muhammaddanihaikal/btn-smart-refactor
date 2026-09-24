@@ -1,13 +1,21 @@
 NO TEST CASE : 2.23
 JUDUL        : Mengatur MFA dengan metode Email OTP
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka halaman Atur MFA - Klik pilihan Email OTP - Input password pada popup Masukkan Password - Klik button OK
+1. Buka halaman Atur MFA.
+2. Klik pilihan Email OTP.
+3. Input password pada popup Masukkan Password.
+4. Klik button OK.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil memvalidasi password dan diarahkan ke halaman verifikasi pengiriman Email OTP.
+1. Halaman Atur MFA ditampilkan.
+2. Menampilkan popup Masukkan Password.
+3. Password berhasil terinput.
+4. Berhasil memvalidasi password dan diarahkan ke halaman verifikasi pengiriman Email OTP.

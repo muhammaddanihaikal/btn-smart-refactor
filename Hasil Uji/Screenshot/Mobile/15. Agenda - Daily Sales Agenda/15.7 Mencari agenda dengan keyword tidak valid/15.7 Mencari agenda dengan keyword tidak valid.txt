@@ -1,13 +1,15 @@
 NO TEST CASE : 15.7
 JUDUL        : Mencari agenda dengan keyword tidak valid
 MODUL        : Agenda - Daily Sales Agenda
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Masukkan keyword tidak valid pada Search Bar
+1. Masukkan keyword tidak valid pada Search Bar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan informasi data tidak ditemukan.
+1. Berhasil menampilkan informasi data tidak ditemukan.

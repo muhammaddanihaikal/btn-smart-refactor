@@ -1,13 +1,17 @@
 NO TEST CASE : 8.1
 JUDUL        : Membuka halaman Personal Funnel
 MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu Laporan pada navigation bar - Klik menu Personal Funnel
+1. Klik menu Laporan pada navigation bar.
+2. Klik menu Personal Funnel.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman Personal Funnel.
+1. Berhasil membuka menu Laporan.
+2. Berhasil membuka halaman Personal Funnel.

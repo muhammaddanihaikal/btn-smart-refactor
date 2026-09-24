@@ -1,13 +1,15 @@
 NO TEST CASE : 5.6
 JUDUL        : Melakukan Clock In diluar kantor
 MODUL        : Absent - Clock In
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik button record attendance
+1. Klik button record attendance.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil melakukan clock in dan button berubah otomatis menjadi button clock out
+1. Berhasil melakukan clock in dan button berubah otomatis menjadi button clock out.

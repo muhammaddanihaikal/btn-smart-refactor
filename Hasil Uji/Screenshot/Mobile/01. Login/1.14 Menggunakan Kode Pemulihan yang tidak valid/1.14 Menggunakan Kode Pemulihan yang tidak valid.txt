@@ -1,13 +1,17 @@
 NO TEST CASE : 1.14
 JUDUL        : Menggunakan Kode Pemulihan yang tidak valid
 MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Input kode pemulihan yang salah pada field Recovery Code - Klik button Submit
+1. Input kode pemulihan yang salah pada field Recovery Code.
+2. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Menampilkan pesan error kode pemulihan tidak valid.
+1. Berhasil menginput kode pemulihan.
+2. Menampilkan pesan error kode pemulihan tidak valid.

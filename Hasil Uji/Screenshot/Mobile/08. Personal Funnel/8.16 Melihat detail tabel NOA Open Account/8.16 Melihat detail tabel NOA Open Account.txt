@@ -1,13 +1,17 @@
 NO TEST CASE : 8.16
 JUDUL        : Melihat detail tabel NOA Open Account
 MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Melakukan filter data Personal Funnel - Klik icon tabel pada grafik NOA Open Account
+1. Melakukan filter data Personal Funnel.
+2. Klik icon tabel pada grafik NOA Open Account.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka halaman detail tabel NOA Open Account yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).
+1. Berhasil menerapkan filter.
+2. Berhasil membuka halaman detail tabel NOA Open Account yang menampilkan data Target (NTB & ETB) dan Actual (NTB & ETB).

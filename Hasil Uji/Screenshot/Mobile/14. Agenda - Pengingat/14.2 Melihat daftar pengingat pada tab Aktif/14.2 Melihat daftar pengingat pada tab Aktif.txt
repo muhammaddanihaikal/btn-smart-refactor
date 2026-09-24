@@ -1,13 +1,15 @@
 NO TEST CASE : 14.2
 JUDUL        : Melihat daftar pengingat pada tab Aktif
 MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik tab Aktif
+1. Klik tab Aktif.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan daftar pengingat yang sedang aktif.
+1. Berhasil menampilkan daftar pengingat yang sedang aktif.

@@ -1,13 +1,17 @@
 NO TEST CASE : 2.26
 JUDUL        : Mencari data Riwayat Login dengan keyword valid
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Buka halaman Riwayat Login - Input keyword valid pada field Search (misal: IP atau nama Perangkat)
+1. Buka halaman Riwayat Login.
+2. Input keyword valid pada field Search (misal: IP atau nama Perangkat).
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil mencari dan menampilkan daftar riwayat login yang memuat data sesuai dengan keyword tersebut.
+1. Halaman Riwayat Login ditampilkan.
+2. Berhasil mencari dan menampilkan daftar riwayat login yang memuat data sesuai dengan keyword tersebut.

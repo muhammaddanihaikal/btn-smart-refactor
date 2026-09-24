@@ -1,13 +1,15 @@
 NO TEST CASE : 17.4
 JUDUL        : Melihat detail CIF Kelolaan
 MODUL        : Sales Force - Dashboard Sales Code
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik icon expand pada card CIF Kelolaan
+1. Klik icon expand pada card CIF Kelolaan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan detail CIF Kelolaan.
+1. Berhasil menampilkan detail CIF Kelolaan.

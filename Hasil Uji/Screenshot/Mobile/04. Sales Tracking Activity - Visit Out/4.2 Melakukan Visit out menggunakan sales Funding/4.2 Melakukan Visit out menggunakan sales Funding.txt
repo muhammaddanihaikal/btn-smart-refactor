@@ -1,13 +1,17 @@
 NO TEST CASE : 4.2
 JUDUL        : Melakukan Visit out menggunakan sales Funding
 MODUL        : Sales Tracking Activity - Visit Out
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Menginput data visit Out dengan mengisi:  Pilih type visit - input description - ambil gambar
+1. Menginput data visit Out dengan mengisi:  Pilih type visit.
+2. input description.
+3. ambil gambar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menginput data visit out
+1. Berhasil menginput data visit out.

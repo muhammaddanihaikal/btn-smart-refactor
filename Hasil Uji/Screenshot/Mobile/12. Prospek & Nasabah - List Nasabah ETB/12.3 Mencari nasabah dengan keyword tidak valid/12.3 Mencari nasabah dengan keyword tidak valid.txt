@@ -1,13 +1,15 @@
 NO TEST CASE : 12.3
 JUDUL        : Mencari nasabah dengan keyword tidak valid
 MODUL        : Prospek & Nasabah - List Nasabah ETB
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Masukkan keyword tidak valid pada Search Bar
+1. Masukkan keyword tidak valid pada Search Bar.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil menampilkan informasi data tidak ditemukan.
+1. Berhasil menampilkan informasi data tidak ditemukan.

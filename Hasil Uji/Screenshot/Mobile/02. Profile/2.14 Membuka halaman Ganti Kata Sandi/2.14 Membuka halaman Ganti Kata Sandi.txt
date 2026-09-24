@@ -1,13 +1,17 @@
 NO TEST CASE : 2.14
 JUDUL        : Membuka halaman Ganti Kata Sandi
 MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
-SCENARIO / STEPS:
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-Klik menu Profile pada navigasi bawah - Klik sub menu Ganti Kata Sandi pada bagian Keamanan
+1. Klik menu Profile pada navigasi bawah.
+2. Klik sub menu Ganti Kata Sandi pada bagian Keamanan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-Berhasil membuka sub menu Ganti Kata Sandi dan menampilkan form ganti kata sandi beserta persyaratannya.
+1. Berhasil mengklik menu Profile.
+2. Berhasil membuka sub menu Ganti Kata Sandi dan menampilkan form ganti kata sandi beserta persyaratannya.
