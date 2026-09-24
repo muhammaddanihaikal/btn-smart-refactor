@@ -6,10 +6,10 @@ from docx import Document
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-SENIOR_DOCX   = r'D:\Project\BTN\SIT\Perlu di Analisis\SIT BTN SMART Web (Updated).docx'
-TEMPLATE_PATH = r'D:\Project\BTN\SIT\Form Script - Skenario SIT BTN SMART Upgrade Server.docx'
-UJI_SISTEM    = r'D:\Project\BTN\Test Script\Uji Sistem.xlsx'
-OUTPUT_WEB    = r'D:\Project\BTN\SIT\SIT BTN SMART Web.docx'
+SENIOR_DOCX   = r'D:\Project\BTN Smart\Refactor\SIT\SIT BTN SMART Web (Updated).docx'
+TEMPLATE_PATH = r'D:\Project\BTN Smart\Refactor\SIT\Form Script - Skenario SIT BTN SMART Upgrade Server.docx'
+UJI_SISTEM    = r'D:\Project\BTN Smart\Refactor\Test Script\Uji Sistem.xlsx'
+OUTPUT_WEB    = r'D:\Project\BTN Smart\Refactor\SIT\SIT BTN SMART Web.docx'
 OUTPUT_WEB_H  = r'H:\My Drive\Zegen\BTN Smart\Refactor\SIT\SIT BTN SMART Web.docx'
 OUTPUT_WEB_G  = r'G:\My Drive\Zegen\BTN Smart\Refactor\SIT\SIT BTN SMART Web.docx'
 
@@ -349,6 +349,36 @@ for child in list(body): body.remove(child)
 
 body.append(copy.deepcopy(TBL_HEADER._tbl))
 body.append(empty_para())
+
+# ── Sort final_submenus based on EXCEL order ──
+import openpyxl
+wb_excel = openpyxl.load_workbook(r'D:\Project\BTN Smart\Refactor\Test Script\Test Script BTN Smart Refactor.xlsx', data_only=True)
+ws_excel = wb_excel['TC BTN SMART Web']
+excel_order = []
+for r in range(2, ws_excel.max_row + 1):
+    mod = ws_excel.cell(r, 2).value
+    sub = ws_excel.cell(r, 3).value
+    if mod:
+        m = str(mod).strip()
+        s = str(sub).strip() if sub else ''
+        key = (m, s)
+        if not excel_order or excel_order[-1] != key:
+            excel_order.append(key)
+
+ordered_keys = []
+for k in excel_order:
+    if k in final_submenus:
+        ordered_keys.append(k)
+
+# Add any keys that were in final_submenus but somehow not in Excel
+for k in final_submenus.keys():
+    if k not in ordered_keys:
+        ordered_keys.append(k)
+
+# Rebuild final_submenus as a new ordered dict
+new_final_submenus = {k: final_submenus[k] for k in ordered_keys}
+final_submenus = new_final_submenus
+
 body.append(build_info_table(list(final_submenus.keys()), total_tcs))
 body.append(zero_height_para(inner_sect_pr))
 
