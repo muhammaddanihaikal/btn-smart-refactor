@@ -4,7 +4,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 import os, shutil
 
 DOC_PATH = r'H:\My Drive\Zegen\BTN Smart\Refactor\Hasil Uji\Dokumen_Hasil_Uji_Mobile.docx'
-IMG_PATH = r'H:\My Drive\Zegen\BTN Smart\Refactor\Hasil Uji\Screenshot\Mobile\01. Login\1.1 Membuka halaman Login\2.jpg'
+IMG_DIR = r'H:\My Drive\Zegen\BTN Smart\Refactor\Hasil Uji\Screenshot\Mobile\01. Login\1.1 Membuka halaman Login'
 
 print(f"Loading document: {DOC_PATH}")
 doc = docx.Document(DOC_PATH)
@@ -38,10 +38,25 @@ p_img.paragraph_format.space_before = Pt(6)
 p_img.paragraph_format.space_after = Pt(6)
 
 run_img = p_img.add_run()
-# Portrait mobile screenshot: 1220x2530 aspect ratio ~ 0.482
-# Setting height = 4.2 inches gives width ~ 2.03 inches, perfectly framed!
-run_img.add_picture(IMG_PATH, height=Inches(4.2))
-print("Inserted 2.jpg into Row 2 Cell 1.")
+
+import glob
+# Find all jpgs and sort them
+images = sorted(glob.glob(os.path.join(IMG_DIR, '*.jpg')))
+print(f"Found images: {images}")
+
+# Adjust height based on number of images to ensure they fit side-by-side
+# Cell width is ~6 inches. For 2 images, width max ~2.8 inch each.
+# Mobile aspect ratio (width/height) is roughly 0.45-0.5.
+# So height can safely be up to 4.2 inches for 2 images.
+height_in = 4.2 if len(images) <= 2 else 3.5
+
+for idx, img_path in enumerate(images):
+    run_img.add_picture(img_path, height=Inches(height_in))
+    # Add a little space between images if not the last one
+    if idx < len(images) - 1:
+        run_img.add_text("  ")
+
+print(f"Inserted {len(images)} images into Row 2 Cell 1.")
 
 # Row 3 Cell 1 is the Expected Results & Status
 exp_cell = target_table.rows[3].cells[1]
