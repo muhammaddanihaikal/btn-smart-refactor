@@ -78,12 +78,11 @@ def format_numbered(text):
     # If already starts with number e.g. "1."
     if re.match(r'^\d+\.', text):
         return text
-    # Split by hyphen separator ' - ' or '\n'
-    parts = []
-    if ' - ' in text:
-        parts = [p.strip() for p in text.split(' - ') if p.strip()]
-    elif '\n' in text:
-        parts = [p.strip() for p in text.split('\n') if p.strip()]
+    # Split by any dash separator ' - ', ' \u2013 ', ' \u2014 ', or '\n'
+    # normalize various dashes
+    normalized = re.sub(r'\s+[\-\u2013\u2014]\s+', ' \n ', text)
+    if '\n' in normalized:
+        parts = [p.strip() for p in normalized.split('\n') if p.strip()]
     else:
         parts = [text]
     
