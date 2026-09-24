@@ -1,5 +1,5 @@
 NO TEST CASE : 1.1
-JUDUL        : Membuka halaman Login Non Employee
+JUDUL        : Membuka halaman Login
 MODUL        : Login
 DESKRIPSI    : Positive Case
 PRIORITAS    : High

@@ -1,15 +1,15 @@
-NO TEST CASE : 1.2
-JUDUL        : Melakukan login Non Employee dengan email dan password valid
+NO TEST CASE : 1.3
+JUDUL        : Melakukan login dengan email tidak terdaftar
 MODUL        : Login
-DESKRIPSI    : Positive Case
+DESKRIPSI    : Negative Case
 PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 1. Buka aplikasi BTN Smart.
-2. Isi field Email dengan email terdaftar.
-3. Isi field Password dengan password yang valid.
+2. Isi field Email dengan email yang tidak terdaftar.
+3. Isi field Password dengan password bebas.
 4. Pilih Type Non Employee.
 5. Klik button LOGIN.
 
@@ -20,4 +20,4 @@ EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 2. Berhasil mengisi Email.
 3. Berhasil mengisi Password.
 4. Berhasil memilih Type.
-5. Berhasil melakukan login dan diarahkan ke halaman 2 Factor Authentication.
+5. Menampilkan pesan error email tidak terdaftar.
