@@ -1,0 +1,19 @@
+NO TEST CASE : 2.24
+JUDUL        : Mengaktifkan MFA menggunakan metode Email OTP
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Klik metode Email OTP.
+3. Masukkan kode verifikasi yang dikirim ke email terdaftar.
+4. Klik button Verifikasi dan Aktifkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengaktifkan MFA menggunakan metode Email OTP.
+2. Berhasil mendapatkan kode Cadangan (Recovery Code).

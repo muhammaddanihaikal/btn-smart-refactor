@@ -1,0 +1,18 @@
+NO TEST CASE : 2.27
+JUDUL        : Mengubah metode MFA
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Klik button Ganti Metode.
+3. Pilih metode Email OTP atau TOTP yang diinginkan.
+4. Ikuti langkah verifikasi hingga selesai.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengubah metode MFA ke metode yang dipilih.

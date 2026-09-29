@@ -1,0 +1,19 @@
+NO TEST CASE : 2.26
+JUDUL        : Setup MFA menggunakan metode Email OTP dengan kode OTP kadaluarsa (lebih dari 5 menit)
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Lakukan setup Email OTP.
+3. Tunggu hingga kode OTP kadaluarsa (> 5 menit).
+4. Input kode OTP tersebut.
+5. Klik button Verifikasi dan Aktifkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan pesan validasi bahwa kode OTP sudah kadaluarsa dan tidak bisa digunakan.

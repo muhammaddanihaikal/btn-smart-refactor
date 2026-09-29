@@ -1,0 +1,18 @@
+NO TEST CASE : 2.23
+JUDUL        : Mengaktifkan MFA menggunakan metode TOTP dengan kode OTP salah
+MODUL        : Profile
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Lakukan setup metode TOTP.
+3. Input kode OTP yang salah pada kolom kode verifikasi.
+4. Klik button Continue.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan pesan validasi bahwa kode OTP tidak sesuai.

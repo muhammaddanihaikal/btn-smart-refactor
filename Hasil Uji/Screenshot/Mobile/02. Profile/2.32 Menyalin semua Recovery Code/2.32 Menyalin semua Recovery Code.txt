@@ -1,0 +1,18 @@
+NO TEST CASE : 2.32
+JUDUL        : Menyalin semua Recovery Code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Klik button Recovery Code.
+3. Input password valid.
+4. Klik button Salin Semua.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menyalin seluruh Recovery Code ke clipboard.

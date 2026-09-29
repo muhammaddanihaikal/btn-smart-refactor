@@ -1,0 +1,18 @@
+NO TEST CASE : 2.33
+JUDUL        : Mengunduh file data Recovery Code
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Klik button Recovery Code.
+3. Input password valid.
+4. Klik button Download.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data Recovery Code ke penyimpanan perangkat.

@@ -1,0 +1,19 @@
+NO TEST CASE : 2.28
+JUDUL        : Melakukan filter data Riwayat Login
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Riwayat Login.
+2. Klik icon/dropdown filter opsi tipe aktivitas.
+3. Pilih salah satu opsi filter (misal: Login atau Logout).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Halaman Riwayat Login ditampilkan.
+2. Menampilkan list/dropdown opsi filter (All, Login, Logout).
+3. Berhasil memfilter dan menampilkan daftar riwayat aktivitas sesuai dengan tipe filter yang dipilih.

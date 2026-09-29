@@ -1,0 +1,21 @@
+NO TEST CASE : 2.21
+JUDUL        : Mengaktifkan MFA menggunakan metode TOTP via scan barcode
+MODUL        : Profile
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Atur MFA.
+2. Klik metode TOTP.
+3. Klik button Lihat Barcode.
+4. Scan barcode menggunakan aplikasi Google Authenticator.
+5. Input kode verifikasi pada kolom kode verifikasi.
+6. Klik button Continue.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengaktifkan MFA menggunakan metode TOTP.
+2. Berhasil mendapatkan kode Cadangan (Recovery Code).
