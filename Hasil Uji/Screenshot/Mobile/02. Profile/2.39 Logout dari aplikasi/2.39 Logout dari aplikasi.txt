@@ -1,5 +1,5 @@
 NO TEST CASE : 2.39
-JUDUL        : Melihat detail Versi Aplikasi
+JUDUL        : Logout dari aplikasi
 MODUL        : Profile
 DESKRIPSI    : Positive Case
 PRIORITAS    : High
@@ -8,9 +8,10 @@ PRIORITAS    : High
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 1. Klik menu Profile pada navigasi bawah.
-2. Lihat detail teks informasi Versi Aplikasi pada bagian Sistem.
+2. Scroll ke bagian paling bawah dan klik button Logout.
+3. Klik konfirmasi pada dialog box logout.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan informasi nomor/versi aplikasi yang digunakan saat ini secara jelas.
+1. Berhasil memproses logout dan kembali ke halaman Login awal aplikasi.
