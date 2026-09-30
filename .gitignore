@@ -1,3 +1,6 @@
 ﻿__pycache__/
 scratch/*.pdf
 scratch/backups/
+
+desktop.ini
+*.ini
