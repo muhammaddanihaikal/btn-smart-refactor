@@ -1,20 +1,16 @@
-NO TEST CASE : 43.8
-JUDUL        : Menghapus sales code
+NO TEST CASE : 43.9
+JUDUL        : Mencari data kata kunci yang tidak sesuai (Negative test)
 MODUL        : Sales Force
 SUB MENU     : Sales code
-DESKRIPSI    : Positive Case
-PRIORITAS    : High
+DESKRIPSI    : Positive Case if 'negative' not in tc['title'].lower() else Negative Case
+PRIORITAS    : Normal
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik icon titik tiga (opsi) 
-2. klik delete
-3. Klik button ok
+1. -
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan opsi action 
-2. Menampilkan popup konfirmasi 
-3. berhasil menghapus data sales code
+1. Berhasil Data tidak ditemukan – [Success]

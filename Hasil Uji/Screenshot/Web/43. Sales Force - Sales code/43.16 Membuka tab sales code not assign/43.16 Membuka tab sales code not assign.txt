@@ -1,4 +1,4 @@
-NO TEST CASE : 43.12
+NO TEST CASE : 43.16
 JUDUL        : Membuka tab sales code not assign
 MODUL        : Sales Force
 SUB MENU     : Sales code
@@ -13,4 +13,4 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan list data sales code yang sudah memiliki sales people
+1. Berhasil Menampilkan list data sales code yang sudah memiliki sales people – [Success]

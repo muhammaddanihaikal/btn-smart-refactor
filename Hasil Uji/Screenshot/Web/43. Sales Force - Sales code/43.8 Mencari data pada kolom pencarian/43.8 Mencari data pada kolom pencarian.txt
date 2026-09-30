@@ -1,16 +1,16 @@
-NO TEST CASE : 43.13
-JUDUL        : Membuka tab sales people not assign
+NO TEST CASE : 43.8
+JUDUL        : Mencari data pada kolom pencarian
 MODUL        : Sales Force
 SUB MENU     : Sales code
-DESKRIPSI    : Positive Case
+DESKRIPSI    : Positive Case if 'negative' not in tc['title'].lower() else Negative Case
 PRIORITAS    : Normal
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik tab sales people not assign
+1. -
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan list data sales yang belum memiliki sales code
+1. Berhasil Menampilkan data sesuai kata kunci yang diinput – [Success]

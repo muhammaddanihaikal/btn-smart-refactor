@@ -1,5 +1,5 @@
-NO TEST CASE : 43.1
-JUDUL        : Membuka menu sales code
+NO TEST CASE : 43.13
+JUDUL        : Mengubah sales people
 MODUL        : Sales Force
 SUB MENU     : Sales code
 DESKRIPSI    : Positive Case
@@ -8,10 +8,13 @@ PRIORITAS    : Normal
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik menu sales force
-2. Klik submenu sales code
+1. Klik icon titik tiga (opsi) 
+2. klik detail 
+3. kemudian klik buttonn update 
+4. input nip kemudian klik buttonn cari nip
+5. klik button update
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil Menampilkan halaman sales code – [Success]
+1. Berhasil update data sales people – [Success]

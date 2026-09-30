@@ -1,5 +1,5 @@
-NO TEST CASE : 43.1
-JUDUL        : Membuka menu sales code
+NO TEST CASE : 43.5
+JUDUL        : Menambahkan sales people
 MODUL        : Sales Force
 SUB MENU     : Sales code
 DESKRIPSI    : Positive Case
@@ -8,10 +8,12 @@ PRIORITAS    : Normal
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik menu sales force
-2. Klik submenu sales code
+1. Klik button create kemudian klik input sales poeple
+2. input nip kemudian klik button cari nip
+3. Pilih sales code sesuai dengan jobrole dan kantor cabang nip yang diinput 
+4. klik button submit
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil Menampilkan halaman sales code – [Success]
+1. Berhasil menginput sales people – [Success]

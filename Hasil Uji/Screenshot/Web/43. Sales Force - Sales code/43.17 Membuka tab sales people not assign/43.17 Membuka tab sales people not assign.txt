@@ -1,20 +1,16 @@
-NO TEST CASE : 43.7
-JUDUL        : Menghapus sales people
+NO TEST CASE : 43.17
+JUDUL        : Membuka tab sales people not assign
 MODUL        : Sales Force
 SUB MENU     : Sales code
 DESKRIPSI    : Positive Case
-PRIORITAS    : High
+PRIORITAS    : Normal
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik icon titik tiga (opsi) pada data yang terdapat nip pada tabel
-2. klik remove sales people
-3. Klik button ok
+1. Klik tab sales people not assign
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan opsi action 
-2. Menampilkan popup konfirmasi 
-3. berhasil menghapus/ melepaskan nip dari sales code
+1. Berhasil Menampilkan list data sales yang belum memiliki sales code – [Success]
