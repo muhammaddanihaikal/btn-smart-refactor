@@ -1,5 +1,5 @@
-NO TEST CASE : 8.7
-JUDUL        : Mengubah data Tipe Karyawan
+NO TEST CASE : 8.8
+JUDUL        : Menghapus data Tipe Karyawan
 MODUL        : User Authority
 SUB MENU     : Tipe Karyawan
 DESKRIPSI    : Positive Case
@@ -8,15 +8,13 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Aksi (...).
-2. Klik menu Ubah Data.
-3. Ubah data tipe karyawan.
-4. Klik button Submit.
+1. Pilih salah satu data tipe karyawan.
+2. Klik button Hapus 1 data.
+3. Klik button Yes.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan menu aksi.
-2. Berhasil menampilkan halaman Ubah Data Tipe Karyawan.
-3. Berhasil mengubah data tipe karyawan.
-4. Berhasil menyimpan perubahan data tipe karyawan.
+1. Berhasil memilih data tipe karyawan.
+2. Berhasil menampilkan popup konfirmasi hapus data.
+3. Berhasil menghapus data tipe karyawan.

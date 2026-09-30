@@ -1,16 +1,22 @@
 NO TEST CASE : 8.4
-JUDUL        : Memilih data Tipe Karyawan
+JUDUL        : Menambahkan data Tipe Karyawan
 MODUL        : User Authority
 SUB MENU     : Tipe Karyawan
 DESKRIPSI    : Positive Case
-PRIORITAS    : Normal
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik checkbox salah satu data tipe karyawan.
+1. Klik button Tambah Tipe Karyawan.
+2. Input field Name.
+3. Pilih minimal satu checkbox Selling Role.
+4. Klik button Simpan.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil memilih data tipe karyawan.
+1. Berhasil menampilkan form Tambah Tipe Karyawan.
+2. Berhasil menginput nama tipe karyawan.
+3. Berhasil memilih selling role.
+4. Berhasil menyimpan data tipe karyawan.

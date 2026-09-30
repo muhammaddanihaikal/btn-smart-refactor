@@ -1,5 +1,5 @@
-NO TEST CASE : 7.9
-JUDUL        : Menghapus data Group Role
+NO TEST CASE : 7.6
+JUDUL        : Mengubah data Group Role
 MODUL        : User Authority
 SUB MENU     : Group Role
 DESKRIPSI    : Positive Case
@@ -8,13 +8,15 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Pilih salah satu data group role.
-2. Klik button Hapus 1 data.
-3. Klik button Yes.
+1. Klik button Aksi (...).
+2. Klik menu Ubah Data.
+3. Ubah data group role.
+4. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil memilih data group role.
-2. Berhasil menampilkan popup konfirmasi hapus data.
-3. Berhasil menghapus data group role.
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan halaman Ubah Data Group Role.
+3. Berhasil mengubah data group role.
+4. Berhasil menyimpan perubahan data group role.

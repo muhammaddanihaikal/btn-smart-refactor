@@ -1,20 +1,20 @@
-NO TEST CASE : 8.6
-JUDUL        : Menambahkan data Tipe Karyawan tanpa mengisi field mandatory
+NO TEST CASE : 7.5
+JUDUL        : Menambahkan data Group Role tanpa mengisi field mandatory
 MODUL        : User Authority
-SUB MENU     : Tipe Karyawan
+SUB MENU     : Group Role
 DESKRIPSI    : Positive Case
 PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Tambah Tipe Karyawan.
-2. Kosongkan field Name dan Selling Role.
-3. Klik button Simpan.
+1. Klik button Tambah Role.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan form Tambah Tipe Karyawan.
+1. Berhasil menampilkan form Tambah Role.
 2. Berhasil mengosongkan field mandatory.
 3. Berhasil menampilkan validasi field mandatory wajib diisi.

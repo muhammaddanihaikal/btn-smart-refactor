@@ -1,0 +1,121 @@
+[
+  {
+    "table_idx": 522,
+    "no": "43.1",
+    "title": "Membuka menu sales code",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan halaman sales code \u2013 [Success]",
+    "blips": 3
+  },
+  {
+    "table_idx": 523,
+    "no": "43.2",
+    "title": "Melakukan filter data",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan data sesuai dengan filter yang dipilih \u2013 [Success]",
+    "blips": 6
+  },
+  {
+    "table_idx": 524,
+    "no": "43.3",
+    "title": "Melakukan filter dengan tidak mengisi filter mandatory (Negative case)",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan alert \"filter mandatory dibutuhkan\" \u2013 [Success]",
+    "blips": 3
+  },
+  {
+    "table_idx": 525,
+    "no": "43.4",
+    "title": "Menambahkan sales code",
+    "expected": "Hasil yang diharapkan [STATUS]:\nberhasil menambahkan sales code \u2013 [Success]",
+    "blips": 9
+  },
+  {
+    "table_idx": 526,
+    "no": "43.5",
+    "title": "Menambahkan sales people",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil menginput sales people \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 527,
+    "no": "43.6",
+    "title": "menambahkan sales people dengan nip yang tidak ada (Negative case)",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan alert \"Nip tidak ditemukan\" \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 528,
+    "no": "43.7",
+    "title": "Menambahkan sales code dan sales people secara bersamaan",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil create salescode dan input nip \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 529,
+    "no": "43.8",
+    "title": "Mencari data pada kolom pencarian",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan data sesuai kata kunci yang diinput \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 530,
+    "no": "43.9",
+    "title": "Mencari data kata kunci yang tidak sesuai (Negative test)",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Data tidak ditemukan \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 531,
+    "no": "43.10",
+    "title": "Menghapus sales people",
+    "expected": "Hasil yang diharapkan [STATUS]:\nberhasil menghapus/ melepaskan nip dari sales code \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 532,
+    "no": "43.11",
+    "title": "Menghapus sales code",
+    "expected": "Hasil yang diharapkan [STATUS]:\nberhasil menghapus data sales code \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 533,
+    "no": "43.12",
+    "title": "Melihat detail",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan detail data sales code \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 534,
+    "no": "43.13",
+    "title": "Mengubah sales people",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil update data sales people \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 535,
+    "no": "43.14",
+    "title": "mengunduh data sales code",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil mengunduh data sales code \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 536,
+    "no": "43.15",
+    "title": "Membuka tab sales code assign",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan list data sales code yang belum memiliki sales people \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 537,
+    "no": "43.16",
+    "title": "Membuka tab sales code not assign",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan list data sales code yang sudah memiliki sales people \u2013 [Success]",
+    "blips": 0
+  },
+  {
+    "table_idx": 538,
+    "no": "43.17",
+    "title": "Membuka tab sales people not assign",
+    "expected": "Hasil yang diharapkan [STATUS]:\nBerhasil Menampilkan list data sales yang belum memiliki sales code \u2013 [Success]",
+    "blips": 0
+  }
+]
