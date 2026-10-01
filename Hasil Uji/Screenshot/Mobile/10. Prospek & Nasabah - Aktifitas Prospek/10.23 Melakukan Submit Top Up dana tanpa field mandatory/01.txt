@@ -1,0 +1,16 @@
+NO TEST CASE : 10.23
+JUDUL        : Melakukan Submit Top Up dana tanpa field mandatory
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengosongkan seluruh field mandatory pada form Top Up dana.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan pesan validasi bahwa field mandatory wajib diisi.
