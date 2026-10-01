@@ -1,0 +1,9 @@
+NO TEST CASE : 34.14
+JUDUL        : Membatalkan pembatalan approval
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Membatalkan pembatalan approval
+STEPS        :
+1. Klik button Cancel Approval.
+2. Klik No.
+EXPECTED     :
+Berhasil status approval tidak berubah.

@@ -1,0 +1,9 @@
+NO TEST CASE : 34.4
+JUDUL        : Melakukan filter approval absent
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Melakukan filter approval absent
+STEPS        :
+1. Pilih filter.
+2. Klik button Filter.
+EXPECTED     :
+Berhasil memilih filter dan menampilkan data sesuai filter.
