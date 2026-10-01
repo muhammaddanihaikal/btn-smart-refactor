@@ -15,3 +15,10 @@ EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
 1. Berhasil membuka halaman Log Absent Detail.
 2. Berhasil menampilkan informasi Clock In yang mencakup peta lokasi, tanggal, waktu Clock In, deskripsi, lokasi, dan akurasi.
+
+==================================================
+STATUS PENGUJIAN / BLOCKER NOTE:
+==================================================
+STATUS : ON HOLD / PENDING
+CATATAN: Komponen peta (Map) pada halaman detail log absensi tidak muncul (blank / gagal render).
+         Screenshot pengujian ditunda sementara menunggu perbaikan render peta dari developer.
