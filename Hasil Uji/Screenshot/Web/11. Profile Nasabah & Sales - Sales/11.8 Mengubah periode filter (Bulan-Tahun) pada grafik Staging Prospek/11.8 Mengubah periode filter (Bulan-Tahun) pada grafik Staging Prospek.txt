@@ -1,5 +1,5 @@
 NO TEST CASE : 11.8
-JUDUL        : Mengubah periode filter (Bulan/Tahun) pada grafik Staging Prospek
+JUDUL        : Mengubah periode filter (Bulan-Tahun) pada grafik Staging Prospek
 MODUL        : Profile Nasabah & Sales
 SUB MENU     : Sales
 DESKRIPSI    : Positive Case
