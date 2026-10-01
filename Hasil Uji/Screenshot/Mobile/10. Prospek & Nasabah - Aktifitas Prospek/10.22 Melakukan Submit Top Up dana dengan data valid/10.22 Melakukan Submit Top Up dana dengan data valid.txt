@@ -1,0 +1,17 @@
+NO TEST CASE : 10.22
+JUDUL        : Melakukan Submit Top Up dana dengan data valid
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi seluruh field pada form Top Up dana dengan data valid.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi seluruh field form Top Up dana.
+2. Berhasil men-submit form dan menyimpan data Open Account.
