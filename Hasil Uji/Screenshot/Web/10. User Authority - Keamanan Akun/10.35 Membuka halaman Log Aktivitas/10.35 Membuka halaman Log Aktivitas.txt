@@ -1,5 +1,5 @@
-NO TEST CASE : 10.32
-JUDUL        : Mengekspor data perangkat
+NO TEST CASE : 10.35
+JUDUL        : Membuka halaman Log Aktivitas
 MODUL        : User Authority
 SUB MENU     : Keamanan Akun
 DESKRIPSI    : Positive Case
@@ -8,11 +8,13 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Export.
-2. Klik icon Mendownload pada panel Mendownload Export.
+1. Klik menu User Authority.
+2. Klik sub menu Keamanan Akun.
+3. Klik tab Log Aktivitas.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan panel Mendownload Export.
-2. Berhasil mendownload file export.
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman Keamanan Akun.
+3. Berhasil menampilkan halaman Log Aktivitas.

@@ -1,5 +1,5 @@
-NO TEST CASE : 10.38
-JUDUL        : Melihat detail log aktivitas
+NO TEST CASE : 10.32
+JUDUL        : Mereset filter data perangkat & sesi
 MODUL        : User Authority
 SUB MENU     : Keamanan Akun
 DESKRIPSI    : Positive Case
@@ -8,11 +8,9 @@ PRIORITAS    : Normal
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Aksi (...).
-2. Klik menu Lihat Detail.
+1. Klik button Reset Filter.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan menu aksi.
-2. Berhasil menampilkan detail log aktivitas.
+1. Berhasil mengembalikan filter ke kondisi default dan menampilkan seluruh data.

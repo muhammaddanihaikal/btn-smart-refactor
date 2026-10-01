@@ -1,18 +1,18 @@
-NO TEST CASE : 10.34
-JUDUL        : Mencari log aktivitas dengan keyword valid
+NO TEST CASE : 10.40
+JUDUL        : Melihat detail log aktivitas
 MODUL        : User Authority
 SUB MENU     : Keamanan Akun
 DESKRIPSI    : Positive Case
-PRIORITAS    : High
+PRIORITAS    : Normal
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Input keyword pada field Search.
-2. Klik button Search.
+1. Klik button Aksi (...).
+2. Klik menu Lihat Detail.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Berhasil menampilkan data sesuai keyword.
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan detail log aktivitas.
