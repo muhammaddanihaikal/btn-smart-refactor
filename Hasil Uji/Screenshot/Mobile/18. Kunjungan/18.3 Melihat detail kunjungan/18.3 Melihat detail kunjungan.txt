@@ -1,0 +1,10 @@
+NO TEST CASE : 18.3
+JUDUL        : Melihat detail kunjungan
+MODUL        : Kunjungan
+DESKRIPSI    : Melihat detail kunjungan
+STEPS        :
+1. Klik salah satu card kunjungan pada daftar.
+2. Sistem menampilkan tab default Mulai Kunjungan.
+3. Klik tab Selesai Kunjungan.
+EXPECTED     :
+Berhasil menampilkan halaman Detail Kunjungan yang memuat peta lokasi, waktu, tipe kunjungan, dan nama nasabah pada tab Mulai Kunjungan maupun Selesai Kunjungan.
