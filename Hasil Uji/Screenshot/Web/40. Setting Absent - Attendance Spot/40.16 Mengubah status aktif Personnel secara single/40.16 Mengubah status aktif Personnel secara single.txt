@@ -1,5 +1,5 @@
-NO TEST CASE : 40.10
-JUDUL        : Mengubah data Attendance Spot tanpa mengisi field mandatory
+NO TEST CASE : 40.16
+JUDUL        : Mengubah status aktif Personnel secara single
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Positive Case
@@ -8,13 +8,11 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik icon Edit pada salah satu data Attendance Spot.
-2. Kosongkan field mandatory.
-3. Klik button Submit.
+1. Klik checkbox pada salah satu data Personnel.
+2. Klik toggle Status pada data Personnel tersebut.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan form Edit Attendance Spot.
-2. Berhasil mengosongkan field mandatory.
-3. Berhasil menampilkan validasi field mandatory wajib diisi.
+1. Berhasil mencentang checkbox data Personnel.
+2. Berhasil mengubah status aktif/nonaktif personnel secara single.

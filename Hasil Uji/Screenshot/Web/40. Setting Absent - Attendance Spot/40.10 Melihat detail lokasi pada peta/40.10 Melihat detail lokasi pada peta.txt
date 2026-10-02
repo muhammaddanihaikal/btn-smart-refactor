@@ -1,5 +1,5 @@
-NO TEST CASE : 40.9
-JUDUL        : Mengubah data Attendance Spot
+NO TEST CASE : 40.10
+JUDUL        : Melihat detail lokasi pada peta
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Positive Case
@@ -8,13 +8,9 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik icon Edit pada salah satu data Attendance Spot.
-2. Ubah data pada field mandatory.
-3. Klik button Submit.
+1. Klik icon View Map pada salah satu data Attendance Spot.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan form Edit Attendance Spot.
-2. Berhasil mengubah data.
-3. Berhasil menyimpan perubahan data Attendance Spot.
+1. Berhasil menampilkan popup peta lokasi Attendance Spot.

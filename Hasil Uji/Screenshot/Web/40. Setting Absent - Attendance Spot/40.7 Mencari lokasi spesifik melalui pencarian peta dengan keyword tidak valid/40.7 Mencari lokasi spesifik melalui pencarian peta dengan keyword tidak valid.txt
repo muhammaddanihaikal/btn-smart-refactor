@@ -3,7 +3,7 @@ JUDUL        : Mencari lokasi spesifik melalui pencarian peta dengan keyword tid
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Negative Case
-PRIORITAS    : Normal
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):

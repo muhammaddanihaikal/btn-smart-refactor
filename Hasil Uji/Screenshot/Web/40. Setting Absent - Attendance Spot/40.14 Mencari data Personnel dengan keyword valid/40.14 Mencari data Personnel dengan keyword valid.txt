@@ -1,16 +1,18 @@
-NO TEST CASE : 40.11
-JUDUL        : Melihat detail lokasi pada peta
+NO TEST CASE : 40.14
+JUDUL        : Mencari data Personnel dengan keyword valid
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Positive Case
-PRIORITAS    : Normal
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik icon View Map pada salah satu data Attendance Spot.
+1. Input keyword pada field Search di halaman Personnel.
+2. Klik button Search.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan popup peta lokasi Attendance Spot.
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data Personnel sesuai keyword.

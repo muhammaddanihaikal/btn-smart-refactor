@@ -1,5 +1,5 @@
-NO TEST CASE : 40.3
-JUDUL        : Mencari data Attendance Spot dengan keyword tidak valid
+NO TEST CASE : 40.9
+JUDUL        : Mengubah data Attendance Spot tanpa mengisi field mandatory
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Negative Case
@@ -8,11 +8,13 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Input keyword yang tidak terdaftar pada field Search.
-2. Klik button Search.
+1. Klik icon Edit pada salah satu data Attendance Spot.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Berhasil menampilkan informasi data tidak ditemukan.
+1. Berhasil menampilkan form Edit Attendance Spot.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

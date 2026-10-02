@@ -2,7 +2,7 @@ NO TEST CASE : 40.5
 JUDUL        : Menambahkan data Attendance Spot tanpa mengisi field mandatory
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
-DESKRIPSI    : Positive Case
+DESKRIPSI    : Negative Case
 PRIORITAS    : High
 
 ==================================================

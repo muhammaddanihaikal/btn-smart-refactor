@@ -1,5 +1,5 @@
-NO TEST CASE : 40.15
-JUDUL        : Mengubah status aktif Personnel secara bulk
+NO TEST CASE : 40.8
+JUDUL        : Mengubah data Attendance Spot
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
 DESKRIPSI    : Positive Case
@@ -8,11 +8,13 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik beberapa checkbox data Personnel.
-2. Klik toggle Status pada salah satu data Personnel yang dipilih.
+1. Klik icon Edit pada salah satu data Attendance Spot.
+2. Ubah data pada field mandatory.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil mencentang beberapa checkbox data Personnel.
-2. Berhasil mengubah status aktif/nonaktif seluruh personnel yang dipilih secara bulk.
+1. Berhasil menampilkan form Edit Attendance Spot.
+2. Berhasil mengubah data.
+3. Berhasil menyimpan perubahan data Attendance Spot.

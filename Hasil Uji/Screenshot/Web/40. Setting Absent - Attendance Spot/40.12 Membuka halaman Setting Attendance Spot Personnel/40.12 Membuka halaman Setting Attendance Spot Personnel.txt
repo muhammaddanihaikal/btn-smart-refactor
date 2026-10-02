@@ -1,18 +1,16 @@
-NO TEST CASE : 40.3
-JUDUL        : Mencari data Attendance Spot dengan keyword tidak valid
+NO TEST CASE : 40.12
+JUDUL        : Membuka halaman Setting Attendance Spot Personnel
 MODUL        : Setting Absent
 SUB MENU     : Attendance Spot
-DESKRIPSI    : Negative Case
+DESKRIPSI    : Positive Case
 PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Input keyword yang tidak terdaftar pada field Search.
-2. Klik button Search.
+1. Klik icon Setting Attendance Spot Personnel pada salah satu data Attendance Spot.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Berhasil menampilkan informasi data tidak ditemukan.
+1. Berhasil menampilkan halaman Setting Attendance Spot Personnel.
