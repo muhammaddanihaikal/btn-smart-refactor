@@ -1,0 +1,13 @@
+TEST CASE: 41.8 Mengubah data Work Pattern
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik icon Edit pada salah satu data Work Pattern.
+2. Ubah data pada field mandatory.
+3. Klik button Submit.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan form Edit Work Pattern.
+2. Berhasil mengubah data.
+3. Berhasil menyimpan perubahan data Work Pattern.

@@ -1,0 +1,18 @@
+NO TEST CASE : 40.1
+JUDUL        : Membuka halaman Attendance Spot
+MODUL        : Setting Absent
+SUB MENU     : Attendance Spot
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Setting Absent.
+2. Klik sub menu Attendance Spot.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Setting Absent.
+2. Berhasil menampilkan halaman Attendance Spot.

@@ -1,0 +1,11 @@
+TEST CASE: 41.2 Mencari data Work Pattern dengan keyword valid
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Input keyword pada field Search.
+2. Klik button Search.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai keyword.

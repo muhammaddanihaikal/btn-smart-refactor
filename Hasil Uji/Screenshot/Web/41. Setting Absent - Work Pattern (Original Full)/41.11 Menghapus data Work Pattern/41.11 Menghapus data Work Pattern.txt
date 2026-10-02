@@ -1,0 +1,11 @@
+TEST CASE: 41.11 Menghapus data Work Pattern
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik icon Delete pada salah satu data Work Pattern.
+2. Klik button OK pada popup konfirmasi.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan popup konfirmasi hapus data.
+2. Berhasil menghapus data Work Pattern.

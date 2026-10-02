@@ -1,0 +1,11 @@
+TEST CASE: 40.18 Menambahkan data Personnel secara bulk (Add Personnel)
+Modul: Setting Absent - Attendance Spot
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik beberapa checkbox data Personnel yang berstatus Tidak Aktif.
+2. Klik button Add Personnel.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil mencentang beberapa checkbox data Personnel.
+2. Berhasil menambahkan/mengaktifkan seluruh personnel yang dipilih ke Attendance Spot secara bulk.
