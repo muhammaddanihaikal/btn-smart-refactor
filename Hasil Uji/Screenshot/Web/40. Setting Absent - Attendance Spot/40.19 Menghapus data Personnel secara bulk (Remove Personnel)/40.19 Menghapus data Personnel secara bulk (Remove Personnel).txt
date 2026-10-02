@@ -1,0 +1,11 @@
+TEST CASE: 40.19 Menghapus data Personnel secara bulk (Remove Personnel)
+Modul: Setting Absent - Attendance Spot
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik beberapa checkbox data Personnel yang berstatus Aktif.
+2. Klik button Remove Personnel.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil mencentang beberapa checkbox data Personnel.
+2. Berhasil menghapus/menonaktifkan seluruh personnel yang dipilih dari Attendance Spot secara bulk.
