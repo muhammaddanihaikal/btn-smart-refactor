@@ -1,0 +1,11 @@
+TEST CASE: 41.3 Mencari data Work Pattern dengan keyword tidak valid
+Modul: Setting Absent - Work Pattern
+Tipe: Negative Case (Normal)
+
+LANGKAH PENGUJIAN:
+1. Input keyword yang tidak terdaftar pada field Search.
+2. Klik button Search.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

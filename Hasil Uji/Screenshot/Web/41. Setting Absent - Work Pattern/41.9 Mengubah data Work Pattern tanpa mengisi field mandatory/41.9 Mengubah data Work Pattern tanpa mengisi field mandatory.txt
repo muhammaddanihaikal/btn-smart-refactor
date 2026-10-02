@@ -1,0 +1,13 @@
+TEST CASE: 41.9 Mengubah data Work Pattern tanpa mengisi field mandatory
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik icon Edit pada salah satu data Work Pattern.
+2. Kosongkan field mandatory.
+3. Klik button Submit.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan form Edit Work Pattern.
+2. Berhasil mengosongkan field mandatory.
+3. Berhasil menampilkan validasi field mandatory wajib diisi.

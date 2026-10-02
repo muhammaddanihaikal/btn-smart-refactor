@@ -1,0 +1,11 @@
+TEST CASE: 41.18 Meng-unassign data Personnel dari Work Pattern secara single
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (Normal)
+
+LANGKAH PENGUJIAN:
+1. Klik checkbox pada salah satu data Personnel yang sudah ter-assign.
+2. Klik icon Unassign (merah).
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil mencentang checkbox data Personnel.
+2. Berhasil menghapus (unassign) personnel tersebut dari Work Pattern.

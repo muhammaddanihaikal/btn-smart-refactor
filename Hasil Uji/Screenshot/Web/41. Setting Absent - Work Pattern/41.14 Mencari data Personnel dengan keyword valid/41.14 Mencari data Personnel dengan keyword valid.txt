@@ -1,0 +1,11 @@
+TEST CASE: 41.14 Mencari data Personnel dengan keyword valid
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Input keyword pada field Search di halaman Personnel.
+2. Klik button Search.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data Personnel sesuai keyword.

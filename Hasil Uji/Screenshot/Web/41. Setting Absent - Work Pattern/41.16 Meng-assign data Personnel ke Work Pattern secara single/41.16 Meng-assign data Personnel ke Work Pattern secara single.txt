@@ -1,0 +1,11 @@
+TEST CASE: 41.16 Meng-assign data Personnel ke Work Pattern secara single
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (Normal)
+
+LANGKAH PENGUJIAN:
+1. Klik checkbox pada salah satu data Personnel.
+2. Klik icon Assign.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil mencentang checkbox data Personnel.
+2. Berhasil meng-assign personnel tersebut ke Work Pattern.

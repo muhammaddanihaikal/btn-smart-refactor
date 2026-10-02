@@ -1,0 +1,13 @@
+TEST CASE: 41.4 Menambahkan data Work Pattern
+Modul: Setting Absent - Work Pattern
+Tipe: Positive Case (High)
+
+LANGKAH PENGUJIAN:
+1. Klik button Add Work Pattern.
+2. Input seluruh field mandatory.
+3. Klik button Submit.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan form Add New Work Pattern.
+2. Berhasil menginput data.
+3. Berhasil menyimpan data Work Pattern.
