@@ -1,0 +1,18 @@
+NO TEST CASE : 42.1
+JUDUL        : Membuka halaman Holiday
+MODUL        : Setting Absent
+SUB MENU     : Holiday
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Setting Absent.
+2. Klik sub menu Holiday.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Setting Absent.
+2. Berhasil menampilkan halaman Holiday.
