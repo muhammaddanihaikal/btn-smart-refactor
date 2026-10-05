@@ -1,0 +1,20 @@
+NO TEST CASE : 9.7
+JUDUL        : Mencari data Hak Akses dengan keyword tidak valid
+MODUL        : User Authority
+SUB MENU     : Hak Akses Role
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Ubah Akses.
+3. Input keyword yang tidak terdaftar pada field Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan halaman Hak Akses Role.
+3. Berhasil menampilkan informasi data tidak ditemukan.
