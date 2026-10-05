@@ -1,0 +1,18 @@
+NO TEST CASE : 35.4
+JUDUL        : Melakukan filter rekap absent
+MODUL        : Menu Absent
+SUB MENU     : Rekap Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih filter.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih filter.
+2. Berhasil menampilkan data sesuai filter.

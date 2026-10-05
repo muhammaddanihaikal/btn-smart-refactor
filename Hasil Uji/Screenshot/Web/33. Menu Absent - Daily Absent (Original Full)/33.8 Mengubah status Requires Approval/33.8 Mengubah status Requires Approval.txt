@@ -1,0 +1,18 @@
+NO TEST CASE : 33.8
+JUDUL        : Mengubah status Requires Approval
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka Settings.
+2. Klik toggle Requires Approval.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka Settings.
+2. Berhasil mengubah status Requires Approval.

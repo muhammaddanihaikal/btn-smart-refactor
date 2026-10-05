@@ -1,0 +1,18 @@
+NO TEST CASE : 33.6
+JUDUL        : Mencari data pada Settings
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword.
+2. Klik Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan data sesuai keyword.

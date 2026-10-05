@@ -1,0 +1,20 @@
+NO TEST CASE : 33.3
+JUDUL        : Melakukan filter Daily Absent
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Filter.
+2. Pilih filter.
+3. Klik Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka filter.
+2. Berhasil memilih filter.
+3. Berhasil menampilkan data sesuai filter.

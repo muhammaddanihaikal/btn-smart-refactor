@@ -1,0 +1,17 @@
+NO TEST CASE : 32.3
+JUDUL        : Mereset filter Dashboard Absent
+MODUL        : Menu Absent - Dashboard Absent
+DESKRIPSI    : Positive Case if 'tidak valid' not in title.lower() else Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Filter.
+2. Klik button Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka panel Filter.
+2. Berhasil mereset seluruh filter ke nilai default.

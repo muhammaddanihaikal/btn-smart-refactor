@@ -1,0 +1,16 @@
+NO TEST CASE : 35.5
+JUDUL        : Mereset filter rekap absent
+MODUL        : Menu Absent
+SUB MENU     : Rekap Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reset Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengembalikan filter ke nilai default.

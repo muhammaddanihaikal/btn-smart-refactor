@@ -1,0 +1,16 @@
+NO TEST CASE : 33.5
+JUDUL        : Membuka Settings
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Settings.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka Settings.

@@ -1,0 +1,16 @@
+NO TEST CASE : 33.2
+JUDUL        : Menampilkan data berdasarkan status absent
+MODUL        : Menu Absent
+SUB MENU     : Daily Absent
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu tab status absent.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data sesuai status absent yang dipilih.

@@ -1,0 +1,9 @@
+NO TEST CASE : 34.1
+JUDUL        : Membuka halaman Approval Absent
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Membuka halaman Approval Absent
+STEPS        :
+1. Klik menu Menu Absent.
+2. Klik sub menu Approval Absent.
+EXPECTED     :
+Berhasil membuka menu Menu Absent dan menampilkan halaman Approval Absent.
