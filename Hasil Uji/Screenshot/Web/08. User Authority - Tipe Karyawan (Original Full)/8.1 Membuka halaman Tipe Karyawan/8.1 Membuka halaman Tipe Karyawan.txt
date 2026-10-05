@@ -1,0 +1,18 @@
+NO TEST CASE : 8.1
+JUDUL        : Membuka halaman Tipe Karyawan
+MODUL        : User Authority
+SUB MENU     : Tipe Karyawan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority.
+2. Klik sub menu Tipe Karyawan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman Tipe Karyawan.
