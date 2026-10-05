@@ -1,0 +1,22 @@
+NO TEST CASE : 6.6
+JUDUL        : Mengubah data User
+MODUL        : User Authority
+SUB MENU     : User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Ubah Data.
+3. Ubah data user.
+4. Klik button Update.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan halaman Ubah Data User.
+3. Berhasil mengubah data user.
+4. Berhasil menyimpan perubahan data user.

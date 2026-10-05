@@ -1,0 +1,20 @@
+NO TEST CASE : 6.4
+JUDUL        : Menambahkan data User
+MODUL        : User Authority
+SUB MENU     : User
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Tambah User.
+2. Input seluruh field mandatory.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Tambah User.
+2. Berhasil menginput data.
+3. Berhasil menyimpan data user.
