@@ -1,14 +1,13 @@
 NO TEST CASE : 32.1
 JUDUL        : Membuka halaman Dashboard Absent
-MODUL        : Menu Absent
-SUB MENU     : Dashboard Absent
-DESKRIPSI    : Positive Case
+MODUL        : Menu Absent - Dashboard Absent
+DESKRIPSI    : Positive Case if 'tidak valid' not in title.lower() else Negative Case
 PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik menu Menu Absent.
+1. Klik menu Menu Absent pada navigation bar.
 2. Klik sub menu Dashboard Absent.
 
 ==================================================
