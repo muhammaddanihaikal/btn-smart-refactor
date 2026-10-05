@@ -1,0 +1,17 @@
+NO TEST CASE : 8.6
+JUDUL        : Menampilkan grafik Visit
+MODUL        : Personal Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Melakukan filter data Personal Funnel.
+2. Melihat grafik Visit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menerapkan filter.
+2. Berhasil menampilkan grafik batang Visit dengan data Target dan Actual.
