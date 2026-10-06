@@ -1,0 +1,14 @@
+Test Case: 65.2 Menampilkan data Personal Funnel berdasarkan tab
+Tipe: Positive Case
+Prioritas: Normal
+
+Deskripsi:
+Memvalidasi pemisahan tampilan data Personal Funnel berdasarkan tab (tab Non PKS dan tab PKS).
+
+Langkah-langkah:
+1. Klik tab Non PKS.
+2. Klik tab PKS.
+
+Hasil yang Diharapkan:
+1. Berhasil menampilkan data Personal Funnel pada tab Non PKS.
+2. Berhasil menampilkan data Personal Funnel pada tab PKS.
