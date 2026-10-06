@@ -1,0 +1,15 @@
+NO TEST CASE : 64.6
+MODUL        : Report Funding - Pengaturan Funnel
+JUDUL        : Menambahkan Operator pada Condition di Performance Indicator
+JENIS KASUS  : Positive Case
+PRIORITAS    : High
+
+LANGKAH PENGUJIAN:
+1. Klik link tambah operator pada salah satu condition di Performance Indicator.
+2. Mengisi field operator baru.
+3. Klik button Simpan Pengaturan.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan baris operator baru pada condition.
+2. Berhasil mengisi data operator.
+3. Berhasil menyimpan perubahan data Pengaturan Funnel Funding.

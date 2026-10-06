@@ -1,0 +1,13 @@
+NO TEST CASE : 64.7
+MODUL        : Report Funding - Pengaturan Funnel
+JUDUL        : Menghapus Operator pada Condition di Performance Indicator
+JENIS KASUS  : Positive Case
+PRIORITAS    : High
+
+LANGKAH PENGUJIAN:
+1. Klik button x pada salah satu operator di Performance Indicator.
+2. Klik button Simpan Pengaturan.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menghapus operator dari condition di Performance Indicator.
+2. Berhasil menyimpan perubahan data Pengaturan Funnel Funding.
