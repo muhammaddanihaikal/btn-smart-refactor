@@ -3,12 +3,14 @@ Tipe: Positive Case
 Prioritas: Normal
 
 Deskripsi:
-Memvalidasi pemisahan tampilan data Personal Funnel berdasarkan tab (tab Non PKS dan tab PKS).
+Memvalidasi pemisahan tampilan data Personal Funnel berdasarkan tab (tab Semua, tab Non PKS, dan tab PKS).
 
 Langkah-langkah:
-1. Klik tab Non PKS.
-2. Klik tab PKS.
+1. Klik tab Semua.
+2. Klik tab Non PKS.
+3. Klik tab PKS.
 
 Hasil yang Diharapkan:
-1. Berhasil menampilkan data Personal Funnel pada tab Non PKS.
-2. Berhasil menampilkan data Personal Funnel pada tab PKS.
+1. Berhasil menampilkan data Personal Funnel pada tab Semua.
+2. Berhasil menampilkan data Personal Funnel pada tab Non PKS.
+3. Berhasil menampilkan data Personal Funnel pada tab PKS.
