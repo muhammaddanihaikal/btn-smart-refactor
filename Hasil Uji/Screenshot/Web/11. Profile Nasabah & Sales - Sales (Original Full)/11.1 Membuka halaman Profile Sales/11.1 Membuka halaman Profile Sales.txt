@@ -1,0 +1,18 @@
+NO TEST CASE : 11.1
+JUDUL        : Membuka halaman Profile Sales
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Profile Nasabah & Sales.
+2. Klik sub menu Sales.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Profile Nasabah & Sales.
+2. Berhasil menampilkan halaman Profile Sales.

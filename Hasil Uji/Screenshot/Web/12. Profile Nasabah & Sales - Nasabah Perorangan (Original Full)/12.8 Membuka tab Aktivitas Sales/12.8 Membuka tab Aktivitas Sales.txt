@@ -1,0 +1,16 @@
+NO TEST CASE : 12.8
+JUDUL        : Membuka tab Aktivitas Sales
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Nasabah, klik tab 'Aktivitas Sales'.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka tab Aktivitas Sales dan menampilkan tabel histori Aktivitas Sales.

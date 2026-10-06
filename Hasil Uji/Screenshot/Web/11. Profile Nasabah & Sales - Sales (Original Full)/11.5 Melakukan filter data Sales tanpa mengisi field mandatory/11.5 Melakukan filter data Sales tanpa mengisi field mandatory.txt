@@ -1,0 +1,18 @@
+NO TEST CASE : 11.5
+JUDUL        : Melakukan filter data Sales tanpa mengisi field mandatory
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan field Kategori and Role.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field Kategori dan Role.
+2. Berhasil menampilkan pesan error validasi 'Kategori dibutuhkan!' dan 'Role dibutuhkan!'.

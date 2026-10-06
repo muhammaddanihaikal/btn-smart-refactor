@@ -1,0 +1,18 @@
+NO TEST CASE : 12.4
+JUDUL        : Melihat detail Nasabah Perorangan
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Nasabah Perorangan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon '...' pada field Action salah satu data Nasabah.
+2. Klik Detail.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu Action dropdown.
+2. Berhasil membuka halaman Detail Nasabah yang memuat informasi detail nasabah serta tab Produk terpilih secara default.

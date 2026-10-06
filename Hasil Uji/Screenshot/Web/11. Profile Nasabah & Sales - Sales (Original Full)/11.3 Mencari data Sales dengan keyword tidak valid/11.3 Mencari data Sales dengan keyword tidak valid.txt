@@ -1,0 +1,18 @@
+NO TEST CASE : 11.3
+JUDUL        : Mencari data Sales dengan keyword tidak valid
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input keyword yang tidak terdaftar pada field Search.
+2. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput keyword.
+2. Berhasil menampilkan informasi data tidak ditemukan.

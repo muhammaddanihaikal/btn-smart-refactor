@@ -1,0 +1,18 @@
+NO TEST CASE : 11.6
+JUDUL        : Mengekspor (Export) data Sales
+MODUL        : Profile Nasabah & Sales
+SUB MENU     : Sales
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Export.
+2. Klik icon Mendownload pada panel Mendownload Export.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan panel Mendownload Export.
+2. Berhasil mendownload file export.
