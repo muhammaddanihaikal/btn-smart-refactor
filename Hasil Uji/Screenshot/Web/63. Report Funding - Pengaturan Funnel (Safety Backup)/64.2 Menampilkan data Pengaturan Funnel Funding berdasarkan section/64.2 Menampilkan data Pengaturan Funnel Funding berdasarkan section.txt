@@ -1,0 +1,16 @@
+NO TEST CASE : 64.2
+JUDUL        : Menampilkan data Pengaturan Funnel Funding berdasarkan section
+MODUL        : Report Funding
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu daftar section pada tabel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data pengaturan funnel Funding.

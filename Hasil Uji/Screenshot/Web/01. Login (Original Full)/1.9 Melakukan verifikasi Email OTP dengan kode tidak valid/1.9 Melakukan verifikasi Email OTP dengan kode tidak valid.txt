@@ -1,0 +1,17 @@
+NO TEST CASE : 1.9
+JUDUL        : Melakukan verifikasi Email OTP dengan kode tidak valid
+MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input kode Email OTP yang tidak valid.
+2. Klik button Verifikasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kode OTP.
+2. Berhasil menampilkan pesan kode OTP tidak valid.

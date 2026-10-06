@@ -1,0 +1,15 @@
+NO TEST CASE : 63.4
+MODUL        : Report Funding - Pengaturan Funnel
+JUDUL        : Menambahkan Kondisi pada Indikator Performa
+JENIS KASUS  : Positive Case
+PRIORITAS    : High
+
+LANGKAH PENGUJIAN:
+1. Klik button + Tambah Kondisi pada bagian Indikator Performa.
+2. Mengisi semua field mandatory pada kondisi baru.
+3. Klik button Simpan Pengaturan.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan form kondisi baru pada Indikator Performa.
+2. Berhasil mengisi field mandatory kondisi.
+3. Berhasil menyimpan kondisi baru pada Indikator Performa.

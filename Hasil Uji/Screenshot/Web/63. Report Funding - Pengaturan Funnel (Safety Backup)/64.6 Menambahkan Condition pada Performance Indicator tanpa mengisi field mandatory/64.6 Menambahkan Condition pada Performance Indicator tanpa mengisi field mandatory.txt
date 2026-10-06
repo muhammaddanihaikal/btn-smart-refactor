@@ -1,0 +1,20 @@
+NO TEST CASE : 64.6
+JUDUL        : Menambahkan Condition pada Performance Indicator tanpa mengisi field mandatory
+MODUL        : Report Funding
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Add Condition pada bagian Performance Indicator.
+2. Mengosongkan field mandatory pada condition baru.
+3. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form condition baru pada Performance Indicator.
+2. Berhasil mengosongkan field mandatory condition.
+3. Berhasil menampilkan pesan validasi bahwa field mandatory harus diisi.

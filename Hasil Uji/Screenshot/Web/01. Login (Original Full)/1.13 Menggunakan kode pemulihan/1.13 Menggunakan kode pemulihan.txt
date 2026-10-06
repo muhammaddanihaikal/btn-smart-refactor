@@ -1,0 +1,19 @@
+NO TEST CASE : 1.13
+JUDUL        : Menggunakan kode pemulihan
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Gunakan kode pemulihan.
+2. Input Recovery Code.
+3. Klik button Verifikasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Recovery Code.
+2. Berhasil menginput Recovery Code.
+3. Berhasil login ke Dashboard.

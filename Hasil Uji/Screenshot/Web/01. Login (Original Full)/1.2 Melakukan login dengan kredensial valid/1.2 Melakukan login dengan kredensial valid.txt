@@ -1,0 +1,21 @@
+NO TEST CASE : 1.2
+JUDUL        : Melakukan login dengan kredensial valid
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih tab login (Employee / Non-Employee / iLoan).
+2. Input username / email valid.
+3. Input password valid.
+4. Klik button Masuk.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih tab login.
+2. Berhasil menginput username / email.
+3. Berhasil menginput password.
+4. Berhasil menampilkan halaman Verifikasi OTP.

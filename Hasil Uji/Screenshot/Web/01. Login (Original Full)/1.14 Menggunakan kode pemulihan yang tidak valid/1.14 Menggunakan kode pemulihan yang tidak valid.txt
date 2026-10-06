@@ -1,0 +1,19 @@
+NO TEST CASE : 1.14
+JUDUL        : Menggunakan kode pemulihan yang tidak valid
+MODUL        : Login
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Gunakan kode pemulihan.
+2. Input Recovery Code yang tidak valid.
+3. Klik button Verifikasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Recovery Code.
+2. Berhasil menginput Recovery Code.
+3. Berhasil menampilkan pesan Recovery Code tidak valid.

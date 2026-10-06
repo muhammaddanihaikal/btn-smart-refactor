@@ -1,0 +1,17 @@
+NO TEST CASE : 1.10
+JUDUL        : Melakukan verifikasi TOTP
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input kode TOTP.
+2. Klik button Verifikasi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput kode TOTP.
+2. Berhasil login ke Dashboard.

@@ -1,0 +1,17 @@
+NO TEST CASE : 1.1
+JUDUL        : Membuka halaman Login
+MODUL        : Login
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Login.
+2. Periksa tampilan halaman login.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Login.
+2. Berhasil menampilkan form Login dengan pilihan tab Employee, Non-Employee, dan iLoan.

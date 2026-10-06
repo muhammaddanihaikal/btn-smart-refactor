@@ -1,0 +1,18 @@
+NO TEST CASE : 64.4
+JUDUL        : Mengubah data Pengaturan Funnel Funding tanpa mengisi field mandatory
+MODUL        : Report Funding
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengosongkan field mandatory Performance Percentage.
+2. Klik button Submit.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field Performance Percentage.
+2. Berhasil menampilkan pesan validasi bahwa field mandatory harus diisi.
