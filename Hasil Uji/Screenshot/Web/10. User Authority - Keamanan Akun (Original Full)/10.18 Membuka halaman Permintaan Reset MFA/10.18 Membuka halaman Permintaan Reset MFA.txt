@@ -1,0 +1,20 @@
+NO TEST CASE : 10.18
+JUDUL        : Membuka halaman Permintaan Reset MFA
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority.
+2. Klik sub menu Keamanan Akun.
+3. Klik tab Permintaan Reset MFA.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman Keamanan Akun.
+3. Berhasil menampilkan daftar Permintaan Reset MFA.

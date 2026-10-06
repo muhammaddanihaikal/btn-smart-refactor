@@ -1,0 +1,22 @@
+NO TEST CASE : 10.12
+JUDUL        : Mereset MFA tanpa mengisi alasan
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Reset MFA.
+3. Kosongkan field Alasan.
+4. Klik button Reset.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan popup Reset MFA.
+3. Berhasil mengosongkan field Alasan.
+4. Berhasil menampilkan validasi field mandatory wajib diisi.

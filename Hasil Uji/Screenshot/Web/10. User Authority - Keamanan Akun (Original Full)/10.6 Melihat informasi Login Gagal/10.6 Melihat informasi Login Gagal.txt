@@ -1,0 +1,16 @@
+NO TEST CASE : 10.6
+JUDUL        : Melihat informasi Login Gagal
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lihat card Login Gagal (24 jam).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan jumlah login gagal dalam 24 jam.

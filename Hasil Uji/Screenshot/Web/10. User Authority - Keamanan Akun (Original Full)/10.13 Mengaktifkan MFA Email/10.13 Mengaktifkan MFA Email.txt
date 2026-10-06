@@ -1,0 +1,22 @@
+NO TEST CASE : 10.13
+JUDUL        : Mengaktifkan MFA Email
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...).
+2. Klik menu Aktifkan MFA (EMAIL).
+3. Input field Alasan.
+4. Klik button Aktifkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan menu aksi.
+2. Berhasil menampilkan popup Aktivasi MFA Email.
+3. Berhasil menginput alasan aktivasi.
+4. Berhasil mengaktifkan MFA Email.

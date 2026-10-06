@@ -1,0 +1,16 @@
+NO TEST CASE : 10.5
+JUDUL        : Melihat informasi User Aktif
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Lihat card User Aktif.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan jumlah user aktif.

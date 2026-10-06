@@ -1,0 +1,18 @@
+NO TEST CASE : 10.1
+JUDUL        : Membuka halaman Keamanan Akun
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu User Authority.
+2. Klik sub menu Keamanan Akun.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu User Authority.
+2. Berhasil menampilkan halaman Keamanan Akun beserta informasi ringkasan dan daftar akun.
