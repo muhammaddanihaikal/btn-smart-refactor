@@ -18,3 +18,8 @@ EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 1. Berhasil menampilkan tab Prospek Closing.
 2. Berhasil menampilkan panel Download Export.
 3. Berhasil mendownload file export.
+
+==================================================
+CATATAN / ISSUE:
+==================================================
+- Fitur Export masih terdapat issue: Saat klik button Export, belum masuk/terhubung ke menu Export Center (Download Export).
