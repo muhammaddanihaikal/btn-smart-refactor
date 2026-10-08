@@ -1,0 +1,16 @@
+NO TEST CASE : 70.9
+JUDUL        : Batal menolak prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batalkan pada moal tolak prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Modal tolak prospek tertutup dan tetap berada di halaman approval non banking

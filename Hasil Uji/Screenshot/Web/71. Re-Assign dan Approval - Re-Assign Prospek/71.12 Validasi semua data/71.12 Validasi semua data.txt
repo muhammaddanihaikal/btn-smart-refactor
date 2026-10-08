@@ -1,0 +1,16 @@
+NO TEST CASE : 71.12
+JUDUL        : Validasi semua data
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Cek pada halaman pindah kelolaan, data tabel nya berisi semua prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data tabel yang berisi semua prospek

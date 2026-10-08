@@ -1,0 +1,16 @@
+NO TEST CASE : 70.12
+JUDUL        : Reset ke Default pada filter kolom
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Reset ke Default
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data tabel dengan kolom default

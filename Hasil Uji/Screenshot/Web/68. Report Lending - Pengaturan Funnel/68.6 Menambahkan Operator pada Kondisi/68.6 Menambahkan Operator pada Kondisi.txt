@@ -1,0 +1,15 @@
+NO TEST CASE : 68.6
+MODUL        : Report Lending - Pengaturan Funnel
+JUDUL        : Menambahkan Operator pada Kondisi
+JENIS KASUS  : Positive Case
+PRIORITAS    : High
+
+LANGKAH PENGUJIAN:
+1. Klik link tambah operator pada salah satu kondisi di Indikator Performa.
+2. Mengisi field operator baru.
+3. Klik button Simpan Pengaturan.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil menampilkan baris operator baru pada kondisi.
+2. Berhasil mengisi data operator.
+3. Berhasil menyimpan perubahan data Pengaturan Funnel Lending.

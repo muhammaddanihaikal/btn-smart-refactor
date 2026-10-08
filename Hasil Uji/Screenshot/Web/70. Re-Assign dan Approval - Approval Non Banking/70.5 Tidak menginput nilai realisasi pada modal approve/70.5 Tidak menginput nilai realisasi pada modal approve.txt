@@ -1,0 +1,20 @@
+NO TEST CASE : 70.5
+JUDUL        : Tidak menginput nilai realisasi pada modal approve
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan nilai realisasi 
+2. Input remark 
+3. Klik button Setujui
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan field realisasi 
+2. Berhasil menginput remark 
+3. Menampilkan alert 'Realisasi dibutuhkan!'

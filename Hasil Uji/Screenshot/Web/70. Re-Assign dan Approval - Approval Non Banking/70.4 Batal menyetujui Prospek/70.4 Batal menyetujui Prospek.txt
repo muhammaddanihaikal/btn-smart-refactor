@@ -1,0 +1,16 @@
+NO TEST CASE : 70.4
+JUDUL        : Batal menyetujui Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batalkan pada modal approve
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Modal approve tertutup dan tetap di halaman approval non banking

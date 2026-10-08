@@ -1,0 +1,16 @@
+NO TEST CASE : 71.13
+JUDUL        : Membatalkan Re-Assign Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Batalkan pada halaman pindah kelolaan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Kembali ke halaman utama Re-assign Prospek

@@ -1,0 +1,18 @@
+NO TEST CASE : 70.10
+JUDUL        : Tidak menginput remark pada modal tolak prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan remark 
+2. Klik button Tolak
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan remark 
+2. Menampilkan alert 'Remark dibutuhkan!'

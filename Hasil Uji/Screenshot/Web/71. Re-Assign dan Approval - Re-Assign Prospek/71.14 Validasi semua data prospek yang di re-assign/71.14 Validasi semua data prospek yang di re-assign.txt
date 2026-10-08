@@ -1,0 +1,22 @@
+NO TEST CASE : 71.14
+JUDUL        : Validasi semua data prospek yang di re-assign
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login menggunakan user yang sebelumnya sudah dipilih ketika re-assign prospek 
+2. Klik menu Lead Qualification 
+3. Klik submenu Aktifitas 
+4. Cek data yang sebelum nya di re-assign pada tabel dan pada detail prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil login 
+2. Menampilkan dropdown submenu Lead Qualification 
+3. Menampilkan halaman Aktifitas 
+4. Berhasil menampilkan data prospek yang sebelumnya di re-assign dan pada detail prospek menampilkan informasi ex. "Re-prospek dari Lead ID: 11370987"

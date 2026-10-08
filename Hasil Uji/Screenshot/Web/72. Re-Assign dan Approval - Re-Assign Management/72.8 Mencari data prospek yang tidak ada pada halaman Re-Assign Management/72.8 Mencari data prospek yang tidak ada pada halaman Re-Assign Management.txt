@@ -1,0 +1,18 @@
+NO TEST CASE : 72.8
+JUDUL        : Mencari data prospek yang tidak ada pada halaman Re-Assign Management
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input nama nasabah yang datanya tidak ada 
+2. Klik icon search atau klik Enter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput nama nasabah
+2. Menampilkan tabel kosong dengan keterangan no data

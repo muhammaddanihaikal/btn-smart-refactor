@@ -1,0 +1,16 @@
+NO TEST CASE : 73.6
+JUDUL        : Membuka dokumen hasil download
+MODUL        : Export data management
+SUB MENU     : Riwayat export saya
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Extract file, kemudian masukan password yang terkirim pada email user yang mengajukan, input password maka file berhasil di extract, kemudian buka file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka file hasil download

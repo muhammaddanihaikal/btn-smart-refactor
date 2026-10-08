@@ -1,0 +1,18 @@
+NO TEST CASE : 70.2
+JUDUL        : Melihat Detail data Approval non banking
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga 
+2. Klik Detail
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action (detail, setujui, tolak)
+2. Menampilkan halaman detail data approval non banking

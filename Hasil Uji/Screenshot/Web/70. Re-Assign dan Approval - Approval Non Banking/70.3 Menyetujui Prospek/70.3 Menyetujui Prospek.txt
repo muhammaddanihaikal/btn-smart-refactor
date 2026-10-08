@@ -1,0 +1,24 @@
+NO TEST CASE : 70.3
+JUDUL        : Menyetujui Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Approval Non Banking
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik titik tiga 
+2. Klik Setujui 
+3. Input Realisasi 
+4. Input Remark
+5. Klik button Setujui
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan beberapa action (detail, setujui, tolak)
+2. Menampilkan modal approve 
+3. Berhasil menginput nilai realisasi 
+4. Berhasil menginput remark 
+5. Berhasil menyetujui prospek, menampilkan popup 'Sukses menyetujui prospek'

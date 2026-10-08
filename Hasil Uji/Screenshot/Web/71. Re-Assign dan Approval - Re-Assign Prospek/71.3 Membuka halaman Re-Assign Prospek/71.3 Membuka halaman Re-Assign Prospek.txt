@@ -1,0 +1,18 @@
+NO TEST CASE : 71.3
+JUDUL        : Membuka halaman Re-Assign Prospek
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Re-Assign & Approval 
+2. Klik submenu Re-Assign Prospek
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan submenu Re-Assign & Approval 
+2. Menampilkan halaman Re-Assign Prospek

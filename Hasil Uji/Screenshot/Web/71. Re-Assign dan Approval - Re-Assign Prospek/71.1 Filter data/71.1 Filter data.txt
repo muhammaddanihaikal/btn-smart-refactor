@@ -1,0 +1,26 @@
+NO TEST CASE : 71.1
+JUDUL        : Filter data
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih kantor wilayah
+2. Pilih kantor cabang 
+3. Pilih kantor cabang pembantu 
+4. Pilih produk 
+5. Pilih sales
+6. Klik button Filter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan dropdown list data filter kantor wilayah dan dapat di pilih
+2. Menampilkan dropdown list data filter kantor cabang dan dapat di pilih
+3. Menampilkan dropdown list data filter kantor cabang pembantu dan dapat di pilih 
+4. Menampilkan dropdown list data filter produk dan dapat di pilih
+5. Menampilkan dropdown list data filter sales dan dapat di pilih 
+6. Menampilkan data tabel Re-Assign prospek sesuai dengan filter yang di pilih

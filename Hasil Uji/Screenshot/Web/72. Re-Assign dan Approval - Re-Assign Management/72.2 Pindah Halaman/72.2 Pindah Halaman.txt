@@ -1,0 +1,18 @@
+NO TEST CASE : 72.2
+JUDUL        : Pindah Halaman
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : Low
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input angka halaman di field pindah halaman.
+2. Klik Enter pada keyboard.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput angka halaman.
+2. Berhasil berpindah ke halaman yang dituju.

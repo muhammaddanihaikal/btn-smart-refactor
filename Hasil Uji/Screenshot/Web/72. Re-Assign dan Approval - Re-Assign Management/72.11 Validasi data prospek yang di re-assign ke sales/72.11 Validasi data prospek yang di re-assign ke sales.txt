@@ -1,0 +1,22 @@
+NO TEST CASE : 72.11
+JUDUL        : Validasi data prospek yang di re-assign ke sales
+MODUL        : Re-Assign dan Approval
+SUB MENU     : Re-Assign Management
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login dengan akun sales yang sebelumnya sudah di pilih reassign management
+2. Klik menu Lead Qualification
+3. Klik submenu Aktifitas Referal
+4. Cek data prospek yang sudah di reassign
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil login akun sales
+2. Menampilkan dropdown submenu Lead Qualification
+3. Menampilkan halaman aktifitas referal
+4. Berhasil menampilkan data prospek yang sesuai dari reassign management

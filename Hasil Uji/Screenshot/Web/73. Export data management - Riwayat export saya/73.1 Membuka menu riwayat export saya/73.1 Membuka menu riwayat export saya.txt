@@ -1,0 +1,16 @@
+NO TEST CASE : 73.1
+JUDUL        : Membuka menu riwayat export saya
+MODUL        : Export data management
+SUB MENU     : Riwayat export saya
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu exported data management, klik submenu riwayat export saya
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan halaman riwayat export saya
