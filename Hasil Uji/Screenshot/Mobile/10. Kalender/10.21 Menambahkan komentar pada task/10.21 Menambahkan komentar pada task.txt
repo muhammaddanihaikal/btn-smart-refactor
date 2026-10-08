@@ -1,0 +1,19 @@
+NO TEST CASE : 10.21
+JUDUL        : Menambahkan komentar pada task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Task, klik tab Aktivitas & Percakapan.
+2. Tulis komentar pada kolom Tulis komentar.
+3. Klik button Kirim.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tab Aktivitas & Percakapan.
+2. Berhasil mengisi kolom komentar.
+3. Berhasil mengirim komentar dan komentar baru tertampil pada riwayat percakapan.

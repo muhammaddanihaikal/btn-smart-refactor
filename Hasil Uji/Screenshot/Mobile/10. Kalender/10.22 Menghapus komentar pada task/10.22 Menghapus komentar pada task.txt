@@ -1,0 +1,19 @@
+NO TEST CASE : 10.22
+JUDUL        : Menghapus komentar pada task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Task, klik tab Aktivitas & Percakapan.
+2. Klik icon hapus (tempat sampah) pada salah satu komentar yang ingin dihapus.
+3. Konfirmasi penghapusan komentar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tab Aktivitas & Percakapan.
+2. Berhasil memilih komentar.
+3. Berhasil menghapus komentar dan komentar tersebut hilang dari riwayat percakapan.

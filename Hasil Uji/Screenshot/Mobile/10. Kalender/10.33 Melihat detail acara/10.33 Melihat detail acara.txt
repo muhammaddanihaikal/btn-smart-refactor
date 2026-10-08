@@ -1,0 +1,15 @@
+NO TEST CASE : 10.33
+JUDUL        : Melihat detail acara
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu card acara pada Daftar Acara.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Detail Acara yang memuat tab Detail (Status, Visibilitas, Mulai, Selesai, Zona Waktu, Pemilik).

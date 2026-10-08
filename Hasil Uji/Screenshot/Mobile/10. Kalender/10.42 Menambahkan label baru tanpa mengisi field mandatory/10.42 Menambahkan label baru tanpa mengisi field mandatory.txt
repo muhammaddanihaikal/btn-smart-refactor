@@ -1,0 +1,17 @@
+NO TEST CASE : 10.42
+JUDUL        : Menambahkan label baru tanpa mengisi field mandatory
+MODUL        : Kalender
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Kosongkan field Nama label.
+2. Klik button Tambah.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Field Nama label dalam kondisi kosong.
+2. Sistem menampilkan pesan validasi bahwa Nama label wajib diisi dan label tidak ditambahkan.

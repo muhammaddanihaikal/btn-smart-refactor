@@ -1,0 +1,17 @@
+NO TEST CASE : 10.43
+JUDUL        : Menghapus label
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon hapus (tempat sampah) pada salah satu item label di daftar label.
+2. Konfirmasi penghapusan label.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih label yang akan dihapus.
+2. Berhasil menghapus label dan label tersebut terhapus dari daftar label.

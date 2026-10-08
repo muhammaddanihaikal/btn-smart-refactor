@@ -1,0 +1,20 @@
+NO TEST CASE : 10.36
+JUDUL        : Membagikan acara kepada user
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik icon Bagikan (share) di pojok kanan atas.
+2. Pilih opsi penerima pada field Bagikan ke.
+3. Tentukan user yang ditugaskan.
+4. Klik button Bagikan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Bagikan Acara.
+2. Berhasil memilih penerima dan user yang ditugaskan.
+3. Berhasil membagikan acara dan user penerima muncul pada daftar penugasan.

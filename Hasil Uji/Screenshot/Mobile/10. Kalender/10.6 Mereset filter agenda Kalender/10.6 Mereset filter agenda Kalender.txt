@@ -1,0 +1,19 @@
+NO TEST CASE : 10.6
+JUDUL        : Mereset filter agenda Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Filter pada pojok kanan atas halaman Kalender.
+2. Klik icon Reset (refresh) pada pojok kanan atas bottom sheet.
+3. Klik button Terapkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan bottom sheet Filter Kalender.
+2. Pilihan filter kembali terpilih ke 'All'.
+3. Berhasil menampilkan seluruh agenda kalender ke kondisi default.

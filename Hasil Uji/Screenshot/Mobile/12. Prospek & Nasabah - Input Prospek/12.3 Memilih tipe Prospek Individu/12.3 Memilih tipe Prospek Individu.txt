@@ -1,0 +1,17 @@
+NO TEST CASE : 12.3
+JUDUL        : Memilih tipe Prospek Individu
+MODUL        : Prospek & Nasabah - Input Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Input Prospek.
+2. Klik pilihan Individu.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Input Prospek.
+2. Berhasil menampilkan form Step 1 Informasi.

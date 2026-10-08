@@ -1,0 +1,17 @@
+NO TEST CASE : 10.11
+JUDUL        : Membuka halaman Daftar Task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Kalender, klik icon titik tiga pada pojok kanan atas.
+2. Pilih menu Daftar Task.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu.
+2. Berhasil menampilkan halaman Daftar Task beserta tab status counter dan daftar task.

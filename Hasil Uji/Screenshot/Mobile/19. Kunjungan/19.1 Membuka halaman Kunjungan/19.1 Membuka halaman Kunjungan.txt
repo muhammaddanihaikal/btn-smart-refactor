@@ -1,0 +1,9 @@
+NO TEST CASE : 19.1
+JUDUL        : Membuka halaman Kunjungan
+MODUL        : Kunjungan
+DESKRIPSI    : Membuka halaman Kunjungan
+STEPS        :
+1. Buka menu Lainnya.
+2. Klik menu Kunjungan.
+EXPECTED     :
+Berhasil menampilkan halaman Kunjungan beserta informasi Periode, ringkasan Realisasi & Target Visit, serta daftar riwayat kunjungan.

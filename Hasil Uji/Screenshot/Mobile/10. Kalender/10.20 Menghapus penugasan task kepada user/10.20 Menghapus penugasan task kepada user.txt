@@ -1,0 +1,19 @@
+NO TEST CASE : 10.20
+JUDUL        : Menghapus penugasan task kepada user
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada form Bagikan Task, periksa daftar Ditugaskan ke (User).
+2. Klik icon hapus (tempat sampah) pada user yang ditugaskan.
+3. Konfirmasi penghapusan penugasan task.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan daftar user yang ditugaskan.
+2. Berhasil memilih user yang akan dihapus dari penugasan.
+3. Berhasil menghapus penugasan task kepada user tersebut.

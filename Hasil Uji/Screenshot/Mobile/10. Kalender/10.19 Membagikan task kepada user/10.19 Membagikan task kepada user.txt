@@ -1,0 +1,21 @@
+NO TEST CASE : 10.19
+JUDUL        : Membagikan task kepada user
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Task, klik icon Bagikan (share) di pojok kanan atas.
+2. Pilih opsi Pengguna pada field Bagikan ke.
+3. Pilih peran dan user yang ditugaskan (Assignee).
+4. Klik button Bagikan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Bagikan Task.
+2. Berhasil memilih opsi penerima Pengguna.
+3. Berhasil memilih user yang ditugaskan.
+4. Berhasil membagikan task dan user penerima muncul pada daftar penugasan.

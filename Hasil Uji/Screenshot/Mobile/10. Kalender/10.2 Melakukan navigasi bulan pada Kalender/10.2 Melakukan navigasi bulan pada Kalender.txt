@@ -1,0 +1,17 @@
+NO TEST CASE : 10.2
+JUDUL        : Melakukan navigasi bulan pada Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Kalender, klik icon panah kanan (>) untuk ke bulan berikutnya.
+2. Klik icon panah kiri (<) untuk kembali ke bulan sebelumnya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tampilan bulan berikutnya.
+2. Berhasil berpindah ke tampilan bulan sebelumnya dan menampilkan penanggalan yang sesuai.

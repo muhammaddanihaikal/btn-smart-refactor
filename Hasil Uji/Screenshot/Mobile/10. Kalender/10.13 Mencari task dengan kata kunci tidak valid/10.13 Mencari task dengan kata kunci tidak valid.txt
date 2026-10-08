@@ -1,0 +1,17 @@
+NO TEST CASE : 10.13
+JUDUL        : Mencari task dengan kata kunci tidak valid
+MODUL        : Kalender
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Search pada header halaman Daftar Task.
+2. Masukkan kata kunci pencarian yang tidak terdaftar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan kolom pencarian.
+2. Sistem menampilkan pesan bahwa data task tidak ditemukan.

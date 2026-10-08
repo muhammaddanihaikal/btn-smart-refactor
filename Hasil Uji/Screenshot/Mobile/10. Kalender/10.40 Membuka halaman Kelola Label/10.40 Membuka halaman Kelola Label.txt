@@ -1,0 +1,17 @@
+NO TEST CASE : 10.40
+JUDUL        : Membuka halaman Kelola Label
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Kalender, klik icon titik tiga pada pojok kanan atas.
+2. Pilih menu Kelola Label.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu.
+2. Berhasil menampilkan halaman Kelola Label beserta form tambah label dan daftar label yang tersedia.

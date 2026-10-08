@@ -1,0 +1,19 @@
+NO TEST CASE : 10.31
+JUDUL        : Melakukan filter Daftar Acara
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Filter pada pojok kanan atas halaman Daftar Acara.
+2. Pilih kriteria Status filter yang diinginkan.
+3. Klik button Terapkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan bottom sheet Filter Acara.
+2. Berhasil memilih kriteria status.
+3. Berhasil memfilter dan menampilkan daftar acara sesuai status yang dipilih.

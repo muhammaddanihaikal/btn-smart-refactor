@@ -1,0 +1,17 @@
+NO TEST CASE : 10.1
+JUDUL        : Membuka halaman Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada menu Beranda, klik icon Lainnya pada Aksi Cepat.
+2. Klik menu Kalender pada kategori Absensi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman Semua Menu.
+2. Berhasil menampilkan halaman Kalender beserta kalender bulanan, legend kategori, dan agenda harian.

@@ -1,0 +1,15 @@
+NO TEST CASE : 10.16
+JUDUL        : Melihat detail task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu card task pada Daftar Task.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Detail Task yang memuat tab Detail (Status, Visibilitas, Prioritas, Tenggat, Pemilik, Deskripsi, Lampiran).

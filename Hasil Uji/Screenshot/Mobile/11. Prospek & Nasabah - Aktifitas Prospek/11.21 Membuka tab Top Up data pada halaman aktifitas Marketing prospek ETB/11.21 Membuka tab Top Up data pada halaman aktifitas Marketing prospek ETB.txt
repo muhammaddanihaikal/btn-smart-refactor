@@ -1,0 +1,15 @@
+NO TEST CASE : 11.21
+JUDUL        : Membuka tab Top Up data pada halaman aktifitas Marketing prospek ETB
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Top Up dana pada halaman aktifitas marketing Prospek ETB.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tab Top Up dana dan menampilkan form Top Up dana.

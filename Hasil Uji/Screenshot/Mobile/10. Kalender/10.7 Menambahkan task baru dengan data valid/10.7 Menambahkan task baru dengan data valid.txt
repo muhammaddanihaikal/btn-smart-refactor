@@ -1,0 +1,21 @@
+NO TEST CASE : 10.7
+JUDUL        : Menambahkan task baru dengan data valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada pojok kanan atas halaman Kalender.
+2. Pilih menu Tambah Task.
+3. Masukkan judul task pada field Judul dan lengkapi data task (Deskripsi, Prioritas, Visibilitas, Jatuh Tempo).
+4. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu.
+2. Berhasil menampilkan form Tambah Task.
+3. Berhasil mengisi data task.
+4. Berhasil menyimpan task baru dan kembali ke halaman Kalender dengan task baru tertampil.

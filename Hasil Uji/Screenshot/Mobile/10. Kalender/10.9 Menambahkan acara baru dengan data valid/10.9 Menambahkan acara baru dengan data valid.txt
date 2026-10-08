@@ -1,0 +1,21 @@
+NO TEST CASE : 10.9
+JUDUL        : Menambahkan acara baru dengan data valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada pojok kanan atas halaman Kalender.
+2. Pilih menu Tambah Acara.
+3. Masukkan judul acara pada field Judul dan tentukan waktu Mulai & Selesai.
+4. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu.
+2. Berhasil menampilkan form Tambah Acara.
+3. Berhasil mengisi data acara.
+4. Berhasil menyimpan acara baru dan kembali ke halaman Kalender dengan acara baru tertampil.

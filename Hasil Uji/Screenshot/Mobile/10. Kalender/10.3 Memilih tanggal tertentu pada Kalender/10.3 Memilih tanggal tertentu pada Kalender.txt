@@ -1,0 +1,15 @@
+NO TEST CASE : 10.3
+JUDUL        : Memilih tanggal tertentu pada Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu tanggal pada tampilan kalender bulanan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih tanggal tersebut dan menampilkan daftar agenda harian pada tanggal yang dipilih di bagian bawah kalender.

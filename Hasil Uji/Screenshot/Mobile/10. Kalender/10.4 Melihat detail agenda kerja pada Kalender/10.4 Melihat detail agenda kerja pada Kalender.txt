@@ -1,0 +1,15 @@
+NO TEST CASE : 10.4
+JUDUL        : Melihat detail agenda kerja pada Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik salah satu card agenda harian pada kalender (contoh: Jam Kerja).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan bottom sheet Detail Agenda yang memuat nama agenda, kategori, tanggal, dan rentang jam kerja.

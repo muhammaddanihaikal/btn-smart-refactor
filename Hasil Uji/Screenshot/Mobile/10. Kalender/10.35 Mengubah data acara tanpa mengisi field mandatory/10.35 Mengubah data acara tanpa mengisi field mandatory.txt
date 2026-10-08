@@ -1,0 +1,19 @@
+NO TEST CASE : 10.35
+JUDUL        : Mengubah data acara tanpa mengisi field mandatory
+MODUL        : Kalender
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik icon Edit (pensil) di pojok kanan atas.
+2. Kosongkan field Judul.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Edit Acara.
+2. Field Judul dalam kondisi kosong.
+3. Sistem menampilkan pesan validasi bahwa field Judul wajib diisi dan perubahan tidak tersimpan.

@@ -1,0 +1,21 @@
+NO TEST CASE : 10.8
+JUDUL        : Menambahkan task baru tanpa mengisi field mandatory
+MODUL        : Kalender
+DESKRIPSI    : Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon titik tiga pada pojok kanan atas halaman Kalender.
+2. Pilih menu Tambah Task.
+3. Kosongkan field Judul.
+4. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu.
+2. Berhasil menampilkan form Tambah Task.
+3. Field Judul dalam kondisi kosong.
+4. Sistem menampilkan pesan validasi bahwa field Judul wajib diisi dan task tidak tersimpan.

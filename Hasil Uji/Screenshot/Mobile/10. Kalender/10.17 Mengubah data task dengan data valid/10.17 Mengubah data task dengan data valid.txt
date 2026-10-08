@@ -1,0 +1,19 @@
+NO TEST CASE : 10.17
+JUDUL        : Mengubah data task dengan data valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Task, klik icon Edit (pensil) di pojok kanan atas.
+2. Ubah data task pada field yang diinginkan.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Edit Task.
+2. Berhasil mengubah data task.
+3. Berhasil menyimpan perubahan dan data task terupdate.

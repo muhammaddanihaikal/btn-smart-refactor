@@ -1,0 +1,19 @@
+NO TEST CASE : 10.34
+JUDUL        : Mengubah data acara dengan data valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik icon Edit (pensil) di pojok kanan atas.
+2. Ubah data acara pada field yang diinginkan.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Edit Acara.
+2. Berhasil mengubah data acara.
+3. Berhasil menyimpan perubahan dan data acara terupdate.

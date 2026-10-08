@@ -1,0 +1,19 @@
+NO TEST CASE : 10.26
+JUDUL        : Membuka kembali task yang telah selesai
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada card task yang berstatus Selesai, klik icon titik tiga.
+2. Pilih menu Buka Kembali.
+3. Klik button Ya pada pop-up konfirmasi aksi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu card task.
+2. Berhasil menampilkan pop-up konfirmasi aksi.
+3. Berhasil membuka kembali task dan status task berubah menjadi 'Terbuka'.

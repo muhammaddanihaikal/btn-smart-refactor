@@ -1,0 +1,15 @@
+NO TEST CASE : 11.7
+JUDUL        : Mencari data pada halaman Riwayat
+MODUL        : Prospek & Nasabah - Aktifitas Prospek
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan kata kunci pada Search Bar global.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memfilter data riwayat sesuai kata kunci pencarian.

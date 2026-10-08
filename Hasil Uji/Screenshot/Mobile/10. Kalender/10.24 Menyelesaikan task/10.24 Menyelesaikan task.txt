@@ -1,0 +1,19 @@
+NO TEST CASE : 10.24
+JUDUL        : Menyelesaikan task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada card task di Daftar Task, klik icon titik tiga.
+2. Pilih menu Selesaikan.
+3. Klik button Ya pada pop-up konfirmasi aksi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu card task.
+2. Berhasil menampilkan pop-up konfirmasi complete.
+3. Berhasil mengubah status task menjadi 'Selesai'.

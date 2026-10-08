@@ -1,0 +1,19 @@
+NO TEST CASE : 10.27
+JUDUL        : Menghapus task secara permanen
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada card task di Daftar Task, klik icon titik tiga.
+2. Pilih menu Hapus Permanen.
+3. Konfirmasi penghapusan task.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu card task.
+2. Berhasil mengonfirmasi penghapusan.
+3. Berhasil menghapus task secara permanen dari daftar task.

@@ -1,0 +1,19 @@
+NO TEST CASE : 10.41
+JUDUL        : Menambahkan label baru dengan data valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan nama label pada field Nama label.
+2. Pilih warna label pada dropdown Warna.
+3. Klik button Tambah.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi field Nama label.
+2. Berhasil memilih warna label.
+3. Berhasil menambahkan label baru dan label tertampil pada daftar label di bawah.

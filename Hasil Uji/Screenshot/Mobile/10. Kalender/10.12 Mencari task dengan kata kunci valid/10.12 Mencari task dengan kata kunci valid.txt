@@ -1,0 +1,17 @@
+NO TEST CASE : 10.12
+JUDUL        : Mencari task dengan kata kunci valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Search pada header halaman Daftar Task.
+2. Masukkan kata kunci pencarian task yang valid.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan kolom pencarian.
+2. Berhasil menampilkan data task yang sesuai dengan kata kunci pencarian.

@@ -1,0 +1,15 @@
+NO TEST CASE : 17.6
+JUDUL        : Mencari konten di dalam folder dengan keyword tidak valid
+MODUL        : Fitur - Marketing Toolkit
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Masukkan keyword tidak valid pada Search Bar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan informasi data tidak ditemukan.

@@ -1,0 +1,19 @@
+NO TEST CASE : 10.25
+JUDUL        : Membatalkan task
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada card task di Daftar Task, klik icon titik tiga.
+2. Pilih menu Batalkan.
+3. Klik button Ya pada pop-up konfirmasi aksi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu card task.
+2. Berhasil menampilkan pop-up konfirmasi cancel.
+3. Berhasil membatalkan task dan status task terupdate.

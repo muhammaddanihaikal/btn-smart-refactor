@@ -1,0 +1,19 @@
+NO TEST CASE : 10.5
+JUDUL        : Melakukan filter agenda Kalender
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik icon Filter pada pojok kanan atas halaman Kalender.
+2. Pilih salah satu kategori filter (contoh: Task / Event / Holiday / Time off / Work pattern).
+3. Klik button Terapkan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan bottom sheet Filter Kalender.
+2. Kategori filter berhasil dipilih.
+3. Berhasil memfilter dan menampilkan agenda pada kalender sesuai kategori yang dipilih.

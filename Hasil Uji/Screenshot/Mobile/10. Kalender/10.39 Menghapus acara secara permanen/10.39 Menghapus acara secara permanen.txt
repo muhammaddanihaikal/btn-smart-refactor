@@ -1,0 +1,19 @@
+NO TEST CASE : 10.39
+JUDUL        : Menghapus acara secara permanen
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada card acara di Daftar Acara, klik icon titik tiga.
+2. Pilih menu Hapus Permanen.
+3. Klik button Ya pada pop-up konfirmasi aksi.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan pop-up action menu card acara.
+2. Berhasil menampilkan pop-up konfirmasi hapus permanen.
+3. Berhasil menghapus acara secara permanen dari daftar acara.
