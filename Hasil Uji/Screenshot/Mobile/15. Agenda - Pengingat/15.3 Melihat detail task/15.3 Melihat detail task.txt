@@ -1,0 +1,16 @@
+NO TEST CASE : 15.3
+JUDUL        : Melihat detail task
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada tab Task, klik salah satu card task yang terdaftar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Detail Task.
+2. Berhasil menampilkan informasi status, visibilitas, prioritas, tenggat, zona waktu, pemilik, deskripsi, dan lampiran.

@@ -1,0 +1,18 @@
+NO TEST CASE : 15.5
+JUDUL        : Membagikan task kepada user
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Task, klik icon Bagikan (share).
+2. Pilih role atau user yang ditugaskan.
+3. Klik button Bagikan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Bagikan Task.
+2. Berhasil membagikan task kepada user dan menampilkan pesan konfirmasi Task berhasil dibagikan.

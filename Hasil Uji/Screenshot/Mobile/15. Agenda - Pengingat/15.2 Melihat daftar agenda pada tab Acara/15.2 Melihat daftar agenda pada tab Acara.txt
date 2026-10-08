@@ -1,0 +1,16 @@
+NO TEST CASE : 15.2
+JUDUL        : Melihat daftar agenda pada tab Acara
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Pengingat, klik tab Acara.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil berpindah ke tab Acara.
+2. Berhasil menampilkan daftar acara yang terdaftar pada tab Acara.

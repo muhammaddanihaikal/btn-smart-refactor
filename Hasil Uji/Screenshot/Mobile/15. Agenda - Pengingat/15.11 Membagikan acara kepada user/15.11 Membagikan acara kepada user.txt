@@ -1,0 +1,18 @@
+NO TEST CASE : 15.11
+JUDUL        : Membagikan acara kepada user
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik icon Bagikan (share).
+2. Tentukan user watcher/assignee pada form Bagikan Acara.
+3. Klik button Bagikan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka form Bagikan Acara.
+2. Berhasil membagikan acara kepada user dan memicu notifikasi kepada penerima.

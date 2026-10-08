@@ -1,0 +1,18 @@
+NO TEST CASE : 15.13
+JUDUL        : Menambahkan komentar pada acara
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik tab Aktivitas & Percakapan.
+2. Tulis komentar pada kolom Tulis komentar.
+3. Klik button Kirim.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menginput teks komentar.
+2. Berhasil mengirimkan komentar dan menampilkan komentar baru pada daftar riwayat aktivitas acara.

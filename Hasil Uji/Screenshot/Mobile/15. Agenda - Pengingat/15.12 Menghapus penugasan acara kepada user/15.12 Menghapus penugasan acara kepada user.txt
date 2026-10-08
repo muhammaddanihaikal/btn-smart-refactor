@@ -1,0 +1,18 @@
+NO TEST CASE : 15.12
+JUDUL        : Menghapus penugasan acara kepada user
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada form Bagikan Acara, periksa daftar Ditugaskan ke (User).
+2. Klik icon hapus (tempat sampah) pada user yang ditugaskan.
+3. Konfirmasi penghapusan penugasan acara.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan dialog konfirmasi penghapusan penugasan.
+2. Berhasil menghapus penugasan acara kepada user dari daftar pembagian acara.

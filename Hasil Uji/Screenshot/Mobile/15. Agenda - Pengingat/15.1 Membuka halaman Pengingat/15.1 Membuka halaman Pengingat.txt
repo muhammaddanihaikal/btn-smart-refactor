@@ -7,11 +7,11 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Buka menu Lainnya.
-2. Klik menu Pengingat.
+1. Buka menu Lainnya pada Aksi Cepat di Beranda.
+2. Klik menu Pengingat pada kelompok Agenda.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
 1. Berhasil membuka menu Lainnya.
-2. Berhasil menampilkan halaman Pengingat.
+2. Berhasil menampilkan halaman Pengingat beserta daftar tugas pada tab default (Task).

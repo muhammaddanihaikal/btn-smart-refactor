@@ -1,0 +1,16 @@
+NO TEST CASE : 15.9
+JUDUL        : Melihat detail acara
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada tab Acara, klik salah satu card acara yang terdaftar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Detail Acara.
+2. Berhasil menampilkan informasi status, visibilitas, tanggal/waktu mulai & selesai, zona waktu, dan pemilik acara.

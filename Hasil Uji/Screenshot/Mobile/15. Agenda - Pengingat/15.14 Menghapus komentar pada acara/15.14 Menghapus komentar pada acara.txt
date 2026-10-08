@@ -1,0 +1,18 @@
+NO TEST CASE : 15.14
+JUDUL        : Menghapus komentar pada acara
+MODUL        : Agenda - Pengingat
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pada halaman Detail Acara, klik tab Aktivitas & Percakapan.
+2. Klik icon hapus (tempat sampah) pada komentar yang ingin dihapus.
+3. Konfirmasi penghapusan komentar.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan dialog konfirmasi penghapusan komentar.
+2. Berhasil menghapus komentar dari daftar aktivitas dan percakapan acara.
