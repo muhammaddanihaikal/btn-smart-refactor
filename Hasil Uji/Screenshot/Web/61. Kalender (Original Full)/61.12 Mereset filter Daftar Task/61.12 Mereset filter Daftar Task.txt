@@ -1,0 +1,8 @@
+NO TEST CASE : 61.12
+JUDUL        : Mereset filter Daftar Task
+MODUL        : Kalender
+DESKRIPSI    : Mereset filter Daftar Task
+STEPS        :
+Pada halaman Daftar Task, klik tombol Reset Filter
+EXPECTED RESULT:
+Berhasil mereset filter dan menampilkan seluruh data task ke kondisi default.
