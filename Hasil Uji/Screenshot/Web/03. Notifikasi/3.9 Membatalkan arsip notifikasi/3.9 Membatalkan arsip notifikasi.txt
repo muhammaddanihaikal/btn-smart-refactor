@@ -1,0 +1,8 @@
+NO TEST CASE : 3.9
+JUDUL        : Membatalkan arsip notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Membatalkan arsip notifikasi
+STEPS        :
+Pada halaman Detail Notifikasi yang diarsipkan, klik tombol Kembalikan dari arsip
+EXPECTED RESULT:
+Berhasil membatalkan arsip notifikasi.
