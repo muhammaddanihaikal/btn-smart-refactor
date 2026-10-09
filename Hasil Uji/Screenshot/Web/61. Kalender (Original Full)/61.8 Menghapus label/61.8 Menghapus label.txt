@@ -1,0 +1,8 @@
+NO TEST CASE : 61.8
+JUDUL        : Menghapus label
+MODUL        : Kalender
+DESKRIPSI    : Menghapus label
+STEPS        :
+Pada daftar label, klik icon Hapus pada label yang dipilih - Konfirmasi Hapus
+EXPECTED RESULT:
+Berhasil menghapus label dari sistem.

@@ -1,0 +1,8 @@
+NO TEST CASE : 61.10
+JUDUL        : Melakukan filter Daftar Task
+MODUL        : Kalender
+DESKRIPSI    : Melakukan filter Daftar Task
+STEPS        :
+Pada halaman Daftar Task, pilih kriteria filter (Kepemilikan, Status, Prioritas, Label, atau Rentang Tenggat)
+EXPECTED RESULT:
+Berhasil menampilkan data task sesuai filter yang dipilih.

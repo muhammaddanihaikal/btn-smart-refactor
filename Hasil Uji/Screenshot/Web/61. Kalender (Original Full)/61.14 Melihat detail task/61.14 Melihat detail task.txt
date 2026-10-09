@@ -1,0 +1,8 @@
+NO TEST CASE : 61.14
+JUDUL        : Melihat detail task
+MODUL        : Kalender
+DESKRIPSI    : Melihat detail task
+STEPS        :
+Pada tabel Daftar Task, klik baris atau judul task yang berstatus Selesai
+EXPECTED RESULT:
+Berhasil menampilkan drawer detail task.

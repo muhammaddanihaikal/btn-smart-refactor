@@ -1,0 +1,8 @@
+NO TEST CASE : 61.1
+JUDUL        : Membuka halaman Kalender
+MODUL        : Kalender
+DESKRIPSI    : Membuka halaman Kalender
+STEPS        :
+Masuk ke menu utama - Klik menu Kalender pada sidebar
+EXPECTED RESULT:
+Berhasil menampilkan halaman Kalender beserta ringkasan status dan grid kalender.

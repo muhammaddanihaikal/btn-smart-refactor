@@ -1,0 +1,8 @@
+NO TEST CASE : 61.13
+JUDUL        : Membatalkan task
+MODUL        : Kalender
+DESKRIPSI    : Membatalkan task
+STEPS        :
+Pada drawer Edit Task, klik button Batalkan - Klik button Ya, Batalkan pada pop-up konfirmasi aksi
+EXPECTED RESULT:
+Berhasil membatalkan task.

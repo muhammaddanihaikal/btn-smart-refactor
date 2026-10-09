@@ -1,0 +1,8 @@
+NO TEST CASE : 61.15
+JUDUL        : Menghapus task secara permanen
+MODUL        : Kalender
+DESKRIPSI    : Menghapus task secara permanen
+STEPS        :
+Pada drawer Edit Task atau menu titik tiga, klik menu Hapus - Klik button Hapus pada pop-up konfirmasi Hapus task ini secara permanen?
+EXPECTED RESULT:
+Berhasil menghapus task secara permanen.
