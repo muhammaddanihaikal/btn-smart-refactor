@@ -1,8 +1,0 @@
-NO TEST CASE : 34.7
-JUDUL        : Melihat Attachment
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Melihat Attachment
-STEPS        :
-1. Klik icon Attachment.
-EXPECTED     :
-Berhasil menampilkan Attachment.

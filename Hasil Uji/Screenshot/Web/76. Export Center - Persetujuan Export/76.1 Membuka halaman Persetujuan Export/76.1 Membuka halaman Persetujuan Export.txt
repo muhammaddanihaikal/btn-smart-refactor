@@ -1,0 +1,8 @@
+NO TEST CASE : 76.1
+JUDUL        : Membuka halaman Persetujuan Export
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Membuka halaman Persetujuan Export
+STEPS        :
+Klik menu Export Center - Klik submenu Persetujuan Export
+EXPECTED RESULT:
+Berhasil menampilkan halaman Persetujuan Export.

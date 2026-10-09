@@ -1,8 +1,0 @@
-NO TEST CASE : 74.5
-JUDUL        : Melakukan filter data riwayat export
-MODUL        : Export Center - Riwayat Export
-DESKRIPSI    : Melakukan filter data riwayat export
-STEPS        :
-Klik button Filter - Pilih kriteria filter pada drawer - Klik button Terapkan Filter
-EXPECTED RESULT:
-Berhasil memfilter dan menampilkan data riwayat export sesuai kriteria filter.

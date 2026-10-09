@@ -1,0 +1,18 @@
+NO TEST CASE : 11.31
+JUDUL        : Melakukan filter data perangkat & sesi
+MODUL        : User Authority
+SUB MENU     : Keamanan Akun
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Pilih filter Status Sesi, Perangkat Terpercaya, dan/atau Rentang Tanggal Aktivitas Terakhir.
+2. Klik button Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil memilih kriteria filter.
+2. Berhasil menampilkan data perangkat & sesi sesuai filter.

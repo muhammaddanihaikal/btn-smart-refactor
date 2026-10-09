@@ -1,9 +1,0 @@
-NO TEST CASE : 34.13
-JUDUL        : Membatalkan approval yang sudah disetujui
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Membatalkan approval yang sudah disetujui
-STEPS        :
-1. Klik button Cancel Approval.
-2. Klik Yes.
-EXPECTED     :
-Berhasil status kembali menjadi Pending.

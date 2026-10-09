@@ -1,0 +1,9 @@
+NO TEST CASE : 35.15
+JUDUL        : Mengekspor data approval absent
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Mengekspor data approval absent
+STEPS        :
+1. Klik button Export.
+2. Klik icon Mendownload pada panel Mendownload Export.
+EXPECTED     :
+Berhasil mendownload file export data approval absent.

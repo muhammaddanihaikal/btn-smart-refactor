@@ -1,0 +1,8 @@
+NO TEST CASE : 61.6
+JUDUL        : Menambahkan acara baru
+MODUL        : Kalender
+DESKRIPSI    : Menambahkan acara baru
+STEPS        :
+Klik tombol Tambah - Pilih Tambah Acara - Lengkapi formulir event - Klik Buat Event
+EXPECTED RESULT:
+Berhasil menambahkan acara baru ke dalam kalender.

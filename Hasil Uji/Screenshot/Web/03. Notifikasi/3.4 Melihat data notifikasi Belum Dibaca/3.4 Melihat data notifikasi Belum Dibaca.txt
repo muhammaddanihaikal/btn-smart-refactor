@@ -1,0 +1,8 @@
+NO TEST CASE : 3.4
+JUDUL        : Melihat data notifikasi Belum Dibaca
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat data notifikasi Belum Dibaca
+STEPS        :
+- Pada daftar notifikasi, klik tab Belum Dibaca
+EXPECTED RESULT:
+Berhasil menampilkan data notifikasi belum dibaca.

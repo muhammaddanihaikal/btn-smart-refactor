@@ -1,0 +1,8 @@
+NO TEST CASE : 3.2
+JUDUL        : Mencari notifikasi dengan kata kunci valid
+MODUL        : Notifikasi
+DESKRIPSI    : Mencari notifikasi dengan kata kunci valid
+STEPS        :
+- Masukkan kata kunci valid pada kolom Cari notifikasi
+EXPECTED RESULT:
+Berhasil menampilkan data notifikasi yang dicari.

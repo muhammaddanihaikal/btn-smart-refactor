@@ -1,0 +1,10 @@
+NO TEST CASE : 35.11
+JUDUL        : Menolak approval absent
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Menolak approval absent
+STEPS        :
+1. Klik button Reject.
+2. Isi Comments.
+3. Klik button Reject.
+EXPECTED     :
+Berhasil mengubah status menjadi Rejected.

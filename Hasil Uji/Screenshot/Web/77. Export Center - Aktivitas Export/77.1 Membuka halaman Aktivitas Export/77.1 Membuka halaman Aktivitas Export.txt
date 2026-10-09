@@ -1,0 +1,8 @@
+NO TEST CASE : 77.1
+JUDUL        : Membuka halaman Aktivitas Export
+MODUL        : Export Center - Aktivitas Export
+DESKRIPSI    : Membuka halaman Aktivitas Export
+STEPS        :
+Klik menu Export Center - Klik submenu Aktivitas Export
+EXPECTED RESULT:
+Berhasil menampilkan halaman Aktivitas Export.

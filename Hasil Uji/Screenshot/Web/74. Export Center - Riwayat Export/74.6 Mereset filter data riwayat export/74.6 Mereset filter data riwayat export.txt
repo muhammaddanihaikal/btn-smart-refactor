@@ -1,8 +1,0 @@
-NO TEST CASE : 74.6
-JUDUL        : Mereset filter data riwayat export
-MODUL        : Export Center - Riwayat Export
-DESKRIPSI    : Mereset filter data riwayat export
-STEPS        :
-Klik button Filter - Klik button Reset pada drawer Filter
-EXPECTED RESULT:
-Berhasil mereset filter dan menampilkan seluruh data riwayat export.

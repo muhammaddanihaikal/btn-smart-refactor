@@ -1,8 +1,0 @@
-NO TEST CASE : 74.4
-JUDUL        : Melihat data riwayat export berdasarkan status
-MODUL        : Export Center - Riwayat Export
-DESKRIPSI    : Melihat data riwayat export berdasarkan status
-STEPS        :
-Pada halaman Riwayat Export, klik salah satu tab status
-EXPECTED RESULT:
-Berhasil menampilkan daftar data riwayat export sesuai status yang dipilih.

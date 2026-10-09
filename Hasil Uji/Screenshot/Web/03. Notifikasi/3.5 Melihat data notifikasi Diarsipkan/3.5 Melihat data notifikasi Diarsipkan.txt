@@ -1,0 +1,8 @@
+NO TEST CASE : 3.5
+JUDUL        : Melihat data notifikasi Diarsipkan
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat data notifikasi Diarsipkan
+STEPS        :
+- Pada halaman Pengaturan Profile - Notifikasi, klik tab Diarsipkan
+EXPECTED RESULT:
+Berhasil menampilkan data notifikasi diarsipkan.

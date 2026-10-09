@@ -1,0 +1,8 @@
+NO TEST CASE : 76.3
+JUDUL        : Mencari data persetujuan export dengan kata kunci tidak valid
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Mencari data persetujuan export dengan kata kunci tidak valid
+STEPS        :
+Masukkan kata kunci tidak valid pada Search Bar - Klik button Cari
+EXPECTED RESULT:
+Berhasil menampilkan informasi data tidak ditemukan.

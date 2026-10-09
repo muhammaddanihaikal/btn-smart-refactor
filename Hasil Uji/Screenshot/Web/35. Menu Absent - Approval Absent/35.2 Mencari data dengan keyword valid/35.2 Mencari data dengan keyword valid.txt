@@ -1,0 +1,9 @@
+NO TEST CASE : 35.2
+JUDUL        : Mencari data dengan keyword valid
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Mencari data dengan keyword valid
+STEPS        :
+1. Input keyword pada field Search.
+2. Klik button Search.
+EXPECTED     :
+Berhasil menginput keyword dan menampilkan data sesuai keyword.

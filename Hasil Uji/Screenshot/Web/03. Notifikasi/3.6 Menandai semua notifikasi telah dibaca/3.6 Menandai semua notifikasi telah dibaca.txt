@@ -1,0 +1,8 @@
+NO TEST CASE : 3.6
+JUDUL        : Menandai semua notifikasi telah dibaca
+MODUL        : Notifikasi
+DESKRIPSI    : Menandai semua notifikasi telah dibaca
+STEPS        :
+- Pada notifikasi, klik tombol Tandai semua dibaca
+EXPECTED RESULT:
+Berhasil menandai seluruh notifikasi telah dibaca.

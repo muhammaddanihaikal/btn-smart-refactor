@@ -1,0 +1,16 @@
+NO TEST CASE : 44.2
+JUDUL        : Melakukan filter data
+MODUL        : Sales Force
+SUB MENU     : Sales code
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Filter data dengan pilih kantor wilayah, kantor cabang, cabang pembantu, subjab, sales code kemudian klik apply filter
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil Menampilkan data sesuai dengan filter yang dipilih – [Success]

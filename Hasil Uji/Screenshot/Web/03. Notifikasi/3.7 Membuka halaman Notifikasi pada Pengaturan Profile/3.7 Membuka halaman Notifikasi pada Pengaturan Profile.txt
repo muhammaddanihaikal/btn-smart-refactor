@@ -1,0 +1,8 @@
+NO TEST CASE : 3.7
+JUDUL        : Membuka halaman Notifikasi pada Pengaturan Profile
+MODUL        : Notifikasi
+DESKRIPSI    : Membuka halaman Notifikasi pada Pengaturan Profile
+STEPS        :
+- Klik tombol Lihat semua pada notifikasi header (atau masuk via menu Pengaturan Profile)
+EXPECTED RESULT:
+Berhasil menampilkan halaman penuh Notifikasi pada Pengaturan Profile.

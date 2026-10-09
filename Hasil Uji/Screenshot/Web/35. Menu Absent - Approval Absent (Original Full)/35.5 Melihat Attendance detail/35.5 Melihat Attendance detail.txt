@@ -1,0 +1,8 @@
+NO TEST CASE : 35.5
+JUDUL        : Melihat Attendance detail
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Melihat Attendance detail
+STEPS        :
+1. Klik nama Sales.
+EXPECTED     :
+Berhasil menampilkan Attendance Detail.

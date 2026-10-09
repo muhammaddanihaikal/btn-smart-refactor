@@ -1,8 +1,0 @@
-NO TEST CASE : 60.2
-JUDUL        : Melakukan navigasi periode kalender
-MODUL        : Kalender
-DESKRIPSI    : Melakukan navigasi periode kalender
-STEPS        :
-Pada halaman Kalender, klik tombol navigasi panah (< / >) atau tombol Hari ini
-EXPECTED RESULT:
-Berhasil mengubah tampilan periode kalender sesuai pilihan.

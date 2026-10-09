@@ -1,0 +1,17 @@
+NO TEST CASE : 33.4
+JUDUL        : Melihat detail daftar absensi Kantor Wilayah
+MODUL        : Menu Absent - Dashboard Absent
+DESKRIPSI    : Positive Case if 'tidak valid' not in title.lower() else Negative Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Dashboard Absent.
+2. Klik salah satu card Kantor Wilayah (misal Kantor Wilayah Jakarta I).
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka halaman Dashboard Absent.
+2. Berhasil menampilkan modal/popup detail daftar absensi Kantor Wilayah.

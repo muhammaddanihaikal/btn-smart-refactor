@@ -1,0 +1,8 @@
+NO TEST CASE : 76.2
+JUDUL        : Mencari data persetujuan export dengan kata kunci valid
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Mencari data persetujuan export dengan kata kunci valid
+STEPS        :
+Masukkan kata kunci valid pada Search Bar - Klik button Cari
+EXPECTED RESULT:
+Berhasil menampilkan data persetujuan export yang dicari.

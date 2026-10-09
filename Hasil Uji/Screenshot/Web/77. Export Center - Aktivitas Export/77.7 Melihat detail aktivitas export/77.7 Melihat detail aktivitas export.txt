@@ -1,0 +1,8 @@
+NO TEST CASE : 77.7
+JUDUL        : Melihat detail aktivitas export
+MODUL        : Export Center - Aktivitas Export
+DESKRIPSI    : Melihat detail aktivitas export
+STEPS        :
+Klik icon Aksi (...) pada salah satu baris data - Klik opsi Detail
+EXPECTED RESULT:
+Berhasil menampilkan detail data aktivitas export.

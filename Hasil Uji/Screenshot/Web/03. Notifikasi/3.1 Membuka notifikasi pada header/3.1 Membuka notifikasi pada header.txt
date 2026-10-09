@@ -1,0 +1,8 @@
+NO TEST CASE : 3.1
+JUDUL        : Membuka notifikasi pada header
+MODUL        : Notifikasi
+DESKRIPSI    : Membuka notifikasi pada header
+STEPS        :
+- Klik icon Lonceng (Notifikasi) pada header bar
+EXPECTED RESULT:
+Berhasil menampilkan daftar notifikasi terbaru.

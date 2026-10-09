@@ -1,0 +1,16 @@
+NO TEST CASE : 68.4
+JUDUL        : Mereset filter data Rekap Funnel
+MODUL        : Report Lending
+SUB MENU     : Rekap Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Reset pada panel Filter.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengosongkan kriteria filter dan mengembalikan kondisi filter ke default.

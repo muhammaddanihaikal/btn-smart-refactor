@@ -1,8 +1,0 @@
-NO TEST CASE : 75.4
-JUDUL        : Melihat data persetujuan export berdasarkan status
-MODUL        : Export Center - Persetujuan Export
-DESKRIPSI    : Melihat data persetujuan export berdasarkan status
-STEPS        :
-Pada halaman Persetujuan Export, klik salah satu tab status
-EXPECTED RESULT:
-Berhasil menampilkan daftar data persetujuan export sesuai status yang dipilih.

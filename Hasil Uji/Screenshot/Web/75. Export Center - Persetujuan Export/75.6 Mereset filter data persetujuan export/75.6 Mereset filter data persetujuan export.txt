@@ -1,8 +1,0 @@
-NO TEST CASE : 75.6
-JUDUL        : Mereset filter data persetujuan export
-MODUL        : Export Center - Persetujuan Export
-DESKRIPSI    : Mereset filter data persetujuan export
-STEPS        :
-Klik button Filter - Klik button Reset pada drawer Filter
-EXPECTED RESULT:
-Berhasil mereset filter dan menampilkan seluruh data persetujuan export.

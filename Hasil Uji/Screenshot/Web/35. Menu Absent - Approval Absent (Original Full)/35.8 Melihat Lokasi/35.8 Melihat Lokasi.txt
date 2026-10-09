@@ -1,0 +1,8 @@
+NO TEST CASE : 35.8
+JUDUL        : Melihat Lokasi
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Melihat Lokasi
+STEPS        :
+1. Klik icon Lokasi.
+EXPECTED     :
+Berhasil menampilkan lokasi pada peta.
