@@ -1,0 +1,8 @@
+NO TEST CASE : 3.10
+JUDUL        : Melihat detail notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat detail notifikasi
+STEPS        :
+- Pada daftar notifikasi, klik salah satu notifikasi yang ingin dilihat
+EXPECTED RESULT:
+Berhasil menampilkan halaman Detail Notifikasi.
