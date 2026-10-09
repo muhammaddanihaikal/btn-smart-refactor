@@ -1,0 +1,8 @@
+NO TEST CASE : 60.5
+JUDUL        : Menambahkan task baru
+MODUL        : Kalender
+DESKRIPSI    : Menambahkan task baru
+STEPS        :
+Klik tombol Tambah - Pilih Tambah Task - Lengkapi formulir task - Klik Buat Task
+EXPECTED RESULT:
+Berhasil menambahkan task baru ke dalam kalender.

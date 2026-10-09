@@ -1,0 +1,13 @@
+NO TEST CASE : 69.3
+MODUL        : Report Lending - Pengaturan Funnel
+JUDUL        : Mengubah data Pengaturan Funnel Lending tanpa mengisi field mandatory
+JENIS KASUS  : Positive Case
+PRIORITAS    : High
+
+LANGKAH PENGUJIAN:
+1. Mengosongkan field mandatory Performance Percentage.
+2. Klik button Simpan Pengaturan.
+
+HASIL YANG DIHARAPKAN:
+1. Berhasil mengosongkan field Performance Percentage.
+2. Berhasil menampilkan pesan validasi bahwa field mandatory harus diisi.

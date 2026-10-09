@@ -1,0 +1,8 @@
+NO TEST CASE : 74.1
+JUDUL        : Membuka halaman Riwayat Export
+MODUL        : Export Center - Riwayat Export
+DESKRIPSI    : Membuka halaman Riwayat Export
+STEPS        :
+Klik menu Export Center - Klik submenu Riwayat Export
+EXPECTED RESULT:
+Berhasil menampilkan halaman Riwayat Export.

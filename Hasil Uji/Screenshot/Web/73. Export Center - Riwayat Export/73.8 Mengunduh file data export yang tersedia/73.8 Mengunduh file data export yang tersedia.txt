@@ -1,8 +1,0 @@
-NO TEST CASE : 73.8
-JUDUL        : Mengunduh file data export yang tersedia
-MODUL        : Export Center - Riwayat Export
-DESKRIPSI    : Mengunduh file data export yang tersedia
-STEPS        :
-Klik icon Aksi (...) pada baris data dengan status Tersedia - Klik opsi Download
-EXPECTED RESULT:
-Berhasil mengunduh file data export.

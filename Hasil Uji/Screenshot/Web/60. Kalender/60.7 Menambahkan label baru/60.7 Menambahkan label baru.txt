@@ -1,0 +1,8 @@
+NO TEST CASE : 60.7
+JUDUL        : Menambahkan label baru
+MODUL        : Kalender
+DESKRIPSI    : Menambahkan label baru
+STEPS        :
+Klik tombol Kelola Label - Masukkan Nama label - Pilih warna label - Klik Tambah Label
+EXPECTED RESULT:
+Berhasil menambahkan label baru dan menampilkan notifikasi sukses.

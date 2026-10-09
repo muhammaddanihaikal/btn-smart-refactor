@@ -1,0 +1,8 @@
+NO TEST CASE : 75.8
+JUDUL        : Melakukan reject data pengajuan export
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Melakukan reject data pengajuan export
+STEPS        :
+Klik icon Aksi (...) pada data status Menunggu - Pilih opsi Tolak - Masukkan alasan pada field Alasan Penolakan - Klik button Tolak
+EXPECTED RESULT:
+Berhasil menolak pengajuan export dan status berubah menjadi Ditolak.

@@ -1,0 +1,8 @@
+NO TEST CASE : 60.4
+JUDUL        : Memfilter entri kalender berdasarkan kategori
+MODUL        : Kalender
+DESKRIPSI    : Memfilter entri kalender berdasarkan kategori
+STEPS        :
+Centang atau uncentang checkbox kategori entri (Task / Acara / Hari Libur / Time Off / Pola Kerja)
+EXPECTED RESULT:
+Berhasil menampilkan entri kalender sesuai kategori yang dipilih.

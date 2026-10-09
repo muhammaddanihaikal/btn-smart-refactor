@@ -1,8 +1,0 @@
-NO TEST CASE : 75.3
-JUDUL        : Mencari data aktivitas export dengan kata kunci tidak valid
-MODUL        : Export Center - Aktivitas Export
-DESKRIPSI    : Mencari data aktivitas export dengan kata kunci tidak valid
-STEPS        :
-Masukkan kata kunci tidak valid pada Search Bar - Klik button Cari
-EXPECTED RESULT:
-Berhasil menampilkan informasi data tidak ditemukan.

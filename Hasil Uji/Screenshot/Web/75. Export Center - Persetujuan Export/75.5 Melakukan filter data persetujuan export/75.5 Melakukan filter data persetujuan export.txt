@@ -1,0 +1,8 @@
+NO TEST CASE : 75.5
+JUDUL        : Melakukan filter data persetujuan export
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Melakukan filter data persetujuan export
+STEPS        :
+Klik button Filter - Pilih kriteria filter pada drawer - Klik button Terapkan Filter
+EXPECTED RESULT:
+Berhasil memfilter dan menampilkan data persetujuan export sesuai kriteria filter.

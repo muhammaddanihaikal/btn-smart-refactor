@@ -1,0 +1,18 @@
+NO TEST CASE : 64.1
+JUDUL        : Membuka halaman Pengaturan Funnel Funding
+MODUL        : Report Funding
+SUB MENU     : Pengaturan Funnel
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik menu Report Funding.
+2. Klik sub menu Pengaturan Funnel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membuka menu Report Funding.
+2. Berhasil menampilkan halaman Pengaturan Funnel Funding.

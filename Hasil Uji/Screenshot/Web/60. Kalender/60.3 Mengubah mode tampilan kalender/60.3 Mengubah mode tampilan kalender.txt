@@ -1,0 +1,8 @@
+NO TEST CASE : 60.3
+JUDUL        : Mengubah mode tampilan kalender
+MODUL        : Kalender
+DESKRIPSI    : Mengubah mode tampilan kalender
+STEPS        :
+Pada halaman Kalender, klik tombol mode tampilan (Bulan / Minggu / Hari / Daftar)
+EXPECTED RESULT:
+Berhasil menampilkan kalender berdasarkan mode tampilan yang dipilih.
