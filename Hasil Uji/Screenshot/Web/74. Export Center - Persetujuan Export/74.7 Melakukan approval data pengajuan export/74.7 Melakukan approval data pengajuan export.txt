@@ -1,0 +1,8 @@
+NO TEST CASE : 74.7
+JUDUL        : Melakukan approval data pengajuan export
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Melakukan approval data pengajuan export
+STEPS        :
+Klik icon Aksi (...) pada data status Menunggu - Pilih opsi Setujui - Klik button Setujui pada modal konfirmasi
+EXPECTED RESULT:
+Berhasil menyetujui pengajuan export dan status berubah menjadi Disetujui.

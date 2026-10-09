@@ -1,0 +1,8 @@
+NO TEST CASE : 74.9
+JUDUL        : Melihat detail pengajuan export
+MODUL        : Export Center - Persetujuan Export
+DESKRIPSI    : Melihat detail pengajuan export
+STEPS        :
+Klik icon Aksi (...) pada salah satu baris data - Klik opsi Detail
+EXPECTED RESULT:
+Berhasil menampilkan detail data pengajuan export.

@@ -1,0 +1,8 @@
+NO TEST CASE : 75.2
+JUDUL        : Mencari data aktivitas export dengan kata kunci valid
+MODUL        : Export Center - Aktivitas Export
+DESKRIPSI    : Mencari data aktivitas export dengan kata kunci valid
+STEPS        :
+Masukkan kata kunci valid pada Search Bar - Klik button Cari
+EXPECTED RESULT:
+Berhasil menampilkan data aktivitas export yang dicari.

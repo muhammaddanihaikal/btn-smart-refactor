@@ -1,0 +1,8 @@
+NO TEST CASE : 75.4
+JUDUL        : Melihat data aktivitas export berdasarkan status
+MODUL        : Export Center - Aktivitas Export
+DESKRIPSI    : Melihat data aktivitas export berdasarkan status
+STEPS        :
+Pada halaman Aktivitas Export, klik salah satu tab status
+EXPECTED RESULT:
+Berhasil menampilkan daftar data aktivitas export sesuai status yang dipilih.
