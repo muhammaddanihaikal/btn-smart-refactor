@@ -1,6 +1,7 @@
-﻿__pycache__/
+__pycache__/
 scratch/*.pdf
 scratch/backups/
 
 desktop.ini
 *.ini
+*Raihan*.docx
