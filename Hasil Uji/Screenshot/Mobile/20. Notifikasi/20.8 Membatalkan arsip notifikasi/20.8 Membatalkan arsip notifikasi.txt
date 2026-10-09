@@ -1,0 +1,8 @@
+NO TEST CASE : 20.8
+JUDUL        : Membatalkan arsip notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Membatalkan arsip notifikasi
+STEPS        :
+Pada detail notifikasi di tab Diarsipkan, klik icon Buka Arsip
+EXPECTED RESULT:
+Berhasil membatalkan arsip notifikasi.

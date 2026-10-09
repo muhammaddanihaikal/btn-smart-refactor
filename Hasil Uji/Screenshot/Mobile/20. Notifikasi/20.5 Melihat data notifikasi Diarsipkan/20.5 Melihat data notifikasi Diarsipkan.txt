@@ -1,0 +1,8 @@
+NO TEST CASE : 20.5
+JUDUL        : Melihat data notifikasi Diarsipkan
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat data notifikasi Diarsipkan
+STEPS        :
+Pada halaman Notifikasi, klik tab Diarsipkan
+EXPECTED RESULT:
+Berhasil menampilkan data notifikasi diarsipkan.

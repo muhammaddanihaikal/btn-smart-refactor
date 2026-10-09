@@ -1,0 +1,8 @@
+NO TEST CASE : 20.1
+JUDUL        : Membuka halaman Notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Membuka halaman Notifikasi
+STEPS        :
+Buka aplikasi BTN Smart - Masuk ke Beranda - Klik icon Lonceng (Notifikasi)
+EXPECTED RESULT:
+Berhasil menampilkan halaman Notifikasi.

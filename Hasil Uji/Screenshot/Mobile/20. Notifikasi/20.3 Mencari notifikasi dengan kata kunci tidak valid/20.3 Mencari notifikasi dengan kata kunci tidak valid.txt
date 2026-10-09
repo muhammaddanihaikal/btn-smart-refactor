@@ -1,0 +1,8 @@
+NO TEST CASE : 20.3
+JUDUL        : Mencari notifikasi dengan kata kunci tidak valid
+MODUL        : Notifikasi
+DESKRIPSI    : Mencari notifikasi dengan kata kunci tidak valid
+STEPS        :
+Masukkan kata kunci tidak valid pada Search Bar
+EXPECTED RESULT:
+Berhasil menampilkan informasi data tidak ditemukan.

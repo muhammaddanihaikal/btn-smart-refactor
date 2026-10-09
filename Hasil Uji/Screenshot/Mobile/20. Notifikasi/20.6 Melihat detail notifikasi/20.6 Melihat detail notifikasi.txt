@@ -1,0 +1,8 @@
+NO TEST CASE : 20.6
+JUDUL        : Melihat detail notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat detail notifikasi
+STEPS        :
+Pada halaman Notifikasi, klik salah satu notifikasi
+EXPECTED RESULT:
+Berhasil menampilkan detail notifikasi.

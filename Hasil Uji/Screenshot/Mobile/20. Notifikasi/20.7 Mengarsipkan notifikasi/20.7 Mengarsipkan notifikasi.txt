@@ -1,0 +1,8 @@
+NO TEST CASE : 20.7
+JUDUL        : Mengarsipkan notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Mengarsipkan notifikasi
+STEPS        :
+Pada halaman Detail Notifikasi, klik icon Arsipkan
+EXPECTED RESULT:
+Berhasil mengarsipkan notifikasi.
