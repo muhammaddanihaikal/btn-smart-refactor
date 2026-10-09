@@ -1,8 +1,0 @@
-NO TEST CASE : 61.11
-JUDUL        : Melakukan pencarian task
-MODUL        : Kalender
-DESKRIPSI    : Melakukan pencarian task
-STEPS        :
-Pada halaman Daftar Task, masukkan kata kunci pada field Cari task
-EXPECTED RESULT:
-Berhasil menampilkan data task sesuai kata kunci pencarian.

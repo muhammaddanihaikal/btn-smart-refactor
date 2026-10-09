@@ -1,4 +1,4 @@
-NO TEST CASE : 61.17
+NO TEST CASE : 61.18
 JUDUL        : Menghapus task secara permanen
 MODUL        : Kalender
 DESKRIPSI    : Menghapus task secara permanen

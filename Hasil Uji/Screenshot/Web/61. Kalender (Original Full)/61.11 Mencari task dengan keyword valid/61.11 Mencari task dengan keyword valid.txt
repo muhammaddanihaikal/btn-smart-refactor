@@ -1,0 +1,8 @@
+NO TEST CASE : 61.11
+JUDUL        : Mencari task dengan keyword valid
+MODUL        : Kalender
+DESKRIPSI    : Positive Case
+STEPS        :
+Pada halaman Daftar Task, masukkan kata kunci valid pada field Cari task
+EXPECTED RESULT:
+Berhasil menampilkan data task yang sesuai dengan kata kunci pencarian.

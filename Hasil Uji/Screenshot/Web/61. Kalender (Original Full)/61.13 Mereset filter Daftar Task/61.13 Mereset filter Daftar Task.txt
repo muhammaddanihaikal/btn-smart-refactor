@@ -1,7 +1,7 @@
-NO TEST CASE : 61.12
+NO TEST CASE : 61.13
 JUDUL        : Mereset filter Daftar Task
 MODUL        : Kalender
-DESKRIPSI    : Mereset filter Daftar Task
+DESKRIPSI    : Positive Case
 STEPS        :
 Pada halaman Daftar Task, klik tombol Reset Filter
 EXPECTED RESULT:
