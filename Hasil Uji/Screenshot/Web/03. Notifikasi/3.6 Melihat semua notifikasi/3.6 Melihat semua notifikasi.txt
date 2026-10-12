@@ -1,0 +1,8 @@
+NO TEST CASE : 3.6
+JUDUL        : Melihat semua notifikasi
+MODUL        : Notifikasi
+DESKRIPSI    : Melihat semua notifikasi
+STEPS        :
+- Pada daftar notifikasi, klik tombol Lihat semua
+EXPECTED RESULT:
+Berhasil menampilkan seluruh daftar notifikasi.
