@@ -1,0 +1,8 @@
+NO TEST CASE : 35.6
+JUDUL        : Mengekspor data rekap absent
+MODUL        : Menu Absent - Rekap Absent
+DESKRIPSI    : Mengekspor data rekap absent
+STEPS        :
+- Klik button Export - Klik icon Mendownload pada panel Mendownload Export
+EXPECTED RESULT:
+Berhasil mendownload file export.

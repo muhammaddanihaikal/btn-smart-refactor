@@ -1,0 +1,8 @@
+NO TEST CASE : 36.9
+JUDUL        : Menyetujui approval absent
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Menyetujui approval absent
+STEPS        :
+- Klik button Approve - Isi Comments - Klik button Approve
+EXPECTED RESULT:
+Berhasil mengubah status menjadi Approved.
