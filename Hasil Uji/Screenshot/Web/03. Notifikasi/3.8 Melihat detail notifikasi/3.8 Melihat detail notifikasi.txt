@@ -1,4 +1,4 @@
-NO TEST CASE : 3.10
+NO TEST CASE : 3.8
 JUDUL        : Melihat detail notifikasi
 MODUL        : Notifikasi
 DESKRIPSI    : Melihat detail notifikasi

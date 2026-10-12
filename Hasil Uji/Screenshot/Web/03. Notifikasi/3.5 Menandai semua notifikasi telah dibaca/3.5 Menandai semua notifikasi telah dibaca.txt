@@ -1,4 +1,4 @@
-NO TEST CASE : 3.6
+NO TEST CASE : 3.5
 JUDUL        : Menandai semua notifikasi telah dibaca
 MODUL        : Notifikasi
 DESKRIPSI    : Menandai semua notifikasi telah dibaca
