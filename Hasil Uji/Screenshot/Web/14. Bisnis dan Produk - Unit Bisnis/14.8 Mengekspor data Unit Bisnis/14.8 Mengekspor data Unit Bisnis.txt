@@ -1,7 +1,7 @@
-NO TEST CASE : 15.11
-JUDUL        : Mengekspor data Produk
+NO TEST CASE : 14.8
+JUDUL        : Mengekspor data Unit Bisnis
 MODUL        : Bisnis dan Produk
-SUB MENU     : Produk
+SUB MENU     : Unit Bisnis
 DESKRIPSI    : Positive Case
 PRIORITAS    : High
 

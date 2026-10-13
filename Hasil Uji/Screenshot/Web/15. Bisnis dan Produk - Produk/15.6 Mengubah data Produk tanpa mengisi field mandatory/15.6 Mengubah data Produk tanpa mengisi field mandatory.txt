@@ -1,7 +1,7 @@
-NO TEST CASE : 14.8
-JUDUL        : Mengubah data Unit Bisnis tanpa mengisi field mandatory
+NO TEST CASE : 15.6
+JUDUL        : Mengubah data Produk tanpa mengisi field mandatory
 MODUL        : Bisnis dan Produk
-SUB MENU     : Unit Bisnis
+SUB MENU     : Produk
 DESKRIPSI    : Positive Case
 PRIORITAS    : High
 
@@ -17,6 +17,6 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
 1. Berhasil menampilkan action menu.
-2. Berhasil menampilkan form Edit Unit Bisnis.
+2. Berhasil menampilkan form Edit Produk.
 3. Berhasil mengosongkan field mandatory.
 4. Menampilkan pesan validasi wajib diisi dan data tidak disimpan.

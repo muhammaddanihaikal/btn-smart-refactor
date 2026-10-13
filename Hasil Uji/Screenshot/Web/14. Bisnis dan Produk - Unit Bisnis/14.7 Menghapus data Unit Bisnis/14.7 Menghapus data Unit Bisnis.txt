@@ -1,18 +1,20 @@
-NO TEST CASE : 14.5
-JUDUL        : Mereset filter Unit Bisnis
+NO TEST CASE : 14.7
+JUDUL        : Menghapus data Unit Bisnis
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
 DESKRIPSI    : Positive Case
-PRIORITAS    : Normal
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Filter.
-2. Klik button Reset.
+1. Klik action menu titik tiga.
+2. Klik button Hapus.
+3. Klik button Ya.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan popup filter.
-2. Berhasil mereset filter dan menampilkan seluruh data.
+1. Berhasil menampilkan action menu.
+2. Berhasil menampilkan popup konfirmasi.
+3. Berhasil menghapus unit bisnis.
