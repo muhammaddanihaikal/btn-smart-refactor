@@ -1,5 +1,5 @@
-NO TEST CASE : 26.20
-JUDUL        : Mengedit tugas
+NO TEST CASE : 26.23
+JUDUL        : Menghapus tugas
 MODUL        : Lead Qualification
 SUB MENU     : Aktifitas
 DESKRIPSI    : Positive Case
@@ -11,11 +11,10 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
 2. Klik salah satu tugas pada list Tugas Terkait
 3. Klik button "Edit"
-4. Ubah data pada field yang diinginkan
-5. Klik button "Simpan"
+4. Klik button "Hapus"
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Perubahan data tugas berhasil disimpan
-2. Data terbaru tugas tampil pada sistem
+1. Tugas berhasil dihapus
+2. Tugas tidak lagi tampil pada list Tugas Terkait

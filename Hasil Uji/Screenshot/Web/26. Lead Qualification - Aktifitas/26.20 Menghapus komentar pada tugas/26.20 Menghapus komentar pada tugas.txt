@@ -1,8 +1,8 @@
-NO TEST CASE : 26.21
-JUDUL        : Mengedit tugas tanpa mengisi field mandatory
+NO TEST CASE : 26.20
+JUDUL        : Menghapus komentar pada tugas
 MODUL        : Lead Qualification
 SUB MENU     : Aktifitas
-DESKRIPSI    : Negative Case
+DESKRIPSI    : Positive Case
 PRIORITAS    : Normal
 
 ==================================================
@@ -10,12 +10,11 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
 2. Klik salah satu tugas pada list Tugas Terkait
-3. Klik button "Edit"
-4. Kosongkan field Judul
-5. Klik button "Simpan"
+3. Klik tab "Aktivitas & Percakapan"
+4. Klik ikon hapus (tong sampah) pada salah satu komentar
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan pesan validasi pada field Judul bahwa field tersebut wajib diisi
-2. Perubahan data tugas tidak tersimpan
+1. Komentar berhasil dihapus
+2. Komentar tidak lagi tampil pada riwayat percakapan di tab Aktivitas & Percakapan

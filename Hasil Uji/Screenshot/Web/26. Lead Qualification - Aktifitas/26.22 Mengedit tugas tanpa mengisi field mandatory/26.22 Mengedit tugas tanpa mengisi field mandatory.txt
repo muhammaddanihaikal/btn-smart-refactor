@@ -1,8 +1,8 @@
-NO TEST CASE : 26.23
-JUDUL        : Membagikan tugas
+NO TEST CASE : 26.22
+JUDUL        : Mengedit tugas tanpa mengisi field mandatory
 MODUL        : Lead Qualification
 SUB MENU     : Aktifitas
-DESKRIPSI    : Positive Case
+DESKRIPSI    : Negative Case
 PRIORITAS    : Normal
 
 ==================================================
@@ -11,10 +11,11 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
 2. Klik salah satu tugas pada list Tugas Terkait
 3. Klik button "Edit"
-4. Klik button "Bagikan"
+4. Kosongkan field Judul
+5. Klik button "Simpan"
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan opsi atau konfirmasi pembagian tugas
-2. Tugas berhasil dibagikan
+1. Menampilkan pesan validasi pada field Judul bahwa field tersebut wajib diisi
+2. Perubahan data tugas tidak tersimpan
