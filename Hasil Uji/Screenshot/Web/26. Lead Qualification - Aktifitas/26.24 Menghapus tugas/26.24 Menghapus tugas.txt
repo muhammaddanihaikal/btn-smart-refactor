@@ -1,0 +1,20 @@
+NO TEST CASE : 26.24
+JUDUL        : Menghapus tugas
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
+2. Klik salah satu tugas pada list Tugas Terkait
+3. Klik button "Edit"
+4. Klik button "Hapus"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Tugas berhasil dihapus
+2. Tugas tidak lagi tampil pada list Tugas Terkait

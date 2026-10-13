@@ -1,0 +1,23 @@
+NO TEST CASE : 26.8
+JUDUL        : Melakukan call dengan menambahkan pengingat
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Aktifitas Marketing
+2. Klik "Input Data Call"
+3. Pilih Status Call
+4. Isi Remark
+5. Centang checkbox "Buat reminder pengingat (tugas Calendar) setelah simpan"
+6. Klik button "Simpan"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menyimpan data aktifitas call nasabah
+2. Menampilkan popup 'Sukses update call nasabah'
+3. Sistem otomatis membuat pengingat (tugas) pada section Tugas Terkait / Kalender
