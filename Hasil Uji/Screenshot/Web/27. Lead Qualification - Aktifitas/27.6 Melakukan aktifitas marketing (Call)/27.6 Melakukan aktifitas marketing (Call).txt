@@ -1,0 +1,20 @@
+NO TEST CASE : 27.6
+JUDUL        : Melakukan aktifitas marketing (Call)
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Input data call.
+2. Pilih status call dan input remark call.
+3. Klik button Simpan.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan form Staging Call.
+2. Berhasil memilih status call dan mengisi remark.
+3. Berhasil menyimpan data aktifitas marketing call.
