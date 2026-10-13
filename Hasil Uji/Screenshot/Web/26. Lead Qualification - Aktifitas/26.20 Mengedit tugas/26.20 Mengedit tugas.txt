@@ -1,0 +1,21 @@
+NO TEST CASE : 26.20
+JUDUL        : Mengedit tugas
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
+2. Klik salah satu tugas pada list Tugas Terkait
+3. Klik button "Edit"
+4. Ubah data pada field yang diinginkan
+5. Klik button "Simpan"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Perubahan data tugas berhasil disimpan
+2. Data terbaru tugas tampil pada sistem

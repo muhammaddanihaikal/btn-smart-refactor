@@ -1,0 +1,20 @@
+NO TEST CASE : 26.16
+JUDUL        : Membuat tugas tanpa mengisi field mandatory
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
+2. Klik button "+ Buat Tugas" pada section Tugas Terkait
+3. Kosongkan field Judul
+4. Klik button "Buat Task"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan pesan validasi pada field Judul bahwa field tersebut wajib diisi
+2. Tugas tidak berhasil dibuat

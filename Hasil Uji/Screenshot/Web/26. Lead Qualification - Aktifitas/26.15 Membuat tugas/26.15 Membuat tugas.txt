@@ -1,0 +1,22 @@
+NO TEST CASE : 26.15
+JUDUL        : Membuat tugas
+MODUL        : Lead Qualification
+SUB MENU     : Aktifitas
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka halaman Detail Prospek atau halaman Aktifitas Marketing
+2. Klik button "+ Buat Tugas" pada section Tugas Terkait
+3. Isi field Judul
+4. Isi Deskripsi (opsional), tentukan Prioritas, Visibilitas, dan Zona Waktu
+5. Klik button "Buat Task"
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Task berhasil dibuat
+2. Menampilkan notifikasi "Task berhasil dibuat"
+3. Tugas tampil pada list Tugas Terkait
