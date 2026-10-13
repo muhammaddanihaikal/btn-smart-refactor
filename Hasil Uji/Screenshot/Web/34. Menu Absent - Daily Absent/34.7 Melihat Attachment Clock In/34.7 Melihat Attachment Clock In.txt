@@ -1,8 +1,0 @@
-NO TEST CASE : 34.7
-JUDUL        : Melihat Attachment Clock In
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Melihat Attachment Clock In
-STEPS        :
-- Klik ikon Attachment Clock In
-EXPECTED RESULT:
-Berhasil menampilkan Attachment Clock In.

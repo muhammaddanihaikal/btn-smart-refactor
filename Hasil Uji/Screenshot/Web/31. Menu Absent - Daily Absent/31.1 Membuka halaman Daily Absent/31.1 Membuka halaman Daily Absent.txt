@@ -1,0 +1,8 @@
+NO TEST CASE : 31.1
+JUDUL        : Membuka halaman Daily Absent
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Membuka halaman Daily Absent
+STEPS        :
+- Klik menu Menu Absent - Klik sub menu Daily Absent
+EXPECTED RESULT:
+Berhasil menampilkan halaman Daily Absent.

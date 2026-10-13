@@ -1,8 +1,0 @@
-NO TEST CASE : 34.9
-JUDUL        : Melihat Note Clock Out
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Melihat Note Clock Out
-STEPS        :
-- Klik ikon Note Clock Out
-EXPECTED RESULT:
-Berhasil menampilkan Note Clock Out.

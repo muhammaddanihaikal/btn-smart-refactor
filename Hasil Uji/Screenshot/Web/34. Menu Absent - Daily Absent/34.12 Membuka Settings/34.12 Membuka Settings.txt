@@ -1,8 +1,0 @@
-NO TEST CASE : 34.12
-JUDUL        : Membuka Settings
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Membuka Settings
-STEPS        :
-- Klik Settings
-EXPECTED RESULT:
-Berhasil membuka Settings.

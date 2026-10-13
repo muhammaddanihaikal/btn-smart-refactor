@@ -1,0 +1,8 @@
+NO TEST CASE : 33.14
+JUDUL        : Membatalkan approval yang sudah di reject
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Membatalkan approval yang sudah di reject
+STEPS        :
+- Klik button Cancel Approval pada data yang berstatus Rejected - Klik Yes pada pop up konfirmasi
+EXPECTED RESULT:
+Berhasil membatalkan status Rejected dan status approval kembali menjadi Pending.

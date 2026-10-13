@@ -1,8 +1,0 @@
-NO TEST CASE : 61.15
-JUDUL        : Membuka kembali task yang telah selesai
-MODUL        : Kalender
-DESKRIPSI    : Membuka kembali task yang telah selesai
-STEPS        :
-Pada tabel Daftar Task, klik icon titik tiga pada task berstatus Selesai - Pilih menu Buka Kembali
-EXPECTED RESULT:
-Berhasil membuka kembali task.

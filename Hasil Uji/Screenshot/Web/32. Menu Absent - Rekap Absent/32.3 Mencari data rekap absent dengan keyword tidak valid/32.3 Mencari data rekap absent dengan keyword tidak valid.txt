@@ -1,0 +1,8 @@
+NO TEST CASE : 32.3
+JUDUL        : Mencari data rekap absent dengan keyword tidak valid
+MODUL        : Menu Absent - Rekap Absent
+DESKRIPSI    : Mencari data rekap absent dengan keyword tidak valid
+STEPS        :
+- Input keyword yang tidak terdaftar pada field Search - Klik button Search
+EXPECTED RESULT:
+Berhasil menampilkan informasi data tidak ditemukan.

@@ -1,8 +1,0 @@
-NO TEST CASE : 34.2
-JUDUL        : Menampilkan data berdasarkan status absent
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Menampilkan data berdasarkan status absent
-STEPS        :
-- Klik salah satu tab status absent
-EXPECTED RESULT:
-Berhasil menampilkan data sesuai status absent yang dipilih.
