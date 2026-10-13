@@ -1,8 +1,0 @@
-NO TEST CASE : 33.8
-JUDUL        : Melihat Lokasi
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Melihat Lokasi
-STEPS        :
-- Klik icon Lokasi
-EXPECTED RESULT:
-Berhasil menampilkan lokasi pada peta.

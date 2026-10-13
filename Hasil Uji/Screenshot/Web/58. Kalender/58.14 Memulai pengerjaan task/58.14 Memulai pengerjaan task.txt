@@ -1,8 +1,0 @@
-NO TEST CASE : 58.14
-JUDUL        : Memulai pengerjaan task
-MODUL        : Kalender
-DESKRIPSI    : Memulai pengerjaan task
-STEPS        :
-Pada tabel Daftar Task, klik icon titik tiga pada task berstatus Terbuka - Pilih menu Mulai
-EXPECTED RESULT:
-Berhasil mengubah status task menjadi Berjalan.

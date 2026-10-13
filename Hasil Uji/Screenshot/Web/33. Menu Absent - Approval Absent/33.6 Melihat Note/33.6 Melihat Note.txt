@@ -1,8 +1,0 @@
-NO TEST CASE : 33.6
-JUDUL        : Melihat Note
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Melihat Note
-STEPS        :
-- Klik icon Note
-EXPECTED RESULT:
-Berhasil menampilkan Note.

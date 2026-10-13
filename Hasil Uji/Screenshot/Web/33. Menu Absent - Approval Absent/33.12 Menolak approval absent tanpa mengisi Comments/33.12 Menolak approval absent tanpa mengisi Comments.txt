@@ -1,8 +1,0 @@
-NO TEST CASE : 33.12
-JUDUL        : Menolak approval absent tanpa mengisi Comments
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Menolak approval absent tanpa mengisi Comments
-STEPS        :
-- Klik button Reject - Kosongkan Comments - Klik button Reject
-EXPECTED RESULT:
-Muncul validasi Comments wajib diisi.

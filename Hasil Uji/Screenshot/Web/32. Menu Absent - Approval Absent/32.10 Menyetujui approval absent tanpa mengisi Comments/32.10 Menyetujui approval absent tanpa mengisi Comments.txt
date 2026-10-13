@@ -1,0 +1,8 @@
+NO TEST CASE : 32.10
+JUDUL        : Menyetujui approval absent tanpa mengisi Comments
+MODUL        : Menu Absent - Approval Absent
+DESKRIPSI    : Menyetujui approval absent tanpa mengisi Comments
+STEPS        :
+- Klik button Approve - Kosongkan Comments - Klik button Approve
+EXPECTED RESULT:
+Muncul validasi Comments wajib diisi.

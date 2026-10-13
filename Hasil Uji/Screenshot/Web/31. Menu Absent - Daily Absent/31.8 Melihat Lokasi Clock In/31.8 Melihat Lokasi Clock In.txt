@@ -1,8 +1,0 @@
-NO TEST CASE : 31.8
-JUDUL        : Melihat Lokasi Clock In
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Melihat Lokasi Clock In
-STEPS        :
-- Klik ikon Lokasi Clock In
-EXPECTED RESULT:
-Berhasil menampilkan lokasi Clock In.

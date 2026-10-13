@@ -1,8 +1,0 @@
-NO TEST CASE : 31.14
-JUDUL        : Mencari data Settings dengan keyword tidak valid
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Mencari data Settings dengan keyword tidak valid
-STEPS        :
-- Input keyword tidak valid - Klik Search
-EXPECTED RESULT:
-Berhasil menampilkan informasi data tidak ditemukan.

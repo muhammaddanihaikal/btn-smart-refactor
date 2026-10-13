@@ -1,0 +1,8 @@
+NO TEST CASE : 30.6
+JUDUL        : Melihat Note Clock In
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Melihat Note Clock In
+STEPS        :
+- Klik ikon Note Clock In
+EXPECTED RESULT:
+Berhasil menampilkan Note Clock In.

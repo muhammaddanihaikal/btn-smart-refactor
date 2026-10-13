@@ -1,0 +1,20 @@
+NO TEST CASE : 65.11
+JUDUL        : Mencari data Prospek Closing dengan keyword tidak valid
+MODUL        : Report Lending
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Negative Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Closing.
+2. Mengisi field Cari Data dengan keyword tidak valid.
+3. Klik button Search.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan tab Prospek Closing.
+2. Berhasil mengisi field Cari Data.
+3. Berhasil menampilkan informasi bahwa data tidak ditemukan.

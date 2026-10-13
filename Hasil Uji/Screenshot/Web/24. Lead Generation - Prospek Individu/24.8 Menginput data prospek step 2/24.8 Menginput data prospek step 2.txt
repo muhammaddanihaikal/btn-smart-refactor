@@ -1,0 +1,18 @@
+NO TEST CASE : 24.8
+JUDUL        : Menginput data prospek step 2
+MODUL        : Lead Generation
+SUB MENU     : Prospek Individu
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Mengisi data biodata nasabah pada step 2.
+2. Klik button Selanjutnya.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengisi data biodata nasabah.
+2. Menampilkan halaman step 3 (Pekerjaan Nasabah).

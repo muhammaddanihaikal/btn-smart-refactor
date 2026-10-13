@@ -1,0 +1,16 @@
+NO TEST CASE : 65.4
+JUDUL        : Menampilkan data tab Prospek Masuk
+MODUL        : Report Lending
+SUB MENU     : Daily Sales Agenda
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik tab Prospek Masuk.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data pada tab Prospek Masuk.

@@ -1,8 +1,0 @@
-NO TEST CASE : 33.3
-JUDUL        : Mencari data dengan keyword tidak valid
-MODUL        : Menu Absent - Approval Absent
-DESKRIPSI    : Mencari data dengan keyword tidak valid
-STEPS        :
-- Input keyword yang tidak terdaftar pada field Search - Klik button Search
-EXPECTED RESULT:
-Berhasil menampilkan informasi data tidak ditemukan.

@@ -1,8 +1,0 @@
-NO TEST CASE : 31.10
-JUDUL        : Melihat Attachment Clock Out
-MODUL        : Menu Absent - Daily Absent
-DESKRIPSI    : Melihat Attachment Clock Out
-STEPS        :
-- Klik ikon Attachment Clock Out
-EXPECTED RESULT:
-Berhasil menampilkan Attachment Clock Out.

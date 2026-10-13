@@ -1,0 +1,8 @@
+NO TEST CASE : 30.4
+JUDUL        : Mereset filter
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Mereset filter
+STEPS        :
+- Klik Reset
+EXPECTED RESULT:
+Berhasil mengembalikan filter ke nilai default.

@@ -1,0 +1,8 @@
+NO TEST CASE : 30.13
+JUDUL        : Mencari data pada Settings
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Mencari data pada Settings
+STEPS        :
+- Input keyword - Klik Search
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai keyword.

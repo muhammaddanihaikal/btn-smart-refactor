@@ -1,8 +1,0 @@
-NO TEST CASE : 32.4
-JUDUL        : Melakukan filter rekap absent
-MODUL        : Menu Absent - Rekap Absent
-DESKRIPSI    : Melakukan filter rekap absent
-STEPS        :
-- Pilih filter - Klik button Filter
-EXPECTED RESULT:
-Berhasil menampilkan data sesuai filter.

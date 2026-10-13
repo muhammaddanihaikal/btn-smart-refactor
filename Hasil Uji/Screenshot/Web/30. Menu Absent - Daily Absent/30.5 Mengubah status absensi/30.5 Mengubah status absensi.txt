@@ -1,0 +1,8 @@
+NO TEST CASE : 30.5
+JUDUL        : Mengubah status absensi
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Mengubah status absensi
+STEPS        :
+- Klik dropdown Status - Pilih status
+EXPECTED RESULT:
+Berhasil mengubah status absensi.

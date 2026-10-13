@@ -1,0 +1,8 @@
+NO TEST CASE : 30.11
+JUDUL        : Melihat Lokasi Clock Out
+MODUL        : Menu Absent - Daily Absent
+DESKRIPSI    : Melihat Lokasi Clock Out
+STEPS        :
+- Klik ikon Lokasi Clock Out
+EXPECTED RESULT:
+Berhasil menampilkan lokasi Clock Out.
