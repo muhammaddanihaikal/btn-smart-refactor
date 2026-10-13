@@ -15,4 +15,4 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
 1. Berhasil mengklik menu Bisnis & Produk.
-2. Berhasil membuka sub menu Program Produk.
+2. Berhasil membuka halaman Program Produk.

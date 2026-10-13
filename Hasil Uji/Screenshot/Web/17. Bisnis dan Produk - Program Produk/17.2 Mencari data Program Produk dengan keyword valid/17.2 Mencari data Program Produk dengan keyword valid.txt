@@ -14,5 +14,5 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Berhasil menampilkan data sesuai pencarian.
+1. Berhasil menginput keyword valid.
+2. Berhasil menampilkan data Program Produk sesuai pencarian.

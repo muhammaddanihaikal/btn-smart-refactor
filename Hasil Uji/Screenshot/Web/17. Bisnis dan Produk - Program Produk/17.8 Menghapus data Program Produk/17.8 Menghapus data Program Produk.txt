@@ -1,22 +1,20 @@
-NO TEST CASE : 17.7
-JUDUL        : Mengubah data Program Produk
+NO TEST CASE : 17.8
+JUDUL        : Menghapus data Program Produk
 MODUL        : Bisnis dan Produk
 SUB MENU     : Program Produk
 DESKRIPSI    : Positive Case
-PRIORITAS    : High
+PRIORITAS    : Critical
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik action menu titik tiga.
-2. Klik button Ubah Data.
-3. Ubah data pada form.
-4. Klik button Submit.
+1. Centang checkbox pada data yang ingin dihapus.
+2. Klik button Hapus 1 data.
+3. Klik button Yes pada popup konfirmasi.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan action menu.
-2. Berhasil menampilkan form Edit Program Produk.
-3. Berhasil mengubah data.
-4. Berhasil menyimpan perubahan.
+1. Berhasil memilih data dan menampilkan button Hapus 1 data.
+2. Berhasil menampilkan popup konfirmasi hapus.
+3. Berhasil menghapus data Program Produk.

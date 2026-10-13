@@ -3,7 +3,7 @@ JUDUL        : Mencari data Program Produk dengan keyword tidak valid
 MODUL        : Bisnis dan Produk
 SUB MENU     : Program Produk
 DESKRIPSI    : Negative Case
-PRIORITAS    : Normal
+PRIORITAS    : Medium
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
@@ -14,5 +14,5 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Menampilkan data kosong.
+1. Berhasil menginput keyword tidak valid.
+2. Menampilkan informasi data tidak ditemukan.
