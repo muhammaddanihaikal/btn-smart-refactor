@@ -1,4 +1,4 @@
-NO TEST CASE : 14.1
+ NO TEST CASE : 14.1
 JUDUL        : Membuka halaman Unit Bisnis
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
@@ -14,5 +14,4 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil mengklik menu Bisnis & Produk.
-2. Berhasil membuka sub menu Unit Bisnis.
+1. Berhasil membuka sub menu Unit Bisnis.

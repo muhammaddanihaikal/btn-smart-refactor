@@ -1,4 +1,4 @@
-NO TEST CASE : 14.3
+ NO TEST CASE : 14.3
 JUDUL        : Mencari data Unit Bisnis dengan keyword tidak valid
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
@@ -14,5 +14,4 @@ STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menginput keyword.
-2. Menampilkan data kosong.
+1. Menampilkan data kosong.

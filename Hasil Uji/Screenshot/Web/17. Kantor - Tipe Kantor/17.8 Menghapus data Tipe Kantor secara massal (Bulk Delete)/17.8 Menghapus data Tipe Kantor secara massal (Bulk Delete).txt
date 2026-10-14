@@ -1,0 +1,16 @@
+NO TEST CASE : 17.8
+JUDUL        : Menghapus data Tipe Kantor secara massal (Bulk Delete)
+MODUL        : Kantor
+SUB MENU     : Tipe Kantor
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+Pilih beberapa data yang ingin dihapus menggunakan checkbox - Klik button Hapus data - Klik button Yes pada popup konfirmasi
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil menghapus data Tipe Kantor.

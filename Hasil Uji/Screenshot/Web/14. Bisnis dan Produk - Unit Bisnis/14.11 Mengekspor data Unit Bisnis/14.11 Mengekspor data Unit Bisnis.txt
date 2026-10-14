@@ -1,4 +1,4 @@
-NO TEST CASE : 14.11
+ NO TEST CASE : 14.11
 JUDUL        : Mengekspor data Unit Bisnis
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
@@ -8,9 +8,9 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-[Steps akan diisi]
+1. Klik button Export.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-[Expected result akan diisi]
+1. Berhasil mendownload file export.

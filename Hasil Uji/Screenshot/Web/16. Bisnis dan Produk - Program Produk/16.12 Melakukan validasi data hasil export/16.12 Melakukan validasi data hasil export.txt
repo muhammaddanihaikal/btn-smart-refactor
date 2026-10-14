@@ -1,0 +1,16 @@
+ NO TEST CASE : 16.12
+JUDUL        : Melakukan validasi data hasil export
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program Produk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Validasi data excel dengan tabel.
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Data pada excel sesuai dengan data pada tabel.
