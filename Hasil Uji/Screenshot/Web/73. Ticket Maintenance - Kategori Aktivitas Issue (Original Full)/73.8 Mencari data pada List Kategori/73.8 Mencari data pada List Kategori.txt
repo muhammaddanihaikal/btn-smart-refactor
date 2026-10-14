@@ -1,0 +1,8 @@
+NO TEST CASE : 73.8
+JUDUL        : Mencari data pada List Kategori
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Mencari data pada List Kategori
+STEPS        :
+Input kata kunci pada field Cari Data List Kategori - Klik icon search
+EXPECTED RESULT:
+Berhasil menampilkan data yang dicari.

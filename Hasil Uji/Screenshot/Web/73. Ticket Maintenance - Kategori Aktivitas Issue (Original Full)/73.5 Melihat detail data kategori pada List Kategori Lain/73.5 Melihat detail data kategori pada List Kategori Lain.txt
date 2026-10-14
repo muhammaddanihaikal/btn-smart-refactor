@@ -1,0 +1,8 @@
+NO TEST CASE : 73.5
+JUDUL        : Melihat detail data kategori pada List Kategori Lain
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Melihat detail data kategori pada List Kategori Lain
+STEPS        :
+Klik icon Aksi (...) pada baris data List Kategori Lain - Klik opsi Detail
+EXPECTED RESULT:
+Berhasil menampilkan modal detail kategori.

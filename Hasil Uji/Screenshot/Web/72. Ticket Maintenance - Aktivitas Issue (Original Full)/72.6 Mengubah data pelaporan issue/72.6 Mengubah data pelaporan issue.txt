@@ -1,0 +1,8 @@
+NO TEST CASE : 72.6
+JUDUL        : Mengubah data pelaporan issue
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Mengubah data pelaporan issue
+STEPS        :
+Klik icon Aksi (...) pada salah satu baris data - Klik opsi Edit - Ubah data issue - Klik button Simpan
+EXPECTED RESULT:
+Berhasil menyimpan perubahan data issue.

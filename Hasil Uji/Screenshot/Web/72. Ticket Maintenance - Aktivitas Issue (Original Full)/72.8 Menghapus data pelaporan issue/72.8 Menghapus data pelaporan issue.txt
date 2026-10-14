@@ -1,0 +1,4 @@
+NO TEST CASE : 72.8
+NAMA TEST CASE : Menghapus data pelaporan issue
+LANGKAH PENGUJIAN : Klik icon Aksi (...) pada salah satu baris data - Klik opsi Hapus - Klik button Konfirmasi
+HASIL YANG DIHARAPKAN : Berhasil menghapus data issue.

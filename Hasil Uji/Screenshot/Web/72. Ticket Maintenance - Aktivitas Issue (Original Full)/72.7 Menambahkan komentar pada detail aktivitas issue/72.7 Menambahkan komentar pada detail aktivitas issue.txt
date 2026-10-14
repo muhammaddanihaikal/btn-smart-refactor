@@ -1,0 +1,8 @@
+NO TEST CASE : 72.7
+JUDUL        : Menambahkan komentar pada detail aktivitas issue
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Menambahkan komentar pada detail aktivitas issue
+STEPS        :
+Buka halaman detail issue - Masukkan komentar pada kolom komentar - Klik button Kirim
+EXPECTED RESULT:
+Berhasil menambahkan komentar pada detail issue.

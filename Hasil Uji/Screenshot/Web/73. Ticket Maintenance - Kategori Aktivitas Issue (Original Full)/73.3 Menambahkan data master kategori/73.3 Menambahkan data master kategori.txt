@@ -1,0 +1,8 @@
+NO TEST CASE : 73.3
+JUDUL        : Menambahkan data master kategori
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Menambahkan data master kategori
+STEPS        :
+Klik button + Add Kategori - Input seluruh field mandatory pada modal - Klik button Save
+EXPECTED RESULT:
+Berhasil menyimpan data master kategori.

@@ -1,0 +1,8 @@
+NO TEST CASE : 73.6
+JUDUL        : Mengirim data kategori lain ke master kategori
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Mengirim data kategori lain ke master kategori
+STEPS        :
+Klik button Send to Master pada baris data - Pilih Role dan PIC - Klik button Save
+EXPECTED RESULT:
+Berhasil mengirim data kategori lain ke master kategori.

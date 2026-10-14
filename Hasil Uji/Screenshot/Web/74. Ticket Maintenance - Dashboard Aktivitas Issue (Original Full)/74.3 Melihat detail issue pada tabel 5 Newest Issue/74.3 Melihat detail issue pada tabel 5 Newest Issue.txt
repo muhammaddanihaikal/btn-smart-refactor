@@ -1,0 +1,8 @@
+NO TEST CASE : 74.3
+JUDUL        : Melihat detail issue pada tabel 5 Newest Issue
+MODUL        : Ticket Maintenance - Dashboard Aktivitas Issue
+DESKRIPSI    : Melihat detail issue pada tabel 5 Newest Issue
+STEPS        :
+Pada tabel 5 Newest Issue, klik icon Aksi (...) - Klik opsi Detail
+EXPECTED RESULT:
+Berhasil menampilkan halaman detail issue.

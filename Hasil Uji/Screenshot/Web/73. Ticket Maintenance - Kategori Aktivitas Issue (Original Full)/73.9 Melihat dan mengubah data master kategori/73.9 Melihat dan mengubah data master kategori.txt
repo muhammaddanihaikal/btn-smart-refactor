@@ -1,0 +1,8 @@
+NO TEST CASE : 73.9
+JUDUL        : Melihat dan mengubah data master kategori
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Melihat dan mengubah data master kategori
+STEPS        :
+Klik icon Aksi (...) pada baris data List Kategori - Klik opsi Detail - Ubah data - Klik button Save
+EXPECTED RESULT:
+Berhasil menampilkan dan memperbarui data master kategori.

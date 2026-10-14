@@ -1,0 +1,8 @@
+NO TEST CASE : 74.2
+JUDUL        : Melakukan filter data Dashboard Aktivitas Issue
+MODUL        : Ticket Maintenance - Dashboard Aktivitas Issue
+DESKRIPSI    : Melakukan filter data Dashboard Aktivitas Issue
+STEPS        :
+Pilih Bulan dan Tahun pada filter periode di pojok kanan atas halaman
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai dengan filter yang dipilih.

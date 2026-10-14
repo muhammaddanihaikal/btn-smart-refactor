@@ -1,0 +1,8 @@
+NO TEST CASE : 74.1
+JUDUL        : Membuka halaman Dashboard Aktivitas Issue
+MODUL        : Ticket Maintenance - Dashboard Aktivitas Issue
+DESKRIPSI    : Membuka halaman Dashboard Aktivitas Issue
+STEPS        :
+Klik menu Ticket Maintenance - Klik sub menu Dashboard Aktivitas Issue
+EXPECTED RESULT:
+Berhasil menampilkan halaman Dashboard Aktivitas Issue.

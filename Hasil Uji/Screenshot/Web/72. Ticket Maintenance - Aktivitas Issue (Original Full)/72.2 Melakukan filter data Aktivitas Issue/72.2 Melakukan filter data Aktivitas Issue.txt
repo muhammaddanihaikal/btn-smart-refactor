@@ -1,0 +1,8 @@
+NO TEST CASE : 72.2
+JUDUL        : Melakukan filter data Aktivitas Issue
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Melakukan filter data Aktivitas Issue
+STEPS        :
+Klik tab Filter 1 - Pilih Kategori, Status, dan Platform - Klik button Filter Data
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai dengan filter yang dipilih.

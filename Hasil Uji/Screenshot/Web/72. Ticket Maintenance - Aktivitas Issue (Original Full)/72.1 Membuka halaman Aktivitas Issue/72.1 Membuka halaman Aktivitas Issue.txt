@@ -1,0 +1,8 @@
+NO TEST CASE : 72.1
+JUDUL        : Membuka halaman Aktivitas Issue
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Membuka halaman Aktivitas Issue
+STEPS        :
+Klik menu Ticket Maintenance - Klik sub menu Aktivitas Issue
+EXPECTED RESULT:
+Berhasil menampilkan halaman Aktivitas Issue.
