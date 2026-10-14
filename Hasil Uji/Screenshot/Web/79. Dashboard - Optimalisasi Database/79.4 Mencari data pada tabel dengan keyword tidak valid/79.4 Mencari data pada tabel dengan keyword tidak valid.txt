@@ -1,0 +1,4 @@
+NO TEST CASE : 79.4
+NAMA TEST CASE : Mencari data pada tabel dengan keyword tidak valid
+LANGKAH PENGUJIAN : Masukkan keyword tidak valid pada kolom Cari Data - Klik button Cari
+HASIL YANG DIHARAPKAN : Menampilkan keterangan data tidak ditemukan / tabel kosong.

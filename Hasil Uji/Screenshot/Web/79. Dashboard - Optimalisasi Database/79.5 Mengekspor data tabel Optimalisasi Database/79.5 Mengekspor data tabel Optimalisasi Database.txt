@@ -1,0 +1,4 @@
+NO TEST CASE : 79.5
+NAMA TEST CASE : Mengekspor data tabel Optimalisasi Database
+LANGKAH PENGUJIAN : Klik button Export
+HASIL YANG DIHARAPKAN : Berhasil mengunduh file data tabel dalam format Excel (.xlsx).

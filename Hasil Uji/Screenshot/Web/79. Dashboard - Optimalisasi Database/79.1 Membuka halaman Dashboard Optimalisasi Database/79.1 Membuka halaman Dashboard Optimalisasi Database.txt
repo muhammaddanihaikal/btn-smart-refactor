@@ -1,0 +1,4 @@
+NO TEST CASE : 79.1
+NAMA TEST CASE : Membuka halaman Dashboard Optimalisasi Database
+LANGKAH PENGUJIAN : Klik menu Dashboard - Klik sub menu Optimalisasi
+HASIL YANG DIHARAPKAN : Berhasil menampilkan halaman Dashboard Optimalisasi Database.

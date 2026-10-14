@@ -1,0 +1,4 @@
+NO TEST CASE : 79.3
+NAMA TEST CASE : Mencari data pada tabel dengan keyword valid
+LANGKAH PENGUJIAN : Masukkan keyword valid pada kolom Cari Data - Klik button Cari
+HASIL YANG DIHARAPKAN : Berhasil menampilkan data yang sesuai dengan keyword pencarian.
