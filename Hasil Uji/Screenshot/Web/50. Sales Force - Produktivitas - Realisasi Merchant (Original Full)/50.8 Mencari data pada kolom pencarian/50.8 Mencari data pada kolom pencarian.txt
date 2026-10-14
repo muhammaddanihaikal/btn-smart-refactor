@@ -1,0 +1,16 @@
+NO TEST CASE : 50.8
+JUDUL        : Mencari data pada kolom pencarian
+MODUL        : Sales Force
+SUB MENU     : Produktivitas - Realisasi Merchant
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

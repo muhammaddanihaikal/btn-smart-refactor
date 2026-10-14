@@ -1,0 +1,16 @@
+NO TEST CASE : 69.11
+JUDUL        : Melakukan filter data pada tab Riwayat Export
+MODUL        : Export Center
+SUB MENU     : Riwayat Export
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

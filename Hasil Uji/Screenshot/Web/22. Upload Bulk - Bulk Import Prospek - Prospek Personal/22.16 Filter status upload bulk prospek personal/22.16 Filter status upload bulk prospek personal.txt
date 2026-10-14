@@ -1,0 +1,16 @@
+NO TEST CASE : 22.16
+JUDUL        : Filter status upload bulk prospek personal
+MODUL        : 
+SUB MENU     : 
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

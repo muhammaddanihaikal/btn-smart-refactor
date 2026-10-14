@@ -1,0 +1,16 @@
+NO TEST CASE : 69.12
+JUDUL        : Mencari data pada kolom pencarian
+MODUL        : 
+SUB MENU     : 
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

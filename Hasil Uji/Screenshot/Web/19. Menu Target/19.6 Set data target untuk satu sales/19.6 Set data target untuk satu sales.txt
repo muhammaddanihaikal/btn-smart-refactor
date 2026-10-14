@@ -1,0 +1,16 @@
+NO TEST CASE : 19.6
+JUDUL        : Set data target untuk satu sales
+MODUL        : Menu Target
+SUB MENU     : Menu Target
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

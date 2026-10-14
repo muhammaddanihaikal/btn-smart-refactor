@@ -1,0 +1,16 @@
+NO TEST CASE : 16.12
+JUDUL        : Mengekspor data Program Produk
+MODUL        : Bisnis dan Produk
+SUB MENU     : Program Produk
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

@@ -1,0 +1,16 @@
+NO TEST CASE : 18.10
+JUDUL        : Mengekspor data Data Kantor
+MODUL        : 
+SUB MENU     : 
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

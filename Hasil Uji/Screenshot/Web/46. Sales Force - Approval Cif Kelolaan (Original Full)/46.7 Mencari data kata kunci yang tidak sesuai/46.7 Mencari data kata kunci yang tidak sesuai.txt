@@ -1,0 +1,16 @@
+NO TEST CASE : 46.7
+JUDUL        : Mencari data kata kunci yang tidak sesuai
+MODUL        : Sales Force
+SUB MENU     : Approval Cif Kelolaan
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]

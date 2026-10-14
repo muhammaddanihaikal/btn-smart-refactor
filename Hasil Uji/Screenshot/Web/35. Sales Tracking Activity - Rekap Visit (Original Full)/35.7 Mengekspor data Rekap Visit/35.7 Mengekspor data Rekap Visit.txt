@@ -1,0 +1,16 @@
+NO TEST CASE : 35.7
+JUDUL        : Mengekspor data Rekap Visit
+MODUL        : Sales Tracking Activity
+SUB MENU     : Rekap Visit
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+[Steps akan diisi]
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+[Expected result akan diisi]
