@@ -1,0 +1,16 @@
+NO TEST CASE : 21.5
+JUDUL        : Upload file dengan email yang sudah terdaftar
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+Buka file excel - Input data user - Simpan file excel - Klik 'Pilih atau seret file Template (.xlsx) ke area ini' - Pilih file yang sudah di input - Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan validasi error 'email sudah terdaftar'

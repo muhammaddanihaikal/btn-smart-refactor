@@ -1,0 +1,16 @@
+NO TEST CASE : 21.3
+JUDUL        : Upload file data upload bulk user dengan data yang valid
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+Buka file excel - Input data user - Simpan file excel - Klik 'Pilih atau seret file Template (.xlsx) ke area ini' - Pilih file yang sudah di input - Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Berhasil mengupload data user secara bulk dengan status Selesai, kemudian data akan masuk pada menu user

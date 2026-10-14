@@ -1,0 +1,16 @@
+NO TEST CASE : 21.1
+JUDUL        : Membuka halaman Bulk Import User
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+Klik menu Upload Bulk - Klik submenu Bulk Import User
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+Menampilkan halaman Bulk Import User

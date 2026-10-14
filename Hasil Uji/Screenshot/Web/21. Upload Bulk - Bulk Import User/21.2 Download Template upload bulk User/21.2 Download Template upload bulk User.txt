@@ -1,0 +1,16 @@
+NO TEST CASE : 21.2
+JUDUL        : Download Template upload bulk User
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import User
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+Klik button Download dan Upload File - Klik button Download file template - Buka file excel
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+File excel dapat di buka
