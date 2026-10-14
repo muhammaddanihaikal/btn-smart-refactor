@@ -8,7 +8,7 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Export.
+1. Klik button Export
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
