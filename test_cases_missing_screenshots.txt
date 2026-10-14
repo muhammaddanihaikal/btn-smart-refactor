@@ -2,14 +2,12 @@
 DAFTAR TEST CASE YANG BELUM ADA SCREENSHOT (VALID & TERKINI - 3 DRIVE SYNCED)
 ========================================================================================================================
 
-Total TC belum ada screenshot: 41 TC di 13 Modul
+Total TC belum ada screenshot: 37 TC di 11 Modul
 
 No    | Nama Modul                                              | Total    | List TC Kosong
 ------------------------------------------------------------------------------------------------------------------------
 02    | Profile                                                 | 1  TC   | 2.36
 14    | Bisnis dan Produk - Unit Bisnis                         | 2  TC   | 14.4, 14.5
-15    | Bisnis dan Produk - Produk                              | 2  TC   | 15.4, 15.5
-16    | Bisnis dan Produk - Program Produk                      | 2  TC   | 16.4, 16.5
 17    | Kantor - Tipe Kantor                                    | 1  TC   | 17.8
 19    | Menu Target                                             | 5  TC   | 19.2, 19.3, 19.4, 19.5, 19.6
 21    | Upload Bulk - Bulk Import User                          | 1  TC   | 21.4

@@ -1,5 +1,5 @@
- NO TEST CASE : 15.10
-JUDUL        : Menghapus data Produk secara massal (Bulk Delete)
+ NO TEST CASE : 15.6
+JUDUL        : Mengubah data Produk
 MODUL        : Bisnis dan Produk
 SUB MENU     : Produk
 DESKRIPSI    : Positive Case
@@ -8,11 +8,12 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Pilih beberapa data yang ingin dihapus dengan mencentang checkbox pada baris data.
-2. Klik button Hapus X data.
-3. Klik button Ya.
+1. Klik action menu titik tiga.
+2. Klik button Ubah Data.
+3. Ubah data pada form.
+4. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menghapus data Produk yang dipilih.
+1. Berhasil menyimpan perubahan.

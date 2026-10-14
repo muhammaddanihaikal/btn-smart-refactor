@@ -1,18 +1,19 @@
- NO TEST CASE : 15.7
-JUDUL        : Menambahkan data Produk tanpa mengisi field mandatory
+ NO TEST CASE : 16.6
+JUDUL        : Mengubah data Program Produk
 MODUL        : Bisnis dan Produk
-SUB MENU     : Produk
-DESKRIPSI    : Negative Case
+SUB MENU     : Program Produk
+DESKRIPSI    : Positive Case
 PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Tambah Produk.
-2. Kosongkan salah satu field mandatory.
-3. Klik button Submit.
+1. Klik action menu titik tiga.
+2. Klik button Ubah Data.
+3. Ubah data pada form.
+4. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan pesan validasi wajib diisi dan data tidak disimpan.
+1. Berhasil menyimpan perubahan.

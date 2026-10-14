@@ -1,17 +1,18 @@
- NO TEST CASE : 16.5
-JUDUL        : Mereset filter data Program Produk
+ NO TEST CASE : 16.4
+JUDUL        : Menambahkan data Program Produk
 MODUL        : Bisnis dan Produk
 SUB MENU     : Program Produk
 DESKRIPSI    : Positive Case
-PRIORITAS    : Normal
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Filter.
-2. Klik button Reset.
+1. Klik button Tambah Program Produk.
+2. Isi field mandatory Nama, Kode, dan deskripsi.
+3. Klik button Submit.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil mereset filter dan menampilkan seluruh data.
+1. Berhasil menyimpan data Program Produk baru.

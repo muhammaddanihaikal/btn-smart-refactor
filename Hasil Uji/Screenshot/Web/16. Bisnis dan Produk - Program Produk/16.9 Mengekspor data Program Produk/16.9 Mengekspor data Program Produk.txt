@@ -1,5 +1,5 @@
- NO TEST CASE : 16.8
-JUDUL        : Mengubah data Program Produk
+ NO TEST CASE : 16.9
+JUDUL        : Mengekspor data Program Produk
 MODUL        : Bisnis dan Produk
 SUB MENU     : Program Produk
 DESKRIPSI    : Positive Case
@@ -8,12 +8,9 @@ PRIORITAS    : High
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik action menu titik tiga.
-2. Klik button Ubah Data.
-3. Ubah data pada form.
-4. Klik button Submit.
+1. Klik button Export.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menyimpan perubahan.
+1. Berhasil mendownload file export.

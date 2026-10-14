@@ -1,16 +1,16 @@
- NO TEST CASE : 16.11
-JUDUL        : Mengekspor data Program Produk
+ NO TEST CASE : 16.10
+JUDUL        : Melakukan validasi data hasil export
 MODUL        : Bisnis dan Produk
 SUB MENU     : Program Produk
 DESKRIPSI    : Positive Case
-PRIORITAS    : High
+PRIORITAS    : Normal
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Export.
+1. Validasi data excel dengan tabel.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil mendownload file export.
+1. Data pada excel sesuai dengan data pada tabel.
