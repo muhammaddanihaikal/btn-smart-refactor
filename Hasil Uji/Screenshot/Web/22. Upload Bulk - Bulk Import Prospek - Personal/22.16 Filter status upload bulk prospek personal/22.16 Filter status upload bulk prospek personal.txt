@@ -1,0 +1,17 @@
+NO TEST CASE : 22.16
+JUDUL        : Filter status upload bulk prospek personal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik Filter Status
+2. Pilih dan klik salah satu status
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan data upload bulk prospek personal sesuai dengan status yang di pilih

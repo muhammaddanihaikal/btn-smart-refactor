@@ -1,0 +1,17 @@
+NO TEST CASE : 22.14
+JUDUL        : Pindah Halaman di Preview Data
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input angka halaman di field pindah halaman
+2. Klik Enter pada keyboard
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan halaman sesuai dengan angka halaman yang di input

@@ -1,0 +1,18 @@
+NO TEST CASE : 22.12
+JUDUL        : Membatalkan upload data prospek personal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Upload file data prospek personal yang valid
+2. Klik Action titik tiga
+3. Klik button Batalkan selagi status upload masih dalam antrian
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membatalkan upload bulk data prospek personal, status nya menjadi 'Dibatalkan'

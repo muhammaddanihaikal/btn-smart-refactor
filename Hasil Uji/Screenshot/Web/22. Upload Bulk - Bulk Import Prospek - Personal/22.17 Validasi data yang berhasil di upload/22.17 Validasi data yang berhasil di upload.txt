@@ -1,0 +1,20 @@
+NO TEST CASE : 22.17
+JUDUL        : Validasi data yang berhasil di upload
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Login menggunakan user yang di assign ketika input data pada excel
+2. Klik menu Lead Qualification
+3. Klik submenu Aktifitas
+4. Cek data prospek yang di uplaod melalui menu Bulk Import Prospek
+5. Cek detail prospek pada halaman detail dan aktifitas marketing
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan semua informasi data prospek yang sesuai dengan yang di upload di menu Bulk Import Prospek lembaga dengan keterangan 'Registered based on excel'

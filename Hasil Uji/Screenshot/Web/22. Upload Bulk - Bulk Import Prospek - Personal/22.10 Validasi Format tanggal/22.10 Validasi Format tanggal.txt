@@ -1,0 +1,19 @@
+NO TEST CASE : 22.10
+JUDUL        : Validasi Format tanggal
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Personal
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input tanggal dengan format yang tidak sesuai
+2. Simpan file
+3. Upload file
+4. Cek data pada halaman preview data dan dokumen error
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan informasi 'Format tanggal harus DD-MM-YYYY'

@@ -1,0 +1,21 @@
+NO TEST CASE : 23.3
+JUDUL        : Upload file Prospek Lembaga dengan data yang valid
+MODUL        : Upload Bulk
+SUB MENU     : Bulk Import Prospek - Lembaga
+DESKRIPSI    : Positive Case
+PRIORITAS    : Normal
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Buka file excel
+2. Input data prospek lembaga
+3. Simpan file excel
+4. Klik 'Pilih atau seret file Template (.xlsx) ke area ini'
+5. Pilih file yang sudah di input
+6. Klik button Open pada file manager
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengupload data prospek lembaga secara bulk, dan status nya Selesai
