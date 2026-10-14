@@ -1,0 +1,8 @@
+NO TEST CASE : 76.2
+JUDUL        : Melakukan filter data Dashboard Aktivitas Consumer Funding
+MODUL        : Dashboard - Aktivitas Consumer Funding
+DESKRIPSI    : Melakukan filter data Dashboard Aktivitas Consumer Funding
+STEPS        :
+Pilih filter Kantor, Bulan, dan Tahun - Klik button Filter
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai dengan filter yang dipilih.

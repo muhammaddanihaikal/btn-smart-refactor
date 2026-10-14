@@ -1,0 +1,8 @@
+NO TEST CASE : 78.1
+JUDUL        : Membuka halaman Pengaturan Aktivitas Consumer
+MODUL        : Dashboard - Pengaturan Aktivitas Consumer
+DESKRIPSI    : Membuka halaman Pengaturan Aktivitas Consumer
+STEPS        :
+Klik menu Dashboard - Klik menu Aktivitas Consumer - Klik sub menu Pengaturan Aktivitas Consumer
+EXPECTED RESULT:
+Berhasil menampilkan halaman Pengaturan Aktivitas Consumer.

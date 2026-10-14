@@ -1,0 +1,8 @@
+NO TEST CASE : 73.2
+JUDUL        : Menambahkan kategori lain melalui pelaporan issue
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Menambahkan kategori lain melalui pelaporan issue
+STEPS        :
+Buka form Buat Pelaporan Issue - Pilih Kategori Others - Masukkan Nama Kategori Lain dan Remark - Klik button Registrasi Issue
+EXPECTED RESULT:
+Berhasil menambahkan data kategori baru ke List Kategori Lain.

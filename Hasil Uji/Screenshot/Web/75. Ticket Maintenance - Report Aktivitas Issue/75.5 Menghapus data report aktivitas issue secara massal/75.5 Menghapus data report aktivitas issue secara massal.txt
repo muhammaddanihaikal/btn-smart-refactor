@@ -1,0 +1,8 @@
+NO TEST CASE : 75.5
+JUDUL        : Menghapus data report aktivitas issue secara massal
+MODUL        : Ticket Maintenance - Report Aktivitas Issue
+DESKRIPSI    : Menghapus data report aktivitas issue secara massal
+STEPS        :
+Checklist beberapa data pada tabel - Klik button Hapus data - Klik button Yes
+EXPECTED RESULT:
+Berhasil menghapus data report aktivitas issue.

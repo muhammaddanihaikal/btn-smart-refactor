@@ -1,0 +1,8 @@
+NO TEST CASE : 75.2
+JUDUL        : Melakukan filter data Report Aktivitas Issue
+MODUL        : Ticket Maintenance - Report Aktivitas Issue
+DESKRIPSI    : Melakukan filter data Report Aktivitas Issue
+STEPS        :
+Pilih Status dan Prioritas - Klik button Filter Data
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai dengan filter yang dipilih.

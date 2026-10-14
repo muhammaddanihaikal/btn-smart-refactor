@@ -1,0 +1,8 @@
+NO TEST CASE : 77.8
+JUDUL        : Mengekspor data tabel Aktivitas Referral
+MODUL        : Dashboard - Aktivitas Consumer Lending
+DESKRIPSI    : Mengekspor data tabel Aktivitas Referral
+STEPS        :
+Klik button Export pada tabel Aktivitas Referral
+EXPECTED RESULT:
+Berhasil mendownload file export.

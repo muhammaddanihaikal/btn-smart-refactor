@@ -1,0 +1,8 @@
+NO TEST CASE : 72.5
+JUDUL        : Melihat detail pelaporan issue
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Melihat detail pelaporan issue
+STEPS        :
+Klik icon Aksi (...) pada salah satu baris data - Klik opsi Detail
+EXPECTED RESULT:
+Berhasil menampilkan halaman detail issue.

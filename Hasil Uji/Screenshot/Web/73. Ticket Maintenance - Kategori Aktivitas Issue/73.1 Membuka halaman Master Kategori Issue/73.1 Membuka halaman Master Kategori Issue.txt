@@ -1,0 +1,8 @@
+NO TEST CASE : 73.1
+JUDUL        : Membuka halaman Master Kategori Issue
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Membuka halaman Master Kategori Issue
+STEPS        :
+Klik menu Ticket Maintenance - Klik sub menu Kategori Aktivitas Issue
+EXPECTED RESULT:
+Berhasil menampilkan halaman Master Kategori Issue.

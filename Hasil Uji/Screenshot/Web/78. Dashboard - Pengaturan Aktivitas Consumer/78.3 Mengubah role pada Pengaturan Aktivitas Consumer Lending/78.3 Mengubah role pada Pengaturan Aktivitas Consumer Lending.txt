@@ -1,0 +1,8 @@
+NO TEST CASE : 78.3
+JUDUL        : Mengubah role pada Pengaturan Aktivitas Consumer Lending
+MODUL        : Dashboard - Pengaturan Aktivitas Consumer
+DESKRIPSI    : Mengubah role pada Pengaturan Aktivitas Consumer Lending
+STEPS        :
+Pilih atau sesuaikan data pada field Role Pengaturan Aktivitas Consumer Lending - Klik button Simpan
+EXPECTED RESULT:
+Berhasil menyimpan perubahan role pada Pengaturan Aktivitas Consumer Lending.

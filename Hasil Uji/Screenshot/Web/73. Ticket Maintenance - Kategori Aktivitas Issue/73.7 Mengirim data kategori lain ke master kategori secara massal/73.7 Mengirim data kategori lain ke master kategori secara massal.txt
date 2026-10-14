@@ -1,0 +1,8 @@
+NO TEST CASE : 73.7
+JUDUL        : Mengirim data kategori lain ke master kategori secara massal
+MODUL        : Ticket Maintenance - Kategori Aktivitas Issue
+DESKRIPSI    : Mengirim data kategori lain ke master kategori secara massal
+STEPS        :
+Checklist data pada List Kategori Lain - Klik button Bulk Send to Master
+EXPECTED RESULT:
+Berhasil mengirim beberapa kategori lain terpilih ke master kategori.

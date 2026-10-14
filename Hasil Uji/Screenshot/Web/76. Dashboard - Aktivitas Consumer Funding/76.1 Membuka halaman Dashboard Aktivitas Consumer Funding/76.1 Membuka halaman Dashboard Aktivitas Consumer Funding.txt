@@ -1,0 +1,8 @@
+NO TEST CASE : 76.1
+JUDUL        : Membuka halaman Dashboard Aktivitas Consumer Funding
+MODUL        : Dashboard - Aktivitas Consumer Funding
+DESKRIPSI    : Membuka halaman Dashboard Aktivitas Consumer Funding
+STEPS        :
+Klik menu Dashboard - Klik menu Aktivitas Consumer - Klik sub menu Aktivitas Consumer Funding
+EXPECTED RESULT:
+Berhasil menampilkan halaman Dashboard Aktivitas Consumer Funding.

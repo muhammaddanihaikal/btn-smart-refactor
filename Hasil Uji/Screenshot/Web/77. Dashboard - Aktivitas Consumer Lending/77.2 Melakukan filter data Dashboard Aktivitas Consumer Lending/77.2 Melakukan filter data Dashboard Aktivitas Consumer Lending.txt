@@ -1,0 +1,8 @@
+NO TEST CASE : 77.2
+JUDUL        : Melakukan filter data Dashboard Aktivitas Consumer Lending
+MODUL        : Dashboard - Aktivitas Consumer Lending
+DESKRIPSI    : Melakukan filter data Dashboard Aktivitas Consumer Lending
+STEPS        :
+Pilih filter Kantor dan rentang Start - End Date - Klik button Filter
+EXPECTED RESULT:
+Berhasil menampilkan data sesuai dengan filter yang dipilih.

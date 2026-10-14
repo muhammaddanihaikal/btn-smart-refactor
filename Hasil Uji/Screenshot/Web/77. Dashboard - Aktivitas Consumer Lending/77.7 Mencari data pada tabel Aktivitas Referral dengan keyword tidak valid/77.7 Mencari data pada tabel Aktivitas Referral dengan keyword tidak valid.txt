@@ -1,0 +1,8 @@
+NO TEST CASE : 77.7
+JUDUL        : Mencari data pada tabel Aktivitas Referral dengan keyword tidak valid
+MODUL        : Dashboard - Aktivitas Consumer Lending
+DESKRIPSI    : Mencari data pada tabel Aktivitas Referral dengan keyword tidak valid
+STEPS        :
+Input keyword tidak valid pada field Cari Data tabel Aktivitas Referral - Klik icon search
+EXPECTED RESULT:
+Berhasil menampilkan informasi bahwa data tidak ditemukan.

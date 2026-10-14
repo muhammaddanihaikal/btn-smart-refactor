@@ -1,0 +1,8 @@
+NO TEST CASE : 77.1
+JUDUL        : Membuka halaman Dashboard Aktivitas Consumer Lending
+MODUL        : Dashboard - Aktivitas Consumer Lending
+DESKRIPSI    : Membuka halaman Dashboard Aktivitas Consumer Lending
+STEPS        :
+Klik menu Dashboard - Klik menu Aktivitas Consumer - Klik sub menu Aktivitas Consumer Lending
+EXPECTED RESULT:
+Berhasil menampilkan halaman Dashboard Aktivitas Consumer Lending.

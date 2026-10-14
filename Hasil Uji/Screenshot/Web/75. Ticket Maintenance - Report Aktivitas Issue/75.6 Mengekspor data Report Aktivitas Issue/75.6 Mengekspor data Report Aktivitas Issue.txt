@@ -1,0 +1,8 @@
+NO TEST CASE : 75.6
+JUDUL        : Mengekspor data Report Aktivitas Issue
+MODUL        : Ticket Maintenance - Report Aktivitas Issue
+DESKRIPSI    : Mengekspor data Report Aktivitas Issue
+STEPS        :
+Klik button Export - Klik icon download pada panel Download Export
+EXPECTED RESULT:
+Berhasil mendownload file export.

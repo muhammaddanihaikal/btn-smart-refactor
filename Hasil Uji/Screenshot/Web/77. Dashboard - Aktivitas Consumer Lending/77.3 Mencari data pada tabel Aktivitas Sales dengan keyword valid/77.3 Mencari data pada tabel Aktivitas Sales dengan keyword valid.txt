@@ -1,0 +1,8 @@
+NO TEST CASE : 77.3
+JUDUL        : Mencari data pada tabel Aktivitas Sales dengan keyword valid
+MODUL        : Dashboard - Aktivitas Consumer Lending
+DESKRIPSI    : Mencari data pada tabel Aktivitas Sales dengan keyword valid
+STEPS        :
+Input keyword valid pada field Cari Data tabel Aktivitas Sales - Klik icon search
+EXPECTED RESULT:
+Berhasil menampilkan data yang dicari.

@@ -1,0 +1,8 @@
+NO TEST CASE : 72.4
+JUDUL        : Menambahkan pelaporan issue baru
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Menambahkan pelaporan issue baru
+STEPS        :
+Klik button + Registrasi Issue - Input seluruh field mandatory pada modal - Klik button Registrasi Issue
+EXPECTED RESULT:
+Berhasil menyimpan data pelaporan issue.

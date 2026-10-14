@@ -1,0 +1,8 @@
+NO TEST CASE : 75.3
+JUDUL        : Mencari data Report Aktivitas Issue dengan keyword valid
+MODUL        : Ticket Maintenance - Report Aktivitas Issue
+DESKRIPSI    : Mencari data Report Aktivitas Issue dengan keyword valid
+STEPS        :
+Input keyword valid pada field Cari Data - Klik icon search
+EXPECTED RESULT:
+Berhasil menampilkan data yang dicari.

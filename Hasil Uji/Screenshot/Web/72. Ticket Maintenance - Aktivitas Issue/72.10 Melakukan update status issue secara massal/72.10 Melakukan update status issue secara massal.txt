@@ -1,0 +1,8 @@
+NO TEST CASE : 72.10
+JUDUL        : Melakukan update status issue secara massal
+MODUL        : Ticket Maintenance - Aktivitas Issue
+DESKRIPSI    : Melakukan update status issue secara massal
+STEPS        :
+Checklist data issue - Klik button Mass Update - Pilih status baru - Klik button Update
+EXPECTED RESULT:
+Berhasil melakukan update status issue secara massal.

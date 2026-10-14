@@ -1,0 +1,8 @@
+NO TEST CASE : 76.5
+JUDUL        : Mengekspor data tabel Aktivitas Sales
+MODUL        : Dashboard - Aktivitas Consumer Funding
+DESKRIPSI    : Mengekspor data tabel Aktivitas Sales
+STEPS        :
+Klik button Export pada tabel Aktivitas Sales
+EXPECTED RESULT:
+Berhasil mendownload file export.

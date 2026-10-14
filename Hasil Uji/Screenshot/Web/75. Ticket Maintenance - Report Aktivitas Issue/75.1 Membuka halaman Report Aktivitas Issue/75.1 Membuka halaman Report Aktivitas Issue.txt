@@ -1,0 +1,8 @@
+NO TEST CASE : 75.1
+JUDUL        : Membuka halaman Report Aktivitas Issue
+MODUL        : Ticket Maintenance - Report Aktivitas Issue
+DESKRIPSI    : Membuka halaman Report Aktivitas Issue
+STEPS        :
+Klik menu Ticket Maintenance - Klik sub menu Report Aktivitas Issue
+EXPECTED RESULT:
+Berhasil menampilkan halaman Report Aktivitas Issue.

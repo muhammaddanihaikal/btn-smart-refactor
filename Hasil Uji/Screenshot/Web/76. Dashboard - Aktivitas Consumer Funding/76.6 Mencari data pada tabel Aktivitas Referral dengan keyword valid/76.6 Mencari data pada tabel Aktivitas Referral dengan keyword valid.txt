@@ -1,0 +1,8 @@
+NO TEST CASE : 76.6
+JUDUL        : Mencari data pada tabel Aktivitas Referral dengan keyword valid
+MODUL        : Dashboard - Aktivitas Consumer Funding
+DESKRIPSI    : Mencari data pada tabel Aktivitas Referral dengan keyword valid
+STEPS        :
+Input keyword valid pada field Cari Data tabel Aktivitas Referral - Klik icon search
+EXPECTED RESULT:
+Berhasil menampilkan data yang dicari.
