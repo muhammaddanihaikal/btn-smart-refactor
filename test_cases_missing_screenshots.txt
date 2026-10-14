@@ -2,17 +2,24 @@
 DAFTAR TEST CASE YANG BELUM ADA SCREENSHOT (VALID & TERKINI - 3 DRIVE SYNCED)
 ========================================================================================================================
 
-Total TC belum ada screenshot: 34 TC di 10 Modul
+Total TC belum ada screenshot: 52 TC di 17 Modul
 
 No    | Nama Modul                                              | Total    | List TC Kosong
 ------------------------------------------------------------------------------------------------------------------------
-02    | Profile                                                 | 1  TC   | 2.36
-17    | Kantor - Tipe Kantor                                    | 1  TC   | 17.8
-18    | Kantor - Data Kantor                                    | 1  TC   | 18.10
-19    | Menu Target                                             | 5  TC   | 19.2, 19.3, 19.4, 19.5, 19.6
-21    | Upload Bulk - Bulk Import User                          | 1  TC   | 21.4
-23    | Upload Bulk - Bulk Import Prospek - Prospek Lembaga     | 1  TC   | 23.5
-28    | List Prospek ETB                                        | 19 TC   | 28.2, 28.3, 28.4, 28.5, 28.6, 28.7, 28.8, 28.9, 28.10, 28.11, 28.12, 28.13, 28.14, 28.15, 28.16, 28.17, 28.18, 28.19, 28.20
-76    | Dashboard - Aktivitas Consumer Funding                  | 2  TC   | 76.5, 76.8
-77    | Dashboard - Aktivitas Consumer Lending                  | 2  TC   | 77.5, 77.8
-79    | Dashboard - Optimalisasi Database                       | 1  TC   | 79.5
+02    | Profile                                                 |  1 TC   | 2.36
+18    | Kantor - Data Kantor                                    |  1 TC   | 18.10
+19    | Menu Target                                             |  6 TC   | 19.1, 19.2, 19.3, 19.4, 19.5, 19.6
+21    | Upload Bulk - Bulk Import User                          |  1 TC   | 21.4
+22    | Upload Bulk - Bulk Import Prospek - Personal            |  2 TC   | 22.11, 22.8
+23    | Upload Bulk - Bulk Import Prospek - Lembaga             |  1 TC   | 23.5
+26    | Lead Qualification - Aktifitas                          |  1 TC   | 26.10
+27    | Lead Qualification - Aktifitas Referal                  |  1 TC   | 27.10
+28    | List Prospek ETB                                        | 20 TC   | 28.1, 28.10, 28.11, 28.12, 28.13, 28.14, 28.15, 28.16, 28.17, 28.18, 28.19, 28.2, 28.20, 28.3, 28.4, 28.5, 28.6, 28.7, 28.8, 28.9
+41    | Sales Force - Pipeline - Dashboard Validate Pipeline    |  5 TC   | 41.35, 41.39, 41.43, 41.47, 41.49
+42    | Sales Force - Pipeline - Input Pipeline                 |  4 TC   | 42.11, 42.12, 42.13, 42.24
+46    | Sales Force - Approval Cif Kelolaan                     |  1 TC   | 46.7
+50    | Sales Force - Produktivitas - Realisasi Merchant        |  2 TC   | 50.8, 50.9
+51    | Sales Force - CIF Rebase                                |  1 TC   | 51.32
+76    | Dashboard - Aktivitas Consumer Funding                  |  2 TC   | 76.5, 76.8
+77    | Dashboard - Aktivitas Consumer Lending                  |  2 TC   | 77.5, 77.8
+79    | Dashboard - Optimalisasi Database                       |  1 TC   | 79.5
