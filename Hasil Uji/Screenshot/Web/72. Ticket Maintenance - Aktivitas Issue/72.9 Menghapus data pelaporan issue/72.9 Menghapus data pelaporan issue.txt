@@ -1,8 +1,0 @@
-NO TEST CASE : 72.9
-JUDUL        : Menghapus data pelaporan issue
-MODUL        : Ticket Maintenance - Aktivitas Issue
-DESKRIPSI    : Menghapus data pelaporan issue
-STEPS        :
-Klik icon Aksi (...) pada salah satu baris data - Klik opsi Hapus - Klik button Konfirmasi
-EXPECTED RESULT:
-Berhasil menghapus data issue.

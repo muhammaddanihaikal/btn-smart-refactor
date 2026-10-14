@@ -1,8 +1,0 @@
-NO TEST CASE : 72.8
-JUDUL        : Mengunduh lampiran bukti issue
-MODUL        : Ticket Maintenance - Aktivitas Issue
-DESKRIPSI    : Mengunduh lampiran bukti issue
-STEPS        :
-Buka halaman detail issue - Klik file lampiran bukti screenshot
-EXPECTED RESULT:
-Berhasil mengunduh file lampiran bukti issue.
