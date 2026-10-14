@@ -1,0 +1,17 @@
+NO TEST CASE : 20.11
+JUDUL        : Batalkan batch
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...) pada file dengan status 'validasi gagal'
+2. Klik batalkan
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil membatalkan batch

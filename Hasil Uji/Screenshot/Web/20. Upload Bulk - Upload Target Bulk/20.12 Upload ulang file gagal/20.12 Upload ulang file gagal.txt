@@ -1,0 +1,17 @@
+NO TEST CASE : 20.12
+JUDUL        : Upload ulang file gagal
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Negative Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...) pada file dengan status 'gagal'
+2. Klik coba lagi (retry)
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengupload ulang file

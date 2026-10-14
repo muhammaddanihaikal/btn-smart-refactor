@@ -1,0 +1,17 @@
+NO TEST CASE : 20.7
+JUDUL        : Download source File
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...)
+2. Klik download source file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil mengunduh data source file

@@ -1,0 +1,17 @@
+NO TEST CASE : 20.10
+JUDUL        : Download error file
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...) pada file dengan status 'validasi gagal'
+2. Klik download error file
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil download error file

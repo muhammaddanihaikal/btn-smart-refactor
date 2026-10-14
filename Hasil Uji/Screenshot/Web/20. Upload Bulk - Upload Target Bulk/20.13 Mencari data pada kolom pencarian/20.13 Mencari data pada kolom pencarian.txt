@@ -1,0 +1,16 @@
+NO TEST CASE : 20.13
+JUDUL        : Mencari data pada kolom pencarian
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Input batch id pada kolom pencarian
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Berhasil menampilkan data sesuai kata kunci yang diinput

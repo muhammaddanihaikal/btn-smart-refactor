@@ -1,0 +1,17 @@
+NO TEST CASE : 20.8
+JUDUL        : Menampilkan preview data
+MODUL        : Upload Bulk
+SUB MENU     : Upload Target Bulk
+DESKRIPSI    : Positive Case
+PRIORITAS    : Medium
+
+==================================================
+STEPS (LANGKAH-LANGKAH PENGUJIAN):
+==================================================
+1. Klik button Aksi (...)
+2. Klik preview data
+
+==================================================
+EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
+==================================================
+1. Menampilkan detail data hasil upload dan penjelasan jika terdapat validasi error pada file yang diupload
