@@ -1,4 +1,4 @@
- NO TEST CASE : 14.7
+ NO TEST CASE : 14.5
 JUDUL        : Menambahkan data Unit Bisnis tanpa mengisi field mandatory
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis

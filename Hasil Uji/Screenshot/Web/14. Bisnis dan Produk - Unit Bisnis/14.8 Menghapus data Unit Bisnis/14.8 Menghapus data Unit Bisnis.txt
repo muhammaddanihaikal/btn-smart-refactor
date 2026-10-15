@@ -1,5 +1,5 @@
- NO TEST CASE : 14.4
-JUDUL        : Melakukan filter data Unit Bisnis
+ NO TEST CASE : 14.8
+JUDUL        : Menghapus data Unit Bisnis
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
 DESKRIPSI    : Positive Case
@@ -8,11 +8,11 @@ PRIORITAS    : Normal
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik button Filter.
-2. Pilih parameter filter.
-3. Klik button Terapkan.
+1. Klik action menu titik tiga.
+2. Klik button Hapus.
+3. Klik button Ya.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Berhasil menampilkan data terfilter.
+1. Berhasil menghapus unit bisnis.

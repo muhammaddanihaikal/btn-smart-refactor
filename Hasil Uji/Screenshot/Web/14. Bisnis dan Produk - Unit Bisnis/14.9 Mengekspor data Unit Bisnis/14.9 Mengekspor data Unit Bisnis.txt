@@ -1,19 +1,16 @@
  NO TEST CASE : 14.9
-JUDUL        : Mengubah data Unit Bisnis tanpa mengisi field mandatory
+JUDUL        : Mengekspor data Unit Bisnis
 MODUL        : Bisnis dan Produk
 SUB MENU     : Unit Bisnis
-DESKRIPSI    : Negative Case
-PRIORITAS    : Normal
+DESKRIPSI    : Positive Case
+PRIORITAS    : High
 
 ==================================================
 STEPS (LANGKAH-LANGKAH PENGUJIAN):
 ==================================================
-1. Klik action menu titik tiga.
-2. Klik button Ubah Data.
-3. Kosongkan salah satu field mandatory.
-4. Klik button Submit.
+1. Klik button Export.
 
 ==================================================
 EXPECTED RESULTS (HASIL YANG DIHARAPKAN):
 ==================================================
-1. Menampilkan pesan validasi wajib diisi dan data tidak disimpan.
+1. Berhasil mendownload file export.
