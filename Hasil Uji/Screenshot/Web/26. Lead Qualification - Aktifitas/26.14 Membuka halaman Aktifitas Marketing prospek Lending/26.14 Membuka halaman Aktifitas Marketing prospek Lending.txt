@@ -1,0 +1,5 @@
+Test Case: 26.14 Membuka halaman Aktifitas Marketing prospek Lending
+Scenario: Klik icon titik tiga (...) pada prospek Lending - Klik Aktifitas Marketing
+Expected Result: Menampilkan halaman Aktifitas Marketing prospek Lending
+Actual Result: Berhasil menampilkan halaman Aktifitas Marketing prospek Lending
+Status: Passed

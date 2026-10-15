@@ -1,0 +1,5 @@
+Test Case: 26.17 Validasi data Proses Pemeriksaan prospek Lending
+Scenario: Klik Detail Data Proses Pemeriksaan - Cek detail data proses pemeriksaan
+Expected Result: Menampilkan detail data proses pemeriksaan prospek Lending
+Actual Result: Berhasil menampilkan detail data proses pemeriksaan prospek Lending
+Status: Passed

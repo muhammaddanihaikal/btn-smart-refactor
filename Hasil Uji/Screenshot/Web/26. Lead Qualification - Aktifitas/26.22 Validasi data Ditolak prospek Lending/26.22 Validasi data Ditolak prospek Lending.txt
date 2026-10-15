@@ -1,0 +1,5 @@
+Test Case: 26.22 Validasi data Ditolak prospek Lending
+Scenario: Klik Detail Data Ditolak - Cek detail data penolakan
+Expected Result: Menampilkan detail data penolakan prospek Lending
+Actual Result: Berhasil menampilkan detail data penolakan prospek Lending
+Status: Passed

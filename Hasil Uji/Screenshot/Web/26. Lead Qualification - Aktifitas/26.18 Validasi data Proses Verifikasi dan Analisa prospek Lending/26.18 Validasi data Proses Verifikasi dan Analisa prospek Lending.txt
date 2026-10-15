@@ -1,0 +1,5 @@
+Test Case: 26.18 Validasi data Proses Verifikasi dan Analisa prospek Lending
+Scenario: Klik Detail Data Proses Verifikasi dan Analisa - Cek detail data proses verifikasi dan analisa
+Expected Result: Menampilkan detail data proses verifikasi dan analisa prospek Lending
+Actual Result: Berhasil menampilkan detail data proses verifikasi dan analisa prospek Lending
+Status: Passed

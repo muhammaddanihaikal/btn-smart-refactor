@@ -1,0 +1,5 @@
+Test Case: 26.16 Validasi data visit prospek Lending
+Scenario: Klik Input Data Visit - Cek detail data visit
+Expected Result: Menampilkan detail data visit nasabah Lending yang sesuai
+Actual Result: Berhasil menampilkan detail data visit nasabah Lending yang sesuai
+Status: Passed

@@ -1,0 +1,5 @@
+Test Case: 26.19 Validasi data Persetujuan Kredit prospek Lending
+Scenario: Klik Detail Data Persetujuan Kredit - Cek detail data persetujuan kredit
+Expected Result: Menampilkan detail data persetujuan kredit prospek Lending
+Actual Result: Berhasil menampilkan detail data persetujuan kredit prospek Lending
+Status: Passed

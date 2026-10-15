@@ -1,0 +1,5 @@
+Test Case: 26.15 Melakukan aktifitas marketing prospek Lending (Call)
+Scenario: Klik Input Data Call - Pilih Status Call - Input remark - Klik button Simpan
+Expected Result: Berhasil menyimpan data aktifitas call nasabah Lending
+Actual Result: Berhasil menyimpan data aktifitas call nasabah Lending
+Status: Passed

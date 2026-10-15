@@ -1,0 +1,5 @@
+Test Case: 26.20 Validasi data Realisasi/Pencairan Kredit prospek Lending
+Scenario: Klik Detail Data Realisasi/Pencairan Kredit - Cek detail data realisasi pencairan kredit
+Expected Result: Menampilkan detail data realisasi/pencairan kredit prospek Lending
+Actual Result: Berhasil menampilkan detail data realisasi/pencairan kredit prospek Lending
+Status: Passed

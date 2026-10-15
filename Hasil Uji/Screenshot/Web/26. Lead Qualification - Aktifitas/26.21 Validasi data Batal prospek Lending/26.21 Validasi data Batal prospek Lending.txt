@@ -1,0 +1,5 @@
+Test Case: 26.21 Validasi data Batal prospek Lending
+Scenario: Klik Detail Data Batal - Cek detail data pembatalan
+Expected Result: Menampilkan detail data pembatalan prospek Lending
+Actual Result: Berhasil menampilkan detail data pembatalan prospek Lending
+Status: Passed
